@@ -37,7 +37,7 @@
                                         </h3>
                                     </div>
                                     <div class="news-des">
-                                    Bastante aguardado pela sociedade, o Regulamento de Dosimetria e Aplicação de Sanções Administrativas por descumprimento à LGPD (Lei Geral de Proteção de Dados Pessoais) foi publicado na segunda-feira (27) pela ANPD (Autoridade Nacional de Proteção de Dados).
+                                    Bastante aguardado pela sociedade, o <em>teste</em> Regulamento de Dosimetria e Aplicação de Sanções Administrativas por descumprimento à LGPD (Lei Geral de Proteção de Dados Pessoais) foi publicado na segunda-feira (27) pela ANPD (Autoridade Nacional de Proteção de Dados).
                                     <br>
                                     Segundo o órgão, a norma tem como objetivos definir os critérios e parâmetros para as sanções pecuniárias e não pecuniárias...
                                     </div>
