@@ -97,6 +97,27 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./congresso-discute-combate-a-lavagem-de-dinheiro/">
+                        <img src="../img/uploads/2023/03/congresso-ipdl.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./congresso-discute-combate-a-lavagem-de-dinheiro/">Congresso discute combate à lavagem de dinheiro</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>23 de março de 2023</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>O IPLD (Instituto de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento ao Terrorismo) realiza nos dias 23 e 24 de maio a 5º edição de seu Congresso Internacional, o maior da América Latina na área</p>
+                        <a href="./congresso-discute-combate-a-lavagem-de-dinheiro/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./anpd-divulga-regras-para-sancoes-por-descumprimento-a-lgpd/">
                         <img src="../img/uploads/2023/03/regulamento-anpd.png">
                      </a>

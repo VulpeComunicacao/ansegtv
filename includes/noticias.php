@@ -24,6 +24,29 @@
                             <div class="carousel-item active">
                                 <div class="news-block">
                                     <div class="news-media">
+                                        <a href="./noticias/congresso-discute-combate-a-lavagem-de-dinheiro/">
+                                            <img class="img-fluid" src="./img/uploads/2023/03/congresso-ipdl.png" alt="Congresso IPDL">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>23/03/2023</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/congresso-discute-combate-a-lavagem-de-dinheiro/">Congresso discute combate à lavagem de dinheiro</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    O IPLD (Instituto de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento ao Terrorismo) realiza nos dias 23 e 24 de maio a 5º edição de seu Congresso Internacional, o maior da América Latina na área. A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) é apoiadora do evento.
+                                    <br>
+                                    Segundo a organização, o objetivo do encontro é promover conhecimentos e integração entre o mercado, especialistas e profissionais estratégicos que atuam com integridade corporativa.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="news-block">
+                                    <div class="news-media">
                                         <a href="./noticias/anpd-divulga-regras-para-sancoes-por-descumprimento-a-lgpd/">
                                             <img class="img-fluid" src="./img/uploads/2023/03/regulamento-anpd.png" alt="Regulamento ANPD">
                                         </a>
@@ -67,36 +90,28 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/nova-realidade-requer-criatividade-e-busca-de-eficiencia/">
-                                            <img class="img-fluid" src="./img/uploads//2023/02/gabriel-presidente-ansegtv.png"alt="Diretor da ANSEGTV">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>07/02/2023</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/nova-realidade-requer-criatividade-e-busca-de-eficiencia/">Nova realidade requer criatividade e busca de eficiência</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    Maior eficiência, geração de valor para o cliente e adequação da operação à nova realidade do mercado. Essas são algumas das ações que o presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Gabriel Damasceno, acredita serem necessárias para que empresas do setor de transporte de valores e segurança privada obtenham bons resultados hoje em dia.
-                                    <br>
-                                    Na entrevista a seguir, Damasceno comenta importantes temas que influenciam no cotidiano dos profissionais da área e da população em geral.
-                                    
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
 
+                    <div class="card">
+                        <a href="./noticias/nova-realidade-requer-criatividade-e-busca-de-eficiencia/">
+                        <img class="img-fluid" src="./img/uploads/2023/02/gabriel-presidente-ansegtv.png"alt="Diretor da ANSEGTV">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/nova-realidade-requer-criatividade-e-busca-de-eficiencia/">Nova realidade requer criatividade e busca de eficiência</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>07/02/2023</strong>
+                            </div>
+                        </div>
+                    </div>
+                    
                     <div class="card">
                         <a href="./noticias/estatuto-do-aprendiz-e-necessario-mas-mantem-trechos-preocupantes/">
                         <img class="img-fluid" src="./img/uploads/2022/12/carteira-trabalho.png" alt="Carteira de Trabalho">
@@ -112,6 +127,13 @@
                             </div>
                         </div>
                     </div>
+
+
+                    
+                </div>
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     <div class="card">
                         <a href="./noticias/avaliacao-de-riscos-e-integridade-e-tema-de-encontro-em-sp/">
@@ -129,17 +151,6 @@
                         </div>
                     </div>
 
-                    
-                </div>
-
-
-
-
-
-
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     <div class="card">
                         <a href="./noticias/ansegtv-prestigia-feira-de-seguranca-em-sp/">
@@ -153,22 +164,6 @@
                             </div>
                             <div class="time-text">
                             <strong>28/09/2022</strong>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <a href="./noticias/https://ansegtv.com.br/noticias/forte-araruama-e-a-nova-afiliada-da-ansegtv//">
-                        <img class="img-fluid" src="./img/uploads/2022/09/forte-araruama.png" alt="Logo Forte Araruama">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/https://ansegtv.com.br/noticias/forte-araruama-e-a-nova-afiliada-da-ansegtv//">Forte Araruama é a nova filiada da ANSEGTV”</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>19/09/2022</strong>
                             </div>
                         </div>
                     </div>
