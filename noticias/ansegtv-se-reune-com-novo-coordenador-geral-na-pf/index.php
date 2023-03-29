@@ -106,7 +106,7 @@
 
                         <figure class="pull-right m-2 text-left">
                                 <img src="../../img/uploads/2023/03/reuniao-pf.png" width="450" height="auto" alt="Reunião na PF" class=" img-fluid">	
-                                <figcaption></figcaption>
+                                <figcaption>Polícia Federal/Divulgação</figcaption>
                         </figure>
 
                         <p class="article"> Além do Dr. Cristiano Campidelli, pela PF também estiveram presentes a Dra. Denise Tenorio, a Dra. Arryanne Vieira Queiroz e o Dr. Daniel Marques.</p>
