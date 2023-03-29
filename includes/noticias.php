@@ -24,6 +24,29 @@
                             <div class="carousel-item active">
                                 <div class="news-block">
                                     <div class="news-media">
+                                        <a href="./noticias/ansegtv-se-reune-com-novo-coordenador-geral-na-pf/">
+                                            <img class="img-fluid" src="./img/uploads/2023/03/03/reuniao-pf.png" alt="Reunião PF">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>29/03/2023</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/ansegtv-se-reune-com-novo-coordenador-geral-na-pf/">ANSEGTV se reúne com novo coordenador-geral na PF</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    Diretores da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) se reuniram no dia 21 de março com o delegado Dr. Cristiano Campidelli, que assumiu, neste mês, a Coordenação-Geral na Diretoria de Polícia Administrativa da Polícia Federal em Brasília.
+                                    <br>
+                                    Na visita à sede da PF, representaram a entidade o Presidente Gabriel Damasceno, o Diretor Vice-Presidente, Eginaldo de Oliveira Silva, o Diretor Jurídico, Max Madruga, e o Diretor de Segurança, Oziel Carneiro.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="news-block">
+                                    <div class="news-media">
                                         <a href="./noticias/congresso-discute-combate-a-lavagem-de-dinheiro/">
                                             <img class="img-fluid" src="./img/uploads/2023/03/congresso-ipdl.png" alt="Congresso IPDL">
                                         </a>
@@ -67,34 +90,28 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/diretoria-da-anpd-esclarece-duvidas-sobre-protecao-de-dados/">
-                                            <img class="img-fluid" src="./img/uploads/2023/02/tech-locker.png" alt="Tecnologia e Segurança">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>13/02/2023</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/diretoria-da-anpd-esclarece-duvidas-sobre-protecao-de-dados/">Diretora da ANPD esclarece dúvidas sobre proteção de dados</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    A diretora da ANPD (Autoridade Nacional de Proteção de Dados), Miriam Wimmer, participou no dia 7 de fevereiro  do webinar "Perspectivas e tendências em proteção de dados para 2023", organizado pela consultoria Deloitte.
-                                    <br>
-                                    No evento, Wimmer falou sobre as dificuldades e desafios da autarquia federal, desde seu início em 2020, até os dias de hoje.
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
+
+
+                    <div class="card">
+                        <a href="./noticias/ndiretoria-da-anpd-esclarece-duvidas-sobre-protecao-de-dados/">
+                        <img class="img-fluid" src="./img/uploads/2023/02/tech-locker.png" alt="Tecnologia e Segurança">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/diretoria-da-anpd-esclarece-duvidas-sobre-protecao-de-dados/">Diretora da ANPD esclarece dúvidas sobre proteção de dados</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>13/02/2023</strong>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="card">
                         <a href="./noticias/nova-realidade-requer-criatividade-e-busca-de-eficiencia/">
@@ -111,8 +128,14 @@
                             </div>
                         </div>
                     </div>
-                    
-                    <div class="card">
+                
+
+                </div>
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
+
+                <div class="card">
                         <a href="./noticias/estatuto-do-aprendiz-e-necessario-mas-mantem-trechos-preocupantes/">
                         <img class="img-fluid" src="./img/uploads/2022/12/carteira-trabalho.png" alt="Carteira de Trabalho">
                         </a>
@@ -128,13 +151,6 @@
                         </div>
                     </div>
 
-
-                    
-                </div>
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
-
                     <div class="card">
                         <a href="./noticias/avaliacao-de-riscos-e-integridade-e-tema-de-encontro-em-sp/">
                         <img class="img-fluid" src="./img/uploads/2022/11/evento-avaliacao.png" alt="Equipe ANSEGTV">
@@ -147,23 +163,6 @@
                             </div>
                             <div class="time-text">
                             <strong>24/11/2022</strong>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="card">
-                        <a href="./noticias/ansegtv-prestigia-feira-de-seguranca-em-sp/">
-                        <img class="img-fluid" src="./img/uploads/2022/09/new-equipe-ansegtv.png" alt="Equipe ANSEGTV">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/ansegtv-prestigia-feira-de-seguranca-em-sp/">ANSEGTV prestigia feira de segurança em SP</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>28/09/2022</strong>
                             </div>
                         </div>
                     </div>

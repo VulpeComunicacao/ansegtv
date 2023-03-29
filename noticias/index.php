@@ -97,6 +97,28 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./ansegtv-se-reune-com-novo-coordenador-geral-na-pf/">
+                        <img src="../img/uploads/2023/03/reuniao-pf.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./ansegtv-se-reune-com-novo-coordenador-geral-na-pf/">ANSEGTV se reúne com novo coordenador-geral na PF</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>29 de março de 2023</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>Diretores da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) se reuniram no dia 21 de março com o delegado Dr. Cristiano Campidelli, que assumiu, neste mês, a Coordenação-Geral na... </p>
+                        <a href="./ansegtv-se-reune-com-novo-coordenador-geral-na-pf/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./congresso-discute-combate-a-lavagem-de-dinheiro/">
                         <img src="../img/uploads/2023/03/congresso-ipdl.png">
                      </a>
