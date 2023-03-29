@@ -25,7 +25,7 @@
                                 <div class="news-block">
                                     <div class="news-media">
                                         <a href="./noticias/ansegtv-se-reune-com-novo-coordenador-geral-na-pf/">
-                                            <img class="img-fluid" src="./img/uploads/2023/03/03/reuniao-pf.png" alt="Reunião PF">
+                                            <img class="img-fluid" src="./img/uploads/2023/03/reuniao-pf.png" alt="Reunião PF">
                                         </a>
                                     </div>
                                     <div class="time-text">
