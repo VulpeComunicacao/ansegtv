@@ -13,7 +13,7 @@
             <meta property="og:title" content="É preciso tipificar criminalmente o “domínio de cidades”">
             <meta meta name="description" property="og:description" content="No dia 9 de abril, criminosos invadiram uma empresa de transporte de valores no interior do Mato Grosso. Não tiveram sucesso, mas espalharam medo e destruição pela cidade. Em 13 de fevereiro, suspeitos de roubo a bancos foram mortos em confronto com a Polícia Militar, nas imediações de Soledade, no Agreste paraibano.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-se-reune-com-novo-coordenador-geral-na-pf/">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/e-preciso-tipificar-criminalidade-o-dominio-de-cidades/">
             <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/11/max-tavares.png">
             <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2020/11/max-tavares.png">
             <meta property="article:published_time" content="2023-04-18" />
