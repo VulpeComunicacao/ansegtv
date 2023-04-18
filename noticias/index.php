@@ -97,6 +97,28 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./e-preciso-tipificar-criminalidade-o-dominio-de-cidades/">
+                        <img src="../img/uploads/2020/11/max-tavares.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./e-preciso-tipificar-criminalidade-o-dominio-de-cidades/">É preciso tipificar criminalmente o "domínio de cidades"</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>18 de abril de 2023</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>No dia 9 de abril, criminosos invadiram uma empresa de transporte de valores no interior do Mato Grosso. Não tiveram sucesso, mas espalharam medo e destruição pela cidade. Em 13 de fevereiro, suspeitos...</p>
+                        <a href="./e-preciso-tipificar-criminalidade-o-dominio-de-cidades/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./ansegtv-se-reune-com-novo-coordenador-geral-na-pf/">
                         <img src="../img/uploads/2023/03/reuniao-pf.png">
                      </a>

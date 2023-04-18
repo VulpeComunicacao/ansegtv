@@ -24,6 +24,27 @@
                             <div class="carousel-item active">
                                 <div class="news-block">
                                     <div class="news-media">
+                                        <a href="./noticias/e-preciso-tipificar-criminalidade-o-dominio-de-cidades/">
+                                            <img class="img-fluid" src="./img/uploads/2020/11/max-tavares.png" alt="Max Tavares">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>18/04/2023</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/e-preciso-tipificar-criminalidade-o-dominio-de-cidades/">É preciso tipificar criminalmente o "domínio de cidades"</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    No dia 9 de abril, criminosos invadiram uma empresa de transporte de valores no interior do Mato Grosso. Não tiveram sucesso, mas espalharam medo e destruição pela cidade. Em 13 de fevereiro, suspeitos de roubo a bancos foram mortos em confronto com a Polícia Militar, nas imediações de Soledade, no Agreste paraibano. Uma semana depois, a PM identificou um outro grupo que planejava um ataque a uma agência bancária em Águas Formosas (MG). Já em novembro do ano passado, integrantes de uma quadrilha responsável por diversas explosões no Rio de Janeiro planejava mais um ataque quando foi surpreendida por bandidos rivais. No confronto, mais mortes.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="news-block">
+                                    <div class="news-media">
                                         <a href="./noticias/ansegtv-se-reune-com-novo-coordenador-geral-na-pf/">
                                             <img class="img-fluid" src="./img/uploads/2023/03/reuniao-pf.png" alt="Reunião PF">
                                         </a>
@@ -67,38 +88,31 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/anpd-divulga-regras-para-sancoes-por-descumprimento-a-lgpd/">
-                                            <img class="img-fluid" src="./img/uploads/2023/03/regulamento-anpd.png" alt="Regulamento ANPD">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>01/03/2023</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/anpd-divulga-regras-para-sancoes-por-descumprimento-a-lgpd/">ANPD divulga regras para sanções por descumprimento à LGPD</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    Bastante aguardado pela sociedade, o Regulamento de Dosimetria e Aplicação de Sanções Administrativas por descumprimento à LGPD (Lei Geral de Proteção de Dados Pessoais) foi publicado na segunda-feira (27) pela ANPD (Autoridade Nacional de Proteção de Dados).
-                                    <br>
-                                    Segundo o órgão, a norma tem como objetivos definir os critérios e parâmetros para as sanções pecuniárias e não pecuniárias...
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
 
+                    <div class="card">
+                        <a href="./noticias/anpd-divulga-regras-para-sancoes-por-descumprimento-a-lgpd/">
+                        <img class="img-fluid" src="./img/uploads/2023/03/regulamento-anpd.png" alt="Regulamento ANPD">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/anpd-divulga-regras-para-sancoes-por-descumprimento-a-lgpd/">Diretora da ANPD esclarece dúvidas sobre proteção de dados</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>01/03/2023</strong>
+                            </div>
+                        </div>
+                    </div>
+
 
                     <div class="card">
-                        <a href="./noticias/ndiretoria-da-anpd-esclarece-duvidas-sobre-protecao-de-dados/">
+                        <a href="./noticias/diretoria-da-anpd-esclarece-duvidas-sobre-protecao-de-dados/">
                         <img class="img-fluid" src="./img/uploads/2023/02/tech-locker.png" alt="Tecnologia e Segurança">
                         </a>
                         <div class="card-body">
@@ -112,6 +126,14 @@
                             </div>
                         </div>
                     </div>
+
+
+                
+
+                </div>
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     <div class="card">
                         <a href="./noticias/nova-realidade-requer-criatividade-e-busca-de-eficiencia/">
@@ -128,14 +150,8 @@
                             </div>
                         </div>
                     </div>
-                
 
-                </div>
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
-
-                <div class="card">
+                    <div class="card">
                         <a href="./noticias/estatuto-do-aprendiz-e-necessario-mas-mantem-trechos-preocupantes/">
                         <img class="img-fluid" src="./img/uploads/2022/12/carteira-trabalho.png" alt="Carteira de Trabalho">
                         </a>
@@ -147,22 +163,6 @@
                             </div>
                             <div class="time-text">
                             <strong>19/12/2022</strong>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <a href="./noticias/avaliacao-de-riscos-e-integridade-e-tema-de-encontro-em-sp/">
-                        <img class="img-fluid" src="./img/uploads/2022/11/evento-avaliacao.png" alt="Equipe ANSEGTV">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/avaliacao-de-riscos-e-integridade-e-tema-de-encontro-em-sp/">Avaliação de riscos e integridade é tema de encontro em SP</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>24/11/2022</strong>
                             </div>
                         </div>
                     </div>
