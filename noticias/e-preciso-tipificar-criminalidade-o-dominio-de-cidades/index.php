@@ -120,10 +120,9 @@
 
                         <p class="article"> Obviamente, é preciso muito mais que o endurecimento da legislação, como a disponibilização de investimentos no treinamento dos policiais para enfrentamento dessa modalidade de crime e o aparelhamento das unidades de segurança dos municípios que potencialmente podem ser alvos desse tipo de ataque. A prevenção e o preparo ainda são as melhores opções de combate a essas práticas. Outra medida importante é a integração entre as polícias. É comum os criminosos, em fuga, migrarem para outros Estados. De toda forma, a mudança da legislação garante que os criminosos tenham pena proporcional aos transtornos e perdas que este tipo de ataque pode gerar para a população.</p>
 
-                        <p class="article"><em>Max Tavares Madruga, advogado e diretor jurídico da ANSEGTV<br>
-                        (Associação Nacional de Segurança e Transporte de Valores).</em></p>
+                        <p class="article"><em>Max Tavares Madruga, advogado e diretor jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores).</em></p>
 
-                        <p class="article">Artigo originalmente publicado no Portal Estadão: <a href="https://www.estadao.com.br/politica/blog-do-fausto-macedo/e-preciso-tipificar-criminalmente-o-dominio-de-cidades/" target="_blank" rel="noopener noreferrer"> https://www.estadao.com.br/politica/blog-do-fausto-macedo/e-preciso-tipificar-criminalmente-o-dominio-de-cidades/</a> - link alternativo: <a https://tinyurl.com/z697krjb" target="_blank" rel="noopener noreferrer">https://tinyurl.com/z697krjb</a></p>
+                        <p class="article">Artigo originalmente publicado no Portal Estadão: <a href="https://www.estadao.com.br/politica/blog-do-fausto-macedo/e-preciso-tipificar-criminalmente-o-dominio-de-cidades/" target="_blank" rel="noopener noreferrer"> https://www.estadao.com.br/politica/blog-do-fausto-macedo/e-preciso-tipificar-criminalmente-o-dominio-de-cidades/</a> - link alternativo: <a href="https://tinyurl.com/z697krjb" target="_blank" rel="noopener noreferrer">https://tinyurl.com/z697krjb</a></p>
                             
                         </div>
                     </div>
