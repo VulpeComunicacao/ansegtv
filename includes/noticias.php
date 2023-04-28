@@ -33,7 +33,7 @@
                                     </div>
                                     <div class="news-title">
                                         <h3 class=" title-large">
-                                        <a href="./noticias/reforma-tributaria-e-tema-de-live/">Reforma tributária é tema de live"</a>
+                                        <a href="./noticias/reforma-tributaria-e-tema-de-live/">Reforma tributária é tema de live</a>
                                         </h3>
                                     </div>
                                     <div class="news-des">
