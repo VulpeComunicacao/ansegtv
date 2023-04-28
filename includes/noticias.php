@@ -24,6 +24,29 @@
                             <div class="carousel-item active">
                                 <div class="news-block">
                                     <div class="news-media">
+                                        <a href="./noticias/reforma-tributaria-e-tema-de-live/">
+                                            <img class="img-fluid" src="./img/uploads/2020/11/max-tavares.png" alt="Max Tavares">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>28/04/2023</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/reforma-tributaria-e-tema-de-live/">Reforma tributária é tema de live"</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    A Tendências Consultoria realizou no dia 26 de abril uma live para discutir e analisar as medidas previstas na proposta de reforma tributária do governo. Participaram os sócios da consultoria Maílson da Nóbrega e Alessandra Ribeiro, além do sócio fundador e head da área de direito tributário da FCR Law, Eduardo Fleury.
+                                    <br><br>
+                                    Maílson da Nóbrega, economista e ex-ministro da Fazenda (1988-1990), defendeu a aprovação da proposta. “Temos o pior sistema de tributação do consumo do planeta...
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="news-block">
+                                    <div class="news-media">
                                         <a href="./noticias/e-preciso-tipificar-criminalidade-o-dominio-de-cidades/">
                                             <img class="img-fluid" src="./img/uploads/2020/11/max-tavares.png" alt="Max Tavares">
                                         </a>
@@ -65,34 +88,28 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/congresso-discute-combate-a-lavagem-de-dinheiro/">
-                                            <img class="img-fluid" src="./img/uploads/2023/03/congresso-ipdl.png" alt="Congresso IPDL">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>23/03/2023</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/congresso-discute-combate-a-lavagem-de-dinheiro/">Congresso discute combate à lavagem de dinheiro</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    O IPLD (Instituto de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento ao Terrorismo) realiza nos dias 23 e 24 de maio a 5º edição de seu Congresso Internacional, o maior da América Latina na área. A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) é apoiadora do evento.
-                                    <br>
-                                    Segundo a organização, o objetivo do encontro é promover conhecimentos e integração entre o mercado, especialistas e profissionais estratégicos que atuam com integridade corporativa.
-                                    </div>
-                                </div>
-                            </div>
 
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
+
+                    <div class="card">
+                        <a href="./noticias/congresso-discute-combate-a-lavagem-de-dinheiro/">
+                        <img class="img-fluid" src="./img/uploads/2023/03/congresso-ipdl.png" alt="Congresso IPDL">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/congresso-discute-combate-a-lavagem-de-dinheiro/">Congresso discute combate à lavagem de dinheiro</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>23/03/2023</strong>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="card">
                         <a href="./noticias/anpd-divulga-regras-para-sancoes-por-descumprimento-a-lgpd/">
@@ -109,7 +126,12 @@
                             </div>
                         </div>
                     </div>
+                
 
+                </div>
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     <div class="card">
                         <a href="./noticias/diretoria-da-anpd-esclarece-duvidas-sobre-protecao-de-dados/">
@@ -127,14 +149,6 @@
                         </div>
                     </div>
 
-
-                
-
-                </div>
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
-
                     <div class="card">
                         <a href="./noticias/nova-realidade-requer-criatividade-e-busca-de-eficiencia/">
                         <img class="img-fluid" src="./img/uploads/2023/02/gabriel-presidente-ansegtv.png"alt="Diretor da ANSEGTV">
@@ -147,22 +161,6 @@
                             </div>
                             <div class="time-text">
                             <strong>07/02/2023</strong>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <a href="./noticias/estatuto-do-aprendiz-e-necessario-mas-mantem-trechos-preocupantes/">
-                        <img class="img-fluid" src="./img/uploads/2022/12/carteira-trabalho.png" alt="Carteira de Trabalho">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/estatuto-do-aprendiz-e-necessario-mas-mantem-trechos-preocupantes/">Estatuto do Aprendiz é necessário, mas mantém trechos preocupantes</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>19/12/2022</strong>
                             </div>
                         </div>
                     </div>

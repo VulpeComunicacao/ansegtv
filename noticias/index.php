@@ -97,6 +97,28 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./reforma-tributaria-e-tema-de-live/">
+                        <img src="../img/uploads/2023/04/business.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./reforma-tributaria-e-tema-de-live/">Refoerma tributária é tema de live</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>28 de abril de 2023</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>A Tendências Consultoria realizou no dia 26 de abril uma live para discutir e analisar as medidas previstas na proposta de reforma tributária do governo. Participaram os sócios da consultoria Maílson da Nóbrega e Alessandra Ribeiro</p>
+                        <a href="./reforma-tributaria-e-tema-de-live/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./e-preciso-tipificar-criminalidade-o-dominio-de-cidades/">
                         <img src="../img/uploads/2020/11/max-tavares.png">
                      </a>
