@@ -25,7 +25,7 @@
                                 <div class="news-block">
                                     <div class="news-media">
                                         <a href="./noticias/reforma-tributaria-e-tema-de-live/">
-                                            <img class="img-fluid" src="./img/uploads/2020/11/max-tavares.png" alt="Max Tavares">
+                                            <img class="img-fluid" src="./img/uploads/2023/04/business.png" alt="">
                                         </a>
                                     </div>
                                     <div class="time-text">
