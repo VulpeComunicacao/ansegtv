@@ -15,7 +15,7 @@
             <meta property="og:url" content="https://ansegtv.com.br/noticias/reforma-tributaria-e-tema-de-live/">
             <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2023/04/business-share.jpg">
             <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2023/04/business-share.jpg">
-            <meta property="article:published_time" content="2023-04-28" />
+            <meta property="article:published_time" content="2023-04-28"/>
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
