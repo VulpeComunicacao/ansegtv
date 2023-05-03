@@ -103,7 +103,7 @@
                      </div>
                      <div class="blog-content">
                         <div class="blog-title">
-                           <h2 class="title-large"><a href="./reforma-tributaria-e-tema-de-live/">Refoerma tributária é tema de live</a></h2>
+                           <h2 class="title-large"><a href="./reforma-tributaria-e-tema-de-live/">Reforma tributária é tema de live</a></h2>
                            <div class="meta">
                               <ul>
                                  <li>28 de abril de 2023</li>
