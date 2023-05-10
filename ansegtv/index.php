@@ -122,15 +122,15 @@
                         </li>
                         <li>
                             <h3>Valores</h3>
-                            <p><b>Livre concorrência:</p> Defender a livre concorrência, a abertura de mercado, o relacionamento ético entre as empresas e a observância dos princípios legais;</p>
+                            <p><b>Livre concorrência:</b> Defender a livre concorrência, a abertura de mercado, o relacionamento ético entre as empresas e a observância dos princípios legais;</p>
                             <br>
-                            <p><b>Inovação:</p> Incentivar a pesquisa e a inovação, bem como a parceria na cadeia produtiva;</p>
+                            <p><b>Inovação:</b> Incentivar a pesquisa e a inovação, bem como a parceria na cadeia produtiva;</p>
                             <br>
-                            <p><b>Fortalecimento da segurança:</p> Apoiar e aprimorar as melhores práticas relativas à segurança das operações;</p>
+                            <p><b>Fortalecimento da segurança:</b> Apoiar e aprimorar as melhores práticas relativas à segurança das operações;</p>
                             <br>
-                            <p><b>Diálogo com a sociedade:</p> Defender o diálogo, o respeito e a transparência nas relações com os clientes, com o Estado e com a sociedade;</p>
+                            <p><b>Diálogo com a sociedade:</b> Defender o diálogo, o respeito e a transparência nas relações com os clientes, com o Estado e com a sociedade;</p>
                             <br>
-                            <p><b>Parceria com órgão regulador e demais instituições de segurança:</p> Atuar em parceria com as autoridades na troca de informações e fornecimento de subsídios que contribuam com o fortalecimento da segurança pública e privada.</p>
+                            <p><b>Parceria com órgão regulador e demais instituições de segurança:</b> Atuar em parceria com as autoridades na troca de informações e fornecimento de subsídios que contribuam com o fortalecimento da segurança pública e privada.</p>
                         </li>
                     </ul>
                 </div>
