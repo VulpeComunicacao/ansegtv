@@ -96,7 +96,7 @@
             
             <div class="col-md-5 my-3">
                 <img src="../img/icon-building.png" alt="12 Empresas">
-                <p>FORMADA POR <strong>13 EMPRESAS</strong> DE SEGURANÇA E TRANSPORTE DE VALORES </p>
+                <p>FORMADA POR <strong>12 EMPRESAS</strong> DE SEGURANÇA E TRANSPORTE DE VALORES </p>
             </div>
             <div class="col-md-4 my-3 estados">
                 <img src="../img/icon_map.png" alt="Presente em 24 Estados Brasileiros + DF">
@@ -104,7 +104,7 @@
             </div>
             <div class="col-md-3 my-3 bases-operacionais">
                 <img src="../img/icon-factory.png" alt="76 Bases operacionais">
-                <p><strong>77 BASES</strong><br> OPERACIONAIS</p>
+                <p><strong>73 BASES</strong><br> OPERACIONAIS</p>
             </div>
         </div>
         <div class="row servicos text-center">
@@ -434,14 +434,11 @@
                         <div id="box_sp" data-info="sp" class="estado">
                             <h3>São Paulo</h3>
                             
-                                <strong>Blue Angels</strong><br>
-                                <a href="https://blueangels.com.br/">https://blueangels.com.br/</a>
-                                <br>
-                                <strong>Comando G8</strong><br>
-                                <a href="https://comandog8.com.br/">https://comandog8.com.br/</a>
-                                <br>
-                                <strong>TBForte</strong><br>
-                                <a href="https://www.tbforte.com.br">https://www.tbforte.com.br</a>
+                            <strong>Comando G8</strong><br>
+                            <a href="https://comandog8.com.br/">https://comandog8.com.br/</a>
+                            <br>
+                            <strong>TBForte</strong><br>
+                            <a href="https://www.tbforte.com.br">https://www.tbforte.com.br</a>
                         </div>
                         <div id="box_rj" data-info="rj" class="estado">
                             <h3>Rio de Janeiro</h3>

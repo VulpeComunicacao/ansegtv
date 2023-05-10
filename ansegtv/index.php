@@ -122,15 +122,11 @@
                         </li>
                         <li>
                             <h3>Valores</h3>
-                            <p>Defender a livre concorrência, a abertura de mercado, o relacionamento ético entre as empresas e a observância dos princípios legais;<p>
-
-                            <p>Incentivar a pesquisa e a inovação, bem como a parceria na cadeia produtiva;</p>
-
-                            <p>Apoiar e aprimorar de forma contínua as melhores práticas relativas à segurança;</p>
-
-                            <p>Defender o diálogo, o respeito e a transparência nas relações com os clientes, com o Estado e com a sociedade;</p>
-
-                            <p>Atuar em parceria com as autoridades para a troca de informações e fornecimento de subsídios que possam contribuir com a segurança pública.</p>
+                            <p><b>Livre concorrência:</p> Defender a livre concorrência, a abertura de mercado, o relacionamento ético entre as empresas e a observância dos princípios legais;</p>
+                            <p><b>Inovação:</p> Incentivar a pesquisa e a inovação, bem como a parceria na cadeia produtiva;</p>
+                            <p><b>Fortalecimento da segurança:</p> Apoiar e aprimorar as melhores práticas relativas à segurança das operações;</p>
+                            <p><b>Diálogo com a sociedade:</p> Defender o diálogo, o respeito e a transparência nas relações com os clientes, com o Estado e com a sociedade;</p>
+                            <p><b>Parceria com órgão regulador e demais instituições de segurança:</p> Atuar em parceria com as autoridades na troca de informações e fornecimento de subsídios que contribuam com o fortalecimento da segurança pública e privada.</p>
                         </li>
                     </ul>
                 </div>
