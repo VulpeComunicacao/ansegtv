@@ -100,7 +100,7 @@
             </div>
             <div class="col-md-4 my-3 estados">
                 <img src="../img/icon_map.png" alt="Presente em 24 Estados Brasileiros + DF">
-                <p><strong>23 ESTADOS</strong><br> BRASILEIROS + DF</p>
+                <p><strong>22 ESTADOS</strong><br> BRASILEIROS + DF</p>
             </div>
             <div class="col-md-3 my-3 bases-operacionais">
                 <img src="../img/icon-factory.png" alt="76 Bases operacionais">
@@ -156,7 +156,7 @@
                     <div class="header-wrap">
                         <img src="../img/icon_map.png" alt="Atuação da ANSEGTV" class="icon" width="92" height="92">
                         <h2 class="title">Atuação da ANSEGTV</h2><br>
-                        <h3 class="subtitle">A ANSEGTV possui atuação nacional em 23 estados + DF. Clique no mapa para conhecer as empresas.</h3>
+                        <h3 class="subtitle">A ANSEGTV possui atuação nacional em 22 estados + DF. Clique no mapa para conhecer as empresas.</h3>
                     </div>
                 </div>
             </div>

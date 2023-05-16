@@ -37,7 +37,7 @@
                 </a>
             </li>
             <li class="col-4 col-md-2">
-                <a href="https://wp.federalseguranca.com.br/" target="_blank" title="">
+                <a href="https://federalseguranca.com.br/" target="_blank" title="">
                     <img src="./img/logo-federal-seguranca.png" alt="" class="img-fluid">
                 </a>
             </li>
