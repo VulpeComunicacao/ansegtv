@@ -494,7 +494,7 @@
                             <h3>Distrito Federal</h3>
                             
                             <strong>Federal Segurança</strong><br>
-                            <a href="https://wp.federalseguranca.com.br/">https://wp.federalseguranca.com.br</a>
+                            <a href="https://federalseguranca.com.br/">https://federalseguranca.com.br</a>
                         </div>
                         <div id="box_es" data-info="es" class="estado">
                             <h3>Espírito Santo</h3>
@@ -506,7 +506,7 @@
                             <h3>Goiás</h3>
                             
                             <strong>Federal Segurança</strong><br>
-                            <a href="https://wp.federalseguranca.com.br/">https://wp.federalseguranca.com.br</a>
+                            <a href="https://federalseguranca.com.br/">https://federalseguranca.com.br</a>
                         </div>
                         <div id="box_ma" data-info="ma" class="estado">
                             <h3>Maranhão</h3>
@@ -605,7 +605,7 @@
                             <h3>Tocantins</h3>
                             
                             <strong>Federal Segurança</strong><br>
-                            <a href="https://wp.federalseguranca.com.br/">https://wp.federalseguranca.com.br</a>
+                            <a href="https://federalseguranca.com.br/">https://federalseguranca.com.br</a>
                         </div>
                     </div>
                         
