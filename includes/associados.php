@@ -41,11 +41,11 @@
                     <img src="./img/logo-federal-seguranca.png" alt="" class="img-fluid">
                 </a>
             </li>
-            <li class="col-4 col-md-2">
+            <!-- <li class="col-4 col-md-2">
                 <a href="http://grupofortebanco.com.br/" target="_blank" title="">
                     <img src="./img/logo-fidelys.png" alt="" class="img-fluid">
                 </a>
-            </li>
+            </li> -->
             <li class="col-4 col-md-2">
                 <a href="https://www.forteararuama.com.br/" target="_blank" title="">
                     <img src="./img/logo-forte-araruama-novo.png" alt="" class="img-fluid" style="width: 70%;">
