@@ -20,8 +20,31 @@
                     <!-- Wrapper for slides -->
                         <div class="carousel-inner" role="listbox">
 
-
                             <div class="carousel-item active">
+                                <div class="news-block">
+                                    <div class="news-media">
+                                        <a href="./noticias/ansegtv-se-reune-com-cnt-para-discutir-pauta-comum-para-o-setor-de-trasnporte/">
+                                            <img class="img-fluid" src="./img/uploads/2023/05/reuniao-cnt.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>23/05/2023</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/ansegtv-se-reune-com-cnt-para-discutir-pauta-comum-para-o-setor-de-trasnporte/">ANSEGTV se reúne com CNT para discutir pauta comum para o setor de transporte</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    O diretor jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Tavares Madruga, participou, no último dia 17 de maio, de uma reunião com o diretor executivo da CNT (Confederação Nacional do Transporte), Bruno Batista, para debater pautas comuns para o setor de transporte.  A CNT é uma importante interlocutora das demandas do setor e tem pautado discussões de interesse com os poderes Executivo, Legislativo e Judiciário.
+                                    <br><br>
+                                    Na ocasião, a CNT apresentou estudos e painéis técnicos produzidos pela equipe e, dentre eles, um importante levantamento acerca da localização, da quantidade, do tipo e da densidade de pontos críticos registrados nas rodovias federais e estaduais do país.
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="carousel-item">
                                 <div class="news-block">
                                     <div class="news-media">
                                         <a href="./noticias/reforma-tributaria-e-tema-de-live/">
@@ -65,35 +88,28 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/ansegtv-se-reune-com-novo-coordenador-geral-na-pf/">
-                                            <img class="img-fluid" src="./img/uploads/2023/03/reuniao-pf.png" alt="Reunião PF">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>29/03/2023</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/ansegtv-se-reune-com-novo-coordenador-geral-na-pf/">ANSEGTV se reúne com novo coordenador-geral na PF</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    Diretores da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) se reuniram no dia 21 de março com o delegado Dr. Cristiano Campidelli, que assumiu, neste mês, a Coordenação-Geral na Diretoria de Polícia Administrativa da Polícia Federal em Brasília.
-                                    <br>
-                                    Na visita à sede da PF, representaram a entidade o Presidente Gabriel Damasceno, o Diretor Vice-Presidente, Eginaldo de Oliveira Silva, o Diretor Jurídico, Max Madruga, e o Diretor de Segurança, Oziel Carneiro.
-                                    </div>
-                                </div>
-                            </div>
-
-
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
+
+                    <div class="card">
+                        <a href="./noticias/ansegtv-se-reune-com-novo-coordenador-geral-na-pf/">
+                        <img class="img-fluid" src="./img/uploads/2023/03/reuniao-pf.png" alt="Reunião PF">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/ansegtv-se-reune-com-novo-coordenador-geral-na-pf/">ANSEGTV se reúne com novo coordenador-geral na PF</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>29/03/2023</strong>
+                            </div>
+                        </div>
+                    </div>
+
 
                     <div class="card">
                         <a href="./noticias/congresso-discute-combate-a-lavagem-de-dinheiro/">
@@ -111,6 +127,14 @@
                         </div>
                     </div>
 
+
+                
+
+                </div>
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
+
                     <div class="card">
                         <a href="./noticias/anpd-divulga-regras-para-sancoes-por-descumprimento-a-lgpd/">
                         <img class="img-fluid" src="./img/uploads/2023/03/regulamento-anpd.png" alt="Regulamento ANPD">
@@ -126,12 +150,6 @@
                             </div>
                         </div>
                     </div>
-                
-
-                </div>
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     <div class="card">
                         <a href="./noticias/diretoria-da-anpd-esclarece-duvidas-sobre-protecao-de-dados/">
@@ -145,22 +163,6 @@
                             </div>
                             <div class="time-text">
                             <strong>13/02/2023</strong>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <a href="./noticias/nova-realidade-requer-criatividade-e-busca-de-eficiencia/">
-                        <img class="img-fluid" src="./img/uploads/2023/02/gabriel-presidente-ansegtv.png"alt="Diretor da ANSEGTV">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/nova-realidade-requer-criatividade-e-busca-de-eficiencia/">Nova realidade requer criatividade e busca de eficiência</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>07/02/2023</strong>
                             </div>
                         </div>
                     </div>

@@ -97,6 +97,27 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./ansegtv-se-reune-com-cnt-para-discutir-pauta-comum-para-o-setor-de-trasnporte/">
+                        <img src="../img/uploads/2023/05/reuniao-cnt.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./ansegtv-se-reune-com-cnt-para-discutir-pauta-comum-para-o-setor-de-trasnporte/">ANSEGTV se reúne com CNT para discutir pauta comum para o setor de transporte</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>23 de maio de 2023</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>O diretor jurídico da ANSEGTV, Max Tavares Madruga, participou, no último dia 17 de maio, de uma reunião com o diretor executivo da CNT, Bruno Batista, para debater pautas comuns para o setor de transporte.</p>
+                        <a href="./ansegtv-se-reune-com-cnt-para-discutir-pauta-comum-para-o-setor-de-trasnporte/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./reforma-tributaria-e-tema-de-live/">
                         <img src="../img/uploads/2023/04/business.png">
                      </a>
