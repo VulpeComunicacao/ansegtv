@@ -37,8 +37,7 @@
                                     </div>
                                     <div class="news-des">
                                     O diretor jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Tavares Madruga, participou, no último dia 17 de maio, de uma reunião com o diretor executivo da CNT (Confederação Nacional do Transporte), Bruno Batista, para debater pautas comuns para o setor de transporte.  A CNT é uma importante interlocutora das demandas do setor e tem pautado discussões de interesse com os poderes Executivo, Legislativo e Judiciário.
-                                    <br><br>
-                                    Na ocasião, a CNT apresentou estudos e painéis técnicos produzidos pela equipe e, dentre eles, um importante levantamento acerca da localização, da quantidade, do tipo e da densidade de pontos críticos registrados nas rodovias federais e estaduais do país.
+
                                     </div>
                                 </div>
                             </div>
