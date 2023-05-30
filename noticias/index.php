@@ -94,6 +94,27 @@
             </div>
             
             <div class="row mb-50">
+            <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
+                     <a href="./congresso-do-ipdl-destaca-papel-da-integridade-nas-empresas/">
+                        <img src="../img/uploads/2023/05/max-ipdl.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./congresso-do-ipdl-destaca-papel-da-integridade-nas-empresas/">Congresso do IPLD destaca papel da integridade nas empresas</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>30 de maio de 2023</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>O IPLD (Instituto de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento ao Terrorismo) realizou nos dias 23 e 24 de maio a 5º edição de seu Congresso Internacional, o maior da América Latina na área. A ANSEGTV foi uma das apoiadoras do evento.</p>
+                        <a href="./congresso-do-ipdl-destaca-papel-da-integridade-nas-empresas/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
