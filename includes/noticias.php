@@ -24,6 +24,28 @@
                             <div class="carousel-item active">
                                 <div class="news-block">
                                     <div class="news-media">
+                                        <a href="./noticias/ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">
+                                            <img class="img-fluid" src="./img/uploads/2023/07/reuniao-pf.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>07/07/2023</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">ANSEGTV participa de reunião na PF para discutir portaria sobre segurança privada</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    O diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Tavares Madruga, participou, no último dia 27 de junho, de reunião na sede da Polícia Federal, em Brasília, para apresentar considerações das empresas associadas sobre a nova Portaria 18.045/2023. A portaria disciplina as atividades de segurança privada e regula a fiscalização dos planos de segurança dos estabelecimentos financeiros.
+
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="news-block">
+                                    <div class="news-media">
                                         <a href="./noticias/congresso-do-ipdl-destaca-papel-da-integridade-nas-empresas/">
                                             <img class="img-fluid" src="./img/uploads/2023/05/max-ipdl.png" alt="">
                                         </a>
@@ -68,35 +90,27 @@
                                 </div>
                             </div>
 
-
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/reforma-tributaria-e-tema-de-live/">
-                                            <img class="img-fluid" src="./img/uploads/2023/04/business.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>28/04/2023</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/reforma-tributaria-e-tema-de-live/">Reforma tributária é tema de live</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    A Tendências Consultoria realizou no dia 26 de abril uma live para discutir e analisar as medidas previstas na proposta de reforma tributária do governo. Participaram os sócios da consultoria Maílson da Nóbrega e Alessandra Ribeiro, além do sócio fundador e head da área de direito tributário da FCR Law, Eduardo Fleury.
-                                    <br><br>
-                                    Maílson da Nóbrega, economista e ex-ministro da Fazenda (1988-1990), defendeu a aprovação da proposta. “Temos o pior sistema de tributação do consumo do planeta...
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
+
+                    <div class="card">
+                        <a href="./noticias/reforma-tributaria-e-tema-de-live/">
+                            <img class="img-fluid" src="./img/uploads/2023/04/business.png" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/reforma-tributaria-e-tema-de-live/">Reforma tributária é tema de live"</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>28/04/2023</strong>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="card">
                         <a href="./noticias/e-preciso-tipificar-criminalidade-o-dominio-de-cidades/">
@@ -114,6 +128,18 @@
                         </div>
                     </div>
 
+                   
+
+
+
+
+                
+
+                </div>
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
+
                     <div class="card">
                         <a href="./noticias/ansegtv-se-reune-com-novo-coordenador-geral-na-pf/">
                         <img class="img-fluid" src="./img/uploads/2023/03/reuniao-pf.png" alt="Reunião PF">
@@ -130,16 +156,6 @@
                         </div>
                     </div>
 
-
-
-
-                
-
-                </div>
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
-
                     <div class="card">
                         <a href="./noticias/congresso-discute-combate-a-lavagem-de-dinheiro/">
                         <img class="img-fluid" src="./img/uploads/2023/03/congresso-ipdl.png" alt="Congresso IPDL">
@@ -152,22 +168,6 @@
                             </div>
                             <div class="time-text">
                             <strong>23/03/2023</strong>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <a href="./noticias/anpd-divulga-regras-para-sancoes-por-descumprimento-a-lgpd/">
-                        <img class="img-fluid" src="./img/uploads/2023/03/regulamento-anpd.png" alt="Regulamento ANPD">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/anpd-divulga-regras-para-sancoes-por-descumprimento-a-lgpd/">Diretora da ANPD esclarece dúvidas sobre proteção de dados</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>01/03/2023</strong>
                             </div>
                         </div>
                     </div>

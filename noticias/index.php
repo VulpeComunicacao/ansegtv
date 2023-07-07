@@ -94,7 +94,29 @@
             </div>
             
             <div class="row mb-50">
-            <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
+                     <a href="./ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">
+                        <img src="../img/uploads/2023/07/reuniao-pf.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">ANSEGTV participa de reunião na PF para discutir portaria sobre segurança privada</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>07 de julho de 2023</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>O diretor Jurídico da ANSEGTV, Max Tavares Madruga, participou, no último dia 27 de junho, de reunião na sede da Polícia Federal, em Brasília, para apresentar considerações das empresas associadas sobre a nova Portaria 18.045/2023.</p>
+                        <a href="./ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
                      <a href="./congresso-do-ipdl-destaca-papel-da-integridade-nas-empresas/">
