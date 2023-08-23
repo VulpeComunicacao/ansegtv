@@ -33,7 +33,7 @@
                                     </div>
                                     <div class="news-title">
                                         <h3 class=" title-large">
-                                        <a href="./noticias/ansegtv-apoia-fiscalizacao-da-pf-contra-empresas-clandestinas-de-seguranca/">ANSEGTV participa de reunião na PF para discutir portaria sobre segurança privada</a>
+                                        <a href="./noticias/ansegtv-apoia-fiscalizacao-da-pf-contra-empresas-clandestinas-de-seguranca/">ANSEGTV apoia fiscalização da PF contra empresas clandestinas de segurança</a>
                                         </h3>
                                     </div>
                                     <div class="news-des">
