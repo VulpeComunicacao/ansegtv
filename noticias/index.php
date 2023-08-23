@@ -110,7 +110,7 @@
                               </ul>
                            </div>
                         </div>
-                        <p>O diretor Jurídico da ANSEGTV, Max Tavares Madruga, participou, no último dia 27 de junho, de reunião na sede da Polícia Federal, em Brasília, para apresentar considerações das empresas associadas sobre a nova Portaria 18.045/2023.</p>
+                        <p>O diretor Jurídico da ANSEGTV, Max Tavares Madruga, participou, no último dia 27 de junho, de reunião na sede da Polícia Federal, em Brasília, para apresentar...</p>
                         <a href="./ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/" class="box_btn">leia mais</a>
                      </div>
                   </div>
@@ -132,7 +132,7 @@
                               </ul>
                            </div>
                         </div>
-                        <p>O IPLD (Instituto de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento ao Terrorismo) realizou nos dias 23 e 24 de maio a 5º edição de seu Congresso Internacional, o maior da América Latina na área. A ANSEGTV foi uma das apoiadoras do evento.</p>
+                        <p>O IPLD (Instituto de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento ao Terrorismo) realizou nos dias 23 e 24 de maio a 5º edição de seu Congresso Internacional, o maior da América Latina na área...</p>
                         <a href="./congresso-do-ipdl-destaca-papel-da-integridade-nas-empresas/" class="box_btn">leia mais</a>
                      </div>
                   </div>
@@ -153,7 +153,7 @@
                               </ul>
                            </div>
                         </div>
-                        <p>O diretor jurídico da ANSEGTV, Max Tavares Madruga, participou, no último dia 17 de maio, de uma reunião com o diretor executivo da CNT, Bruno Batista, para debater pautas comuns para o setor de transporte.</p>
+                        <p>O diretor jurídico da ANSEGTV, Max Tavares Madruga, participou, no último dia 17 de maio, de uma reunião com o diretor executivo da CNT, Bruno Batista, para debater pautas comuns...</p>
                         <a href="./ansegtv-se-reune-com-cnt-para-discutir-pauta-comum-para-o-setor-de-trasnporte/" class="box_btn">leia mais</a>
                      </div>
                   </div>
