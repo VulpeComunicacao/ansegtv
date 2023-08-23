@@ -97,6 +97,28 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./ansegtv-apoia-fiscalizacao-da-pf-contra-empresas-clandestinas-de-seguranca/">
+                        <img src="../img/uploads/2023/08/agente-policia-federal.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./ansegtv-apoia-fiscalizacao-da-pf-contra-empresas-clandestinas-de-seguranca/">ANSEGTV apoia fiscalização da PF contra empresas clandestinas de segurança</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>23 de agosto de 2023</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>A Polícia Federal realizou, na semana passada, a Operação Segurança Legal VII com o objetivo de reprimir atividades de segurança privada não autorizadas em todo o país.</p>
+                        <a href="./ansegtv-apoia-fiscalizacao-da-pf-contra-empresas-clandestinas-de-seguranca/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+               
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">
                         <img src="../img/uploads/2023/07/reuniao-pf.png">
                      </a>
