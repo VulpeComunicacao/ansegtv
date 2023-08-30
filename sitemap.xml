@@ -9,112 +9,522 @@
 
 <url>
   <loc>https://ansegtv.com.br/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://ansegtv.com.br/quem-somos/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
+  <loc>https://ansegtv.com.br/ansegtv/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/estrutura/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/parcerias/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ansegtv.com.br/noticias/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/contato/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/ansegtv-apoia-fiscalizacao-da-pf-contra-empresas-clandestinas-de-seguranca/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/congresso-do-ipdl-destaca-papel-da-integridade-nas-empresas/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/ansegtv-se-reune-com-cnt-para-discutir-pauta-comum-para-o-setor-de-trasnporte/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/reforma-tributaria-e-tema-de-live/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/e-preciso-tipificar-criminalidade-o-dominio-de-cidades/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/ansegtv-se-reune-com-novo-coordenador-geral-na-pf/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/politica-de-privacidade/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/congresso-discute-combate-a-lavagem-de-dinheiro/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/anpd-divulga-regras-para-sancoes-por-descumprimento-a-lgpd/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/diretoria-da-anpd-esclarece-duvidas-sobre-protecao-de-dados/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/nova-realidade-requer-criatividade-e-busca-de-eficiencia/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/estatuto-do-aprendiz-e-necessario-mas-mantem-trechos-preocupantes/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/avaliacao-de-riscos-e-integridade-e-tema-de-encontro-em-sp/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/ansegtv-prestigia-feira-de-seguranca-em-sp/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/forte-araruama-e-a-nova-afiliada-da-ansegtv/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/camara-aprova-projeto-para-combater-novo-cangaco/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/diretoria-da-ansegtv-e-recebida-pelo-novo-coordenador-da-cgcsp/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/combate-ao-crime-e-tema-de-encontro-entre-ansegtv-e-governo-federal/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/ansegtv-se-reune-com-ministerio-da-justica-em-brasilia/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/ansegtv-participa-de-audiencia-na-camara-sobre-estatuto-do-aprendiz/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/forum-debate-alternativas-para-melhorar-seguranca-juridica-no-pais/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/diretoria-da-ansegtv-se-reune-com-ministro-da-cidadania/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/diretor-da-ansegtv-fala-sobre-gestao-de-seguranca-em-live/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/ansegtv-participa-de-evento-da-cgcsp-sobre-prevencao-a-lavagem-de-dinheiro/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/delegado-chefe-da-delesp-sp-fala-aos-associados-da-ansegtv/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/emenda-que-torna-protecao-de-dados-pessoais-direito-fundamental-e-promulgada/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/presidente-da-ansegtv-destaca-capacidade-das-empresas-em-enfrentarem-a-crise/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/frente-parlamentar-do-setor-de-servicos-faz-balanco-do-ano/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/encontro-reune-delegados-de-policia-em-sp/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/3-batalhao-de-pm-do-interior-recebe-transportadoras/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/diretores-da-ansegtv-visitam-novo-delegado-da-delesp-sp/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/defesa-de-reformas-e-da-desoneracao-marcam-forum-de-empreendedorismo/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/senado-aprova-pec-que-torna-protecao-de-dados-pessoais-direito-fundamental/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/filiados-da-ansegtv-ja-tem-acesso-ao-perse/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/frente-parlamentar-pede-que-pl-do-pert-seja-analisado-pela-camara/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/indice-de-servicos-cresce-3.3-porcento-em-julho/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/pl-busca-tornar-hediondo-ataque-com-explosivos-contra-transportadoras/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/coordenador-de-lgpd-de-frente-parlamentar-se-reune-com-presidente-da-anpd/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/mps-flexibilizam-regras-trabalhistas/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/empresas-devem-se-atentar-as-mudancas-na-lgpd/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/diretor-da-ansegtv-defende-reforco-da-pf-para-combater-empresas-de-seguranca-clandestinas/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/ansegtv-contribui-para-inovacoes-tecnologicas-apresentadas-no-6-inovanfc-e/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/ansegtv-e-apresentada-ao-baep-de-ribeirao-preto-interior-de-sao-paulo/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/6-inova-nfc-e-reune-especialistas-em-transformacao-digital-e-transportes/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/legislacao-e-ataques-ao-transporte-de-valores/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/desafios-de-empresas-familiares-sao-temas-de-palestras/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/frente-envia-contribuicoes-a-norma-de-fiscalizacao-da-anpd/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/diretor-do-coaf-esclarece-pontos-de-nova-resolucao/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/representantes-do-setor-de-servicos-se-reunem-com-arthur-lira/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/servicos-mostram-recuperacao-mas-caminho-ainda-e-longo/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/entidades-e-autoridades-destacam-importancia-dos-servicos-na-economia/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/novo-indice-de-servicos-medira-desempenho-do-setor/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/ansegtv-acompanha-palestra-do-economista-marcos-cintra/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/fatiada-ou-ampla-reforma-tributaria-precisa-ser-justa/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/parceria-fortalecida/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/mps-trabalhistas-sao-importantes-para-manter-empregos/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/consideracoes-sobre-a-nova-lei-de-licitacoes/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/reafirmacao-de-principios/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/a-importancia-do-esg-nas-empresas/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/ansegtv-apoia-maior-seguranca-no-transporte-aereo-de-valores/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/medidas-de-incentivo-ao-emprego-ainda-sao-necessarias/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/pandemia-trouxe-desafios-mas-nao-impediu-avancos/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/ansegtv-segue-atenta-a-lgpd/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/recuperacao-economica-passa-pela-vacinacao/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/ansegtv-faz-balanco-do-ano-em-reuniao/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/conselho-gestor-da-frente-parlamentar-do-servicos-discute-conquistas-e-planos-para-2021/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/reforma-tributaria-no-setor-de-servicos/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/meios-de-pagamento-se-complementam/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/a-necessidade-de-um-programa-de-integridade-nas-empresas/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/servicos-no-processo-de-recuperacao-economica/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/frente-parlamentar-faz-balanco-das-atividades-desenvolvidas-durante-a-pandemia/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/comando-g8-e-o-novo-filiado-da-ansegtv/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/importante-lgpd-ainda-gera-duvidas/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/ansegtv-participa-de-reuniao-da-frente-parlamentar-de-servicos/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/a-importancia-do-planejamento-tributario/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/necessaria-reforma-tributaria-deve-ser-equilibrada/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/economia-no-transporte-de-valores/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/nova-cedula-valoriza-o-dinheiro-vivo/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/webinar-destaca-importancia-do-planejamento-tributario/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/o-pos-guerra-das-empresas/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/reforma-tributaria-e-tema-de-reunioes/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ansegtv.com.br/noticias/mesmo-com-dificuldades-ano-traz-aprendizados-e-avancos/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ansegtv.com.br/noticias/em-live-associados-debatem-desafios-da-pandemia/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ansegtv.com.br/noticias/reuniao-com-secretario-da-receita-discute-questoes-tributarias/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ansegtv.com.br/noticias/governo-ouve-novas-demandas-do-setor-de-servicos/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ansegtv.com.br/noticias/associados-adotam-medidas-de-prevencao-ao-coronavirus/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ansegtv.com.br/noticias/setor-de-servicos-se-reune-com-o-ministro-paulo-guedes/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ansegtv.com.br/noticias/nova-gtv-e-proporciona-maior-seguranca-e-agilidade/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ansegtv.com.br/noticias/associados-adotam-medidas-de-prevencao-ao-coronavirus/</loc>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ansegtv.com.br/noticias/presidente-da-ansegtv-enaltece-parceria-com-a-pf-e-investimentos-em-seguranca/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ansegtv.com.br/noticias/policia-federal-elabora-manual-de-prevencao-a-lavagem-de-dinheiro/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ansegtv.com.br/noticias/cade-propoe-a-brinks-nao-realizaraaquisicoes-por-tres-anos/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ansegtv.com.br/noticias/ansegtv-comemora-aniversario/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ansegtv.com.br/noticias/estatudo-da-seguranca-privada-deve-avancar-no-senado-neste-ano/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ansegtv.com.br/noticias/votacao-do-estatuto-da-seguranca-privada-e-adiada/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ansegtv.com.br/noticias/cade-condiciona-compra-da-transvip-a-acordo-de-nao-aquisicoes-futuras/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ansegtv.com.br/noticias/estatuto-da-seguranca-privada-e-discutido-na-comissao-de-transparencia-do-senado/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ansegtv.com.br/noticias/esquadra-deixa-mercado-de-transporte-de-valores/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ansegtv.com.br/noticias/ansegtv-promove-reuniao-com-representantes-de-resseguradoras-em-londres/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ansegtv.com.br/noticias/policia-federal-realiza-workshop-na-sede-da-ansegtv/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ansegtv.com.br/noticias/ansegtv-participa-de-audiencia-publica-no-senado-sobre-seguranca-publica/</loc>
-  <lastmod>2020-07-01T21:04:14+00:00</lastmod>
+  <lastmod>2023-08-30T03:33:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 

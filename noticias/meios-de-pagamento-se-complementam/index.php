@@ -61,6 +61,9 @@
                     <a class="nav-link" href="../../estrutura/">Estrutura</a>
                     </li>
                     <li class="nav-item">
+                    <a class="nav-link" href="../../indice-inflacao/">Índice de Inflação</a>
+                    </li>
+                    <li class="nav-item">
                     <a class="nav-link" href="../../parcerias/">Parcerias</a>
                     </li>
                     <li class="nav-item">

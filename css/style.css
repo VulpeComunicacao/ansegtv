@@ -343,8 +343,6 @@
       height: 450px;
   }
     
-    
-
 
     /*
     // #Interna Notícias Styles
@@ -431,6 +429,33 @@ ul.servicos-list li img { width: 92px; margin: 0 auto; height: auto;}
 #quem-somos .header-wrap .title {display: inline-block; color: #8a6e35; font-family: 'Arial Narrow', sans-serif; font-weight: bold; font-size: 2.4rem; margin: 15px; border-bottom: 4px solid #8a6e35;} 
 #quem-somos .content-wrap {box-shadow: 0px 0px 15px 3px rgba(0, 0, 0, 0.2); padding: 25px 50px;}
 #quem-somos .content-wrap p {font-size: 1.3rem; line-height: 1.6rem;}
+
+/*
+// #Índice de Inflação
+*/
+
+.indice-inflacao {
+  padding: 0 25px;
+}
+
+#estrutura ul.lista-arquivos li {
+  margin: 5px 0 0 0;
+  border-left: solid 5px #976f18;
+  padding-left: 10px;
+  list-style: none;
+}
+#estrutura ul.lista-arquivos a:link {
+    color: #976f18 !important;
+    font-size: 18px !important;
+    line-height: 30px !important;
+    letter-spacing: 0.5px !important;
+    text-transform: uppercase !important;
+}
+#estrutura ul.lista-arquivos a:hover {
+    color: #be8815 !important;
+    text-decoration: underline !important;
+}
+
 
 
 /*
@@ -1085,7 +1110,7 @@ ul.social-nav {list-style: none; margin: 10px 0; padding: 0; display: inline-fle
 #missao .header-wrap img {float: none;}
 #missao .content-wrap {box-shadow: none; padding: 25px 10px;}
 
-/*Estrutura | Serviços*/
+/*Estrutura | Serviços | Índice de Inflação*/
 #estrutura {padding: 25px 0;}
 .estrutura {text-align: center;}
 .estrutura img {float: none;}
@@ -1094,6 +1119,8 @@ ul.social-nav {list-style: none; margin: 10px 0; padding: 0; display: inline-fle
 .servicos div:nth-child(1) {padding-top: 1rem; margin-top: 0;}
 .servicos-list {padding: 0px;}
 ul.servicos li {display: inline-block; width:40%;}
+
+#estrutura .content-wrap {box-shadow: none;}
 
 /*Atuacao*/
 #atuacao {padding: 50px 0; text-align: center;}

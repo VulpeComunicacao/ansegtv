@@ -61,6 +61,9 @@
                      <a class="nav-link" href="../estrutura/">Estrutura</a>
                   </li>
                   <li class="nav-item">
+                     <a class="nav-link" href="../indice-inflacao/">Índice de Inflação</a>
+                  </li>
+                  <li class="nav-item">
                      <a class="nav-link" href="../parcerias/">Parcerias</a>
                   </li>
                   <li class="nav-item">
@@ -69,7 +72,7 @@
                   <li class="nav-item">
                      <a class="nav-link" href="../contato/">Contato</a>
                   </li>
-                  </ul>
+                </ul>
                 <ul class="navbar-social">
                     <li class="nav-item">
                         <a class="nav-link" href="https://www.linkedin.com/company/ansegtv/" target="_blank"><i class="fa fa-linkedin"></i> </a>

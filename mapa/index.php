@@ -52,24 +52,27 @@
     <div class="collapse navbar-collapse" id="navbarResponsive">
     <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="../">Home</a>
+            <a class="nav-link" href="../">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="../ansegtv/">ANSEGTV</a>
+            <a class="nav-link" href="../ansegtv/">ANSEGTV</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="../estrutura/">Estrutura</a>
+            <a class="nav-link" href="../estrutura/">Estrutura</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="../parcerias/">Parcerias</a>
+            <a class="nav-link" href="../indice-inflacao/">Índice de Inflação</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="../noticias/">Notícias</a>
+            <a class="nav-link" href="../parcerias/">Parcerias</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="../contato/">Contato</a>
+            <a class="nav-link" href="../noticias/">Notícias</a>
         </li>
-      </ul>
+        <li class="nav-item">
+            <a class="nav-link" href="../contato/">Contato</a>
+        </li>
+    </ul>
     
     </div>
   </div>
