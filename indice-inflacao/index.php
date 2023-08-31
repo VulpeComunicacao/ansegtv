@@ -12,7 +12,7 @@
     <!-- OpenGraph TAGS -->
     <meta property="og:title" content=" ANSEGTV - Associação Nacional de Segurança e Transporte de Valores">
     <meta property="og:site_name" content="ANSEGTV">
-    <meta property="og:url" content="https://ansegtv.com.br/ansegtv">
+    <meta property="og:url" content="https://ansegtv.com.br/indice-inflacao">
     <meta property="og:description" content="Saiba mais sobre a ANSEGTV. Nossa estrutura, unidades, serviços">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://ansegtv.com.br/img/open-graph-ansegtv2.png">

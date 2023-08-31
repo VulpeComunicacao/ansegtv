@@ -12,7 +12,7 @@
     <!-- OpenGraph TAGS -->
     <meta property="og:title" content="ANSEGTV - Associação Nacional de Segurança e Transporte de Valores">
     <meta property="og:site_name" content="ANSEGTV">
-    <meta property="og:url" content="https://ansegtv.com.br">
+    <meta property="og:url" content="https://ansegtv.com.br/noticias">
     <meta property="og:description" content="ANSEGTV é a Associação Nacional de Segurança e Transporte de Valores. Uma entidade sem fins lucrativos estrutura para representar os interesses das empresas do segmento.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://ansegtv.com.br/img/open-graph-ansegtv2.png">

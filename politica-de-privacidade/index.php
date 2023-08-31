@@ -12,7 +12,7 @@
     <!-- OpenGraph TAGS -->
     <meta property="og:title" content="Política de Privacidade | ANSEGTV - Associação Nacional de Segurança e Transporte de Valores">
     <meta property="og:site_name" content="ANSEGTV">
-    <meta property="og:url" content="https://ansegtv.com.br/quem-somos">
+    <meta property="og:url" content="https://ansegtv.com.br/politica-de-privacidade">
     <meta property="og:description" content="Saiba mais sobre a Política de Privacidade da ANSEGTV.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://ansegtv.com.br/img/open-graph-ansegtv2.png">
