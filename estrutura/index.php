@@ -3,14 +3,14 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-    <title>Quem somos | ANSEGTV - Associação Nacional de Segurança e Transporte de Valores</title>
+    <title>Estrutura | ANSEGTV - Associação Nacional de Segurança e Transporte de Valores</title>
     <meta charset="utf-8">
     <meta name="description" content="Saiba mais sobre a ANSEGTV. Nossa estrutura, unidades, serviços" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="robots" content="index, follow">
     <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
     <!-- OpenGraph TAGS -->
-    <meta property="og:title" content="Quem Somos | ANSEGTV - Associação Nacional de Segurança e Transporte de Valores">
+    <meta property="og:title" content="Estrutura | ANSEGTV - Associação Nacional de Segurança e Transporte de Valores">
     <meta property="og:site_name" content="ANSEGTV">
     <meta property="og:url" content="https://ansegtv.com.br/estrutura">
     <meta property="og:description" content="Saiba mais sobre a ANSEGTV. Nossa estrutura, unidades, serviços">
