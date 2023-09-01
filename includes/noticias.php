@@ -40,7 +40,7 @@
                                     Na última quarta-feira, 30 de agosto, a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) esteve no Ministério da Justiça e Segurança Pública em Brasília.
                                     <br>
                                     <br>
-                                    A diretoria da ANSEGTV foi recebida pelo Secretário Nacional de Segurança Pública, Tadeu Alencar, e por André Gossain da Diretoria de Operações Integradas e Inteligência. Na ocasião, a entidade foi representada por Thiago Peixoto, Diretor Executivo, Max Madruga, Diretor Jurídico, e Lincoln Telhado, Diretor de Relações Governamentais.
+                                    A diretoria da ANSEGTV foi recebida pelo Secretário Nacional de Segurança Pública, Tadeu Alencar, e por André Gossain da Diretoria de Operações Integradas e Inteligência. Na ocasião, a entidade foi representada por Thiago Peixoto, Diretor Executivo, Max Madruga, Diretor Jurídico, Lincoln Telhado, Diretor de Relações Governamentais, Mauricio Wanderley, Secretário-Geral, e Raphael Cittadino, Consultor Jurídico.
                                     </div>
                                 </div>
                             </div>
