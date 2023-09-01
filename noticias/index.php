@@ -100,6 +100,28 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv/">
+                        <img src="../img/uploads/2023/09/reuniao-secretario.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv/">Secretário Nacional de Segurança Pública recebe diretoria da ANSEGTV</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>01 de setembro de 2023</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>Na última quarta-feira, 30 de agosto, a ANSEGTV esteve no Ministério da Justiça e Segurança Pública em Brasília.</p>
+                        <a href="./secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./ansegtv-apoia-fiscalizacao-da-pf-contra-empresas-clandestinas-de-seguranca/">
                         <img src="../img/uploads/2023/08/agente-policia-federal.png">
                      </a>
