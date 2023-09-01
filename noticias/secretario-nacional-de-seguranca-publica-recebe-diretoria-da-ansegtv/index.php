@@ -109,7 +109,7 @@
                         <p class="article">A diretoria da ANSEGTV foi recebida pelo Secretário Nacional de Segurança Pública, Tadeu Alencar, e por André Gossain da Diretoria de Operações Integradas e Inteligência. Na ocasião, a entidade foi representada por Thiago Peixoto, Diretor Executivo, Max Madruga, Diretor Jurídico, e Lincoln Telhado, Diretor de Relações Governamentais.</p>
 
                         <figure class="pull-right m-2 text-left">
-                                <img src="../../img/uploads/2023/09/reuniao-secretario.png" width="450" height="auto" alt="Reunião com o Secretário Nacional de Segurança Pública" class=" img-fluid">	
+                                <img src="../../img/uploads/2023/09/reuniao-secretario-n.png" width="450" height="auto" alt="Reunião com o Secretário Nacional de Segurança Pública" class=" img-fluid">	
                                 <figcaption></figcaption>
                         </figure>
 

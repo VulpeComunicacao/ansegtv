@@ -101,7 +101,7 @@
                   <div class="single-blog">
                      <div class="blog-img">
                      <a href="./secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv/">
-                        <img src="../img/uploads/2023/09/reuniao-secretario.png">
+                        <img src="../img/uploads/2023/09/reuniao-secretario-n.png">
                      </a>
                      </div>
                      <div class="blog-content">

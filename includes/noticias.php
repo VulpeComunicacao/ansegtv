@@ -25,7 +25,7 @@
                                 <div class="news-block">
                                     <div class="news-media">
                                         <a href="./noticias/secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv/">
-                                            <img class="img-fluid" src="./img/uploads/2023/09/reuniao-secretario.png" alt="">
+                                            <img class="img-fluid" src="./img/uploads/2023/09/reuniao-secretario-n.png" alt="">
                                         </a>
                                     </div>
                                     <div class="time-text">
