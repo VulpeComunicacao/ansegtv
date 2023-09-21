@@ -36,12 +36,6 @@
   </head>
 
   <body>
-    <!-- Google Tag Manager (noscript) -->
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHXVQCR"
-      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-
-    <body>
         <!-- Navigation Section -->
         <nav class="navbar navbar-expand-lg static-top navbar-light px-3">
             <div class="container">
