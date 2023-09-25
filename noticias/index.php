@@ -97,6 +97,27 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./ansegtv-prestigia-o-10-enefav/">
+                        <img src="../img/uploads/2023/09/evento-enefav.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./ansegtv-prestigia-o-10-enefav/">ANSEGTV prestigia o 10º ENEFAV</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>25 de setembro de 2023</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>O Diretor Jurídico da ANSEGTV, Max Tavares Madruga, e o Diretor de Assuntos Associativos e Sindicais da entidade, José Ferreira de Andrade Netto, participaram, na quarta-feira (20), da abertura do 10º ENEFAV</p>
+                        <a href="./ansegtv-prestigia-o-10-enefav/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv/">
                         <img src="../img/uploads/2023/09/reuniao-secretario-n.png">
                      </a>

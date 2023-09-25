@@ -24,6 +24,30 @@
                             <div class="carousel-item active">
                                 <div class="news-block">
                                     <div class="news-media">
+                                        <a href="./noticias/ansegtv-prestigia-o-10-enefav/">
+                                            <img class="img-fluid" src="./img/uploads/2023/09/evento-enefav.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>25/09/2023</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/ansegtv-prestigia-o-10-enefav/">ANSEGTV prestigia o 10º ENEFAV</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    O Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Tavares Madruga, e o Diretor de Assuntos Associativos e Sindicais da entidade, José Ferreira de Andrade Netto, participaram, na quarta-feira (20), da abertura do 10º ENEFAV - Encontro Nacional das Escolas de Formação e Aperfeiçoamento de Vigilantes.
+                                    <br>
+                                    <br>
+                                    AO evento, organizado pela ABCFAV (Associação Brasileira dos Cursos de Formação e Aperfeiçoamento de Vigilantes) e encerrado na sexta (22), foi realizado no Novotel São Paulo Center Norte, na capital paulista.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="news-block">
+                                    <div class="news-media">
                                         <a href="./noticias/secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv/">
                                             <img class="img-fluid" src="./img/uploads/2023/09/reuniao-secretario-n.png" alt="">
                                         </a>
@@ -67,33 +91,27 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">
-                                            <img class="img-fluid" src="./img/uploads/2023/07/reuniao-pf.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>07/07/2023</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">ANSEGTV participa de reunião na PF para discutir portaria sobre segurança privada</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    O diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Tavares Madruga, participou, no último dia 27 de junho, de reunião na sede da Polícia Federal, em Brasília, para apresentar considerações das empresas associadas sobre a nova Portaria 18.045/2023. A portaria disciplina as atividades de segurança privada e regula a fiscalização dos planos de segurança dos estabelecimentos financeiros.
-
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
+
+                    <div class="card">
+                        <a href="./noticias/ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">
+                            <img class="img-fluid" src="./img/uploads/2023/07/reuniao-pf.png" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">NSEGTV participa de reunião na PF para discutir portaria sobre segurança privada</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>07/07/2023</strong>
+                            </div>
+                        </div>
+                    </div>
 
 
                     <div class="card">
@@ -112,6 +130,11 @@
                         </div>
                     </div>
 
+                </div>
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
+
                     <div class="card">
                         <a href="./noticias/ansegtv-se-reune-com-cnt-para-discutir-pauta-comum-para-o-setor-de-trasnporte/">
                             <img class="img-fluid" src="./img/uploads/2023/05/reuniao-cnt.png" alt="">
@@ -127,13 +150,6 @@
                             </div>
                         </div>
                     </div>
-
-
-
-                </div>
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     <div class="card">
                         <a href="./noticias/reforma-tributaria-e-tema-de-live/">
@@ -151,21 +167,7 @@
                         </div>
                     </div>
 
-                    <div class="card">
-                        <a href="./noticias/e-preciso-tipificar-criminalidade-o-dominio-de-cidades/">
-                            <img class="img-fluid" src="./img/uploads/2020/11/max-tavares.png" alt="Max Tavares">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/e-preciso-tipificar-criminalidade-o-dominio-de-cidades/">É preciso tipificar criminalmente o "domínio de cidades"</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>18/04/2023</strong>
-                            </div>
-                        </div>
-                    </div>   
+                    
 
                 </div>
             </div>
