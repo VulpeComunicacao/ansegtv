@@ -24,6 +24,30 @@
                             <div class="carousel-item active">
                                 <div class="news-block">
                                     <div class="news-media">
+                                        <a href="./noticias/ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">
+                                            <img class="img-fluid" src="./img/uploads/2023/10/evento-esg.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>04/10/2023</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">ANSEGTV acompanha Fórum sobre ESG e Inovação no Setor do Transporte</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    O Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Tavares Madruga, esteve no dia 28 de setembro no “Fórum ITL de Inovação no Setor do Transporte”, em Brasília. O tema do evento, organizado pelo Sistema Transporte (CNT / SEST SENAT / ITL), foi o “ESG no Transporte”.
+                                    <br>
+                                    <br>
+                                    No encontro, representantes do setor e especialistas debateram a importância dos princípios relacionados ao ESG, como Sustentabilidade, Governança e Responsabilidade Social, no setor de transportes.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="news-block">
+                                    <div class="news-media">
                                         <a href="./noticias/ansegtv-prestigia-o-10-enefav/">
                                             <img class="img-fluid" src="./img/uploads/2023/09/evento-enefav.png" alt="">
                                         </a>
@@ -69,27 +93,7 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/ansegtv-apoia-fiscalizacao-da-pf-contra-empresas-clandestinas-de-seguranca/">
-                                            <img class="img-fluid" src="./img/uploads/2023/08/agente-policia-federal.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>23/08/2023</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/ansegtv-apoia-fiscalizacao-da-pf-contra-empresas-clandestinas-de-seguranca/">ANSEGTV apoia fiscalização da PF contra empresas clandestinas de segurança</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    A Polícia Federal realizou, na semana passada, a Operação Segurança Legal VII com o objetivo de reprimir atividades de segurança privada não autorizadas em todo o país. Segundo o órgão, 446 policiais fiscalizaram 461 estabelecimentos, como bares, boates, condomínios, supermercados e estabelecimentos comerciais em geral. Foram fechadas 178 empresas que operavam de maneira clandestina.
-
-                                    </div>
-                                </div>
-                            </div>
+                            
 
                         </div>
                     </div>
@@ -98,13 +102,29 @@
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
 
                     <div class="card">
+                        <a href="./noticias/ansegtv-apoia-fiscalizacao-da-pf-contra-empresas-clandestinas-de-seguranca/">
+                            <img class="img-fluid" src="./img/uploads/2023/08/agente-policia-federal.png" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/ansegtv-apoia-fiscalizacao-da-pf-contra-empresas-clandestinas-de-seguranca/">ANSEGTV apoia fiscalização da PF contra empresas clandestinas de segurança</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>23/08/2023</strong>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
                         <a href="./noticias/ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">
                             <img class="img-fluid" src="./img/uploads/2023/07/reuniao-pf.png" alt="">
                         </a>
                         <div class="card-body">
                             <div class="news-title">
                                 <h3 class=" title-small">
-                                    <a href="./noticias/ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">NSEGTV participa de reunião na PF para discutir portaria sobre segurança privada</a>
+                                    <a href="./noticias/ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">ANSEGTV participa de reunião na PF para discutir portaria sobre segurança privada</a>
                                 </h3>
                             </div>
                             <div class="time-text">
@@ -113,6 +133,13 @@
                         </div>
                     </div>
 
+
+         
+
+                </div>
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     <div class="card">
                         <a href="./noticias/congresso-do-ipdl-destaca-papel-da-integridade-nas-empresas/">
@@ -130,11 +157,6 @@
                         </div>
                     </div>
 
-                </div>
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
-
                     <div class="card">
                         <a href="./noticias/ansegtv-se-reune-com-cnt-para-discutir-pauta-comum-para-o-setor-de-trasnporte/">
                             <img class="img-fluid" src="./img/uploads/2023/05/reuniao-cnt.png" alt="">
@@ -151,21 +173,7 @@
                         </div>
                     </div>
 
-                    <div class="card">
-                        <a href="./noticias/reforma-tributaria-e-tema-de-live/">
-                            <img class="img-fluid" src="./img/uploads/2023/04/business.png" alt="">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/reforma-tributaria-e-tema-de-live/">Reforma tributária é tema de live</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>28/04/2023</strong>
-                            </div>
-                        </div>
-                    </div>
+
 
                     
 

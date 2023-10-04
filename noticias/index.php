@@ -97,6 +97,27 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">
+                        <img src="../img/uploads/2023/10/evento-esg.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">ANSEGTV prestigia o 10º ENEFAV</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>25 de setembro de 2023</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>O Diretor Jurídico da ANSEGTV, Max Tavares Madruga, esteve no dia 28 de setembro no “Fórum ITL de Inovação no Setor do Transporte”, em Brasília.</p>
+                        <a href="./ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./ansegtv-prestigia-o-10-enefav/">
                         <img src="../img/uploads/2023/09/evento-enefav.png">
                      </a>
