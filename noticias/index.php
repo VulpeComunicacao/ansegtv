@@ -103,10 +103,10 @@
                      </div>
                      <div class="blog-content">
                         <div class="blog-title">
-                           <h2 class="title-large"><a href="./ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">ANSEGTV prestigia o 10º ENEFAV</a></h2>
+                           <h2 class="title-large"><a href="./ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">AANSEGTV acompanha Fórum sobre ESG e Inovação no Setor do Transporte</a></h2>
                            <div class="meta">
                               <ul>
-                                 <li>25 de setembro de 2023</li>
+                                 <li>04 de outubro de 2023</li>
                               </ul>
                            </div>
                         </div>
