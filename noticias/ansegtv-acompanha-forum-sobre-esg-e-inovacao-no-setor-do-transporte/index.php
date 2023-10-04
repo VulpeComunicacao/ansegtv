@@ -103,12 +103,12 @@
 
                         <p class="article">O Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Tavares Madruga, esteve no dia 28 de setembro no “Fórum ITL de Inovação no Setor do Transporte”, em Brasília. O tema do evento, organizado pelo Sistema Transporte (CNT / SEST SENAT / ITL), foi o “ESG no Transporte”.</p>
 
-                        <p class="article">No encontro, representantes do setor e especialistas debateram a importância dos princípios relacionados ao ESG, como Sustentabilidade, Governança e Responsabilidade Social, no setor de transportes.</p>
-
                         <figure class="pull-right m-2 text-left">
                                 <img src="../../img/uploads/2023/10/evento-esg.png" width="450" height="auto" alt="Evento ESG e Inovação no setor do Transporte" class=" img-fluid">	
                                 <figcaption></figcaption>
                         </figure>
+
+                        <p class="article">No encontro, representantes do setor e especialistas debateram a importância dos princípios relacionados ao ESG, como Sustentabilidade, Governança e Responsabilidade Social, no setor de transportes.</p>
 
                         <p class="article">Cada vez mais, as empresas se preocupam com impactos ambientais de suas atividades. Clientes e a sociedade, em geral, também levam em conta esses fatores na contratação de serviços. Devido a esses e outros fatores, o Fórum ITL foi de extrema importância, segundo Max.</p>
 
