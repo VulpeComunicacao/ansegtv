@@ -24,6 +24,30 @@
                             <div class="carousel-item active">
                                 <div class="news-block">
                                     <div class="news-media">
+                                        <a href="./noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/">
+                                            <img class="img-fluid" src="./img/uploads/2023/10/sede-pf.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>06/10/2023</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/">ANSEGTV compõe Comissão Consultiva para Assuntos de Segurança Privada</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    O Ministério da Justiça e Segurança Pública publicou no dia 27 de setembro a Portaria MJSP Nº 493 que recria a Comissão Consultiva para Assuntos de Segurança Privada (CCASP).
+                                    <br>
+                                    <br>
+                                    O grupo será composto por membros da Polícia Federal e de entidades representativas das empresas de vigilância e de transporte de valores, dentre elas a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores).
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="news-block">
+                                    <div class="news-media">
                                         <a href="./noticias/ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">
                                             <img class="img-fluid" src="./img/uploads/2023/10/evento-esg.png" alt="">
                                         </a>
@@ -69,37 +93,30 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv/">
-                                            <img class="img-fluid" src="./img/uploads/2023/09/reuniao-secretario-n.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>01/09/2023</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv/">Secretário Nacional de Segurança Pública recebe diretoria da ANSEGTV</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    Na última quarta-feira, 30 de agosto, a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) esteve no Ministério da Justiça e Segurança Pública em Brasília.
-                                    <br>
-                                    <br>
-                                    A diretoria da ANSEGTV foi recebida pelo Secretário Nacional de Segurança Pública, Tadeu Alencar, e por André Gossain da Diretoria de Operações Integradas e Inteligência. Na ocasião, a entidade foi representada por Thiago Peixoto, Diretor Executivo, Max Madruga, Diretor Jurídico, Lincoln Telhado, Diretor de Relações Governamentais, Mauricio Wanderley, Secretário-Geral, e Raphael Cittadino, Consultor Jurídico.
-                                    </div>
-                                </div>
-                            </div>
-
-                            
 
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
+
+
+
+                    <div class="card">
+                        <a href="./noticias/secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv/">
+                            <img class="img-fluid" src="./img/uploads/2023/09/reuniao-secretario-n.png" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv/">Secretário Nacional de Segurança Pública recebe diretoria da ANSEGTV</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>01/09/2023</strong>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="card">
                         <a href="./noticias/ansegtv-apoia-fiscalizacao-da-pf-contra-empresas-clandestinas-de-seguranca/">
@@ -116,6 +133,15 @@
                             </div>
                         </div>
                     </div>
+
+ 
+
+         
+
+                </div>
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     <div class="card">
                         <a href="./noticias/ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">
@@ -134,13 +160,6 @@
                     </div>
 
 
-         
-
-                </div>
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
-
                     <div class="card">
                         <a href="./noticias/congresso-do-ipdl-destaca-papel-da-integridade-nas-empresas/">
                             <img class="img-fluid" src="./img/uploads/2023/05/max-ipdl.png" alt="">
@@ -157,21 +176,7 @@
                         </div>
                     </div>
 
-                    <div class="card">
-                        <a href="./noticias/ansegtv-se-reune-com-cnt-para-discutir-pauta-comum-para-o-setor-de-trasnporte/">
-                            <img class="img-fluid" src="./img/uploads/2023/05/reuniao-cnt.png" alt="">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/ansegtv-se-reune-com-cnt-para-discutir-pauta-comum-para-o-setor-de-trasnporte/">ANSEGTV se reúne com CNT para discutir pauta comum para o setor de transporte</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>23/05/2023</strong>
-                            </div>
-                        </div>
-                    </div>
+
 
 
 

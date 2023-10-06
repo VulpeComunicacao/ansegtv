@@ -97,6 +97,27 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/">
+                        <img src="../img/uploads/2023/10/sede-pf.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/">ANSEGTV compõe Comissão Consultiva para Assuntos de Segurança Privada</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>06 de outubro de 2023</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>O Ministério da Justiça e Segurança Pública publicou no dia 27 de setembro a Portaria MJSP Nº 493 que recria a Comissão Consultiva para Assuntos de Segurança Privada.</p>
+                        <a href="./ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">
                         <img src="../img/uploads/2023/10/evento-esg.png">
                      </a>
