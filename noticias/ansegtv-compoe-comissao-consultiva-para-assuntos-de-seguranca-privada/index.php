@@ -114,7 +114,9 @@
 
                         <p class="article">A ANSEGTV apoia e incentiva o retorno da CCASP. "Debater e apresentar sugestões para a melhoria do setor de segurança e transporte de valores sempre será um dos objetivos da associação", disse Max Madruga, Diretor Jurídico da ANSEGTV.</p>
 
-  
+                        <p class="article">Link para a Portaria MJSP Nº 493: <a href="https://dspace.mj.gov.br/bitstream/1/11327/1/PRT_GM_2023_493.pdf" target="_blank" rel="noopener noreferrer"></a> https://dspace.mj.gov.br/bitstream/1/11327/1/PRT_GM_2023_493.pdf</p>
+
+
                         </div>
                     </div>
                 <br>
