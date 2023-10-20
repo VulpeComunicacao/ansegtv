@@ -24,6 +24,30 @@
                             <div class="carousel-item active">
                                 <div class="news-block">
                                     <div class="news-media">
+                                        <a href="./noticias/entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/">
+                                            <img class="img-fluid" src="./img/uploads/2023/10/reuniao-com-pf.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>20/10/2023</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/">Entidades representativas da segurança privada se reúnem com a PF em Brasília</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    O Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Tavares Madruga, participou na terça-feira (17) do II Encontro com as Entidades Representativas do segmento de Segurança Privada, na sede da Polícia Federal, em Brasília (DF).
+                                    <br>
+                                    <br>
+                                    O convite para a reunião partiu do Delegado de Polícia Federal e Coordenador-Geral de Controle de Serviços e Produtos, Dr. Cristiano Jomar Costa Campidelli.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="news-block">
+                                    <div class="news-media">
                                         <a href="./noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/">
                                             <img class="img-fluid" src="./img/uploads/2023/10/sede-pf.png" alt="">
                                         </a>
@@ -69,38 +93,27 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/ansegtv-prestigia-o-10-enefav/">
-                                            <img class="img-fluid" src="./img/uploads/2023/09/evento-enefav.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>25/09/2023</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/ansegtv-prestigia-o-10-enefav/">ANSEGTV prestigia o 10º ENEFAV</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    O Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Tavares Madruga, e o Diretor de Assuntos Associativos e Sindicais da entidade, José Ferreira de Andrade Netto, participaram, na quarta-feira (20), da abertura do 10º ENEFAV - Encontro Nacional das Escolas de Formação e Aperfeiçoamento de Vigilantes.
-                                    <br>
-                                    <br>
-                                    AO evento, organizado pela ABCFAV (Associação Brasileira dos Cursos de Formação e Aperfeiçoamento de Vigilantes) e encerrado na sexta (22), foi realizado no Novotel São Paulo Center Norte, na capital paulista.
-                                    </div>
-                                </div>
-                            </div>
-
-
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
 
-
+                    <div class="card">
+                        <a href="./noticias/ansegtv-prestigia-o-10-enefav/">
+                            <img class="img-fluid" src="./img/uploads/2023/09/evento-enefav.png" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/ansegtv-prestigia-o-10-enefav/">ANSEGTV prestigia o 10º ENEFAV</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>25/09/2023</strong>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="card">
                         <a href="./noticias/secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv/">
@@ -118,6 +131,17 @@
                         </div>
                     </div>
 
+ 
+ 
+
+         
+
+                </div>
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
+
+
                     <div class="card">
                         <a href="./noticias/ansegtv-apoia-fiscalizacao-da-pf-contra-empresas-clandestinas-de-seguranca/">
                             <img class="img-fluid" src="./img/uploads/2023/08/agente-policia-federal.png" alt="">
@@ -134,14 +158,6 @@
                         </div>
                     </div>
 
- 
-
-         
-
-                </div>
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     <div class="card">
                         <a href="./noticias/ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">
@@ -158,29 +174,6 @@
                             </div>
                         </div>
                     </div>
-
-
-                    <div class="card">
-                        <a href="./noticias/congresso-do-ipdl-destaca-papel-da-integridade-nas-empresas/">
-                            <img class="img-fluid" src="./img/uploads/2023/05/max-ipdl.png" alt="">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/congresso-do-ipdl-destaca-papel-da-integridade-nas-empresas/">Congresso do IPLD destaca papel da integridade nas empresas</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>30/05/2023</strong>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-
-
-                    
 
                 </div>
             </div>

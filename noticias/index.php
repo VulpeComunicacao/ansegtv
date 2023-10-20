@@ -97,6 +97,27 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/">
+                        <img src="../img/uploads/2023/10/reuniao-com-pf.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/">Entidades representativas da segurança privada se reúnem com a PF em Brasília</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>20 de outubro de 2023</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>O Diretor Jurídico da ANSEGTV, Max Tavares Madruga, participou na terça-feira (17) do II Encontro com as Entidades Representativas do segmento de Segurança Privada...</p>
+                        <a href="./entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/">
                         <img src="../img/uploads/2023/10/sede-pf.png">
                      </a>
