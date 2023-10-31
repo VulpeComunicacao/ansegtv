@@ -24,6 +24,30 @@
                             <div class="carousel-item active">
                                 <div class="news-block">
                                     <div class="news-media">
+                                        <a href="./noticias/representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">
+                                            <img class="img-fluid" src="./img/uploads/2023/10/representantes.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>31/10/2023</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">Representantes de ANSEGTV, COAF e PF debatem prevenção à lavagem de dinheiro</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    O Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Tavares Madruga, a Delegada Chefe da DICOF/CGCSP/DIREX/PF, Dra. Denise Vargas Tenorio, e a Coordenadora-Geral de Fiscalização e Regulação do COAF, Flávia Maria Valente Carneiro, participaram na última quinta-feira (26) da live “ANSEGTV na Prevenção à Lavagem de Dinheiro”. .
+                                    <br>
+                                    <br>
+                                    O encontro, realizado na sede da entidade, em Brasília, foi transmitido a todos os associados. Ao menos 400 pessoas acompanharam o evento.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="news-block">
+                                    <div class="news-media">
                                         <a href="./noticias/entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/">
                                             <img class="img-fluid" src="./img/uploads/2023/10/reuniao-com-pf.png" alt="">
                                         </a>
@@ -69,35 +93,27 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">
-                                            <img class="img-fluid" src="./img/uploads/2023/10/evento-esg.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>04/10/2023</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">ANSEGTV acompanha Fórum sobre ESG e Inovação no Setor do Transporte</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    O Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Tavares Madruga, esteve no dia 28 de setembro no “Fórum ITL de Inovação no Setor do Transporte”, em Brasília. O tema do evento, organizado pelo Sistema Transporte (CNT / SEST SENAT / ITL), foi o “ESG no Transporte”.
-                                    <br>
-                                    <br>
-                                    No encontro, representantes do setor e especialistas debateram a importância dos princípios relacionados ao ESG, como Sustentabilidade, Governança e Responsabilidade Social, no setor de transportes.
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
+
+                <div class="card">
+                        <a href="./noticias/ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">
+                            <img class="img-fluid" src="./img/uploads/2023/10/evento-esg.png" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">ANSEGTV acompanha Fórum sobre ESG e Inovação no Setor do Transporte</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>04/10/2023</strong>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="card">
                         <a href="./noticias/ansegtv-prestigia-o-10-enefav/">
@@ -115,7 +131,12 @@
                         </div>
                     </div>
 
-                    <div class="card">
+                </div>
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
+
+                <div class="card">
                         <a href="./noticias/secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv/">
                             <img class="img-fluid" src="./img/uploads/2023/09/reuniao-secretario-n.png" alt="">
                         </a>
@@ -131,16 +152,6 @@
                         </div>
                     </div>
 
- 
- 
-
-         
-
-                </div>
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
-
 
                     <div class="card">
                         <a href="./noticias/ansegtv-apoia-fiscalizacao-da-pf-contra-empresas-clandestinas-de-seguranca/">
@@ -154,23 +165,6 @@
                             </div>
                             <div class="time-text">
                             <strong>23/08/2023</strong>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="card">
-                        <a href="./noticias/ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">
-                            <img class="img-fluid" src="./img/uploads/2023/07/reuniao-pf.png" alt="">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">ANSEGTV participa de reunião na PF para discutir portaria sobre segurança privada</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>07/07/2023</strong>
                             </div>
                         </div>
                     </div>

@@ -94,6 +94,27 @@
             </div>
             
             <div class="row mb-50">
+               div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
+                     <a href="./representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">
+                        <img src="../img/uploads/2023/10/representantes.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">Representantes de ANSEGTV, COAF e PF debatem prevenção à lavagem de dinheiro</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>31 de outubro de 2023</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>O Diretor Jurídico da ANSEGTV, Max Tavares Madruga, a Delegada Chefe da DICOF/CGCSP/DIREX/PF, Dra. Denise Vargas Tenorio, e a Coordenadora-Geral de Fiscalização e Regulação do COAF...</p>
+                        <a href="./representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
