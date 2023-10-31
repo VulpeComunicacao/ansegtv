@@ -98,7 +98,7 @@
                   <div class="single-blog">
                      <div class="blog-img">
                      <a href="./representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">
-                        <img src="../img/uploads/2023/10/representantes.png">
+                        <img width="548px" src="../img/uploads/2023/10/representantes.png">
                      </a>
                      </div>
                      <div class="blog-content">
