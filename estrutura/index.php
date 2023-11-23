@@ -94,7 +94,7 @@
         <div class="row estrutura mb-4">
             
             <div class="col-md-5 my-3">
-                <img src="../img/icon-building.png" alt="12 Empresas">
+                <img src="../img/icon-building.png" alt="10 Empresas">
                 <p>FORMADA POR <strong>11 EMPRESAS</strong> DE SEGURANÇA E TRANSPORTE DE VALORES </p>
             </div>
             <div class="col-md-4 my-3 estados">
@@ -102,7 +102,7 @@
                 <p><strong>22 ESTADOS</strong><br> BRASILEIROS + DF</p>
             </div>
             <div class="col-md-3 my-3 bases-operacionais">
-                <img src="../img/icon-factory.png" alt="76 Bases operacionais">
+                <img src="../img/icon-factory.png" alt="68 Bases operacionais">
                 <p><strong>67 BASES</strong><br> OPERACIONAIS</p>
             </div>
         </div>
@@ -441,9 +441,9 @@
                         <div id="box_rj" data-info="rj" class="estado">
                             <h3>Rio de Janeiro</h3>
                             
-                            <strong>Brasifort</strong><br>
+                            <!-- <strong>Brasifort</strong><br>
                             <a href="https://www.brasifort.com.br/" target="_blank">https://www.brasifort.com.br/</a>
-                            <br>
+                            <br> -->
                             <strong>Forte Araruama</strong><br>
                             <a href="https://www.forteararuama.com.br/" target="_blank">https://www.forteararuama.com.br/</a>
                             <br>
@@ -532,9 +532,9 @@
                         <div id="box_pb" data-info="pb" class="estado">
                             <h3>Paraíba</h3>
                             
-                            <strong>Brasifort</strong><br>
+                            <!-- <strong>Brasifort</strong><br>
                             <a href="https://www.brasifort.com.br/">https://www.brasifort.com.br/</a>
-                            <br>
+                            <br> -->
                             <strong>Kairós</strong><br>
                             <a href="http://www.nsfgrupo.com.br/">http://www.nsfgrupo.com.br/</a>
                             <br>
@@ -568,9 +568,9 @@
                         <div id="box_rn" data-info="rn" class="estado">
                             <h3>Rio Grande do Norte</h3>
                             
-                            <strong>Brasifort</strong><br>
+                            <!-- <strong>Brasifort</strong><br>
                             <a href="https://www.brasifort.com.br/">https://www.brasifort.com.br/</a>
-                            <br>
+                            <br> -->
                             <strong>Kairós</strong><br>
                             <a href="http://www.nsfgrupo.com.br/">http://www.nsfgrupo.com.br/</a>
                             <br>

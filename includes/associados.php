@@ -15,12 +15,12 @@
                 <a href="https://blueangels.com.br/" target="_blank" title="">
                     <img src="./img/logo-blueangels.png" alt="" class="img-fluid">
                 </a>
-            </li> -->
+            </li> 
             <li class="col-4 col-md-2">
                 <a href="https://www.brasifort.com.br/" target="_blank" title="">
                     <img src="./img/logo-brasfort.png" alt="" class="img-fluid">
                 </a>
-            </li>
+            </li> -->
             <li class="col-4 col-md-2">
                 <a href="http://www.ceforseguranca.com.br" target="_blank" title="">
                     <img src="./img/logo-cefor.png" alt="" class="img-fluid">
