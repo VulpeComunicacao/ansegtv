@@ -102,8 +102,8 @@
                 <p><strong>22 ESTADOS</strong><br> BRASILEIROS + DF</p>
             </div>
             <div class="col-md-3 my-3 bases-operacionais">
-                <img src="../img/icon-factory.png" alt="68 Bases operacionais">
-                <p><strong>68 BASES</strong><br> OPERACIONAIS</p>
+                <img src="../img/icon-factory.png" alt="61 Bases operacionais">
+                <p><strong>61 BASES</strong><br> OPERACIONAIS</p>
             </div>
         </div>
         <div class="row servicos text-center">
