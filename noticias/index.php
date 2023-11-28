@@ -131,7 +131,7 @@
                               </ul>
                            </div>
                         </div>
-                        <p>O Diretor Jurídico da ANSEGTV, Max Tavares Madruga, a Delegada Chefe da DICOF/CGCSP/DIREX/PF, Dra. Denise Vargas Tenorio, e a Coordenadora-Geral de Fiscalização e Regulação do COAF...</p>
+                        <p>O Diretor Jurídico da ANSEGTV, Max Tavares Madruga, a Delegada Chefe da DICOF/CGCSP/DIREX/PF, Dra. Denise Vargas Tenorio, e a Coordenadora-Geral de Fiscalização...</p>
                         <a href="./representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/" class="box_btn">leia mais</a>
                      </div>
                   </div>
