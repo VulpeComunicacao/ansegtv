@@ -97,6 +97,27 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">
+                        <img src="../img/uploads/2023/11/7-forum.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">7º Fórum CNT de Debates tem a participação da ANSEGTV</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>28 de novembro de 2023</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>O Diretor Jurídico da ANSEGTV, Max Tavares Madruga, representou a entidade no 7º Fórum CNT de Debates – Segurança Pública e a Atividade Transportadora, realizado no dia 22 de novembro...</p>
+                        <a href="./7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">
                         <img src="../img/uploads/2023/10/representantes.png">
                      </a>
