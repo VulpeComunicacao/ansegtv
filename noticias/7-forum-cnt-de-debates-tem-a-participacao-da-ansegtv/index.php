@@ -13,8 +13,8 @@
             <meta meta name="description" property="og:description" content="O Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Tavares Madruga, representou a entidade no 7º Fórum CNT de Debates – Segurança Pública e a Atividade Transportadora, realizado no dia 22 de novembro, em Brasília.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2023/11/7-forum-share.png">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2023/11/7-forum-share.png">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2023/11/7-forum-share.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2023/11/7-forum-share.jpg">
             <meta property="article:published_time" content="2023-11-28"/>
 
             <!-- Bootstrap CSS -->
