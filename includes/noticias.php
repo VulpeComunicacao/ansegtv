@@ -25,7 +25,7 @@
                                 <div class="news-block">
                                     <div class="news-media">
                                         <a href="./noticias/7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">
-                                            <img class="img-fluid" src="./img/uploads/2023/10/representantes.png" alt="">
+                                            <img class="img-fluid" src="./img/uploads/2023/11/7-forum.png" alt="">
                                         </a>
                                     </div>
                                     <div class="time-text">
