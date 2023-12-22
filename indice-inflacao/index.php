@@ -99,6 +99,8 @@
 
                     <p class="article">A estrutura de ponderação do <em>Índice de Inflação Setorial</em> para os serviços de transporte de valores é formada por 70% - Custo de Mão de Obra; 15% - Índice Nacional de Preços ao Consumidor (IPCA) representando "Demais Fatores"; e 15% - Preço do Diesel. Já para os serviços de tesouraria, em razão da natureza, o índice considera apenas a variação de Mão de Obra. <b>É importante salientar que não há obrigatoriedade de utilização do referido índice para negociações contratuais e reajustes com clientes</b>.</p>
 
+                    <p class="article">Em razão da alta variabilidade de preços de alguns itens da cesta considerada para o cálculo do Índice de Inflação Setorial para os serviços de transportes de valores, o índice pode apresentar variação negativa para algumas localidades. A ANSEGTV comprometida com a transparência através da contratação da Tendências Consultoria, uma empresa especializada na elaboração e atualização de índices econômicos, fará a sua divulgação recorrentemente, mas nestes casos especiais, dados os impactos comerciais, recomenda a sua não-aplicação.</p>
+
                     <p class="article">O propósito é promover a divulgação dos <em>Índice de Inflação Setorial</em> de acordo com as bases anuais (acumulado nos últimos 12 meses) para cada uma das 27 unidades da federação nos respectivos meses de dissídio da mão de obra.</p>
                     <hr>
                     <p class="nota-rodape"><sup>1</sup> A Tendências Consultoria Integrada ou seus representantes não serão responsabilizados por danos causados, direta ou indiretamente, que resultem de decisões tomadas com base nas informações aqui disponibilizadas.</p>
