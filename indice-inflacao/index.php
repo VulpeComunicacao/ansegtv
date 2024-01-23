@@ -112,6 +112,7 @@
                     <ul class="lista-arquivos">
                       <li><a href="../arquivos/indice-de-inflacao-setorial_2023_AC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AC</a></li>
                       <li><a href="../arquivos/indice-de-inflacao-setorial_2023_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AL</a></li>
+                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_AM.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AM</a></li>
                       <li><a href="../arquivos/indice-de-inflacao-setorial_2023_AP.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AP</a></li>
                       <li><a href="../arquivos/indice-de-inflacao-setorial_2023_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - BA</a></li>
                       <li><a href="../arquivos/indice-de-inflacao-setorial_2023_CE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - CE</a></li>
