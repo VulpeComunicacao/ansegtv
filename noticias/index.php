@@ -97,6 +97,27 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">
+                        <img src="../img/uploads/2024/02/presidente-ansegtv.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">Empresas devem se modernizar para atuar no mercado com os diversos meios de pagamento existentes</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>08 de fevereiro de 2024</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>Gabriel reconhece que a adesão aos meios eletrônicos de pagamento influenciou nas atividades dos associados, mas que o segmento vem sabendo se adaptar à nova realidade do mercado...</p>
+                        <a href="./empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">
                         <img src="../img/uploads/2023/11/7-forum.png">
                      </a>

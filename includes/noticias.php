@@ -20,8 +20,32 @@
                     <!-- Wrapper for slides -->
                         <div class="carousel-inner" role="listbox">
 
-
                             <div class="carousel-item active">
+                                <div class="news-block">
+                                    <div class="news-media">
+                                        <a href="./noticias/empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">
+                                            <img class="img-fluid" src="./img/uploads/2024/02/presidente-ansegtv.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>08/02/2024</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">Empresas devem se modernizar para atuar no mercado com os diversos meios de pagamento existentes</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    Com maior ou menor circulação, o dinheiro físico nunca acabará e seguirá importante para a população. A definição é do presidente da ANSEGTV, Gabriel Damasceno, sobre o atual momento do setor de segurança e transporte de valores.
+                                    <br>
+                                    <br>
+                                    Gabriel reconhece que a adesão aos meios eletrônicos de pagamento influenciou nas atividades dos associados, mas que o segmento vem sabendo se adaptar à nova realidade do mercado.
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="carousel-item">
                                 <div class="news-block">
                                     <div class="news-media">
                                         <a href="./noticias/7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">
@@ -69,35 +93,27 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/">
-                                            <img class="img-fluid" src="./img/uploads/2023/10/reuniao-com-pf.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>20/10/2023</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/">Entidades representativas da segurança privada se reúnem com a PF em Brasília</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    O Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Tavares Madruga, participou na terça-feira (17) do II Encontro com as Entidades Representativas do segmento de Segurança Privada, na sede da Polícia Federal, em Brasília (DF).
-                                    <br>
-                                    <br>
-                                    O convite para a reunião partiu do Delegado de Polícia Federal e Coordenador-Geral de Controle de Serviços e Produtos, Dr. Cristiano Jomar Costa Campidelli.
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
+
+                    <div class="card">
+                        <a href="./noticias/entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/">
+                            <img class="img-fluid" src="./img/uploads/2023/10/reuniao-com-pf.png" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/">Entidades representativas da segurança privada se reúnem com a PF em Brasília</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>20/10/2023</strong>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="card">
                         <a href="./noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/">
@@ -115,6 +131,11 @@
                         </div>
                     </div>
 
+                </div>
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
+
                     <div class="card">
                         <a href="./noticias/ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">
                             <img class="img-fluid" src="./img/uploads/2023/10/evento-esg.png" alt="">
@@ -130,13 +151,6 @@
                             </div>
                         </div>
                     </div>
-
-
-
-                </div>
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     <div class="card">
                         <a href="./noticias/ansegtv-prestigia-o-10-enefav/">
@@ -154,24 +168,6 @@
                         </div>
                     </div>
 
-                    <div class="card">
-                        <a href="./noticias/secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv/">
-                            <img class="img-fluid" src="./img/uploads/2023/09/reuniao-secretario-n.png" alt="">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv/">Secretário Nacional de Segurança Pública recebe diretoria da ANSEGTV</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>01/09/2023</strong>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    
 
                 </div>
             </div>
