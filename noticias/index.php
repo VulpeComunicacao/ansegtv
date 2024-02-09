@@ -110,7 +110,7 @@
                               </ul>
                            </div>
                         </div>
-                        <p>Gabriel reconhece que a adesão aos meios eletrônicos de pagamento influenciou nas atividades dos associados, mas que o segmento vem sabendo se adaptar à nova realidade do mercado...</p>
+                        <p>Gabriel reconhece que a adesão aos meios eletrônicos de pagamento influenciou nas atividades dos associados, mas que o segmento vem sabendo...</p>
                         <a href="./empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/" class="box_btn">leia mais</a>
                      </div>
                   </div>
