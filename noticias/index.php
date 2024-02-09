@@ -106,7 +106,7 @@
                            <h2 class="title-large"><a href="./empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">Empresas devem se modernizar para atuar no mercado com os diversos meios de pagamento existentes</a></h2>
                            <div class="meta">
                               <ul>
-                                 <li>08 de fevereiro de 2024</li>
+                                 <li>09 de fevereiro de 2024</li>
                               </ul>
                            </div>
                         </div>

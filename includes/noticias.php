@@ -28,7 +28,7 @@
                                         </a>
                                     </div>
                                     <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>08/02/2024</strong>
+                                        <strong><i class="fa fa-clock"></i>09/02/2024</strong>
                                     </div>
                                     <div class="news-title">
                                         <h3 class=" title-large">
