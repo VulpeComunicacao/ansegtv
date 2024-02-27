@@ -111,15 +111,15 @@
 
                     <ul class="nav nav-tabs" id="myTab" role="tablist">
                         <li class="nav-item">
-                        <a class="nav-link active" id="home-tab" data-toggle="tab" href="#2023" role="tab" aria-controls="home" aria-selected="true">2023</a>
+                        <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">2023</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" id="profile-tab" data-toggle="tab" href="#2024" role="tab" aria-controls="profile" aria-selected="false">2024</a>
+                        <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">2024</a>
                         </li>
                     </ul>
 
                     <div class="tab-content">
-                    <div class="tab-pane active" id="2023" role="tabpanel" aria-labelledby="home-tab">
+                    <div class="tab-pane active" id="home" role="tabpanel" aria-labelledby="home-tab">
                           <!-- <ul class="lista-arquivos">
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AC</a></li>
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AL</a></li>
@@ -151,7 +151,7 @@
                         </ul> --> teste 1
                       </div>
 
-                      <div class="tab-pane" id="2024" role="tabpanel" aria-labelledby="profile-tab">
+                      <div class="tab-pane" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                         <!-- <ul class="lista-arquivos">
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - BA</a></li>
                         </ul> -->  teste 2
