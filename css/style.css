@@ -457,6 +457,17 @@ ul.servicos-list li img { width: 92px; margin: 0 auto; height: auto;}
 }
 
 
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  color: #fff;
+  background-color: #9f7713;
+  border-color: #9f7713;
+}
+
+.nav-item {
+  border-right: solid 2px #c2a868;
+  padding: 0 10px;
+}
+
 
 /*
 // # Nossa Missão Styles
