@@ -119,7 +119,7 @@
                     </ul>
 
                     <div class="tab-content">
-                    <div class="tab-pane active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                    <div class="tab-pane active mb-4" id="home" role="tabpanel" aria-labelledby="home-tab">
                           <ul class="lista-arquivos">
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AC</a></li>
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AL</a></li>
@@ -151,7 +151,7 @@
                         </ul>
                       </div>
 
-                      <div class="tab-pane" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                      <div class="tab-pane mb-4" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                         <ul class="lista-arquivos">
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - BA</a></li>
                         </ul>
