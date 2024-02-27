@@ -109,34 +109,56 @@
                     <br>
                     <p class="article">Nos links abaixo, estão disponíveis os ofícios com os índices atualizados por estado a partir de 2023.</p>
 
-                    <ul class="lista-arquivos">
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_AC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AC</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AL</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_AM.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AM</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_AP.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AP</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - BA</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_CE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - CE</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_DF.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - DF</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_GO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - GO</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_MA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - MA</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_MG.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - MG</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_MS.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - MS</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_MT.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - MT</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_PA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - PA</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_PB.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - PB</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_PE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - PE</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_PI.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - PI</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_PR.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - PR</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_RJ.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - RJ</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_RN.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - RN</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_RO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - RO</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_RR.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - RR</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_RS.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - RS</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_SC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - SC</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_SE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - SE</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_SP.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - SP</a></li>
-                      <li><a href="../arquivos/indice-de-inflacao-setorial_2023_TO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - TO</a></li>
+
+                    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                      <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#indice-2023" type="button" role="tab" aria-controls="pills-home" aria-selected="true">2023</button>
+                      </li>
+                      <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#indice-2024" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">2024</button>
+                      </li>
                     </ul>
+                    <div class="tab-content" id="pills-tabContent">
+                      <div class="tab-pane fade show active" id="indice-2023" role="tabpanel" aria-labelledby="indice-2023-tab" tabindex="0">
+                          <ul class="lista-arquivos">
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AC</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AL</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AM.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AM</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AP.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AP</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - BA</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_CE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - CE</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_DF.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - DF</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_ES.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - ES</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_GO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - GO</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_MA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - MA</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_MG.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - MG</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_MS.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - MS</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_MT.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - MT</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_PA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - PA</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_PB.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - PB</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_PE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - PE</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_PI.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - PI</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_PR.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - PR</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_RJ.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - RJ</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_RN.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - RN</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_RO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - RO</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_RR.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - RR</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_RS.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - RS</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_SC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - SC</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_SE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - SE</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_SP.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - SP</a></li>
+                            <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_TO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - TO</a></li>
+                        </ul>
+
+
+                      </div>
+                      <div class="tab-pane fade" id="indice-2024" role="tabpanel" aria-labelledby="indice-profile-tab" tabindex="0">
+                      <ul class="lista-arquivos">
+                            <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - BA</a></li>
+
+                      </div>
+                    </div>
+
                   </div>
                 </div>
               </div>
