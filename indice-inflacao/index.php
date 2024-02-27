@@ -111,10 +111,10 @@
 
                     <ul class="nav nav-tabs">
                         <li class="nav-item">
-                          <a class="nav-link active" data-toggle="tab" href="#2023">2023</a>
+                          <a class="nav-link active" href="#2023">2023</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" data-toggle="tab" href="#2024">2024</a>
+                          <a class="nav-link" href="#2024">2024</a>
                         </li>
                     </ul>
 
@@ -152,7 +152,7 @@
 
 
                       </div>
-                      <div class="tab-pane" id="2024">
+                      <div class="tab-pane fade" id="2024">
                         <ul class="lista-arquivos">
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - BA</a></li>
 
