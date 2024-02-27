@@ -30,6 +30,10 @@
         $(this).find('.dropdown-menu').stop(true, true).delay(100).fadeOut(300);
         });
 
+        $('.nav-tabs a').click(function(){
+            $(this).tab('show');
+        })
+
     </script>
 
 

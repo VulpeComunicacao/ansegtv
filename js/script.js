@@ -32,11 +32,6 @@
 	    	e.preventDefault();
 	    });
 
-		// Configuração para as tabs - indice de inflação
-		$('.nav-tabs a').click(function(){
-			$(this).tab('show');
-		  })
-
 	    //Change select responsive
 		//$('#seletory').change(function () {
 		//	$('.empresas .estado').css({'opacity': 0 , 'visibitity':'hidden'});
