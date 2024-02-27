@@ -37,13 +37,7 @@
         });
     </script>
 
-    <script>
-    $(document).ready(function(){
-    $(".nav-tabs a").click(function(){
-        $(this).tab('show');
-    });
-    });
-    </script>
+
 
 
    <script src="//tag.goadopt.io/injector.js?website_code=98bfaecd-beda-4252-b173-f964b7a9a092" class="adopt-injector"></script>
