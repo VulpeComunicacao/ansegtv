@@ -109,6 +109,7 @@
                     <br>
                     <p class="article">Nos links abaixo, estão disponíveis os ofícios com os índices atualizados por estado a partir de 2023.</p>
 
+                    <!-- 
                     <ul class="nav nav-tabs">
                         <li class="nav-item">
                           <a class="nav-link active" href="#2023">2023</a>
@@ -157,6 +158,26 @@
 
                       </div>
                     </div>
+                    -->
+
+                    <div class="tabbable">
+                      <ul class="nav nav-tabs">
+                        <li class="active"><a href="#tab1" data-toggle="tab">Section 1</a></li>
+                        <li><a href="#tab2" data-toggle="tab">Section 2</a></li>
+                        <li><a href="#tab3" data-toggle="tab">Section 3</a></li>
+                      </ul>
+                      <div class="tab-content">
+                        <div class="tab-pane active" id="tab1">
+                          <p>I'm in Section 1.</p>
+                        </div>
+                        <div class="tab-pane" id="tab2">
+                          <p>I'm in Section 2.</p>
+                        </div>
+                        <div class="tab-pane" id="tab3">
+                          <p>I'm in Section 3.</p>
+                        </div>
+                      </div>
+                    </div>
 
                   </div>
                 </div>
@@ -191,11 +212,17 @@
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
-    
+
     <script>
-    $(document).ready(function(){
-      $(".nav-tabs a").click(function(){
-          $(this).tab('show');
+   $(function(){
+      var hash = window.location.hash;
+      hash && $('ul.nav a[href="' + hash + '"]').tab('show');
+
+      $('.nav-tabs a').click(function (e) {
+        $(this).tab('show');
+        var scrollmem = $('body').scrollTop();
+        window.location.hash = this.hash;
+        $('html,body').scrollTop(scrollmem);
       });
     });
     </script>
