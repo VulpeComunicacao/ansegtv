@@ -23,6 +23,31 @@
                             <div class="carousel-item active">
                                 <div class="news-block">
                                     <div class="news-media">
+                                        <a href="./noticias/com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">
+                                            <img class="img-fluid" src="./img/uploads/2024/02/evento-ccasp.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>27/02/2024</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">Com participação da ANSEGTV, CCASP tem primeira reunião do ano</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    O Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Madruga, participou no dia 20 de fevereiro da reunião da CCASP (Comissão Consultiva para Assuntos de Segurança Privada), da qual a entidade é membro efetivo. A reunião ocorreu no auditório da Polícia Federal, em Brasília.
+                                    <br>
+                                    <br>
+                                    Foram debatidos diversos temas importantes para o setor, como a adequação da operação das empresas à Portaria DG/PF 18.045/2023, que normatiza o segmento; funcionamento do GESP (Sistema de Gestão Eletrônica de Segurança Privada); uniformização dos processos de vistoria de carros-fortes; biometria dos vigilantes e destruição de coletes...
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="carousel-item">
+                                <div class="news-block">
+                                    <div class="news-media">
                                         <a href="./noticias/empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">
                                             <img class="img-fluid" src="./img/uploads/2024/02/presidente-ansegtv.png" alt="">
                                         </a>
@@ -69,35 +94,27 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">
-                                            <img class="img-fluid" src="./img/uploads/2023/10/representantes.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>31/10/2023</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">Representantes de ANSEGTV, COAF e PF debatem prevenção à lavagem de dinheiro</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    O Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Tavares Madruga, a Delegada Chefe da DICOF/CGCSP/DIREX/PF, Dra. Denise Vargas Tenorio, e a Coordenadora-Geral de Fiscalização e Regulação do COAF, Flávia Maria Valente Carneiro, participaram na última quinta-feira (26) da live “ANSEGTV na Prevenção à Lavagem de Dinheiro”. .
-                                    <br>
-                                    <br>
-                                    O encontro, realizado na sede da entidade, em Brasília, foi transmitido a todos os associados. Ao menos 400 pessoas acompanharam o evento.
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
+
+                    <div class="card">
+                        <a href="./noticias/representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">
+                            <img class="img-fluid" src="./img/uploads/2023/10/representantes.png" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">Representantes de ANSEGTV, COAF e PF debatem prevenção à lavagem de dinheiro</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>31/10/2023</strong>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="card">
                         <a href="./noticias/entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/">
@@ -115,6 +132,13 @@
                         </div>
                     </div>
 
+
+
+                </div>
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
+
                     <div class="card">
                         <a href="./noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/">
                             <img class="img-fluid" src="./img/uploads/2023/10/sede-pf.png" alt="">
@@ -130,11 +154,6 @@
                             </div>
                         </div>
                     </div>
-
-                </div>
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     <div class="card">
                         <a href="./noticias/ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">
@@ -152,21 +171,7 @@
                         </div>
                     </div>
 
-                    <div class="card">
-                        <a href="./noticias/ansegtv-prestigia-o-10-enefav/">
-                            <img class="img-fluid" src="./img/uploads/2023/09/evento-enefav.png" alt="">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/ansegtv-prestigia-o-10-enefav/">ANSEGTV prestigia o 10º ENEFAV</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>25/09/2023</strong>
-                            </div>
-                        </div>
-                    </div>
+  
 
 
                 </div>

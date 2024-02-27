@@ -97,6 +97,27 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">
+                        <img src="../img/uploads/2024/02/evento-ccasp.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">Empresas devem se modernizar para atuar no mercado com os diversos meios de pagamento existentes</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>27 de fevereiro de 2024</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>O Diretor Jurídico da ANSEGTV, Max Madruga, participou no dia 20 de fevereiro da reunião da CCASP, da qual a entidade é membro efetivo...</p>
+                        <a href="./com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">
                         <img src="../img/uploads/2024/02/presidente-ansegtv.png">
                      </a>

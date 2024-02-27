@@ -2,20 +2,20 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Empresas devem se modernizar para atuar no mercado com os diversos meios de pagamento existentes</title>
+            <title>Com participação da ANSEGTV, CCASP tem primeira reunião do ano</title>
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="Empresas devem se modernizar para atuar no mercado com os diversos meios de pagamento existentes">
-            <meta meta name="description" property="og:description" content="Com maior ou menor circulação, o dinheiro físico nunca acabará e seguirá importante para a população.">
+            <meta property="og:title" content="Com participação da ANSEGTV, CCASP tem primeira reunião do ano">
+            <meta meta name="description" property="og:description" content="O Diretor Jurídico da ANSEGTV, Max Madruga, participou no dia 20 de fevereiro da reunião da CCASP, da qual a entidade é membro efetivo. A reunião ocorreu no auditório da Polícia Federal, em Brasília.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2024/02/presidente-ansegtv-share.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2024/02/presidente-ansegtv-share.jpg">
-            <meta property="article:published_time" content="2023-02-09"/>
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2024/02/evento-ccasp-share.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2024/02/evento-ccasp-share.jpg">
+            <meta property="article:published_time" content="2023-02-27"/>
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -91,9 +91,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12 col-md-10 offset-md-1 title-news text-center">
-                            <h1>Empresas devem se modernizar para atuar no mercado com os diversos meios de pagamento existentes, diz presidente da ANSEGTV</h1>
+                            <h1>Com participação da ANSEGTV, CCASP tem primeira reunião do ano</h1>
                             <p class="post-infos">
-                                <span class="mx-2 author"><i class="fa fa-user"></i> ANSEGTV</span> | <span class="mx-2 date"><i class="fa fa-clock-o"></i>09/02/2024 - 10h02</span> | <span class="mx-2 category"><i class="fa fa-tag"></i> ANSEGTV</span>
+                                <span class="mx-2 author"><i class="fa fa-user"></i> ANSEGTV</span> | <span class="mx-2 date"><i class="fa fa-clock-o"></i>09/02/2024 - 09h30</span> | <span class="mx-2 category"><i class="fa fa-tag"></i> ANSEGTV</span>
                             </p>
                             <hr class="divider">
                         </div>
@@ -102,30 +102,18 @@
                         <div class="col-12 col-md-10 offset-md-1 content-news">
 
 
-                        <p class="article">Com maior ou menor circulação, o dinheiro físico nunca acabará e seguirá importante para a população. A definição é do presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Gabriel Damasceno, sobre o atual momento do setor de segurança e transporte de valores.</p>
-
-                        <p class="article">Gabriel reconhece que a adesão aos meios eletrônicos de pagamento influenciou nas atividades dos associados, mas que o segmento vem sabendo se adaptar à nova realidade do mercado. Leia a entrevista a seguir:</p>
-
-                        <p class="article"><strong>- Quais são os desafios mais significativos enfrentados pelas empresas de vigilância e transporte de valores atualmente?</strong><br>
-                        <em>Obviamente, os meios eletrônicos de pagamento provocaram uma queda na circulação de numerário. Houve um aumento da atividade durante a pandemia, principalmente com os pagamentos dos auxílios emergenciais. Mas essa fase passou. As empresas, no entanto, vêm sabendo se adequar ao novo momento. Cresceu o investimento em novos produtos, em qualificação, logística e na diversificação de serviços.</em></p>
-
-                        <p class="article"><strong>-Como as empresas do setor estão incorporando inovações tecnológicas em suas operações?</strong><br>
-                        <em>Isso passa um pouco pela questão anterior. A tecnologia tem uma presença constante no dia a dia, na busca por eficiência, maior fluidez nas operações, pela automação. Os carros-fortes elétricos, por exemplo, já começam a ser uma realidade. Tudo isso para oferecer um serviço melhor aos clientes e à população. O que não significa a substituição do trabalho humano. São funções complementares.</em></p>
+                        <p class="article">O Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Madruga, participou no dia 20 de fevereiro da reunião da CCASP (Comissão Consultiva para Assuntos de Segurança Privada), da qual a entidade é membro efetivo. A reunião ocorreu no auditório da Polícia Federal, em Brasília.</p>
 
                         <figure class="pull-right m-2 text-left">
-                                <img src="../../img/uploads/2024/02/presidente-ansegtv.png" width="450" height="auto" alt="Presidente da ANSEGTV - Gabriel Damasceno" class=" img-fluid">	
+                                <img src="../../img/uploads/2024/02/evento--ccasp.png" width="450" height="auto" alt="Evento CCASP - ANSEGTV" class=" img-fluid">	
                                 <figcaption></figcaption>
                         </figure>
 
-                       <p class="article"><strong>-Como vem sendo o trabalho de identificação e combate à lavagem de dinheiro?</strong><br>
-                       <em>As empresas de transporte de valores devem cumprir a Lei de Prevenção à Lavagem de Dinheiro e a norma da Polícia Federal que trata do tema. Sistemas já conseguem gerar alertas e procedimentos para análise das movimentações de numerário que possam apresentar alguma suspeita de irregularidade. Além disso, a preocupação já começa antes de iniciar um serviço para um novo cliente, fazendo um trabalho de verificação de quem é esse parceiro e que tipo de negócio ele exerce. Nos contratos comerciais, é preciso deixar claro que a empresa cumpre as normas legais do país em relação ao tema. Também é necessário um trabalho contínuo de treinamento dos funcionários, de forma que o assunto seja de conhecimento de todos e que todos possam ajudar a identificar qualquer suspeita.</em></p>
+                        <p class="article">Foram debatidos diversos temas importantes para o setor, como a adequação da operação das empresas à Portaria DG/PF 18.045/2023, que normatiza o segmento; funcionamento do GESP (Sistema de Gestão Eletrônica de Segurança Privada); uniformização dos processos de vistoria de carros-fortes; biometria dos vigilantes e destruição de coletes; planejamento para visita ao Ministério da Justiça, que visará a discussão do plano de defesa das cidades; o Estatuto da Segurança Privada, entre tantos outros assuntos que visam aperfeiçoar o segmento.</p>
 
-                        <p class="article"><strong>-A ANSEGTV faz parte da Comissão Consultiva para Assuntos de Segurança Privada (CCASP). Qual a importância desse contato com autoridades e outros representantes do setor?</strong><br>
-                        <em>A CCASP é um fórum fundamental à gestão da atividade de segurança privada, pois ali são debatidos os principais temas de relevância do setor. A possibilidade de estar inserido nessas discussões proporciona a participação dos representantes do setor na sugestão de aperfeiçoamento das normas que regulamentam nossa atividade. Além disso, temos a possibilidade de tratar de assuntos que estejam causando impacto nas empresas e gerando problemas na operação. A PF tem sido bastante receptiva no acolhimento das sugestões que visam modernizar e aprimorar a segurança privada. O diálogo com órgãos reguladores e de segurança é essencial.</em></p>
+                        <p class="article">Sob a coordenação do Delegado de Polícia Federal e Coordenador-Geral de Controle de Serviços e Produtos, Dr. Cristiano Jomar Costa Campidelli, a PF recebeu as sugestões das entidades e ficou de avaliar a melhor forma de atender às demandas do setor.</p>
 
-                        <p class="article"><strong>-Há um ano, nós falamos sobre a preocupação que o Novo Cangaço causava para o setor. Mudou algo nesse período?</strong><br>
-                        <em>A preocupação ainda existe. Os indicadores mostram uma melhora na redução dos ataques, mas eles ainda acontecem e são um risco para as instituições financeiras, empresas de transporte de valores e, principalmente, para a sociedade, que fica exposta a essa violência. Além da possibilidade de desabastecimento de dinheiro, ainda há o risco de vida, causado pela violência dos criminosos nesse tipo de crime. Há uma lacuna legislativa nesse contexto que precisa ser solucionada, para garantir que os criminosos cumpram penas adequadas ao tipo de crime que cometeram.</em></p>
-
+                        <p class="article">“Foi um encontro bastante produtivo. Pudemos debater e sugerir propostas às autoridades competentes. O diálogo é sempre a forma mais adequada para se chegar a soluções e melhorias”, disse Max.</p>
 
                         </div>
                     </div>
