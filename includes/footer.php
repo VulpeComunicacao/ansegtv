@@ -29,11 +29,14 @@
         }, function() {
         $(this).find('.dropdown-menu').stop(true, true).delay(100).fadeOut(300);
         });
+    </script>
 
-        $('.nav-tabs a').click(function(){
-            $(this).tab('show');
-        })
-
+    <script>
+    $(document).ready(function(){
+    $(".nav-tabs a").click(function(){
+        $(this).tab('show');
+    });
+    });
     </script>
 
 
