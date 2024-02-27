@@ -93,7 +93,7 @@
                         <div class="col-12 col-md-10 offset-md-1 title-news text-center">
                             <h1>Com participação da ANSEGTV, CCASP tem primeira reunião do ano</h1>
                             <p class="post-infos">
-                                <span class="mx-2 author"><i class="fa fa-user"></i> ANSEGTV</span> | <span class="mx-2 date"><i class="fa fa-clock-o"></i>09/02/2024 - 09h30</span> | <span class="mx-2 category"><i class="fa fa-tag"></i> ANSEGTV</span>
+                                <span class="mx-2 author"><i class="fa fa-user"></i> ANSEGTV</span> | <span class="mx-2 date"><i class="fa fa-clock-o"></i>27/02/2024 - 09h30</span> | <span class="mx-2 category"><i class="fa fa-tag"></i> ANSEGTV</span>
                             </p>
                             <hr class="divider">
                         </div>
