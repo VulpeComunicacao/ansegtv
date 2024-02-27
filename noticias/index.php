@@ -103,7 +103,7 @@
                      </div>
                      <div class="blog-content">
                         <div class="blog-title">
-                           <h2 class="title-large"><a href="./com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">Empresas devem se modernizar para atuar no mercado com os diversos meios de pagamento existentes</a></h2>
+                           <h2 class="title-large"><a href="./com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">Com participação da ANSEGTV, CCASP tem primeira reunião do ano</a></h2>
                            <div class="meta">
                               <ul>
                                  <li>27 de fevereiro de 2024</li>
