@@ -109,17 +109,16 @@
                     <br>
                     <p class="article">Nos links abaixo, estão disponíveis os ofícios com os índices atualizados por estado a partir de 2023.</p>
 
+                    <ul class="nav nav-pills mb-3">
+                      <li class='nav-item'>
+                        <a class='nav-link active' data-toggle='tab' href='#2023'>2023</a>
+                      </li>
+                      <li class='nav-item'>
+                        <a class='nav-link ' data-toggle='tab' href='#2024'>2024</a>
+                      </li>
 
-                    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
-                      <li class="nav-item" role="presentation">
-                        <button class="nav-link active" id="pills-2023-tab" data-bs-toggle="pill" data-bs-target="#indice-2023" type="button" role="tab" aria-controls="pills-2023" aria-selected="true">2023</button>
-                      </li>
-                      <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="pills-2024-tab" data-bs-toggle="pill" data-bs-target="#indice-2024" type="button" role="tab" aria-controls="pills-2024" aria-selected="false">2024</button>
-                      </li>
-                    </ul>
                     <div class="tab-content" id="pills-tabContent">
-                      <div class="tab-pane fade show active" id="indice-2023" role="tabpanel" aria-labelledby="pills-2023-tab" tabindex="0">
+                      <div class="tab-pane fade in show active" id="2023">
                           <ul class="lista-arquivos">
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AC</a></li>
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AL</a></li>
@@ -152,7 +151,7 @@
 
 
                       </div>
-                      <div class="tab-pane fade" id="indice-2024" role="tabpanel" aria-labelledby="pills-2024-tab" tabindex="0">
+                      <div class="tab-pane fade" id="2024">
                       <ul class="lista-arquivos">
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - BA</a></li>
 
