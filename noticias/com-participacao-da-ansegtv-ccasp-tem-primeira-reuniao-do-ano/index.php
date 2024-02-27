@@ -105,7 +105,7 @@
                         <p class="article">O Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Madruga, participou no dia 20 de fevereiro da reunião da CCASP (Comissão Consultiva para Assuntos de Segurança Privada), da qual a entidade é membro efetivo. A reunião ocorreu no auditório da Polícia Federal, em Brasília.</p>
 
                         <figure class="pull-right m-2 text-left">
-                                <img src="../../img/uploads/2024/02/evento--ccasp.png" width="450" height="auto" alt="Evento CCASP - ANSEGTV" class=" img-fluid">	
+                                <img src="../../img/uploads/2024/02/evento-ccasp.png" width="450" height="auto" alt="Evento CCASP - ANSEGTV" class=" img-fluid">	
                                 <figcaption></figcaption>
                         </figure>
 
