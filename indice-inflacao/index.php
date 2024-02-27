@@ -111,7 +111,7 @@
 
                     <ul class="nav nav-tabs mb-3">
                       <li class='nav-item'>
-                        <a class='nav-link active' data-toggle='tab' href='#2023'>2023</a>
+                        <a class='nav-link' data-toggle='tab' href='#2023'>2023</a>
                       </li>
                       <li class='nav-item'>
                         <a class='nav-link ' data-toggle='tab' href='#2024'>2024</a>
@@ -119,7 +119,7 @@
                     </ul>
 
                     <div class="tab-content">
-                      <div class="tab-pane fade in show active" id="2023">
+                      <div class="tab-pane fade" id="2023">
                           <ul class="lista-arquivos">
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AC</a></li>
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AL</a></li>
@@ -153,7 +153,7 @@
 
                       </div>
                       <div class="tab-pane fade" id="2024">
-                      <ul class="lista-arquivos">
+                        <ul class="lista-arquivos">
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - BA</a></li>
 
                       </div>
