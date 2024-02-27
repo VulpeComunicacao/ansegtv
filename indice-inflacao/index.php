@@ -109,7 +109,7 @@
                     <br>
                     <p class="article">Nos links abaixo, estão disponíveis os ofícios com os índices atualizados por estado a partir de 2023.</p>
 
-                    <ul class="nav nav-pills mb-3">
+                    <ul class="nav nav-tabs mb-3">
                       <li class='nav-item'>
                         <a class='nav-link active' data-toggle='tab' href='#2023'>2023</a>
                       </li>
@@ -117,7 +117,7 @@
                         <a class='nav-link ' data-toggle='tab' href='#2024'>2024</a>
                       </li>
 
-                    <div class="tab-content" id="pills-tabContent">
+                    <div class="tab-content">
                       <div class="tab-pane fade in show active" id="2023">
                           <ul class="lista-arquivos">
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AC</a></li>
