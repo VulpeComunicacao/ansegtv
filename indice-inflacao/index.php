@@ -120,7 +120,7 @@
 
                     <div class="tab-content">
                     <div class="tab-pane active" id="home" role="tabpanel" aria-labelledby="home-tab">
-                          <!-- <ul class="lista-arquivos">
+                          <ul class="lista-arquivos">
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AC</a></li>
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AL</a></li>
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AM.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AM</a></li>
@@ -148,13 +148,13 @@
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_SE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - SE</a></li>
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_SP.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - SP</a></li>
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_TO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - TO</a></li>
-                        </ul> --> teste 1
+                        </ul>
                       </div>
 
                       <div class="tab-pane" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                        <!-- <ul class="lista-arquivos">
+                        <ul class="lista-arquivos">
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - BA</a></li>
-                        </ul> -->  teste 2
+                        </ul>
                       </div>
                     </div>
 
