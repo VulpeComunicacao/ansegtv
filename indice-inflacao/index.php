@@ -3,17 +3,17 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-    <title>ANSEGTV - Associação Nacional de Segurança e Transporte de Valores</title>
+    <title>Índice de Inflação - ANSEGTV - Associação Nacional de Segurança e Transporte de Valores</title>
     <meta charset="utf-8">
-    <meta name="description" content="Saiba mais sobre a ANSEGTV. Nossa estrutura, unidades, serviços" />
+    <meta name="description" content="Acompanhe o Índice de Inflação Setorial de acordo com as bases anuais para cada uma das 27 unidades da federação nos respectivos meses de dissídio da mão de obra." />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="robots" content="index, follow">
     <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
     <!-- OpenGraph TAGS -->
-    <meta property="og:title" content=" ANSEGTV - Associação Nacional de Segurança e Transporte de Valores">
+    <meta property="og:title" content="Índice de Inflação - ANSEGTV - Associação Nacional de Segurança e Transporte de Valores">
     <meta property="og:site_name" content="ANSEGTV">
     <meta property="og:url" content="https://ansegtv.com.br/indice-inflacao">
-    <meta property="og:description" content="Saiba mais sobre a ANSEGTV. Nossa estrutura, unidades, serviços">
+    <meta property="og:description" content="Acompanhe o Índice de Inflação Setorial de acordo com as bases anuais para cada uma das 27 unidades da federação nos respectivos meses de dissídio da mão de obra.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://ansegtv.com.br/img/open-graph-ansegtv2.png">
 
