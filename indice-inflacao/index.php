@@ -154,7 +154,7 @@
                       <div class="tab-pane" id="2024" role="tabpanel" aria-labelledby="profile-tab">
                         <ul class="lista-arquivos">
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - BA</a></li>
-
+                        </ul>
                       </div>
                     </div>
 
