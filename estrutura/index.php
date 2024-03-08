@@ -428,7 +428,7 @@
                             <h3>Minas Gerais</h3>
                             
                             <strong>IBL Valores</strong><br>
-                            <a href="https://www.iblvalores.com.br/">https://www.iblvalores.com.br.</a>
+                            <a href="https://www.iblvalores.com.br/">https://www.iblvalores.com.br</a>
                         </div>
                         <div id="box_sp" data-info="sp" class="estado">
                             <h3>São Paulo</h3>
@@ -440,7 +440,7 @@
                             <a href="https://www.tbforte.com.br">https://www.tbforte.com.br</a>
                             <br>
                             <strong>IBL Valores</strong><br>
-                            <a href="https://www.iblvalores.com.br/">https://www.iblvalores.com.br.</a>
+                            <a href="https://www.iblvalores.com.br/">https://www.iblvalores.com.br</a>
                         </div>
                         <div id="box_rj" data-info="rj" class="estado">
                             <h3>Rio de Janeiro</h3>
@@ -455,7 +455,7 @@
                             <a href="https://www.tbforte.com.br/" target="_blank">https://www.tbforte.com.br/</a>
                             <br>
                             <strong>IBL Valores</strong><br>
-                            <a href="https://www.iblvalores.com.br/">https://www.iblvalores.com.br.</a>
+                            <a href="https://www.iblvalores.com.br/">https://www.iblvalores.com.br</a>
                         </div>
                         <div id="box_al" data-info="al" class="estado">
                             <h3>Alagoas</h3>
@@ -479,7 +479,7 @@
                             <a href="http://www.globalservice-am.com.br/">http://www.globalservice-am.com.br/</a>
                             <br>
                             <strong>IBL Valores</strong><br>
-                            <a href="https://www.iblvalores.com.br/">https://www.iblvalores.com.br.</a>
+                            <a href="https://www.iblvalores.com.br/">https://www.iblvalores.com.br</a>
                         </div>
                         <div id="box_ba" data-info="ba" class="estado">
                             <h3>Bahia</h3>
@@ -488,7 +488,7 @@
                             <a href="https://etmoq.com.br/">https://etmoq.com.br/</a>
                             <br> -->
                             <strong>Renaforte</strong><br>
-                            <a href="http://www.renaforte.com.br/">http://www.renaforte.com.br/</a>
+                            <a href="http://www.renaforte.com.br/">http://www.renaforte.com.br</a>
                             <br>
                             <strong>TBForte</strong><br>
                             <a href="https://www.tbforte.com.br/">https://www.tbforte.com.br</a>
@@ -497,7 +497,7 @@
                             <h3>Ceará</h3>
                             
                             <strong>Corpvs</strong><br>
-                            <a href="https://www.corpvs.com.br/">https://www.corpvs.com.br/</a>
+                            <a href="https://www.corpvs.com.br/">https://www.corpvs.com.br</a>
                         </div>
                         <div id="box_df" data-info="df" class="estado">
                             <h3>Distrito Federal</h3>
