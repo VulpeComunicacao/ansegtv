@@ -57,7 +57,7 @@
                 </a>
             </li>
             <li class="col-4 col-md-2">
-                <a href="http://www.iblvalores.com.br./" target="_blank" title="">
+                <a href="http://www.iblvalores.com.br/" target="_blank" title="">
                     <img src="./img/logo-ibl-valores.png" alt="" class="img-fluid">
                 </a>
             </li>
