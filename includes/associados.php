@@ -55,12 +55,17 @@
                 <a href="http://www.globalservice-am.com.br/" target="_blank" title="">
                     <img src="./img/logo-global-service.png" alt="" class="img-fluid">
                 </a>
-                </li>
+            </li>
+            <li class="col-4 col-md-2">
+                <a href="http://www.iblvalores.com.br./" target="_blank" title="">
+                    <img src="./img/logo-ibl-valores.png" alt="" class="img-fluid">
+                </a>
+            </li>
             <li class="col-4 col-md-2">
                 <a href="http://www.nsfgrupo.com.br/" target="_blank" title="">
                     <img src="./img/logo-kaikos.png" alt="" class="img-fluid">
                 </a>
-                </li>
+            </li>
             <li class="col-4 col-md-2">
                 <a href="http://www.renaforte.com.br/" target="_blank" title="">
                     <img src="./img/logo-renaforte.png" alt="" class="img-fluid">
