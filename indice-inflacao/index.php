@@ -153,7 +153,10 @@
 
                       <div class="tab-pane mb-4" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                         <ul class="lista-arquivos pt-3">
+                            <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - AL</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - BA</a></li>
+                            <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_RO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - RO</a></li>
+                            <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_TO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - TO</a></li>
                         </ul>
                       </div>
                     </div>
