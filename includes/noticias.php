@@ -23,6 +23,30 @@
                             <div class="carousel-item active">
                                 <div class="news-block">
                                     <div class="news-media">
+                                        <a href="./noticias/ansegtv-faz-visita-institucional-a-cnt/">
+                                            <img class="img-fluid" src="./img/uploads/2024/03/fachada-sest-senat.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>28/03/2024</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/ansegtv-faz-visita-institucional-a-cnt/">ANSEGTV faz visita institucional à CNT</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    Representantes da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) estiveram, na terça-feira (26), na sede da CNT (Confederação Nacional do Transporte), em Brasília (DF), para conhecer mais sobre o funcionamento e a organização do Sistema Transporte.
+                                    <br>
+                                    <br>
+                                    A reunião foi liderada pelo diretor de Relações Institucionais da CNT, Valter Souza, que explicou para o presidente da ANSEGTV, Gabriel Damasceno, e o diretor jurídico da entidade, Max Madruga, como é a atuação do Sistema Transporte; o que a CNT faz em defesa do setor; os serviços que o SEST SENAT oferece para os profissionais do transporte; e as formações executivas que o ITL...
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="news-block">
+                                    <div class="news-media">
                                         <a href="./noticias/com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">
                                             <img class="img-fluid" src="./img/uploads/2024/02/evento-ccasp.png" alt="">
                                         </a>
@@ -43,7 +67,6 @@
                                     </div>
                                 </div>
                             </div>
-
 
                             <div class="carousel-item">
                                 <div class="news-block">
@@ -69,36 +92,27 @@
                                 </div>
                             </div>
 
-
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">
-                                            <img class="img-fluid" src="./img/uploads/2023/11/7-forum.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>28/11/2023</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">7º Fórum CNT de Debates tem a participação da ANSEGTV</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    O Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Tavares Madruga, representou a entidade no 7º Fórum CNT de Debates – Segurança Pública e a Atividade Transportadora, realizado no dia 22 de novembro, em Brasília.
-                                    <br>
-                                    <br>
-                                    O evento reuniu empresários de todos os setores do transporte, autoridades nacionais e especialistas para debater os desafios e propor soluções para a segurança pública no segmento.
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
+
+                    <div class="card">
+                        <a href="./noticias/r7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">
+                            <img class="img-fluid" src="./img/uploads/2023/11/7-forum.png" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">7º Fórum CNT de Debates tem a participação da ANSEGTV</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>28/11/2023</strong>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="card">
                         <a href="./noticias/representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">
@@ -116,6 +130,15 @@
                         </div>
                     </div>
 
+                   
+
+
+
+                </div>
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
+
                     <div class="card">
                         <a href="./noticias/entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/">
                             <img class="img-fluid" src="./img/uploads/2023/10/reuniao-com-pf.png" alt="">
@@ -131,13 +154,6 @@
                             </div>
                         </div>
                     </div>
-
-
-
-                </div>
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     <div class="card">
                         <a href="./noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/">
@@ -155,21 +171,7 @@
                         </div>
                     </div>
 
-                    <div class="card">
-                        <a href="./noticias/ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">
-                            <img class="img-fluid" src="./img/uploads/2023/10/evento-esg.png" alt="">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">ANSEGTV acompanha Fórum sobre ESG e Inovação no Setor do Transporte</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>04/10/2023</strong>
-                            </div>
-                        </div>
-                    </div>
+                    
 
   
 

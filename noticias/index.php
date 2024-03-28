@@ -97,6 +97,27 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./ansegtv-faz-visita-institucional-a-cnt/">
+                        <img src="../img/uploads/2024/03/fachada-sest-senat.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./ansegtv-faz-visita-institucional-a-cnt/">ANSEGTV faz visita institucional à CNT</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>28 de março de 2024</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>Representantes da ANSEGTV estiveram, na terça-feira (26), na sede da CNT, em Brasília (DF), para conhecer mais sobre o funcionamento e a organização do Sistema Transporte.</p>
+                        <a href="./ansegtv-faz-visita-institucional-a-cnt/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">
                         <img src="../img/uploads/2024/02/evento-ccasp.png">
                      </a>
