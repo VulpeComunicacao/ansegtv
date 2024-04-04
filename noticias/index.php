@@ -97,6 +97,28 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./ansegtv-e-senasp-se-reunem-em-brasilia/">
+                        <img src="../img/uploads/2024/04/encontro-senasp.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./ansegtv-e-senasp-se-reunem-em-brasilia/">ANSEGTV e SENASP se reúnem em Brasília</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>04 de abril de 2024</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>O Secretário Nacional de Segurança Pública, Mario Luiz Sarrubbo, e o Diretor de Operações Integradas e de Inteligência da Secretaria Nacional de Segurança Pública (SENASP), Rodney da Silva...</p>
+                        <a href="./ansegtv-e-senasp-se-reunem-em-brasilia/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./ansegtv-faz-visita-institucional-a-cnt/">
                         <img src="../img/uploads/2024/03/fachada-sest-senat.png">
                      </a>

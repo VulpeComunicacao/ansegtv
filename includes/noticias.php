@@ -23,6 +23,30 @@
                             <div class="carousel-item active">
                                 <div class="news-block">
                                     <div class="news-media">
+                                        <a href="./noticias/ansegtv-e-senasp-se-reunem-em-brasilia/">
+                                            <img class="img-fluid" src="./img/uploads/2024/04/encontro-senasp.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>04/04/2024</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/ansegtv-e-senasp-se-reunem-em-brasilia/">ANSEGTV e SENASP se reúnem em Brasília</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    O Secretário Nacional de Segurança Pública, Mario Luiz Sarrubbo, e o Diretor de Operações Integradas e de Inteligência da Secretaria Nacional de Segurança Pública (SENASP), Rodney da Silva, receberam na quarta-feira (3) membros da ANSEGTV em Brasília. Representaram a entidade o Diretor Jurídico, Max Tavares Madruga, e o Secretário-Geral, Mauricio de Albuquerque Wanderley.
+                                    <br>
+                                    <br>
+                                    A visita institucional teve como objetivo apresentar a ANSEGTV, além de discutir temas como os crimes contra guardas de valores, principalmente o domínio de cidades e os ataques contra carros-fortes em estradas, com uso de explosivos. Atualmente, tramita no Senado o Projeto de Lei 5365/2020 que tipifica o “domínio de cidades” e a “intimidação violenta” como crimes no Código Penal. Além disso, a proposta inclui o primeiro no rol de crimes hediondos.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="news-block">
+                                    <div class="news-media">
                                         <a href="./noticias/ansegtv-faz-visita-institucional-a-cnt/">
                                             <img class="img-fluid" src="./img/uploads/2024/03/fachada-sest-senat.png" alt="">
                                         </a>
@@ -43,6 +67,7 @@
                                     </div>
                                 </div>
                             </div>
+
 
                             <div class="carousel-item">
                                 <div class="news-block">
@@ -68,30 +93,6 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">
-                                            <img class="img-fluid" src="./img/uploads/2024/02/presidente-ansegtv.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>09/02/2024</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">Empresas devem se modernizar para atuar no mercado com os diversos meios de pagamento existentes</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    Com maior ou menor circulação, o dinheiro físico nunca acabará e seguirá importante para a população. A definição é do presidente da ANSEGTV, Gabriel Damasceno, sobre o atual momento do setor de segurança e transporte de valores.
-                                    <br>
-                                    <br>
-                                    Gabriel reconhece que a adesão aos meios eletrônicos de pagamento influenciou nas atividades dos associados, mas que o segmento vem sabendo se adaptar à nova realidade do mercado.
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
                     </div>
                 </div>
@@ -99,7 +100,23 @@
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
 
                     <div class="card">
-                        <a href="./noticias/r7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">
+                        <a href="./noticias/empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">
+                            <img class="img-fluid" src="./img/uploads/2024/02/presidente-ansegtv.png" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">Empresas devem se modernizar para atuar no mercado com os diversos meios de pagamento existentes</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>09/02/2024</strong>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <a href="./noticias/7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">
                             <img class="img-fluid" src="./img/uploads/2023/11/7-forum.png" alt="">
                         </a>
                         <div class="card-body">
@@ -114,6 +131,17 @@
                         </div>
                     </div>
 
+                    
+
+                   
+
+
+
+                </div>
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
+                
                     <div class="card">
                         <a href="./noticias/representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">
                             <img class="img-fluid" src="./img/uploads/2023/10/representantes.png" alt="">
@@ -129,15 +157,6 @@
                             </div>
                         </div>
                     </div>
-
-                   
-
-
-
-                </div>
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     <div class="card">
                         <a href="./noticias/entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/">
@@ -155,21 +174,7 @@
                         </div>
                     </div>
 
-                    <div class="card">
-                        <a href="./noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/">
-                            <img class="img-fluid" src="./img/uploads/2023/10/sede-pf.png" alt="">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/">ANSEGTV compõe Comissão Consultiva para Assuntos de Segurança Privada</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>06/10/2023</strong>
-                            </div>
-                        </div>
-                    </div>
+
 
                     
 
