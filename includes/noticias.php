@@ -23,6 +23,30 @@
                             <div class="carousel-item active">
                                 <div class="news-block">
                                     <div class="news-media">
+                                        <a href="./noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld/">
+                                            <img class="img-fluid" src="./img/uploads/2024/04/evento-ipld.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>17/04/2024</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld/">ANSEGTV apoia o 6º Congresso Internacional do IPLD</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    Pelo segundo ano consecutivo, a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) será apoiadora do Congresso Internacional do IPLD (Instituto de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento ao Terrorismo). A 6ª edição do evento acontece nos dias 28 e 29 de maio, em formato on-line. 
+                                    <br>
+                                    <br>
+                                    Ricardo Liáo, presidente do Coaf (Conselho de Controle de Atividades Financeiras), Gerson Romantini, chefe de Divisão da Supervisão de PLD-FTP do Banco Central do Brasil, e Isaac Sidney, presidente da Febraban (Federação Brasileira de Bancos), são algumas das autoridades confirmadas na programação.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <div class="news-block">
+                                    <div class="news-media">
                                         <a href="./noticias/ansegtv-e-senasp-se-reunem-em-brasilia/">
                                             <img class="img-fluid" src="./img/uploads/2024/04/encontro-senasp.png" alt="">
                                         </a>
@@ -69,35 +93,28 @@
                             </div>
 
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">
-                                            <img class="img-fluid" src="./img/uploads/2024/02/evento-ccasp.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>27/02/2024</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">Com participação da ANSEGTV, CCASP tem primeira reunião do ano</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    O Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Madruga, participou no dia 20 de fevereiro da reunião da CCASP (Comissão Consultiva para Assuntos de Segurança Privada), da qual a entidade é membro efetivo. A reunião ocorreu no auditório da Polícia Federal, em Brasília.
-                                    <br>
-                                    <br>
-                                    Foram debatidos diversos temas importantes para o setor, como a adequação da operação das empresas à Portaria DG/PF 18.045/2023, que normatiza o segmento; funcionamento do GESP (Sistema de Gestão Eletrônica de Segurança Privada); uniformização dos processos de vistoria de carros-fortes; biometria dos vigilantes e destruição de coletes...
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
+
+
+                    <div class="card">
+                        <a href="./noticias/com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">
+                        <img class="img-fluid" src="./img/uploads/2024/02/evento-ccasp.png" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">Com participação da ANSEGTV, CCASP tem primeira reunião do ano</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>27/02/2024</strong>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="card">
                         <a href="./noticias/empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">
@@ -114,6 +131,10 @@
                             </div>
                         </div>
                     </div>
+                </div>
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     <div class="card">
                         <a href="./noticias/7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">
@@ -130,17 +151,6 @@
                             </div>
                         </div>
                     </div>
-
-                    
-
-                   
-
-
-
-                </div>
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
                 
                     <div class="card">
                         <a href="./noticias/representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">
@@ -158,21 +168,7 @@
                         </div>
                     </div>
 
-                    <div class="card">
-                        <a href="./noticias/entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/">
-                            <img class="img-fluid" src="./img/uploads/2023/10/reuniao-com-pf.png" alt="">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/">Entidades representativas da segurança privada se reúnem com a PF em Brasília</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>20/10/2023</strong>
-                            </div>
-                        </div>
-                    </div>
+
 
 
 

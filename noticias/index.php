@@ -94,6 +94,29 @@
             </div>
             
             <div class="row mb-50">
+
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
+                     <a href="./ansegtv-apoia-o-6-congresso-internacional-do-ipld/">
+                        <img src="../img/uploads/2024/04/evento-ipld.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./ansegtv-apoia-o-6-congresso-internacional-do-ipld/">ANSEGTV apoia o 6º Congresso Internacional do IPLD</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>17 de abril de 2024</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>Pelo segundo ano consecutivo, a ANSEGTV será apoiadora do Congresso Internacional do IPLD (Instituto de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento ao Terrorismo)</p>
+                        <a href="./ansegtv-apoia-o-6-congresso-internacional-do-ipld/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
