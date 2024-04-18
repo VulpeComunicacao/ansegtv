@@ -86,11 +86,7 @@ body {
 }
 
 #map .model-davi .state .shape {
-  -webkit-transition: all .3s ease-in-out;
-  -moz-transition: all .3s ease-in-out;
-  -ms-transition: all .3s ease-in-out;
-  -o-transition: all .3s ease-in-out;
-  transition: all .3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 #map .model-davi .state:hover .shape {
@@ -114,11 +110,7 @@ body {
 }
 
 .parca .estado {
-  -webkit-transition: all .3s ease-in-out;
-  -moz-transition: all .3s ease-in-out;
-  -ms-transition: all .3s ease-in-out;
-  -o-transition: all .3s ease-in-out;
-  transition: all .3s ease-in-out;
+  transition: all 0.3s ease-in-out;
   border: 1px solid #DDD;
   position: absolute;
   margin-top: 45px;
@@ -173,7 +165,6 @@ body {
     min-width: 160px;
     max-width: 306px;
   }
-
   .box-mapa {
     position: relative;
     top: 0;
@@ -186,7 +177,6 @@ body {
   .box-mapa {
     display: none;
   }
-
   .parca select {
     display: block;
   }
@@ -198,13 +188,9 @@ body {
   width: 100%;
   padding: 30px 15px 15px;
   background: rgba(0, 0, 0, 0);
-  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.54) 54%, black 100%);
-  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(54%, rgba(0, 0, 0, 0.54)), color-stop(100%, black));
-  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.54) 54%, black 100%);
-  background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.54) 54%, black 100%);
-  background: -ms-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.54) 54%, black 100%);
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.54) 54%, black 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000', GradientType=0 );
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(54%, rgba(0, 0, 0, 0.54)), color-stop(100%, rgb(0, 0, 0)));
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.54) 54%, rgb(0, 0, 0) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#000000", endColorstr="#000000", GradientType=0 );
 }
 .author a {
   font-size: 16px;
@@ -216,4 +202,4 @@ body {
 }
 .author a span {
   color: #F7254C;
-}
+}/*# sourceMappingURL=style.css.map */

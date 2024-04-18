@@ -155,7 +155,10 @@
                         <ul class="lista-arquivos pt-3">
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - AL</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - BA</a></li>
+                            <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_MA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - MA</a></li>
+                            <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_PB.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - PB</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_RO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - RO</a></li>
+                            <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_SE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - SE</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_TO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - TO</a></li>
                         </ul>
                       </div>
