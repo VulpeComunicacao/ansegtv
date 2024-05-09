@@ -85,7 +85,6 @@
                 </div>
             </div>
         </nav>
-
         <!-- News Section -->
         <section class="blog-me pb-60" id="blog">
          <div class="container">
