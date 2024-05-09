@@ -98,6 +98,28 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/">
+                        <img src="../img/uploads/2024/05/plenario.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/">ANSEGTV apoia PL que tipifica o domínio de cidades</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>09 de maio de 2024</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>A Comissão de Defesa da Democracia (CDD) do Senado aprovou no início de março o Projeto de Lei (PL) 5.365/2020, que tipifica como crimes a intimidação violenta e o domínio de cidades...</p>
+                        <a href="./ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./ansegtv-apoia-o-6-congresso-internacional-do-ipld/">
                         <img src="../img/uploads/2024/04/evento-ipld.png">
                      </a>

@@ -20,7 +20,32 @@
                     <!-- Wrapper for slides -->
                         <div class="carousel-inner" role="listbox">
 
-                            <div class="carousel-item active">
+                            
+                        <div class="carousel-item active">
+                                <div class="news-block">
+                                    <div class="news-media">
+                                        <a href="./noticias/ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/">
+                                            <img class="img-fluid" src="./img/uploads/2024/05/plenario.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>09/05/2024</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/">ANSEGTV apoia PL que tipifica o domínio de cidades</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    A Comissão de Defesa da Democracia (CDD) do Senado aprovou no início de março o Projeto de Lei (PL) 5.365/2020, que tipifica como crimes a intimidação violenta e o domínio de cidades, além de incluir este no rol de crimes hediondos. O alvo do texto são grupos armados que se organizam para praticar atos criminosos de grandes proporções, geralmente violentos e com objetivos variados, como grandes roubos, libertação de presos, provocação de terror generalizado, entre outros. 
+                                    <br>
+                                    <br>
+                                    O projeto adiciona os dois crimes ao Código Penal (Decreto-Lei 2.848, de 1940), além de modificar a Lei de Crimes Hediondos (Lei 8.072, de 1990), para incluir o domínio de cidades...
+                                    </div>
+                                </div>
+                            </div>
+
+                        <div class="carousel-item ">
                                 <div class="news-block">
                                     <div class="news-media">
                                         <a href="./noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld/">
@@ -68,29 +93,6 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/ansegtv-faz-visita-institucional-a-cnt/">
-                                            <img class="img-fluid" src="./img/uploads/2024/03/fachada-sest-senat.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>28/03/2024</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/ansegtv-faz-visita-institucional-a-cnt/">ANSEGTV faz visita institucional à CNT</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    Representantes da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) estiveram, na terça-feira (26), na sede da CNT (Confederação Nacional do Transporte), em Brasília (DF), para conhecer mais sobre o funcionamento e a organização do Sistema Transporte.
-                                    <br>
-                                    <br>
-                                    A reunião foi liderada pelo diretor de Relações Institucionais da CNT, Valter Souza, que explicou para o presidente da ANSEGTV, Gabriel Damasceno, e o diretor jurídico da entidade, Max Madruga, como é a atuação do Sistema Transporte; o que a CNT faz em defesa do setor; os serviços que o SEST SENAT oferece para os profissionais do transporte; e as formações executivas que o ITL...
-                                    </div>
-                                </div>
-                            </div>
 
 
                         </div>
@@ -98,6 +100,24 @@
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
+
+
+
+                    <div class="card">
+                        <a href="./noticias/ansegtv-faz-visita-institucional-a-cnt/">
+                        <img class="img-fluid" src="./img/uploads/2024/03/fachada-sest-senat.png" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/ansegtv-faz-visita-institucional-a-cnt/">ANSEGTV faz visita institucional à CNT</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>28/03/2024</strong>
+                            </div>
+                        </div>
+                    </div>
 
 
                     <div class="card">
@@ -116,6 +136,15 @@
                         </div>
                     </div>
 
+
+
+                </div>
+
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
+
+                    
                     <div class="card">
                         <a href="./noticias/empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">
                             <img class="img-fluid" src="./img/uploads/2024/02/presidente-ansegtv.png" alt="">
@@ -131,10 +160,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
 
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     <div class="card">
                         <a href="./noticias/7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">
@@ -152,21 +178,7 @@
                         </div>
                     </div>
                 
-                    <div class="card">
-                        <a href="./noticias/representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">
-                            <img class="img-fluid" src="./img/uploads/2023/10/representantes.png" alt="">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">Representantes de ANSEGTV, COAF e PF debatem prevenção à lavagem de dinheiro</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>31/10/2023</strong>
-                            </div>
-                        </div>
-                    </div>
+   
 
 
 
