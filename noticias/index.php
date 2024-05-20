@@ -103,7 +103,7 @@
                      </div>
                      <div class="blog-content">
                         <div class="blog-title">
-                           <h2 class="title-large"><a href="./aproposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">Proposta que aumenta poder da União no combate ao crime é necessária</a></h2>
+                           <h2 class="title-large"><a href="./proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">Proposta que aumenta poder da União no combate ao crime é necessária</a></h2>
                            <div class="meta">
                               <ul>
                                  <li>20 de maio de 2024</li>
