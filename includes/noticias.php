@@ -20,7 +20,7 @@
                     <!-- Wrapper for slides -->
                         <div class="carousel-inner" role="listbox">
 
-                            
+                             
                             <div class="carousel-item active">
                                 <div class="news-block">
                                     <div class="news-media">
