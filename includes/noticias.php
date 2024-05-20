@@ -21,7 +21,31 @@
                         <div class="carousel-inner" role="listbox">
 
                             
-                        <div class="carousel-item active">
+                            <div class="carousel-item active">
+                                <div class="news-block">
+                                    <div class="news-media">
+                                        <a href="./noticias/proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">
+                                            <img class="img-fluid" src="./img/uploads/2024/05/palacio-justica.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>20/05/2024</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">Proposta que aumenta poder da União no combate ao crime é necessária</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    O Ministério da Justiça prepara uma Proposta de Emenda de Constituição (PEC) que permitirá ao governo federal estabelecer diretrizes nacionais a serem seguidas por estados e municípios na segurança pública. 
+                                    <br>
+                                    <br>
+                                    Em entrevista à Globonews, o secretário Nacional de Segurança Pública, Mario Luiz Sarrubbo, disse que o objetivo é ampliar a capacidade de atuação da União nessa área, que é competência principalmente dos governos estaduais, sem interferir na capacidade de eles poderem estabelecer normas que digam respeito às peculiaridades locais.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
                                 <div class="news-block">
                                     <div class="news-media">
                                         <a href="./noticias/ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/">
@@ -45,7 +69,7 @@
                                 </div>
                             </div>
 
-                        <div class="carousel-item ">
+                            <div class="carousel-item ">
                                 <div class="news-block">
                                     <div class="news-media">
                                         <a href="./noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld/">
@@ -69,29 +93,7 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/ansegtv-e-senasp-se-reunem-em-brasilia/">
-                                            <img class="img-fluid" src="./img/uploads/2024/04/encontro-senasp.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>04/04/2024</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/ansegtv-e-senasp-se-reunem-em-brasilia/">ANSEGTV e SENASP se reúnem em Brasília</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    O Secretário Nacional de Segurança Pública, Mario Luiz Sarrubbo, e o Diretor de Operações Integradas e de Inteligência da Secretaria Nacional de Segurança Pública (SENASP), Rodney da Silva, receberam na quarta-feira (3) membros da ANSEGTV em Brasília. Representaram a entidade o Diretor Jurídico, Max Tavares Madruga, e o Secretário-Geral, Mauricio de Albuquerque Wanderley.
-                                    <br>
-                                    <br>
-                                    A visita institucional teve como objetivo apresentar a ANSEGTV, além de discutir temas como os crimes contra guardas de valores, principalmente o domínio de cidades e os ataques contra carros-fortes em estradas, com uso de explosivos. Atualmente, tramita no Senado o Projeto de Lei 5365/2020 que tipifica o “domínio de cidades” e a “intimidação violenta” como crimes no Código Penal. Além disso, a proposta inclui o primeiro no rol de crimes hediondos.
-                                    </div>
-                                </div>
-                            </div>
+                           
 
 
 
@@ -102,6 +104,22 @@
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
 
 
+
+                    <div class="card">
+                        <a href="./noticias/ansegtv-e-senasp-se-reunem-em-brasilia/">
+                        <img class="img-fluid" src="./img/uploads/2024/04/encontro-senasp.png" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/ansegtv-e-senasp-se-reunem-em-brasilia/">ANSEGTV e SENASP se reúnem em Brasília</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>04/04/2024</strong>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="card">
                         <a href="./noticias/ansegtv-faz-visita-institucional-a-cnt/">
@@ -120,6 +138,17 @@
                     </div>
 
 
+
+                    
+
+
+
+                </div>
+
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
+
                     <div class="card">
                         <a href="./noticias/com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">
                         <img class="img-fluid" src="./img/uploads/2024/02/evento-ccasp.png" alt="">
@@ -135,14 +164,6 @@
                             </div>
                         </div>
                     </div>
-
-
-
-                </div>
-
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     
                     <div class="card">
@@ -162,21 +183,7 @@
                     </div>
 
 
-                    <div class="card">
-                        <a href="./noticias/7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">
-                            <img class="img-fluid" src="./img/uploads/2023/11/7-forum.png" alt="">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">7º Fórum CNT de Debates tem a participação da ANSEGTV</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>28/11/2023</strong>
-                            </div>
-                        </div>
-                    </div>
+
                 
    
 

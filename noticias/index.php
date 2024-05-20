@@ -97,6 +97,28 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">
+                        <img src="../img/uploads/2024/05/palacio-justica.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./aproposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">Proposta que aumenta poder da União no combate ao crime é necessária</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>20 de maio de 2024</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>O Ministério da Justiça prepara uma Proposta de Emenda de Constituição (PEC) que permitirá ao governo federal estabelecer diretrizes nacionais a serem seguidas por estados e municípios...</p>
+                        <a href="./proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/">
                         <img src="../img/uploads/2024/05/plenario.png">
                      </a>
