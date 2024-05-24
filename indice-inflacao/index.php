@@ -111,10 +111,10 @@
 
                     <ul class="nav nav-tabs justify-content-center mt-2" id="myTab" role="tablist">
                         <li class="nav-item">
-                        <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">2023</a>
+                        <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="false">2023</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">2024</a>
+                        <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="true">2024</a>
                         </li>
                     </ul>
 
@@ -155,8 +155,11 @@
                         <ul class="lista-arquivos pt-3">
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - AL</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - BA</a></li>
+                            <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_GO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - GO</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_MA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - MA</a></li>
+                            <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_MS.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - MS</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_PB.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - PB</a></li>
+                            <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_PI.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - PI</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_RO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - RO</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_SE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - SE</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_TO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - TO</a></li>
