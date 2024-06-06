@@ -20,8 +20,31 @@
                     <!-- Wrapper for slides -->
                         <div class="carousel-inner" role="listbox">
 
-                             
                             <div class="carousel-item active">
+                                <div class="news-block">
+                                    <div class="news-media">
+                                        <a href="./noticias/congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/">
+                                            <img class="img-fluid" src="./img/uploads/2024/06/banner-ipld.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>06/06/2024</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/">Congresso Internacional do IPLD debate combate à lavagem de dinheiro</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    O IPLD - Instituto de Integridade, ESG, Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento do Terrorismo realizou, nos dias 28 e 29 de maio, a 6ª edição de seu Congresso Internacional, o maior do Brasil na área. A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) foi novamente uma das apoiadoras do evento. 
+                                    <br>
+                                    <br>
+                                    Dentre os temas abordados, estiveram os impactos da última avaliação do GAFI (Grupo de Ação Financeira) sobre o sistema de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento do Terrorismo do país...
+                                    </div>
+                                </div>
+                            </div>     
+
+                            <div class="carousel-item">
                                 <div class="news-block">
                                     <div class="news-media">
                                         <a href="./noticias/proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">
@@ -69,41 +92,28 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item ">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld/">
-                                            <img class="img-fluid" src="./img/uploads/2024/04/evento-ipld.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>17/04/2024</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld/">ANSEGTV apoia o 6º Congresso Internacional do IPLD</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    Pelo segundo ano consecutivo, a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) será apoiadora do Congresso Internacional do IPLD (Instituto de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento ao Terrorismo). A 6ª edição do evento acontece nos dias 28 e 29 de maio, em formato on-line. 
-                                    <br>
-                                    <br>
-                                    Ricardo Liáo, presidente do Coaf (Conselho de Controle de Atividades Financeiras), Gerson Romantini, chefe de Divisão da Supervisão de PLD-FTP do Banco Central do Brasil, e Isaac Sidney, presidente da Febraban (Federação Brasileira de Bancos), são algumas das autoridades confirmadas na programação.
-                                    </div>
-                                </div>
-                            </div>
-
                            
-
-
-
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
 
-
+                    <div class="card">
+                            <a href="./noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld/">
+                                <img class="img-fluid" src="./img/uploads/2024/04/evento-ipld.png" alt="">
+                            </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld/">ANSEGTV apoia o 6º Congresso Internacional do IPLD</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>17/04/2024</strong>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="card">
                         <a href="./noticias/ansegtv-e-senasp-se-reunem-em-brasilia/">
@@ -121,6 +131,19 @@
                         </div>
                     </div>
 
+
+
+                    
+
+
+
+                </div>
+
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
+
+
                     <div class="card">
                         <a href="./noticias/ansegtv-faz-visita-institucional-a-cnt/">
                         <img class="img-fluid" src="./img/uploads/2024/03/fachada-sest-senat.png" alt="">
@@ -137,18 +160,6 @@
                         </div>
                     </div>
 
-
-
-                    
-
-
-
-                </div>
-
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
-
                     <div class="card">
                         <a href="./noticias/com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">
                         <img class="img-fluid" src="./img/uploads/2024/02/evento-ccasp.png" alt="">
@@ -164,36 +175,6 @@
                             </div>
                         </div>
                     </div>
-
-                    
-                    <div class="card">
-                        <a href="./noticias/empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">
-                            <img class="img-fluid" src="./img/uploads/2024/02/presidente-ansegtv.png" alt="">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">Empresas devem se modernizar para atuar no mercado com os diversos meios de pagamento existentes</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>09/02/2024</strong>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-                
-   
-
-
-
-
-
-                    
-
-  
 
 
                 </div>

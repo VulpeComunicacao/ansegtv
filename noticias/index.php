@@ -97,6 +97,28 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/">
+                        <img src="../img/uploads/2024/06/banner-ipld.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/">Congresso Internacional do IPLD debate combate à lavagem de dinheiro</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>06 de junho de 2024</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>O IPLD - Instituto de Integridade, ESG, Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento do Terrorismo realizou, nos dias 28 e 29 de maio, a 6ª edição de seu Congresso...</p>
+                        <a href="./congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">
                         <img src="../img/uploads/2024/05/palacio-justica.png">
                      </a>
