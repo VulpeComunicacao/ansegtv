@@ -23,7 +23,7 @@
                             <div class="carousel-item active">
                                 <div class="news-block">
                                     <div class="news-media">
-                                        <a href="./noticias/congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/">
+                                        <a href="./noticias/workshop-da-pf-sobre-seguranca-privada-tem-participacao-da-ansegtv/">
                                             <img class="img-fluid" src="./img/uploads/2024/06/workshop-pf.png" alt="">
                                         </a>
                                     </div>
@@ -32,7 +32,7 @@
                                     </div>
                                     <div class="news-title">
                                         <h3 class=" title-large">
-                                        <a href="./noticias/congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/">Workshop da PF sobre segurança privada tem participação da ANSEGTV</a>
+                                        <a href="./noticias/workshop-da-pf-sobre-seguranca-privada-tem-participacao-da-ansegtv/">Workshop da PF sobre segurança privada tem participação da ANSEGTV</a>
                                         </h3>
                                     </div>
                                     <div class="news-des">

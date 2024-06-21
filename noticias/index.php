@@ -103,7 +103,7 @@
                      </div>
                      <div class="blog-content">
                         <div class="blog-title">
-                           <h2 class="title-large"><a href="./cworkshop-da-pf-sobre-seguranca-privada-tem-participacao-da-ansegtv/">Workshop da PF sobre segurança privada tem participação da ANSEGTV</a></h2>
+                           <h2 class="title-large"><a href="./workshop-da-pf-sobre-seguranca-privada-tem-participacao-da-ansegtv/">Workshop da PF sobre segurança privada tem participação da ANSEGTV</a></h2>
                            <div class="meta">
                               <ul>
                                  <li>21 de junho de 2024</li>
