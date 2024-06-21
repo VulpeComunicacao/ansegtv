@@ -97,6 +97,28 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./workshop-da-pf-sobre-seguranca-privada-tem-participacao-da-ansegtv/">
+                        <img src="../img/uploads/2024/06/workshop-pf.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./cworkshop-da-pf-sobre-seguranca-privada-tem-participacao-da-ansegtv/">Workshop da PF sobre segurança privada tem participação da ANSEGTV</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>21 de junho de 2024</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>A Polícia Federal em Goiás realizou, nos dias 13 e 14 de junho, o 1º Workshop Estadual da Segurança Privada.</p>
+                        <a href="./workshop-da-pf-sobre-seguranca-privada-tem-participacao-da-ansegtv/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/">
                         <img src="../img/uploads/2024/06/banner-ipld.png">
                      </a>

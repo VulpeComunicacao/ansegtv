@@ -24,6 +24,30 @@
                                 <div class="news-block">
                                     <div class="news-media">
                                         <a href="./noticias/congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/">
+                                            <img class="img-fluid" src="./img/uploads/2024/06/workshop-pf.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>21/06/2024</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/">Workshop da PF sobre segurança privada tem participação da ANSEGTV</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    A Polícia Federal em Goiás realizou, nos dias 13 e 14 de junho, o 1º Workshop Estadual da Segurança Privada.
+                                    <br>
+                                    <br>
+                                    Além de membros da PF, o evento reuniu integrantes da CCASP (Comissão Consultiva para Assuntos de Segurança Privada), grupo que a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) faz parte.
+                                    </div>
+                                </div>
+                            </div>  
+
+                            <div class="carousel-item">
+                                <div class="news-block">
+                                    <div class="news-media">
+                                        <a href="./noticias/congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/">
                                             <img class="img-fluid" src="./img/uploads/2024/06/banner-ipld.png" alt="">
                                         </a>
                                     </div>
@@ -68,36 +92,29 @@
                                 </div>
                             </div>
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/">
-                                            <img class="img-fluid" src="./img/uploads/2024/05/plenario.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>09/05/2024</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/">ANSEGTV apoia PL que tipifica o domínio de cidades</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    A Comissão de Defesa da Democracia (CDD) do Senado aprovou no início de março o Projeto de Lei (PL) 5.365/2020, que tipifica como crimes a intimidação violenta e o domínio de cidades, além de incluir este no rol de crimes hediondos. O alvo do texto são grupos armados que se organizam para praticar atos criminosos de grandes proporções, geralmente violentos e com objetivos variados, como grandes roubos, libertação de presos, provocação de terror generalizado, entre outros. 
-                                    <br>
-                                    <br>
-                                    O projeto adiciona os dois crimes ao Código Penal (Decreto-Lei 2.848, de 1940), além de modificar a Lei de Crimes Hediondos (Lei 8.072, de 1990), para incluir o domínio de cidades...
-                                    </div>
-                                </div>
-                            </div>
 
-                           
+
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
+
+                    <div class="card">
+                            <a href="./noticias/ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/">
+                                <img class="img-fluid" src="./img/uploads/2024/05/plenario.png" alt="">
+                            </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/">ANSEGTV apoia PL que tipifica o domínio de cidades</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>09/05/2024</strong>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="card">
                             <a href="./noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld/">
@@ -114,6 +131,13 @@
                             </div>
                         </div>
                     </div>
+
+                </div>
+
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
+
 
                     <div class="card">
                         <a href="./noticias/ansegtv-e-senasp-se-reunem-em-brasilia/">
@@ -132,18 +156,6 @@
                     </div>
 
 
-
-                    
-
-
-
-                </div>
-
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
-
-
                     <div class="card">
                         <a href="./noticias/ansegtv-faz-visita-institucional-a-cnt/">
                         <img class="img-fluid" src="./img/uploads/2024/03/fachada-sest-senat.png" alt="">
@@ -156,22 +168,6 @@
                             </div>
                             <div class="time-text">
                             <strong>28/03/2024</strong>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <a href="./noticias/com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">
-                        <img class="img-fluid" src="./img/uploads/2024/02/evento-ccasp.png" alt="">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">Com participação da ANSEGTV, CCASP tem primeira reunião do ano</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>27/02/2024</strong>
                             </div>
                         </div>
                     </div>
