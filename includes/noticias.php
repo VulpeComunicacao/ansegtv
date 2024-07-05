@@ -20,7 +20,32 @@
                     <!-- Wrapper for slides -->
                         <div class="carousel-inner" role="listbox">
 
+
                             <div class="carousel-item active">
+                                <div class="news-block">
+                                    <div class="news-media">
+                                        <a href="./noticias/novo-presidente-da-ansegtv-toma-posse-em-brasilia/">
+                                            <img class="img-fluid" src="./img/uploads/2024/07/posse-presidente.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>05/07/2024</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/novo-presidente-da-ansegtv-toma-posse-em-brasilia/">Novo presidente da ANSEGTV toma posse em Brasília</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    O novo presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Vanderlei Reis, tomou posse no dia 18 de junho de 2024.
+                                    <br>
+                                    <br>
+                                    Vanderlei assume o cargo no lugar de Gabriel Damasceno, que dirigiu a entidade por cinco anos.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
                                 <div class="news-block">
                                     <div class="news-media">
                                         <a href="./noticias/workshop-da-pf-sobre-seguranca-privada-tem-participacao-da-ansegtv/">
@@ -68,37 +93,27 @@
                                 </div>
                             </div>     
 
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">
-                                            <img class="img-fluid" src="./img/uploads/2024/05/palacio-justica.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>20/05/2024</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">Proposta que aumenta poder da União no combate ao crime é necessária</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    O Ministério da Justiça prepara uma Proposta de Emenda de Constituição (PEC) que permitirá ao governo federal estabelecer diretrizes nacionais a serem seguidas por estados e municípios na segurança pública. 
-                                    <br>
-                                    <br>
-                                    Em entrevista à Globonews, o secretário Nacional de Segurança Pública, Mario Luiz Sarrubbo, disse que o objetivo é ampliar a capacidade de atuação da União nessa área, que é competência principalmente dos governos estaduais, sem interferir na capacidade de eles poderem estabelecer normas que digam respeito às peculiaridades locais.
-                                    </div>
-                                </div>
-                            </div>
-
-
-
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
+
+                    <div class="card">
+                            <a href="./noticias/proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">
+                                <img class="img-fluid" src="./img/uploads/2024/05/palacio-justica.png" alt="">
+                            </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">Proposta que aumenta poder da União no combate ao crime é necessária</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>20/05/2024</strong>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="card">
                             <a href="./noticias/ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/">
@@ -116,6 +131,15 @@
                         </div>
                     </div>
 
+                    
+
+                </div>
+
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
+
+
                     <div class="card">
                             <a href="./noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld/">
                                 <img class="img-fluid" src="./img/uploads/2024/04/evento-ipld.png" alt="">
@@ -131,12 +155,6 @@
                             </div>
                         </div>
                     </div>
-
-                </div>
-
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
 
 
                     <div class="card">
@@ -156,21 +174,7 @@
                     </div>
 
 
-                    <div class="card">
-                        <a href="./noticias/ansegtv-faz-visita-institucional-a-cnt/">
-                        <img class="img-fluid" src="./img/uploads/2024/03/fachada-sest-senat.png" alt="">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/ansegtv-faz-visita-institucional-a-cnt/">ANSEGTV faz visita institucional à CNT</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>28/03/2024</strong>
-                            </div>
-                        </div>
-                    </div>
+
 
 
                 </div>

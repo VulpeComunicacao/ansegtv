@@ -97,6 +97,28 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
+                     <a href="./novo-presidente-da-ansegtv-toma-posse-em-brasilia/">
+                        <img src="../img/uploads/2024/07/posse-presidente.png">
+                     </a>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-title">
+                           <h2 class="title-large"><a href="./novo-presidente-da-ansegtv-toma-posse-em-brasilia/">Novo presidente da ANSEGTV toma posse em Brasília</a></h2>
+                           <div class="meta">
+                              <ul>
+                                 <li>21 de junho de 2024</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <p>O novo presidente da ANSEGTV, Vanderlei Reis, tomou posse no dia 18 de junho de 2024</p>
+                        <a href="./novo-presidente-da-ansegtv-toma-posse-em-brasilia/" class="box_btn">leia mais</a>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                  <div class="single-blog">
+                     <div class="blog-img">
                      <a href="./workshop-da-pf-sobre-seguranca-privada-tem-participacao-da-ansegtv/">
                         <img src="../img/uploads/2024/06/workshop-pf.png">
                      </a>
