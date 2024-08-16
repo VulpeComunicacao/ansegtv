@@ -2399,13 +2399,13 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
-                        <a href="./estatudo-da-seguranca-privada-deve-avancar-no-senado-neste-ano/">
+                        <a href="./estatuto-da-seguranca-privada-deve-avancar-no-senado-neste-ano/">
                            <img src="../img/uploads/redimensionadas/008.png" alt="">
                         </a>
                      </div>
                      <div class="blog-content">
                         <div class="blog-title">
-                           <h2 class="title-large"><a href="./estatudo-da-seguranca-privada-deve-avancar-no-senado-neste-ano/">Estatuto da Segurança Privada deve avançar no Senado neste ano</a></h2>
+                           <h2 class="title-large"><a href="./estatuto-da-seguranca-privada-deve-avancar-no-senado-neste-ano/">Estatuto da Segurança Privada deve avançar no Senado neste ano</a></h2>
                            <div class="meta">
                               <ul>
                                  <li>21 de janeiro de 2020</li>
@@ -2413,7 +2413,7 @@
                            </div>
                         </div>
                         <p>Depois de mais de dois anos parado no Senado, o Estatuto da Segurança Privada (PLS 135/2010) deve avançar em 2020. Os senadores precisam avaliar as mudanças sugeridas pela Câmara (SCD 6/2016) sobre o texto...</p>
-                        <a href="./estatudo-da-seguranca-privada-deve-avancar-no-senado-neste-ano/" class="box_btn">leia mais</a>
+                        <a href="./estatuto-da-seguranca-privada-deve-avancar-no-senado-neste-ano/" class="box_btn">leia mais</a>
                      </div>
                   </div>
                </div>
@@ -2507,21 +2507,15 @@
 
         <!-- Footer Section -->
         
-        <section id="footer" class="container">
-            <div class="row">
-                <div class="col-12 col-md-6 mb-3 contato-institucional">
-                    <p><strong>Endereço:</strong> Q 01 SAUS, Ed. Terra Brasilis, <br>Salas 1102 e 1103 <br>70.070-941 Brasília - DF</p>
-                    <p><strong>E-mail:</strong> <a href="mailto:diretoria@ansegtv.com.br">diretoria@ansegtv.com.br</a></p>                
-                    <p><strong>Telefone:</strong> +55 61 3224-1006</p>   
-                </div>
-                <div class="col-12 col-md-6 contato-imprensa">
-                    <p><strong>Assessoria de Imprensa:</strong></p>
-                    <p><strong>Original 123 Comunicação | Rafael Kimati</strong></p>
-                    <p><strong>E-mail: </strong> <a href="mailto:rafael.kimati@original123.com.br">rafael.kimati@original123.com.br</a></p>
-                    <p><strong>Telefones: </strong>+55 11 3814-2021 | +55 11 3093-2061</p>
-                </div>
-            </div>
-         </section>
+<section id="footer" class="container">
+   <div class="row">
+      <div class="col-12 mb-3 contato-institucional text-center">
+            <p><strong>Endereço:</strong> Q 01 SAUS, Ed. Terra Brasilis, Salas 1102 e 1103 | 70.070-941 Brasília - DF</p>
+            <p><strong>E-mail:</strong> <a href="mailto:diretoria@ansegtv.com.br">diretoria@ansegtv.com.br</a></p>                
+            <p><strong>Telefone:</strong> +55 61 3224-1006</p>   
+      </div>
+   </div>
+</section>
     
          <?php include_once '../includes/copyright.php'; ?>
     
