@@ -80,9 +80,7 @@ ANSEGTV (Associação Nacional de Segurança e Transporte de Valores).">
                     <li class="nav-item">
                         <a class="nav-link" href="https://www.linkedin.com/company/ansegtv/" target="_blank"><i class="fa fa-linkedin"></i> </a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://www.facebook.com/ansegtvoficial/" target="_blank"><i class="fa fa-facebook"></i> </a>
-                    </li>
+                    
                     <li class="nav-item">
                         <a class="nav-link" href="https://www.instagram.com/ansegtvoficial/" target="_blank"><i class="fa fa-instagram"></i> </a>
                     </li>
