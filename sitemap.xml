@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.ansegtv.com.br/seujucabsb</loc>
-		<priority>0.80</priority>
-		<lastmod>2024-03-29</lastmod>
-	</url>
-	<url>
 		<loc>https://www.ansegtv.com.br/ansegtv</loc>
 		<priority>0.80</priority>
 		<lastmod>2024-03-29</lastmod>
@@ -53,21 +48,6 @@
 	<url>
 		<loc>https://www.ansegtv.com.br/ansegtv/ansegtv</loc>
 		<priority>0.60</priority>
-		<lastmod>2024-03-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.ansegtv.com.br/ansegtv/phpMailler/SMTP.php</loc>
-		<priority>0.40</priority>
-		<lastmod>2024-03-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.ansegtv.com.br/ansegtv/phpMailler/PHPMailer.php</loc>
-		<priority>0.40</priority>
-		<lastmod>2024-03-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.ansegtv.com.br/ansegtv/phpMailler/Exception.php</loc>
-		<priority>0.40</priority>
 		<lastmod>2024-03-29</lastmod>
 	</url>
 	<url>
@@ -612,16 +592,6 @@
 	</url>
 	<url>
 		<loc>https://www.ansegtv.com.br/ansegtv/noticias/a-importancia-do-esg-nas-empresas</loc>
-		<priority>0.40</priority>
-		<lastmod>2024-03-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.ansegtv.com.br/ansegtv/noticias/_archive_ansegtv-promove-reuniao-com-representantes-de-resseguradoras-em-londres</loc>
-		<priority>0.40</priority>
-		<lastmod>2024-03-29</lastmod>
-	</url>
-	<url>
-		<loc>https://www.ansegtv.com.br/ansegtv/noticias/_archive_ansegtv-acompanha-tramitaca-de-pl-na-camara</loc>
 		<priority>0.40</priority>
 		<lastmod>2024-03-29</lastmod>
 	</url>
