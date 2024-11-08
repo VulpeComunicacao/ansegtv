@@ -2510,7 +2510,7 @@
       <div class="col-12 mb-3 contato-institucional text-center">
             <p><strong>Endereço:</strong> Q 01 SAUS, Ed. Terra Brasilis, Salas 1102 e 1103 | 70.070-941 Brasília - DF</p>
             <p><strong>E-mail:</strong> <a href="mailto:diretoria@ansegtv.com.br">diretoria@ansegtv.com.br</a></p>                
-            <p><strong>Telefone:</strong> +55 61 3224-1006</p>   
+            
       </div>
    </div>
 </section>
