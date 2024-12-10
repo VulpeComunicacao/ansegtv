@@ -154,6 +154,7 @@
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_AC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - AC</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - AL</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_AM.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - AM</a></li>
+                            <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_AP.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - AP</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - BA</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_CE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - CE</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_GO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - GO</a></li>
@@ -162,13 +163,16 @@
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_MT.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - MT</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_PA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - PA</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_PB.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - PB</a></li>
+                            <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_PE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - PE</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_PI.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - PI</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_PR.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - PR</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_RN.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - RN</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_RO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - RO</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_RR.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - RR</a></li>
+                            <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_RS.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - RS</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_SC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - SC</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_SE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - SE</a></li>
+                            <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_SP.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - SP</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_TO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - TO</a></li>
                         </ul>
                       </div>
