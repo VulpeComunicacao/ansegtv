@@ -168,6 +168,7 @@
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_PE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - PE</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_PI.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - PI</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_PR.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - PR</a></li>
+                            <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_RJ.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - RJ</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_RN.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - RN</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_RO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - RO</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_RR.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - RR</a></li>
