@@ -92,16 +92,16 @@
         <div class="row estrutura mb-4">
             
             <div class="col-md-5 my-3">
-                <img src="../img/icon-building.png" alt="10 Empresas">
-                <p>FORMADA POR <strong>11 EMPRESAS</strong> DE SEGURANÇA E TRANSPORTE DE VALORES </p>
+                <img src="../img/icon-building.png" alt="7 Empresas">
+                <p>FORMADA POR <strong>7 EMPRESAS</strong> DE SEGURANÇA E TRANSPORTE DE VALORES </p>
             </div>
             <div class="col-md-4 my-3 estados">
-                <img src="../img/icon_map.png" alt="Presente em 23 Estados Brasileiros + DF">
-                <p><strong>23 ESTADOS</strong><br> BRASILEIROS + DF</p>
+                <img src="../img/icon_map.png" alt="Presente em 22 Estados Brasileiros + DF">
+                <p><strong>22 ESTADOS</strong><br> BRASILEIROS + DF</p>
             </div>
             <div class="col-md-3 my-3 bases-operacionais">
-                <img src="../img/icon-factory.png" alt="65 Bases operacionais">
-                <p><strong>65 BASES</strong><br> OPERACIONAIS</p>
+                <img src="../img/icon-factory.png" alt="49 Bases operacionais">
+                <p><strong>49 BASES</strong><br> OPERACIONAIS</p>
             </div>
         </div>
         <div class="row servicos text-center">
@@ -153,7 +153,7 @@
                     <div class="header-wrap">
                         <img src="../img/icon_map.png" alt="Atuação da ANSEGTV" class="icon" width="92" height="92">
                         <h2 class="title">Atuação da ANSEGTV</h2><br>
-                        <h3 class="subtitle">A ANSEGTV possui atuação nacional em 23 estados + DF. Clique no mapa para conhecer as empresas.</h3>
+                        <h3 class="subtitle">A ANSEGTV possui atuação nacional em 22 estados + DF. Clique no mapa para conhecer as empresas.</h3>
                     </div>
                 </div>
             </div>
@@ -302,13 +302,13 @@
                                     <text id="label_state_go" class="label_state" x="421" y="15">Goiás</text>
                                 </a>
 
-                                <a href="#" id="state_mg" class="state" data-state="mg" xlink:href="">
+                                <!-- <a href="#" id="state_mg" class="state" data-state="mg" xlink:href=""> -->
                                     <desc id="description_mg">Minas Gerais</desc>
                                     <path id="shape_mg" class="shape" d="m 366.03943,309.83247 c 1.98769,-2.38743 4.89385,-3.81651 6.9863,-6.43444 1.81091,-2.26569 4.21981,-4.18486 4.39741,-7.07989 0.13453,-2.19288 -1.53622,-4.80922 -2.6712,-6.56061 2.6665,-0.80073 4.01571,-3.02441 1.48711,-4.57197 0.20128,-1.99946 1.09446,-3.55064 3.90956,-3.02944 1.49968,-3.73979 2.37497,-3.34247 4.42934,-2.9878 1.61713,0.49239 3.59842,1.36354 3.92352,0.91904 0.3251,-0.44454 -1.39778,-1.42109 -2.44335,-2.36016 -1.59437,-1.432 -2.77757,-3.98175 -2.63865,-6.46266 0.18181,-3.24693 9.04768,-8.36395 7.22657,-13.25227 -1.46588,-3.9348 -7.95227,-1.96742 -11.37768,-4.09103 -2.29938,-1.42552 -3.05014,-5.52065 -5.85625,-5.61939 -9.26595,-0.32603 -11.39621,-5.90751 -15.60316,-6.80987 -4.20696,-0.90236 -7.11895,-0.55997 -9.55306,-2.19656 -1.37556,-0.92489 -1.3548,-3.88369 -3.06656,-4.38176 -4.24572,-1.2354 -8.15181,3.42955 -12.24973,5.09072 -2.17961,0.88355 -1.42218,1.34648 -6.56175,2.59343 -1.7333,0.42053 -3.32435,-0.23408 -5.41794,-0.54861 -1.44684,-0.21736 -4.42782,-0.18526 -5.32944,0.78806 -2.29793,2.40703 1.37845,8.95934 -2.41712,10.44655 -3.47945,0.92574 -4.12288,1.74319 -4.41497,3.67715 -0.17292,1.14495 1.88674,4.64334 1.61355,7.14682 -0.23903,2.19045 -2.50535,3.37279 -2.66494,5.57046 -0.12064,1.6613 0.99899,2.5533 1.28916,5.07726 0.31446,2.73525 -0.90037,4.95018 -2.49232,6.35862 -2.36718,2.09429 -5.82764,3.29106 -8.90871,2.58633 -1.77117,-0.40512 -4.56712,-1.89432 -7.18438,-1.51861 -2.20114,0.31597 -4.77083,2.34579 -6.89894,2.99078 -2.61369,0.79216 -5.96762,0.0121 -8.41406,1.22615 -2.6093,1.29483 -4.72959,3.7538 -6.28143,6.21893 -1.09963,1.74677 -1.55538,2.81916 -2.53049,6.37357 2.14345,-0.62571 3.06272,-0.86702 4.63816,-0.92528 3.53343,-0.13065 8.16767,0.40476 10.52741,1.30131 2.70858,1.02908 6.14511,3.94174 8.99918,4.44143 2.4191,0.42353 5.11453,-0.6687 7.54148,-1.04469 2.56877,-0.39796 5.56129,-2.40623 7.88108,-1.23341 3.14767,2.61375 2.72808,4.78199 3.29308,8.25105 0.29373,1.78391 0.73161,5.47675 1.16591,7.23025 0.4343,1.7535 0.92659,3.47643 1.45227,5.13806 0.52568,1.66164 1.08474,3.26198 1.65259,4.7703 1.14572,3.04345 2.12994,7.80369 4.02198,8.88825 2.04246,1.17078 4.61128,-0.67552 6.9533,-1.23819 2.08441,-0.50078 6.29226,-2.15947 10.71511,-3.85239 4.54714,-1.84752 7.60381,-3.22523 11.48679,-3.49439 2.19751,-0.15233 4.43676,1.56035 6.59897,1.13948 2.89869,-0.56422 6.3632,-2.42159 7.2045,-4.20303 1.67082,-3.5379 3.76474,-9.60567 5.18727,-11.15764"></path>
-                                    <circle id="icon_go" class="icon_state" r="12" cx="338" cy="284"></circle>
+                                    <!-- <circle id="icon_go" class="icon_state" r="12" cx="338" cy="284"></circle> -->
                                     <text id="label_icon_state_mg" class="label_icon_state" x="331" y="288">MG</text>
                                     <text id="label_state_mg" class="label_state" x="369" y="15">Minas Gerais</text>
-                                </a>
+                                <!-- </a> -->
 
                                 <a href="#" id="state_es" class="state" data-state="es" xlink:href="">
                                     <desc id="description_es">Espírito Santo</desc>
@@ -422,12 +422,6 @@
                                 <strong>GlobalService</strong><br>
                                 <a href="http://www.globalservice-am.com.br/">http://www.globalservice-am.com.br/</a>
                         </div>
-                        <div id="box_mg" data-info="mg" style="opacity: 0" class="estado">
-                            <h3>Minas Gerais</h3>
-                            
-                            <strong>IBL Valores</strong><br>
-                            <a href="https://www.iblvalores.com.br/">https://www.iblvalores.com.br</a>
-                        </div>
                         <div id="box_sp" data-info="sp" class="estado">
                             <h3>São Paulo</h3>
                             
@@ -437,30 +431,30 @@
                             <strong>TBForte</strong><br>
                             <a href="https://www.tbforte.com.br">https://www.tbforte.com.br</a>
                             <br>
-                            <strong>IBL Valores</strong><br>
-                            <a href="https://www.iblvalores.com.br/">https://www.iblvalores.com.br</a>
+                            <!-- <strong>IBL Valores</strong><br>
+                            <a href="https://www.iblvalores.com.br/">https://www.iblvalores.com.br</a> -->
                         </div>
                         <div id="box_rj" data-info="rj" class="estado">
                             <h3>Rio de Janeiro</h3>
                             
                             <!-- <strong>Brasifort</strong><br>
                             <a href="https://www.brasifort.com.br/" target="_blank">https://www.brasifort.com.br/</a>
-                            <br> -->
+                            <br> 
                             <strong>Forte Araruama</strong><br>
                             <a href="https://www.forteararuama.com.br/" target="_blank">https://www.forteararuama.com.br/</a>
-                            <br>
-                            <strong>TBForte</strong><br>
-                            <a href="https://www.tbforte.com.br/" target="_blank">https://www.tbforte.com.br/</a>
-                            <br>
+                            <br> 
                             <strong>IBL Valores</strong><br>
                             <a href="https://www.iblvalores.com.br/">https://www.iblvalores.com.br</a>
+                            <br> -->
+                            <strong>TBForte</strong><br>
+                            <a href="https://www.tbforte.com.br/" target="_blank">https://www.tbforte.com.br/</a>
                         </div>
                         <div id="box_al" data-info="al" class="estado">
                             <h3>Alagoas</h3>
                             
-                            <strong>Kairós</strong><br>
+                            <!-- <strong>Kairós</strong><br>
                             <a href="http://www.nsfgrupo.com.br/">http://www.nsfgrupo.com.br/</a>
-                            <br> 
+                            <br> -->
                             <strong>TBForte</strong><br>
                             <a href="https://www.tbforte.com.br">https://www.tbforte.com.br</a>
                         </div>
@@ -475,9 +469,9 @@
                             
                             <strong>GlobalService</strong><br>
                             <a href="http://www.globalservice-am.com.br/">http://www.globalservice-am.com.br/</a>
-                            <br>
+                            <!-- <br>
                             <strong>IBL Valores</strong><br>
-                            <a href="https://www.iblvalores.com.br/">https://www.iblvalores.com.br</a>
+                            <a href="https://www.iblvalores.com.br/">https://www.iblvalores.com.br</a> -->
                         </div>
                         <div id="box_ba" data-info="ba" class="estado">
                             <h3>Bahia</h3>
@@ -515,12 +509,13 @@
                             <strong>Federal Segurança</strong><br>
                             <a href="https://federalseguranca.com.br/">https://federalseguranca.com.br</a>
                         </div>
+                        <div id="box_mg" data-info="mg" class="estado"></div>
                         <div id="box_ma" data-info="ma" class="estado">
                             <h3>Maranhão</h3>
                             
-                                <strong>CEFOR</strong><br>
+                                <!-- <strong>CEFOR</strong><br>
                                 <a href="http://www.ceforseguranca.com.br">http://www.ceforseguranca.com.br</a>
-                                <br>
+                                <br>-->
                                 <strong>TBForte</strong><br>
                                 <a href="https://www.tbforte.com.br/">https://www.tbforte.com.br</a>
                         </div>
@@ -542,10 +537,10 @@
                             
                             <!-- <strong>Brasifort</strong><br>
                             <a href="https://www.brasifort.com.br/">https://www.brasifort.com.br/</a>
-                            <br> -->
+                            <br> 
                             <strong>Kairós</strong><br>
                             <a href="http://www.nsfgrupo.com.br/">http://www.nsfgrupo.com.br/</a>
-                            <br>
+                            <br> -->
                             <strong>TBForte</strong><br>
                             <a href="https://www.tbforte.com.br/">https://www.tbforte.com.br/</a>
                         </div>
@@ -561,9 +556,9 @@
                             <strong>Corpvs</strong><br>
                             <a href="https://www.corpvs.com.br/">https://www.corpvs.com.br/</a>
                             <br>
-                            <strong>Kairós</strong><br>
+                            <!-- <strong>Kairós</strong><br>
                             <a href="http://www.nsfgrupo.com.br/">http://www.nsfgrupo.com.br/</a>
-                            <br> 
+                            <br> -->
                             <strong>TBForte</strong><br>
                             <a href="https://www.tbforte.com.br/">https://www.tbforte.com.br</a>
                         </div>
@@ -578,10 +573,10 @@
                             
                             <!-- <strong>Brasifort</strong><br>
                             <a href="https://www.brasifort.com.br/">https://www.brasifort.com.br/</a>
-                            <br> -->
+                            <br> 
                             <strong>Kairós</strong><br>
                             <a href="http://www.nsfgrupo.com.br/">http://www.nsfgrupo.com.br/</a>
-                            <br>
+                            <br> -->
                             <strong>TBForte</strong><br>
                             <a href="https://www.tbforte.com.br/">https://www.tbforte.com.br/</a>
                         </div>
@@ -602,9 +597,9 @@
                         <div id="box_se" data-info="se" class="estado">
                             <h3>Sergipe</h3>
                             
-                            <strong>Kairós</strong><br>
+                            <!-- <strong>Kairós</strong><br>
                             <a href="http://www.nsfgrupo.com.br/">http://www.nsfgrupo.com.br/</a>
-                            <br>
+                            <br> -->
                             <strong>TBForte</strong><br>
                             <a href="https://www.tbforte.com.br">https://www.tbforte.com.br</a>
                         </div>
