@@ -24,7 +24,7 @@
 			    $('.empresas .estado').css({'opacity': 0 , 'visibitity':'hidden', 'z-index':'-1'});
 
 			    $(box_estado).removeClass('some');
-			    $(box_estado).css({'opacity': 1 , 'visibitity':'visible', 'z-index':'9999'});
+			    $(box_estado).css({'opacity': 1 , 'visibitity':'visible', 'z-index':'9999', 'border':'solid 1px #ccc'});
 		    }
 	    });
 
