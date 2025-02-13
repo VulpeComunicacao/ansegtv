@@ -673,7 +673,7 @@ ul.timeline > li:before {
         -ms-transition: all 0.3s ease-in-out;
         -o-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out;
-        border: none;
+        border: 0;
         position: absolute;
         opacity: 0;
         border-radius: 5px;
