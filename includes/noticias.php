@@ -48,30 +48,6 @@
                             <div class="carousel-item">
                                 <div class="news-block">
                                     <div class="news-media">
-                                        <a href="./noticias/workshop-da-pf-sobre-seguranca-privada-tem-participacao-da-ansegtv/">
-                                            <img class="img-fluid" src="./img/uploads/2024/06/workshop-pf.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>21/06/2024</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/workshop-da-pf-sobre-seguranca-privada-tem-participacao-da-ansegtv/">Workshop da PF sobre segurança privada tem participação da ANSEGTV</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    A Polícia Federal em Goiás realizou, nos dias 13 e 14 de junho, o 1º Workshop Estadual da Segurança Privada.
-                                    <br>
-                                    <br>
-                                    Além de membros da PF, o evento reuniu integrantes da CCASP (Comissão Consultiva para Assuntos de Segurança Privada), grupo que a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) faz parte.
-                                    </div>
-                                </div>
-                            </div>  
-
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
                                         <a href="./noticias/congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/">
                                             <img class="img-fluid" src="./img/uploads/2024/06/banner-ipld.png" alt="">
                                         </a>
@@ -93,27 +69,35 @@
                                 </div>
                             </div>     
 
+                            <div class="carousel-item">
+                                <div class="news-block">
+                                    <div class="news-media">
+                                        <a href="./noticias/proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">
+                                            <img class="img-fluid" src="./img/uploads/2024/05/palacio-justica.png"alt="">
+                                        </a>
+                                    </div>
+                                    <div class="time-text">
+                                        <strong><i class="fa fa-clock"></i>20/05/2024</strong>
+                                    </div>
+                                    <div class="news-title">
+                                        <h3 class=" title-large">
+                                        <a href="./noticias/proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">Proposta que aumenta poder da União no combate ao crime é necessária</a>
+                                        </h3>
+                                    </div>
+                                    <div class="news-des">
+                                    O Ministério da Justiça prepara uma Proposta de Emenda de Constituição (PEC) que permitirá ao governo federal estabelecer diretrizes nacionais a serem seguidas por estados e municípios na segurança pública.
+                                    <br>
+                                    <br>
+                                    Em entrevista à Globonews, o secretário Nacional de Segurança Pública, Mario Luiz Sarrubbo, disse que o objetivo é ampliar a capacidade de atuação da União nessa área...
+                                    </div>
+                                </div>
+                            </div>  
+
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
-
-                    <div class="card">
-                            <a href="./noticias/proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">
-                                <img class="img-fluid" src="./img/uploads/2024/05/palacio-justica.png" alt="">
-                            </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">Proposta que aumenta poder da União no combate ao crime é necessária</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>20/05/2024</strong>
-                            </div>
-                        </div>
-                    </div>
 
                     <div class="card">
                             <a href="./noticias/ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/">
@@ -131,15 +115,6 @@
                         </div>
                     </div>
 
-                    
-
-                </div>
-
-
-
-                <div class="col-md-3"> <!-- Segundo Bloco -->
-
-
                     <div class="card">
                             <a href="./noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld/">
                                 <img class="img-fluid" src="./img/uploads/2024/04/evento-ipld.png" alt="">
@@ -156,19 +131,42 @@
                         </div>
                     </div>
 
+                    
+
+                </div>
+
+
+
+                <div class="col-md-3"> <!-- Segundo Bloco -->
 
                     <div class="card">
-                        <a href="./noticias/ansegtv-e-senasp-se-reunem-em-brasilia/">
-                        <img class="img-fluid" src="./img/uploads/2024/04/encontro-senasp.png" alt="">
+                        <a href="./noticias/ansegtv-faz-visita-institucional-a-cnt/">
+                        <img class="img-fluid" src="./img/uploads/2024/03/fachada-sest-senat.png" alt="">
                         </a>
                         <div class="card-body">
                             <div class="news-title">
                                 <h3 class=" title-small">
-                                    <a href="./noticias/ansegtv-e-senasp-se-reunem-em-brasilia/">ANSEGTV e SENASP se reúnem em Brasília</a>
+                                    <a href="./noticias/ansegtv-faz-visita-institucional-a-cnt/">ANSEGTV faz visita institucional à CNT</a>
                                 </h3>
                             </div>
                             <div class="time-text">
-                            <strong>04/04/2024</strong>
+                            <strong>28/03/2024</strong>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <a href="./noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/">
+                        <img class="img-fluid" src="./img/uploads/2023/10/sede-pf.png" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div class="news-title">
+                                <h3 class=" title-small">
+                                    <a href="./noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/">ANSEGTV compõe Comissão Consultiva para Assuntos de Segurança Privada</a>
+                                </h3>
+                            </div>
+                            <div class="time-text">
+                            <strong>06/10/2023</strong>
                             </div>
                         </div>
                     </div>
