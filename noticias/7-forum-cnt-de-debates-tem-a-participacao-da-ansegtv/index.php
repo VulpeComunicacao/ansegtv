@@ -17,8 +17,11 @@
 </head>
 <body>
     <div id="main-content" style="height: 500px; width: 100%; text-align: center; display: flex; align-items: center; justify-content: center; margin: 0; padding: 0;">
-        <img src="https://ansegtv.com.br/img/logo-header.png" style="magin-bottom: 40px;" alt="Ansegtv" style="width: 271px; height: 257px;">
-        <p>Se você não for redirecionado automaticamente, <a href="https://ansegtv.com.br">clique aqui</a>.</p>
+        <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+            <img src="https://ansegtv.com.br/img/logo-header.png" style="magin-bottom: 40px;" alt="Ansegtv" style="width: 271px; height: 257px;">
+            <br>
+            <h2>Se você não for redirecionado automaticamente, <a href="https://ansegtv.com.br">clique aqui</a>.</h2>
+        </div>
     </div>
 </body>
 </html> 
