@@ -114,27 +114,6 @@
                   </div>
                </div>
 
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./workshop-da-pf-sobre-seguranca-privada-tem-participacao-da-ansegtv/">
-                        <img src="../img/uploads/2024/06/workshop-pf.png">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./workshop-da-pf-sobre-seguranca-privada-tem-participacao-da-ansegtv/">Workshop da PF sobre segurança privada tem participação da ANSEGTV</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>21 de junho de 2024</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>A Polícia Federal em Goiás realizou, nos dias 13 e 14 de junho, o 1º Workshop Estadual da Segurança Privada.</p>
-                        <a href="./workshop-da-pf-sobre-seguranca-privada-tem-participacao-da-ansegtv/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
 
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
@@ -227,28 +206,6 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
-                     <a href="./ansegtv-e-senasp-se-reunem-em-brasilia/">
-                        <img src="../img/uploads/2024/04/encontro-senasp.png">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./ansegtv-e-senasp-se-reunem-em-brasilia/">ANSEGTV e SENASP se reúnem em Brasília</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>04 de abril de 2024</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>O Secretário Nacional de Segurança Pública, Mario Luiz Sarrubbo, e o Diretor de Operações Integradas e de Inteligência da Secretaria Nacional de Segurança Pública (SENASP), Rodney da Silva...</p>
-                        <a href="./ansegtv-e-senasp-se-reunem-em-brasilia/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
                      <a href="./ansegtv-faz-visita-institucional-a-cnt/">
                         <img src="../img/uploads/2024/03/fachada-sest-senat.png">
                      </a>
@@ -267,111 +224,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">
-                        <img src="../img/uploads/2024/02/evento-ccasp.png">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/">Com participação da ANSEGTV, CCASP tem primeira reunião do ano</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>27 de fevereiro de 2024</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>O Diretor Jurídico da ANSEGTV, Max Madruga, participou no dia 20 de fevereiro da reunião da CCASP, da qual a entidade é membro efetivo...</p>
-                        <a href="./com-participacao-da-ansegtv-ccasp-tem-primeira-reuniao-do-ano/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">
-                        <img src="../img/uploads/2024/02/presidente-ansegtv.png">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/">Empresas devem se modernizar para atuar no mercado com os diversos meios de pagamento existentes</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>09 de fevereiro de 2024</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>Gabriel reconhece que a adesão aos meios eletrônicos de pagamento influenciou nas atividades dos associados, mas que o segmento vem sabendo...</p>
-                        <a href="./empresas-devem-se-modernizar-para-atuar-no-mercado-com-os-diversos-meios-de-pagamento-existentes/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">
-                        <img src="../img/uploads/2023/11/7-forum.png">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/">7º Fórum CNT de Debates tem a participação da ANSEGTV</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>28 de novembro de 2023</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>O Diretor Jurídico da ANSEGTV, Max Tavares Madruga, representou a entidade no 7º Fórum CNT de Debates – Segurança Pública e a Atividade Transportadora, realizado no dia 22 de novembro...</p>
-                        <a href="./7-forum-cnt-de-debates-tem-a-participacao-da-ansegtv/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">
-                        <img src="../img/uploads/2023/10/representantes.png">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/">Representantes de ANSEGTV, COAF e PF debatem prevenção à lavagem de dinheiro</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>31 de outubro de 2023</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>O Diretor Jurídico da ANSEGTV, Max Tavares Madruga, a Delegada Chefe da DICOF/CGCSP/DIREX/PF, Dra. Denise Vargas Tenorio, e a Coordenadora-Geral de Fiscalização...</p>
-                        <a href="./representantes-de-ansegtv-coaf-e-pf-debatem-prevencao-a-lavagem-de-dinheiro/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/">
-                        <img src="../img/uploads/2023/10/reuniao-com-pf.png">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/">Entidades representativas da segurança privada se reúnem com a PF em Brasília</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>20 de outubro de 2023</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>O Diretor Jurídico da ANSEGTV, Max Tavares Madruga, participou na terça-feira (17) do II Encontro com as Entidades Representativas do segmento de Segurança Privada...</p>
-                        <a href="./entidades-representativas-da-seguranca-privada-se-reunem-com-a-pf-em-brasilia/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
+
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
@@ -390,48 +243,6 @@
                         </div>
                         <p>O Ministério da Justiça e Segurança Pública publicou no dia 27 de setembro a Portaria MJSP Nº 493 que recria a Comissão Consultiva para Assuntos de Segurança Privada.</p>
                         <a href="./ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">
-                        <img src="../img/uploads/2023/10/evento-esg.png">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/">ANSEGTV acompanha Fórum sobre ESG e Inovação no Setor do Transporte</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>04 de outubro de 2023</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>O Diretor Jurídico da ANSEGTV, Max Tavares Madruga, esteve no dia 28 de setembro no “Fórum ITL de Inovação no Setor do Transporte”, em Brasília.</p>
-                        <a href="./ansegtv-acompanha-forum-sobre-esg-e-inovacao-no-setor-do-transporte/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./ansegtv-prestigia-o-10-enefav/">
-                        <img src="../img/uploads/2023/09/evento-enefav.png">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./ansegtv-prestigia-o-10-enefav/">ANSEGTV prestigia o 10º ENEFAV</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>25 de setembro de 2023</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>O Diretor Jurídico da ANSEGTV, Max Tavares Madruga, e o Diretor de Assuntos Associativos e Sindicais da entidade, José Ferreira de Andrade Netto, participaram, na quarta-feira (20), da abertura do 10º ENEFAV</p>
-                        <a href="./ansegtv-prestigia-o-10-enefav/" class="box_btn">leia mais</a>
                      </div>
                   </div>
                </div>
@@ -478,71 +289,7 @@
                      </div>
                   </div>
                </div>
-               
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">
-                        <img src="../img/uploads/2023/07/reuniao-pf.png">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/">ANSEGTV participa de reunião na PF para discutir portaria sobre segurança privada</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>07 de julho de 2023</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>O diretor Jurídico da ANSEGTV, Max Tavares Madruga, participou, no último dia 27 de junho, de reunião na sede da Polícia Federal, em Brasília, para apresentar...</p>
-                        <a href="./ansegtv-participa-de-reuniao-na-pf-para-discutir-portaria-sobre-seguranca-privada/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
 
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./congresso-do-ipdl-destaca-papel-da-integridade-nas-empresas/">
-                        <img src="../img/uploads/2023/05/max-ipdl.png">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./congresso-do-ipdl-destaca-papel-da-integridade-nas-empresas/">Congresso do IPLD destaca papel da integridade nas empresas</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>30 de maio de 2023</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>O IPLD (Instituto de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento ao Terrorismo) realizou nos dias 23 e 24 de maio a 5º edição de seu Congresso Internacional, o maior da América Latina na área...</p>
-                        <a href="./congresso-do-ipdl-destaca-papel-da-integridade-nas-empresas/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./ansegtv-se-reune-com-cnt-para-discutir-pauta-comum-para-o-setor-de-trasnporte/">
-                        <img src="../img/uploads/2023/05/reuniao-cnt.png">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./ansegtv-se-reune-com-cnt-para-discutir-pauta-comum-para-o-setor-de-trasnporte/">ANSEGTV se reúne com CNT para discutir pauta comum para o setor de transporte</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>23 de maio de 2023</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>O diretor jurídico da ANSEGTV, Max Tavares Madruga, participou, no último dia 17 de maio, de uma reunião com o diretor executivo da CNT, Bruno Batista, para debater pautas comuns...</p>
-                        <a href="./ansegtv-se-reune-com-cnt-para-discutir-pauta-comum-para-o-setor-de-trasnporte/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
@@ -561,28 +308,6 @@
                         </div>
                         <p>A Tendências Consultoria realizou no dia 26 de abril uma live para discutir e analisar as medidas previstas na proposta de reforma tributária do governo. Participaram os sócios da consultoria Maílson da Nóbrega e Alessandra Ribeiro</p>
                         <a href="./reforma-tributaria-e-tema-de-live/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./e-preciso-tipificar-criminalidade-o-dominio-de-cidades/">
-                        <img src="../img/uploads/2020/11/max-tavares.png">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./e-preciso-tipificar-criminalidade-o-dominio-de-cidades/">É preciso tipificar criminalmente o "domínio de cidades"</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>18 de abril de 2023</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>No dia 9 de abril, criminosos invadiram uma empresa de transporte de valores no interior do Mato Grosso. Não tiveram sucesso, mas espalharam medo e destruição pela cidade. Em 13 de fevereiro, suspeitos...</p>
-                        <a href="./e-preciso-tipificar-criminalidade-o-dominio-de-cidades/" class="box_btn">leia mais</a>
                      </div>
                   </div>
                </div>
@@ -669,27 +394,6 @@
                         </div>
                         <p>A diretora da ANPD (Autoridade Nacional de Proteção de Dados), Miriam Wimmer, participou no dia 7 de fevereiro  do webinar...</p>
                         <a href="./diretoria-da-anpd-esclarece-duvidas-sobre-protecao-de-dados/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./nova-realidade-requer-criatividade-e-busca-de-eficiencia/">
-                        <img src="../img/uploads/2023/02/gabriel-presidente-ansegtv.png">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./nova-realidade-requer-criatividade-e-busca-de-eficiencia/">Nova realidade requer criatividade e busca de eficiência</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>07 de fevereiro de 2023</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>Em entrevista, presidente da ANSEGTV avalia momento atual do mercado e fala sobre desafios e expectativas para o ano...</p>
-                        <a href="./nova-realidade-requer-criatividade-e-busca-de-eficiencia/" class="box_btn">leia mais</a>
                      </div>
                   </div>
                </div>
@@ -927,27 +631,6 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
-                     <a href="./diretor-da-ansegtv-fala-sobre-gestao-de-seguranca-em-live/">
-                        <img src="../img/uploads/2022/04/security-talks.jpg">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./diretor-da-ansegtv-fala-sobre-gestao-de-seguranca-em-live/">Diretor da ANSEGTV fala sobre gestão de segurança em live</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>26 de abril de 2022</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>O Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) e Gerente Executivo da TBForte, Max Madruga, participou no dia 20 de abril do “Security Talks”...</p>
-                        <a href="./diretor-da-ansegtv-fala-sobre-gestao-de-seguranca-em-live/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
                      <a href="./ansegtv-participa-de-evento-da-cgcsp-sobre-prevencao-a-lavagem-de-dinheiro">
                         <img src="../img/uploads/2022/03/seminario-nacional.jpg">
                      </a>
@@ -1005,27 +688,6 @@
                         </div>
                         <p>O Congresso Nacional promulgou na quinta-feira (10) a Emenda Constitucional (EC 115), que altera a Constituição e inclui a proteção de dados pessoais entre os direitos e garantias fundamentais...</p>
                         <a href="https://ansegtv.com.br/noticias/emenda-que-torna-protecao-de-dados-pessoais-direito-fundamental-e-promulgada/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./presidente-da-ansegtv-destaca-capacidade-das-empresas-em-enfrentarem-a-crise/">
-                        <img src="../img/uploads/2022/02/gabriel-presidente-ansegtv.jpg">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./presidente-da-ansegtv-destaca-capacidade-das-empresas-em-enfrentarem-a-crise/">Presidente da ANSEGTV destaca capacidade das empresas em enfrentarem a crise</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>09 de fevereiro de 2022</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>Criatividade e adaptação. Essas são as palavras que se destacam ao ouvir o presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Gabriel Damasceno, falar...</p>
-                        <a href="./presidente-da-ansegtv-destaca-capacidade-das-empresas-em-enfrentarem-a-crise/" class="box_btn">leia mais</a>
                      </div>
                   </div>
                </div>
@@ -1305,27 +967,6 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
-                     <a href="./diretor-da-ansegtv-defende-reforco-da-pf-para-combater-empresas-de-seguranca-clandestinas">
-                        <img src="../img/uploads/2021/08/audiencia-cnj.jpg">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./diretor-da-ansegtv-defende-reforco-da-pf-para-combater-empresas-de-seguranca-clandestinas/">Diretor da ANSEGTV defende reforço da PF para combater empresas de segurança clandestinas</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>03 de agosto de 2021</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>O diretor jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Max Madruga, foi um dos representantes de entidades que participaram de audiência pública promovida pelo CNJ... </p>
-                        <a href="./diretor-da-ansegtv-defende-reforco-da-pf-para-combater-empresas-de-seguranca-clandestinas/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
                      <a href="./ansegtv-contribui-para-inovacoes-tecnologicas-apresentadas-no-6-inovanfc-e">
                         <img src="../img/uploads/2021/07/evento-inova-29-07.jpg">
                      </a>
@@ -1383,27 +1024,6 @@
                         </div>
                         <p>Com o tema 'Inovações Fiscais para um mundo em transformação', acontece no próximo dia 28 de julho, das 14h às 18h, o 6º Inova NFC-e. O evento, em formato 100% digital...</p>
                         <a href="./6-inova-nfc-e-reune-especialistas-em-transformacao-digital-e-transportes/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./legislacao-e-ataques-ao-transporte-de-valores">
-                        <img src="../img/uploads/2020/11/max-tavares.png">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./legislacao-e-ataques-ao-transporte-de-valores/">Legislação e ataques ao transporte de valores</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>20 de julho de 2021</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>Empresas de transporte de valores são responsáveis pela proteção de milhões de reais que circulam pelo país e que permanecem sob custódia diariamente. São elas que abastecem o comércio...</p>
-                        <a href="./legislacao-e-ataques-ao-transporte-de-valores/" class="box_btn">leia mais</a>
                      </div>
                   </div>
                </div>
@@ -1746,27 +1366,6 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
-                     <a href="./pandemia-trouxe-desafios-mas-nao-impediu-avancos/">
-                        <img src="../img/uploads/2021/02/gabriel-presidente-ansegtv.png" alt="Gabriel - Presidente da ANSEGTV">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./pandemia-trouxe-desafios-mas-nao-impediu-avancos/">Pandemia trouxe desafios, mas não impediu avanços</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>19 de fevereiro de 2021</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>Seria impossível fazer um balanço do segundo ano de atividades da ANSEGTV sem falar dos impactos da pandemia. Fundada em fevereiro de 2019, a entidade soube se adaptar e criar alternativas...</p>
-                        <a href="./pandemia-trouxe-desafios-mas-nao-impediu-avancos/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
                      <a href="./ansegtv-segue-atenta-a-lgpd/">
                         <img src="../img/uploads/2021/02/img-lgpd.png" alt="Imagem da LGPD referenciando proteção de dados com um cadeado sobre o computador">
                      </a>
@@ -1890,48 +1489,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./a-necessidade-de-um-programa-de-integridade-nas-empresas/">
-                        <img src="../img/uploads/2020/11/max-tavares.png" alt="">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./a-necessidade-de-um-programa-de-integridade-nas-empresas/">A necessidade de um Programa de Integridade nas empresas</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>20 de novembro de 2020</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>Qualquer empresa, atuando em qualquer segmento de negócio, de qualquer porte e em qualquer patamar de faturamento, está sujeita à regulamentação legal. No Brasil, encontram-se em plena vigência leis..."</p>
-                        <a href="./a-necessidade-de-um-programa-de-integridade-nas-empresas/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./servicos-no-processo-de-recuperacao-economica/">
-                        <img src="../img/uploads/2020/11/gabriel-perfil.jpeg" alt="">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./servicos-no-processo-de-recuperacao-economica/">Serviços no processo de recuperação econômica</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>11 de novembro de 2020</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>Dados de setembro do Ministério da Economia mostram que, pelo segundo mês seguido, o país criou empregos formais. Foram abertos 313.564 postos com carteira assinada, o melhor resultado para o período desde o início da série histórica do Caged, em 2010.</p>
-                        <a href="./servicos-no-processo-de-recuperacao-economica/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
+
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
@@ -2124,27 +1682,6 @@
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
-                     <a href="./o-pos-guerra-das-empresas/">
-                        <img src="../img/uploads/redimensionadas/009.png" alt="">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./o-pos-guerra-das-empresas/">O “pós-guerra” das empresas</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>17 de julho de 2020</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>Na década de 1960, Leon C. Megginson, professor da Universidade de Louisiana, nos Estados Unidos, adaptou uma ideia da Teoria da Evolução das Espécies para explicar o sucesso de algumas empresas no mercado. Em escrito de 1963, tratando da recuperação europeia no pós-guerra...</p>
-                        <a href="./o-pos-guerra-das-empresas/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
                      <a href="./reforma-tributaria-e-tema-de-reunioes/">
                         <img src="../img/uploads/2020/07/congresso_agencia-senado_ansegtv.jpg" alt="">
                      </a>
@@ -2160,27 +1697,6 @@
                         </div>
                         <p>Em sequência à série de reuniões para discutir propostas na área econômica, o presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Gabriel Damasceno, e outros representantes do setor de serviços participaram nesta quinta-feira (2) de mais duas videoconferências...</p>
                         <a href="./reforma-tributaria-e-tema-de-reunioes/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                     <a href="./mesmo-com-dificuldades-ano-traz-aprendizados-e-avancos/">
-                        <img src="../img/uploads/2020/07/compilado-noticias-ansegtv.png" alt="">
-                     </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./mesmo-com-dificuldades-ano-traz-aprendizados-e-avancos/">Mesmo com dificuldades, ano traz aprendizados e avanços</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>01 de julho de 2020</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>Ao final de 2019, a expectativa para 2020 era grande. Os desafios que se avizinhavam eram muitos, mas ninguém poderia imaginar um ano tão atribulado quanto o que estamos vivendo. Passado o primeiro semestre, é hora de fazer um balanço sobre...</p>
-                        <a href="./mesmo-com-dificuldades-ano-traz-aprendizados-e-avancos/" class="box_btn">leia mais</a>
                      </div>
                   </div>
                </div>
@@ -2310,27 +1826,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                        <a href="./presidente-da-ansegtv-enaltece-parceria-com-a-pf-e-investimentos-em-seguranca/">
-                           <img src="../img/uploads/redimensionadas/012.png" alt="">
-                        </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./presidente-da-ansegtv-enaltece-parceria-com-a-pf-e-investimentos-em-seguranca/">Presidente da ANSEGTV enaltece parceria com a PF e investimentos em segurança</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>20 de março de 2020</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>O primeiro ano da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) testemunhou avanços para o segmento de transporte...</p>
-                        <a href="./presidente-da-ansegtv-enaltece-parceria-com-a-pf-e-investimentos-em-seguranca/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
+               
                <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
                   <div class="single-blog">
                      <div class="blog-img">
@@ -2370,27 +1866,6 @@
                         </div>
                         <p>O Conselho Administrativo de Defesa Econômico (CADE) condicionou, em decisão tomada nesta quarta-feira (19/02), a compra da Tecnoguarda pela norte-americana Brink's à celebração de um Acordo de Controle...</p>
                         <a href="./cade-propoe-a-brinks-nao-realizaraaquisicoes-por-tres-anos/" class="box_btn">leia mais</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                  <div class="single-blog">
-                     <div class="blog-img">
-                        <a href="./ansegtv-comemora-aniversario/">
-                           <img src="../img/uploads/redimensionadas/009.png" alt="">
-                        </a>
-                     </div>
-                     <div class="blog-content">
-                        <div class="blog-title">
-                           <h2 class="title-large"><a href="./ansegtv-comemora-aniversario/">Associação criada para defender a livre concorrência do setor comemora aniversário</a></h2>
-                           <div class="meta">
-                              <ul>
-                                 <li>19 de fevereiro de 2020</li>
-                              </ul>
-                           </div>
-                        </div>
-                        <p>A Ansegtv surge em um momento em que o setor de transporte de valores enfrenta a concorrência desleal de transportadoras estrangeiras que começam a se expandir em território nacional...</p>
-                        <a href="./ansegtv-comemora-aniversario/" class="box_btn">leia mais</a>
                      </div>
                   </div>
                </div>

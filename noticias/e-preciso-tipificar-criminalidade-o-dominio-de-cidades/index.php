@@ -34,6 +34,9 @@
             gtag('config', 'G-RP1BVPHJHD');
             </script>
 
+            <!-- Redirect para Ansegtv.com.br -->
+            <meta http-equiv="refresh" content="0; url=https://ansegtv.com.br">
+
   </head>
 
   <body>
