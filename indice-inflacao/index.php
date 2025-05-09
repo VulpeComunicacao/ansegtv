@@ -186,7 +186,7 @@
                       <div class="tab-pane fade show active" id="content-2025" role="tabpanel" aria-labelledby="tab-2025">
                         <ul class="lista-arquivos pt-3">
                             <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2024_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - AL</a></li>
-                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2024_MT.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MT</a></li>
+                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2024_MS.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MS</a></li>
                             <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2024_PB.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PB</a></li>
                             <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2024_RR.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - RR</a></li>
                             <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2024_SE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - SE</a></li>
