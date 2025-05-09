@@ -3,6 +3,8 @@
         <!-- Head Section -->
         <head>
             <title>Congresso Internacional do IPLD debate combate à lavagem de dinheiro</title>
+            <meta charset="utf-8">
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
@@ -110,7 +112,7 @@
 
                         <p class="article">Bernardo Mota, Coordenador-Geral de Articulação Institucional do Departamento de Recuperação de Ativos e Cooperação Jurídica Internacional (DRCI), do Ministério da Justiça; Antonio Juan Ferreiro Cunha, Chefe Adjunto do Departamento de Supervisão de Conduta do Banco Central do Brasil; e Carlos Márcio Cozendey, Embaixador e Secretário de Assuntos Multilaterais Políticos do Ministério das Relações Exteriores, foram algumas das autoridades participantes.</p>
 
-                        <p class="article">Max Tavares Madruga, Diretor Jurídico da ANSEGTV, acompanhou o congresso e destacou sua importância. “Foi uma grande oportunidade para se atualizar e debater temas importantes para nosso setor. Do que depender da ANSEGTV, estaremos sempre abertos a eventos desse gênero”.</p>
+                        <p class="article">Max Tavares Madruga, Diretor Jurídico da ANSEGTV, acompanhou o congresso e destacou sua importância. "Foi uma grande oportunidade para se atualizar e debater temas importantes para nosso setor. Do que depender da ANSEGTV, estaremos sempre abertos a eventos desse gênero".</p>
                         
 
                         

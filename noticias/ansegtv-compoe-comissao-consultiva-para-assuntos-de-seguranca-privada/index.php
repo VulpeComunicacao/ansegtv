@@ -3,6 +3,8 @@
         <!-- Head Section -->
         <head>
             <title>ANSEGTV compõe Comissão Consultiva para Assuntos de Segurança Privada</title>
+            <meta charset="utf-8">
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />

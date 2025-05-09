@@ -3,6 +3,8 @@
         <!-- Head Section -->
         <head>
             <title>ANSEGTV faz visita institucional à CNT</title>
+            <meta charset="utf-8">
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-faz-visita-institucional-a-cnt/" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
@@ -114,9 +116,9 @@
 
                         <p class="article">Para Valter Souza, encontros como esse são uma excelente oportunidade para apresentar o Sistema Transporte como um todo para as empresas do setor, principalmente as contribuintes, e mostrar como o dinheiro da contribuição é bem investido, além de incentivá-las a usar os serviços ofertados, para tornar o transporte mais eficiente e competitivo.</p>
 
-                        <p class="article">“As empresas contribuintes precisam conhecer o Sistema Transporte, para saber que o dinheiro descontado em folha está sendo bem aplicado e traz retornos positivos para os negócios. Por meio do SEST SENAT, por exemplo, as empresas contam com qualificação técnica para seu corpo de funcionários e o ITL capacita a alta gestão dessas empresas”, explica.</p>
+                        <p class="article">"As empresas contribuintes precisam conhecer o Sistema Transporte, para saber que o dinheiro descontado em folha está sendo bem aplicado e traz retornos positivos para os negócios. Por meio do SEST SENAT, por exemplo, as empresas contam com qualificação técnica para seu corpo de funcionários e o ITL capacita a alta gestão dessas empresas", explica.</p>
 
-                        <p class="article">Gabriel Damasceno considerou o encontro bastante produtivo. “É muito importante essa troca de informações. Agradecemos a toda equipe da CNT, que nos recebeu com toda atenção. A ANSEGTV segue à disposição e aberta ao diálogo com todos os segmentos do setor de transportes”, disse.</p>
+                        <p class="article">Gabriel Damasceno considerou o encontro bastante produtivo. "É muito importante essa troca de informações. Agradecemos a toda equipe da CNT, que nos recebeu com toda atenção. A ANSEGTV segue à disposição e aberta ao diálogo com todos os segmentos do setor de transportes", disse.</p>
 
                         <p class="article"><em>Fonte: Agência CNT Transporte Atual</em></p>
 

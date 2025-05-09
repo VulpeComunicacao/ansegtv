@@ -3,6 +3,8 @@
         <!-- Head Section -->
         <head>
             <title>ANSEGTV apoia PL que tipifica o domínio de cidades</title>
+            <meta charset="utf-8">
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
@@ -112,7 +114,7 @@
 
                         <p class="article">Importante lembrar que o PL 5.365/2020 incorporou o PL 3242/2021, apresentado pelo deputado federal Luiz Philippe de Orleans e Bragança (PL-SP) em 2021, que também tinha como objetivo atualizar a legislação para tornar hediondos ataques com explosivos contra empresas de transporte de valores e carros-fortes. Esse projeto foi uma sugestão da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores).</p>
 
-                        <p class="article">Thiago Peixoto, Diretor Executivo da ANSEGTV, afirma que a revisão da lei é uma das principais bandeiras da entidade. “A legislação precisa ser atualizada. Os criminosos estão cada vez mais organizados e armados. É preciso coibir essas práticas. Além dos altos custos para as empresas de segurança, são vidas de trabalhadores e da população em geral que estão em risco”, diz.</p>
+                        <p class="article">Thiago Peixoto, Diretor Executivo da ANSEGTV, afirma que a revisão da lei é uma das principais bandeiras da entidade. "A legislação precisa ser atualizada. Os criminosos estão cada vez mais organizados e armados. É preciso coibir essas práticas. Além dos altos custos para as empresas de segurança, são vidas de trabalhadores e da população em geral que estão em risco", diz.</p>
 
 
 

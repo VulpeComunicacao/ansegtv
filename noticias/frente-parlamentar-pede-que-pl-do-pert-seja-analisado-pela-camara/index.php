@@ -3,6 +3,8 @@
         <!-- Head Section -->
         <head>
             <title>Frente Parlamentar pede que PL do PERT seja analisado pela Câmara</title>
+            <meta charset="utf-8">
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/frente-parlamentar-pede-que-pl-do-pert-seja-analisado-pela-camara/" />
             <meta name="description" content="O coordenador do GT Tributário da Frente Parlamentar do Setor de Serviços (FPS), Eduardo Muniz M. Cavalcanti, elaborou um manifesto para que o Projeto de Lei 4728/2020 seja pautado e discutido pelo Plenário da Câmara dos Deputados." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">

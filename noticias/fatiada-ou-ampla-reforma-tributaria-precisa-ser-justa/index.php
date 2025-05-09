@@ -3,6 +3,8 @@
         <!-- Head Section -->
         <head>
             <title>Fatiada ou ampla, Reforma Tributária precisa ser justa | ANSEGTV</title>
+            <meta charset="utf-8">
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/fatiada-ou-ampla-reforma-tributaria-precisa-ser-justa/" />
             <meta name="description" content="O deputado Aguinaldo Ribeiro (PP-PB) apresentou no dia 12 seu relatório final à Comissão Mista da Reforma Tributária. O texto propõe mudanças significativas ao sistema tributário brasileiro. A principal alteração é a substituição de tributos como PIS, COFINS, IPI, ICMS e ISS pelo Imposto sobre Bens e Serviços (IBS)." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">

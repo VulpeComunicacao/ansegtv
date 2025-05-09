@@ -1,10 +1,10 @@
-
 <!doctype html>
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
     <title>Notícias | ANSEGTV - Associação Nacional de Segurança e Transporte de Valores</title>
     <meta charset="utf-8">
+    <link rel="canonical" href="https://ansegtv.com.br/noticias/" />
     <meta name="description" content="ANSEGTV é a Associação Nacional de Segurança e Transporte de Valores. Uma entidade sem fins lucrativos estrutura para representar os interesses das empresas do segmento." />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="robots" content="index, follow">
@@ -434,7 +434,7 @@
                               </ul>
                            </div>
                         </div>
-                        <p>A ACAMS Brasil Chapter, que reúne especialistas em prevenção à lavagem de dinheiro, realizou nesta quarta-feira (23), em São Paulo, o “Summit 2022 – Integridade e Avaliação Nacional de Riscos”...</p>
+                        <p>A ACAMS Brasil Chapter, que reúne especialistas em prevenção à lavagem de dinheiro, realizou nesta quarta-feira (23), em São Paulo, o "Summit 2022 – Integridade e Avaliação Nacional de Riscos"...</p>
                         <a href="./avaliacao-de-riscos-e-integridade-e-tema-de-encontro-em-sp/" class="box_btn">leia mais</a>
                      </div>
                   </div>
@@ -490,7 +490,7 @@
                      </div>
                      <div class="blog-content">
                         <div class="blog-title">
-                           <h2 class="title-large"><a href="./camara-aprova-projeto-para-combater-novo-cangaco/">Câmara aprova projeto para combater “novo cangaço”</a></h2>
+                           <h2 class="title-large"><a href="./camara-aprova-projeto-para-combater-novo-cangaco/">Câmara aprova projeto para combater "novo cangaço"</a></h2>
                            <div class="meta">
                               <ul>
                                  <li>09 de setembro de 2022</li>

@@ -3,6 +3,8 @@
         <!-- Head Section -->
         <head>
             <title>Congresso discute combate à lavagem de dinheiro</title>
+            <meta charset="utf-8">
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/congresso-discute-combate-a-lavagem-de-dinheiro/" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
@@ -116,7 +118,7 @@
 
                         <p class="article">Já a luta contra o financiamento do terrorismo está intimamente ligada ao combate à lavagem de dinheiro. Grandes atentados levaram os países a intensificar a cooperação mútua na área.</p>
 
-                        <p class="article">O presidente da ANSEGTV, Gabriel Damasceno, considera o Congresso do IPLD de vital relevância. “São pautas extremamente relevantes para o nosso setor. A lista de debatedores dispensa apresentações. Sem dúvidas, será uma grande oportunidade de aprendizado e crescimento profissional”.</p>
+                        <p class="article">O presidente da ANSEGTV, Gabriel Damasceno, considera o Congresso do IPLD de vital relevância. "São pautas extremamente relevantes para o nosso setor. A lista de debatedores dispensa apresentações. Sem dúvidas, será uma grande oportunidade de aprendizado e crescimento profissional".</p>
                         
                         <p class="article">As inscrições para o evento podem ser feitas pelo site: <a href=" https://congresso5.ipld.com.br/#Inscreva" target="_blank"> https://congresso5.ipld.com.br/#Inscreva</a></p>
                             

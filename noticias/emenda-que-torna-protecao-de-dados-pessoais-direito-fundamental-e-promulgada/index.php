@@ -3,6 +3,8 @@
         <!-- Head Section -->
         <head>
             <title>Emenda que torna proteção de dados pessoais direito fundamental é promulgada</title>
+            <meta charset="utf-8">
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/emenda-que-torna-protecao-de-dados-pessoais-direito-fundamental-e-promulgada/" />
             <meta name="description" content="O Congresso Nacional promulgou na quinta-feira (10) a Emenda Constitucional (EC 115), que altera a Constituição e inclui a proteção de dados pessoais entre os direitos e garantias fundamentais. " />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
@@ -110,7 +112,7 @@
                         
                         <p class="article">A Frente Parlamentar do Setor de Serviços (FPS) publicou em setembro de 2021 um manifesto favorável à PEC, assinado por diversas entidades, dentre elas a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores).</p>
                         
-                        <p class="article">O manifesto afirmava que “assegurar a constitucionalização do direito à proteção de dados pessoais pela via da reforma constitucional, em processo legislativo privilegiado, conduzido pelo Congresso Nacional no exercício de seu poder constituinte derivado reformador, é medida que se impõe, a fim de evitar retrocessos cívicos e democráticos, ao sabor das mutabilidades jurisprudenciais”.</p>
+                        <p class="article">O manifesto afirmava que "assegurar a constitucionalização do direito à proteção de dados pessoais pela via da reforma constitucional, em processo legislativo privilegiado, conduzido pelo Congresso Nacional no exercício de seu poder constituinte derivado reformador, é medida que se impõe, a fim de evitar retrocessos cívicos e democráticos, ao sabor das mutabilidades jurisprudenciais".</p>
 
                         </div>
                     </div>

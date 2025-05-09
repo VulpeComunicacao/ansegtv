@@ -109,15 +109,18 @@
 
                     <ul class="nav nav-tabs justify-content-center mt-2" id="myTab" role="tablist">
                         <li class="nav-item">
-                        <a class="nav-link" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="false">2023</a>
+                        <a class="nav-link" id="home-tab" data-toggle="tab" href="#2023" role="tab" aria-controls="home" aria-selected="false">2023</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link active" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="true">2024</a>
+                        <a class="nav-link" id="home-tab" data-toggle="tab" href="#2024" role="tab" aria-controls="home" aria-selected="false">2024</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link active" id="profile-tab" data-toggle="tab" href="#2025" role="tab" aria-controls="profile" aria-selected="true">2025</a>
                         </li>
                     </ul>
 
                     <div class="tab-content">
-                    <div class="tab-pane mb-4" id="home" role="tabpanel" aria-labelledby="home-tab">
+                    <div class="tab-pane mb-4" id="2023" role="tabpanel" aria-labelledby="home-tab">
                           <ul class="lista-arquivos pt-3">
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AC</a></li>
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AL</a></li>
@@ -149,7 +152,7 @@
                         </ul>
                       </div>
 
-                      <div class="tab-pane active mb-4" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                      <div class="tab-pane mb-4" id="2024" role="tabpanel" aria-labelledby="profile-tab">
                         <ul class="lista-arquivos pt-3">
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_AC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - AC</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - AL</a></li>
@@ -177,6 +180,15 @@
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_SE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - SE</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_SP.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - SP</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_TO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - TO</a></li>
+                        </ul>
+                      </div>
+
+                      <div class="tab-pane active mb-4" id="2025" role="tabpanel" aria-labelledby="profile-tab">
+                        <ul class="lista-arquivos pt-3">
+                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2024_MT.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MT</a></li>
+                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2024_PB.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PB</a></li>
+                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2024_RR.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - RR</a></li>
+                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2024_SE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - SE</a></li>
                         </ul>
                       </div>
                     </div>

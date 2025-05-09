@@ -1,6 +1,7 @@
 <head>
     <title>ANSEGTV - Associação Nacional de Segurança e Transporte de Valores</title>
     <meta charset="utf-8">
+    <link rel="canonical" href="https://ansegtv.com.br<?php echo $_SERVER['REQUEST_URI']; ?>" />
     <meta name="description" content="ANSEGTV é a Associação Nacional de Segurança e Transporte de Valores. Uma entidade sem fins lucrativos estrutura para representar os interesses das empresas do segmento." />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="robots" content="index, follow">

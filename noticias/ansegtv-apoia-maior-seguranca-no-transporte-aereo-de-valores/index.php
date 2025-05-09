@@ -3,6 +3,8 @@
         <!-- Head Section -->
         <head>
             <title>ANSEGTV apoia maior segurança no transporte aéreo de valores | ANSEGTV</title>
+            <meta charset="utf-8">
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-apoia-maior-seguranca-no-transporte-aereo-de-valores/" />
             <meta name="description" content="A ANAC (Agência Nacional de Aviação Civil) abriu recentemente Consulta Pública que propõe a revisão da Resolução nº 461/2018, que dispõe sobre os procedimentos de embarque e desembarque de passageiros armados, despacho de armas de fogo e de munição e transporte de passageiros sob custódia a bordo de aeronaves civis." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">

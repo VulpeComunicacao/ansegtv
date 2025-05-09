@@ -3,6 +3,8 @@
         <!-- Head Section -->
         <head>
             <title>Avaliação de riscos e integridade é tema de encontro em SP</title>
+            <meta charset="utf-8">
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/avaliacao-de-riscos-e-integridade-e-tema-de-encontro-em-sp/" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
@@ -10,7 +12,7 @@
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
             <meta property="og:title" content="Avaliação de riscos e integridade é tema de encontro em SP">
-            <meta meta name="description" property="og:description" content="A ACAMS Brasil Chapter, que reúne especialistas em prevenção à lavagem de dinheiro, realizou nesta quarta-feira (23), em São Paulo, o “Summit 2022 – Integridade e Avaliação Nacional de Riscos”. ">
+            <meta meta name="description" property="og:description" content="A ACAMS Brasil Chapter, que reúne especialistas em prevenção à lavagem de dinheiro, realizou nesta quarta-feira (23), em São Paulo, o "Summit 2022 – Integridade e Avaliação Nacional de Riscos". ">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/avaliacao-de-riscos-e-integridade-e-tema-de-encontro-em-sp/">
             <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2022/11/evento-avaliacao-share.jpg">
@@ -98,7 +100,7 @@
                     <div class="row">
                         <div class="col-12 col-md-10 offset-md-1 content-news">
                         
-                        <p class="article">A ACAMS Brasil Chapter, que reúne especialistas em prevenção à lavagem de dinheiro, realizou nesta quarta-feira (23), em São Paulo, o “Summit 2022 – Integridade e Avaliação Nacional de Riscos”. O evento foi organizado por Marcio Luz, Diretor de Filiação da instituição. </p>
+                        <p class="article">A ACAMS Brasil Chapter, que reúne especialistas em prevenção à lavagem de dinheiro, realizou nesta quarta-feira (23), em São Paulo, o "Summit 2022 – Integridade e Avaliação Nacional de Riscos". O evento foi organizado por Marcio Luz, Diretor de Filiação da instituição. </p>
 
                         <p class="article">O encontro contou com a participação de representantes do mercado e diversas autoridades, dentre elas o ministro da CGU, Wagner Rosário, o superintendente-geral da CVM, Alexandre Pinheiro dos Santos, o coordenador-geral de Articulação Institucional do Coaf, Marconi Melo, e o chefe adjunto do Departamento de Supervisão de Conduta do Banco Central, Antonio Juan Ferreiro Cunha.</p>
 
@@ -111,7 +113,7 @@
 
                         <p class="article">O papel do Grupo de Ação Financeira (GAFI), órgão intergovernamental criado em 1989, durante a reunião do G7, em Paris, também esteve na pauta. Um dos objetivos do GAFI é a proteção do sistema financeiro e da economia em geral contra ameaças de lavagem de dinheiro, financiamento do terrorismo e da proliferação das armas de destruição em massa.</p>
 
-                        <p class="article">A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) acompanhou o evento, representada por seu Diretor Social e de Comunicação, Robson Barbara. “Acho muito importante  para o nosso segmento esse evento. Foram tratados assuntos totalmente dentro da nossa realidade como transportadoras de valores”, avaliou.</p>
+                        <p class="article">A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) acompanhou o evento, representada por seu Diretor Social e de Comunicação, Robson Barbara. "Acho muito importante  para o nosso segmento esse evento. Foram tratados assuntos totalmente dentro da nossa realidade como transportadoras de valores", avaliou.</p>
        
                         </div>
                     </div>

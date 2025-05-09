@@ -3,6 +3,8 @@
         <!-- Head Section -->
         <head>
             <title>ANSEGTV participa de audiência na Câmara sobre Estatuto do Aprendiz</title>
+            <meta charset="utf-8">
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-participa-de-audiencia-na-camara-sobre-estatuto-do-aprendiz/" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />

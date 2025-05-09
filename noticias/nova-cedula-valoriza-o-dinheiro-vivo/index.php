@@ -3,6 +3,8 @@
         <!-- Head Section -->
         <head>
             <title>Nova cédula valoriza o dinheiro vivo | ANSEGTV</title>
+            <meta charset="utf-8">
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/nova-cedula-valoriza-o-dinheiro-vivo/" />
             <meta name="description" content="Muito se discute atualmente a respeito do crescimento de pagamentos virtuais em detrimento da utilização do dinheiro em espécie." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">

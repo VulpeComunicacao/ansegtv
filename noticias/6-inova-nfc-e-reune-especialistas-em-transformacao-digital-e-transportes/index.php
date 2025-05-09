@@ -3,6 +3,8 @@
         <!-- Head Section -->
         <head>
             <title>6º Inova NFC-e reúne especialistas em transformação digital e transportes | ANSEGTV</title>
+            <meta charset="utf-8">
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/6-inova-nfc-e-reune-especialistas-em-transformacao-digital-e-transportes/" />
             <meta name="description" content="Com o tema 'Inovações Fiscais para um mundo em transformação', acontece no próximo dia 28 de julho, das 14h às 18h, o 6º Inova NFC-e. O evento, em formato 100% digital, ocorrerá junto com o 1º Fórum DF-e Transportes." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">

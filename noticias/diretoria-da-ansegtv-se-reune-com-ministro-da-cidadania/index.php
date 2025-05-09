@@ -3,6 +3,8 @@
         <!-- Head Section -->
         <head>
             <title>Diretoria da ANSEGTV se reúne com Ministro da Cidadania</title>
+            <meta charset="utf-8">
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/diretoria-da-ansegtv-se-reune-com-ministro-da-cidadania/" />
             <meta name="description" content="Diretores da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) participaram de reunião com o Ministro da Cidadania, Ronaldo Vieira Bento, na última quinta-feira (28), em Brasília." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">

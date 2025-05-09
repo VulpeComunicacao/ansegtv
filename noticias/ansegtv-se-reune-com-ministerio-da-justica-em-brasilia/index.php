@@ -3,6 +3,8 @@
         <!-- Head Section -->
         <head>
             <title>ANSEGTV se reúne com Ministério da Justiça em Brasília</title>
+            <meta charset="utf-8">
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-se-reune-com-ministerio-da-justica-em-brasilia/" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
@@ -114,7 +116,7 @@
 
                         <p class="article"> Os integrantes do ministério ressaltaram a importância do diálogo do governo e da Polícia Federal com as empresas de segurança privada, especialmente para a melhoria da segurança pública como um todo.</p>
 
-                        <p class="article"> Max avaliou a reunião como bastante produtiva. “Os integrantes do Ministério da Justiça foram muito receptivos. A troca de informações foi bem enriquecedora. Pudemos apresentar nossas sugestões e também ouvir o que vem sendo feito para aperfeiçoar a atividade de segurança privada”, disse.</p>
+                        <p class="article"> Max avaliou a reunião como bastante produtiva. "Os integrantes do Ministério da Justiça foram muito receptivos. A troca de informações foi bem enriquecedora. Pudemos apresentar nossas sugestões e também ouvir o que vem sendo feito para aperfeiçoar a atividade de segurança privada", disse.</p>
                         
                     </div>
                 </div>
