@@ -109,13 +109,13 @@
 
                     <ul class="nav nav-tabs justify-content-center mt-2" id="myTab" role="tablist">
                         <li class="nav-item">
-                        <a class="nav-link" id="home-tab" data-toggle="tab" href="#2023" role="tab" aria-controls="home" aria-selected="false">2023</a>
+                        <a class="nav-link" id="home-tab" data-toggle="tab" href="#2023" role="tab" aria-controls="2023" aria-selected="false">2023</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" id="home-tab" data-toggle="tab" href="#2024" role="tab" aria-controls="home" aria-selected="false">2024</a>
+                        <a class="nav-link" id="home-tab" data-toggle="tab" href="#2024" role="tab" aria-controls="2024" aria-selected="false">2024</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link active" id="profile-tab" data-toggle="tab" href="#2025" role="tab" aria-controls="profile" aria-selected="true">2025</a>
+                        <a class="nav-link active" id="profile-tab" data-toggle="tab" href="#2025" role="tab" aria-controls="2025" aria-selected="true">2025</a>
                         </li>
                     </ul>
 
