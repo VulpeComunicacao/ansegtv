@@ -79,6 +79,58 @@ function ansegtv_setup_theme() {
         'before_title'  => '<h2 class="widget-title">',
         'after_title'   => '</h2>',
     ));
+
+    // Suporte ao editor de blocos Gutenberg
+    add_theme_support('align-wide');
+    add_theme_support('editor-styles');
+    add_theme_support('wp-block-styles');
+    add_theme_support('editor-color-palette', [
+        [
+            'name'  => __('Primária', 'ansegtv'),
+            'slug'  => 'primary',
+            'color' => '#005baa',
+        ],
+        [
+            'name'  => __('Secundária', 'ansegtv'),
+            'slug'  => 'secondary',
+            'color' => '#f5a623',
+        ],
+        [
+            'name'  => __('Preto', 'ansegtv'),
+            'slug'  => 'black',
+            'color' => '#000000',
+        ],
+        [
+            'name'  => __('Branco', 'ansegtv'),
+            'slug'  => 'white',
+            'color' => '#ffffff',
+        ],
+    ]);
+    add_theme_support('editor-font-sizes', [
+        [
+            'name' => __('Pequeno', 'ansegtv'),
+            'size' => 12,
+            'slug' => 'small',
+        ],
+        [
+            'name' => __('Normal', 'ansegtv'),
+            'size' => 16,
+            'slug' => 'normal',
+        ],
+        [
+            'name' => __('Grande', 'ansegtv'),
+            'size' => 24,
+            'slug' => 'large',
+        ],
+        [
+            'name' => __('Enorme', 'ansegtv'),
+            'size' => 36,
+            'slug' => 'huge',
+        ],
+    ]);
+
+    // Adiciona estilos personalizados do editor
+    add_editor_style('assets/css/editor-style.css');
 }
 add_action('after_setup_theme', 'ansegtv_setup_theme');
 

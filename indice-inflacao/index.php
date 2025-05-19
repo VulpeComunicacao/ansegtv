@@ -186,8 +186,12 @@
                       <div class="tab-pane fade show active" id="content-2025" role="tabpanel" aria-labelledby="tab-2025">
                         <ul class="lista-arquivos pt-3">
                             <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - AL</a></li>
+                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - BA</a></li>
+                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_CE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - CE</a></li>
                             <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_MS.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MS</a></li>
+                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_MT.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MT</a></li>
                             <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_PB.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PB</a></li>
+                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_PI.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PI</a></li>
                             <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_RR.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - RR</a></li>
                             <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_SE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - SE</a></li>
                         </ul>

@@ -196,4 +196,75 @@ img {
 .pt-0 { padding-top: 0; }
 .pb-0 { padding-bottom: 0; }
 .pl-0 { padding-left: 0; }
-.pr-0 { padding-right: 0; } 
+.pr-0 { padding-right: 0; }
+
+/* Estilos personalizados para o editor de blocos Gutenberg */
+
+body.block-editor-page .editor-styles-wrapper {
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+    color: #222;
+    background: #fff;
+}
+
+.wp-block {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wp-block[data-align="wide"] {
+    max-width: 1200px;
+}
+
+.wp-block[data-align="full"] {
+    max-width: none;
+}
+
+.has-primary-color {
+    color: #005baa !important;
+}
+.has-secondary-color {
+    color: #f5a623 !important;
+}
+.has-black-color {
+    color: #000 !important;
+}
+.has-white-color {
+    color: #fff !important;
+}
+
+.has-primary-background-color {
+    background-color: #005baa !important;
+}
+.has-secondary-background-color {
+    background-color: #f5a623 !important;
+}
+.has-black-background-color {
+    background-color: #000 !important;
+}
+.has-white-background-color {
+    background-color: #fff !important;
+}
+
+/* Tamanhos de fonte personalizados */
+.has-small-font-size { font-size: 12px; }
+.has-normal-font-size { font-size: 16px; }
+.has-large-font-size { font-size: 24px; }
+.has-huge-font-size { font-size: 36px; }
+
+/* Ajustes de acessibilidade no editor */
+.screen-reader-text {
+    position: absolute;
+    left: -9999px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+
+/* Ajustes para imagens e vídeos */
+.wp-block-image img,
+.wp-block-video video {
+    max-width: 100%;
+    height: auto;
+} 
