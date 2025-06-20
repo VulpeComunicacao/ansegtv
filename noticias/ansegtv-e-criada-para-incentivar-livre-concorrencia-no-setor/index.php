@@ -3,60 +3,18 @@
         <!-- Head Section -->
         <head>
             <title>ANSEGTV é criada para incentivar livre concorrência e boas práticas no mercado de transporte de valores | ANSEGTV</title>
-            <meta name="description" content="A Associação Nacional de Segurança e Transporte de Valores (ANSEGTV) é lançada para fomentar a livre concorrência e a cultura de boas práticas na segurança privada. A entidade desenvolve grupos de estudo, eventos, missões, pesquisas e difusão. Todos convergindo para elevar a qualidade do serviço e ampliar o atendimento no setor de segurança privada e transporte de valores. A sede em Brasília foi inaugurada em 27 de julho de 2019.
-
-                            A entidade nasce com 12 empresas associadas que estão presentes em 24 estados e no Distrito Federal. “Temos um mercado muito importante para o funcionamento da economia e da sociedade, mas que precisa se modernizar com novos investimentos e com uma saudável desconcentração”, diz o diretor presidente da ANSEGTV, Gabriel Montenegro Damasceno. “Novos investimentos significam uma nova mentalidade, principalmente para dotar o transporte de valores, numerários e a segurança privada como um todo mais segura”, afirma. O mercado de segurança privada no Brasil emprega mais de 500 mil trabalhadores formais e tem faturamento anual de R$ 33 bilhões.
-
-                            Para incentivar uma nova mentalidade no transporte de valores, a ANSEGTV atuará não apenas como uma representante institucional das empresas perante as autoridades. “Queremos fazer parcerias para contribuir com a segurança pública e, complementarmente, funcionar como um observatório para mensurar os efeitos das boas práticas no nosso mercado”, afirma.
-
-                            A livre concorrência é uma condição primordial, segundo Damasceno, para que a segurança privada seja modernizada no Brasil. Um dos focos da entidade é o estudo da reestruturação do marco regulatório do segmento, tratada em projeto que atualmente tramita no Senado. Se aprovado, o Substitutivo da Câmara dos Deputados nº6 de 2016 (SCD 6/2016) criará o Estatuto da Segurança Privada.  “Nosso objetivo é que esta lei modernize a legislação do segmento, crie mais empregos e garanta maior atração de investimentos, respeitando o livre mercado e a livre iniciativa”, diz o presidente da ANSEGTV”.
-
-                            As empresas que formam a ANSEGTV:
-                            
-                                BRASIFORT
-                                BLUE ANGELS
-                                CEFOR
-                                CORPVS
-                                ESQUADRA
-                                FEDERAL SEGURANÇA
-                                FIDELYS
-                                GLOBALSERVICE
-                                RENAFORTE
-                                SAGA
-                                TBFORTE
-                                UNION SECURITY" />
+            <meta name="description" content="A Associação Nacional de Segurança e Transporte de Valores (ANSEGTV) é lançada para fomentar a livre concorrência e a cultura de boas práticas na segurança privada. A entidade desenvolve grupos de estudo, eventos, missões, pesquisas e difusão." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
+            <meta property="og:title" content="ANSEGTV é criada para incentivar livre concorrência e boas práticas no mercado de transporte de valores">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:description" content="A Associação Nacional de Segurança e Transporte de Valores (ANSEGTV) é lançada para fomentar a livre concorrência e a cultura de boas práticas na segurança privada. A entidade desenvolve grupos de estudo, eventos, missões, pesquisas e difusão. Todos convergindo para elevar a qualidade do serviço e ampliar o atendimento no setor de segurança privada e transporte de valores. A sede em Brasília foi inaugurada em 27 de julho de 2019.
-
-                            A entidade nasce com 12 empresas associadas que estão presentes em 24 estados e no Distrito Federal. “Temos um mercado muito importante para o funcionamento da economia e da sociedade, mas que precisa se modernizar com novos investimentos e com uma saudável desconcentração”, diz o diretor presidente da ANSEGTV, Gabriel Montenegro Damasceno. “Novos investimentos significam uma nova mentalidade, principalmente para dotar o transporte de valores, numerários e a segurança privada como um todo mais segura”, afirma. O mercado de segurança privada no Brasil emprega mais de 500 mil trabalhadores formais e tem faturamento anual de R$ 33 bilhões.
-
-                            Para incentivar uma nova mentalidade no transporte de valores, a ANSEGTV atuará não apenas como uma representante institucional das empresas perante as autoridades. “Queremos fazer parcerias para contribuir com a segurança pública e, complementarmente, funcionar como um observatório para mensurar os efeitos das boas práticas no nosso mercado”, afirma.
-
-                            A livre concorrência é uma condição primordial, segundo Damasceno, para que a segurança privada seja modernizada no Brasil. Um dos focos da entidade é o estudo da reestruturação do marco regulatório do segmento, tratada em projeto que atualmente tramita no Senado. Se aprovado, o Substitutivo da Câmara dos Deputados nº6 de 2016 (SCD 6/2016) criará o Estatuto da Segurança Privada.  “Nosso objetivo é que esta lei modernize a legislação do segmento, crie mais empregos e garanta maior atração de investimentos, respeitando o livre mercado e a livre iniciativa”, diz o presidente da ANSEGTV”.
-
-                            As empresas que formam a ANSEGTV:
-                            
-                                BRASIFORT
-                                BLUE ANGELS
-                                CEFOR
-                                CORPVS
-                                ESQUADRA
-                                FEDERAL SEGURANÇA
-                                FIDELYS
-                                GLOBALSERVICE
-                                RENAFORTE
-                                SAGA
-                                TBFORTE
-                                UNION SECURITY">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-e-criada-para-incentivar-livre-concorrencia-no-setor">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/congresso_agencia-senado_ansegtv.jpg">
-            <meta property="article:published_time" content="2019-09-02">
+            <meta property="og:description" content="A Associação Nacional de Segurança e Transporte de Valores (ANSEGTV) é lançada para fomentar a livre concorrência e a cultura de boas práticas na segurança privada. A entidade desenvolve grupos de estudo, eventos, missões, pesquisas e difusão.">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-e-criada-para-incentivar-livre-concorrencia-no-setor/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/07/congresso_agencia-senado_ansegtv.jpg">
+            <meta property="article:published_time" content="2020-07-01">
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

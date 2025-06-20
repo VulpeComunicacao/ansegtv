@@ -3,19 +3,16 @@
         <!-- Head Section -->
         <head>
             <title>Votação do Estatuto da Segurança Privada é adiada | ANSEGTV</title>
-            <meta name="description" content="A Comissão de Fiscalização e Controle (CTFC) adiou na terça-feira (17/12) a votação do projeto substitutivo da Câmara dos Deputados 6/2016, que estabelece o Estatuto da Segurança Privada e da Segurança das Instituições Financeiras. De autoria do então senador Marcelo Crivella, o projeto original tinha por objetivo único dar aos vigilantes um piso nacional de salário, reajustado anualmente. No entanto, a proposta recebeu 117 sugestões de emendas na Câmara, o que ampliou a sua abrangência, tornando-o na prática um estatuto. As informações são da Agência Senado.
-                            
-                            Composto por 72 artigos, divididos em 11 capítulos, o texto é relatado na CTFC pelo senador Randolfe Rodrigues (Rede-AP). Com o pedido de mais tempo para avaliação da matéria pelos demais parlamentares, a votação então ficou para 2020. Senadores como Paulo Rocha (PT-PA) e Major Olimpio (PSL-SP) destacaram a necessidade dessa legislação e cobraram o compromisso da comissão em votar o texto assim que o Congresso retornar do recesso.
-                            A proposta pretende disciplinar a necessidade de autorização prévia para funcionamento de empresas e a fiscalização, pela Polícia Federal, dos serviços de segurança privada e do plano de segurança em dependências de instituições financeiras. Além disso, o texto trata do funcionamento das escolas de formação; do uso de produtos controlados de uso restrito, de armas de fogo e de menor potencial ofensivo; da prestação do serviço em espaços de uso comum, transportes coletivos, estabelecimentos prisionais, portos e aeroportos, estabelecimentos públicos e privados e áreas públicas; dos requisitos para exercício profissional, bem como do direito a seguro de vida, assistência jurídica e piso salarial fixado em acordos e convenções coletivas, que também podem ajustar a jornada de trabalho." />
+            <meta name="description" content="A Comissão de Fiscalização e Controle (CTFC) adiou na terça-feira (17/12) a votação do projeto substitutivo da Câmara dos Deputados 6/2016, que estabelece o Estatuto da Segurança Privada e da Segurança das Instituições Financeiras." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
+            <meta property="og:title" content="Votação do Estatuto da Segurança Privada é adiada">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/votacao-do-estatuto-da-seguranca-privada-e-adiada">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/plenario-do-senado-federal.png">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/votacao-do-estatuto-da-seguranca-privada-e-adiada/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2019/12/plenario-do-senado-federal.png">
             <meta property="article:published_time" content="2019-12-26">
             <meta property="article:author" content="https://ansegtv.com.br/">
 
@@ -137,6 +134,25 @@
         $(this).find('.dropdown-menu').stop(true, true).delay(100).fadeIn(300);
         }, function() {
         $(this).find('.dropdown-menu').stop(true, true).delay(100).fadeOut(300);
+        });
+        
+        $("#contact-form").submit(function() {
+
+            var url = "../../includes/contato.php"; // the script where you handle the form input.
+
+            $.ajax({
+                type: "POST",
+                url: url,
+                // serialize your form's elements.
+                data: $("#contact-form").serialize(),
+                success: function(data)
+                {
+                    // "something" is the class of your form wrapper
+                    $('.submit-message').html(data);
+                }
+            });
+            // avoid to execute the actual submit of the form.
+            return false;
         });
 
     </script>

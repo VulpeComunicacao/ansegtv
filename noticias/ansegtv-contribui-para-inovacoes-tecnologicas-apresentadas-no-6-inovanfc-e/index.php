@@ -2,21 +2,21 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>ANSEGTV contribui para inovações tecnológicas apresentadas no 6º Inova NFC-e | ANSEGTV</title>
+            <title>ANSEGTV contribui para inovações tecnológicas apresentadas no 6º Inova NFC-e</title>
             <meta charset="utf-8">
-            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-contribui-para-inovacoes-tecnologicas-apresentadas-no-6-inovanfc-e" />
-            <meta name="description" content="O 6º Inova NFC-e com o 1º Fórum DF-e Transportes debateu na tarde desta quarta-feira, 28/7, as gestões fiscais e suas soluções em tecnologias somadas à Nota Fiscal de Consumidor Eletrônica e aos Documento Fiscais Eletrônicos." />
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-contribui-para-inovacoes-tecnologicas-apresentadas-no-6-inovanfc-e/" />
+            <meta name="description" content="O 6º Inova NFC-e com o 1º Fórum DF-e Transportes debateu na tarde desta quarta-feira, 28/7, as gestões fiscais e suas soluções em tecnologias somadas à Nota Fiscal de Consumidor Eletrônica e aos Documento Fiscais Eletrônicos.  " />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="O 6º Inova NFC-e com o 1º Fórum DF-e Transportes debateu na tarde desta quarta-feira, 28/7, as gestões fiscais e suas soluções em tecnologias somadas à Nota Fiscal de Consumidor Eletrônica e aos Documento Fiscais Eletrônicos.">
+            <meta property="og:title" content="ANSEGTV contribui para inovações tecnológicas apresentadas no 6º Inova NFC-e">
+            <meta property="og:description" content="O 6º Inova NFC-e com o 1º Fórum DF-e Transportes debateu na tarde desta quarta-feira, 28/7, as gestões fiscais e suas soluções em tecnologias somadas à Nota Fiscal de Consumidor Eletrônica e aos Documento Fiscais Eletrônicos.  ">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-contribui-para-inovacoes-tecnologicas-apresentadas-no-6-inovanfc-e">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/share-evento-inova-29-07.jpg">
-            
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/07/share-evento-inova-29-07.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/07/share-evento-inova-29-07.jpg">
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

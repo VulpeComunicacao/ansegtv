@@ -3,18 +3,18 @@
         <!-- Head Section -->
         <head>
             <title>Desafios de empresas familiares são tema de palestra | ANSEGTV</title>
-            <meta name="description" content="O professor Armando Lourenzo, Doutor e Mestre em Administração pela FEA/USP, Presidente do Instituto EY na América Latina e Diretor da EY University, falou aos associados da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) nesta segunda-feira (12). Em palestra virtual, ele explicou os principais desafios das empresas familiares e deu orientações sobre planejamento sucessório e solução de conflitos." />
+            <meta name="description" content="O professor Armando Lourenzo, Doutor e Mestre em Administração pela FEA/USP, Presidente do Instituto EY na América Latina e Diretor da EY University, falou aos associados da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) nesta segunda-feira (12)." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="O professor Armando Lourenzo, Doutor e Mestre em Administração pela FEA/USP, Presidente do Instituto EY na América Latina e Diretor da EY University, falou aos associados da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) nesta segunda-feira (12). Em palestra virtual, ele explicou os principais desafios das empresas familiares e deu orientações sobre planejamento sucessório e solução de conflitos.">
+            <meta property="og:title" content="Desafios de empresas familiares são tema de palestra">
+            <meta property="og:description" content="O professor Armando Lourenzo, Doutor e Mestre em Administração pela FEA/USP, Presidente do Instituto EY na América Latina e Diretor da EY University, falou aos associados da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) nesta segunda-feira (12).">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/desafios-de-empresas-familiares-sao-temas-de-palestras">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/palestra-empresa-familiar.jpg">
-            
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/07/palestra-empresa-familiar.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/07/palestra-empresa-familiar.jp">
             <meta property="article:published_time" content="2021-07-15">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

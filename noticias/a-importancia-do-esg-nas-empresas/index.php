@@ -3,20 +3,18 @@
         <!-- Head Section -->
         <head>
             <title>A importância do ESG nas empresas | ANSEGTV</title>
-            <meta name="description" content="ESG, sem dúvidas, é um dos temas mais discutidos atualmente. A sigla, em inglês environmental, social and corporate governance, representa a maior preocupação das empresas com práticas relacionadas ao meio ambiente, responsabilidade social e governança.
-                            O interesse pelo assunto e a busca por um desempenho mais sustentável surgiu diante de uma maior cobrança do mercado, que passou a exigir de todos uma atenção especial ao impacto social que imprimem em suas atividades." />
+            <meta name="description" content="ESG, sem dúvidas, é um dos temas mais discutidos atualmente. A sigla, em inglês environmental, social and corporate governance, representa a maior preocupação das empresas com práticas relacionadas ao meio ambiente, responsabilidade social e governança." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="ESG, sem dúvidas, é um dos temas mais discutidos atualmente. A sigla, em inglês environmental, social and corporate governance, representa a maior preocupação das empresas com práticas relacionadas ao meio ambiente, responsabilidade social e governança.
-                            O interesse pelo assunto e a busca por um desempenho mais sustentável surgiu diante de uma maior cobrança do mercado, que passou a exigir de todos uma atenção especial ao impacto social que imprimem em suas atividades.">
+            <meta property="og:title" content="A importância do ESG nas empresas">
+            <meta property="og:description" content="ESG, sem dúvidas, é um dos temas mais discutidos atualmente. A sigla, em inglês environmental, social and corporate governance, representa a maior preocupação das empresas com práticas relacionadas ao meio ambiente, responsabilidade social e governança.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/a-importancia-do-esg-nas-empresas">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/esg-ansegtv.jpg">
-            
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/04/esg-ansegtv.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/04/esg-ansegtv.jpg">
             <meta property="article:published_time" content="2021-04-20">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

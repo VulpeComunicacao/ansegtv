@@ -2,19 +2,19 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Delegado-Chefe da DELESP-SP fala aos associados da ANSEGTV | ANSEGTV</title>
-            <meta name="description" content="Em sua reunião mensal, no dia 24 de fevereiro, a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) recebeu o Delegado-Chefe da DELESP-SP (Delegacia de Controle de Segurança Privada de São Paulo), Dr. Adriano Mendes Barbosa. Ele explicou o papel do órgão no processo de fiscalização da atividade de segurança privada e deu diversas orientações aos associados." />
+            <title>Delegado-Chefe da DELESP-SP fala aos associados da ANSEGTV</title>
+            <meta name="description" content="Em sua reunião mensal, no dia 24 de fevereiro, a ANSEGTV recebeu o Delegado-Chefe da DELESP-SP (Delegacia de Controle de Segurança Privada de São Paulo), Dr. Adriano Mendes Barbosa. " />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="Em sua reunião mensal, no dia 24 de fevereiro, a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) recebeu o Delegado-Chefe da DELESP-SP (Delegacia de Controle de Segurança Privada de São Paulo), Dr. Adriano Mendes Barbosa. Ele explicou o papel do órgão no processo de fiscalização da atividade de segurança privada e deu diversas orientações aos associados.">
+            <meta property="og:title" content="Delegado-Chefe da DELESP-SP fala aos associados da ANSEGTV">
+            <meta property="og:description" content="Em sua reunião mensal, no dia 24 de fevereiro, a ANSEGTV recebeu o Delegado-Chefe da DELESP-SP (Delegacia de Controle de Segurança Privada de São Paulo), Dr. Adriano Mendes Barbosa. ">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/delegado-chefe-da-delesp-sp-fala-aos-associados-da-ansegtv">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/delegado-delesp-sp-share.jpg">
-            
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2022/03/delegado-delesp-sp-share.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2022/03/delegado-delesp-sp-share.jpg">
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

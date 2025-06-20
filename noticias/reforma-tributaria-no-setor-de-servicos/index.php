@@ -3,56 +3,18 @@
         <!-- Head Section -->
         <head>
             <title>Reforma Tributária no setor de serviços | ANSEGTV</title>
-            <meta name="description" content="Passadas as eleições municipais, as atenções se voltam à pauta legislativa. São vários os temas relevantes que devem ser discutidos ainda neste ano.
-                            A economia dá sinais de recuperação, mas com a pandemia ainda em alta, medidas que visem a retomada das atividades mostram-se ainda mais necessárias.
-                            Apesar de resultados que demonstram algum grau de reação de empresas, importante lembrar que a taxa de desemprego, um dos principais termômetros da economia de um país ainda é alta: 14,4% no trimestre encerrado em agosto, segundo o IBGE.
-                            Em dezembro também está previsto a última parcela do auxílio-emergencial, o que deve impactar na queda do consumo e na situação das famílias, principalmente as de baixa renda.
-                            A Reforma Tributária tem papel importante neste processo de retomada. Em busca de um consenso, a discussão política em torno do assunto prossegue.
-                            Nos últimos dias, novas sugestões, como cobrança de IPVA sobre barcos e aeronaves, passaram a ser defendidas nos corredores do Congresso.
-                            Atualmente, a Constituição permite apenas a cobrança do imposto sobre veículos terrestres pelos estados. Com a mudança, a nova alíquota seria definida por cada unidade da Federação.
-                            
-                                	
-                                Marcello Casal Jr./Agência Brasil
-                            
-                            Outra proposta polêmica apresentada pela oposição é o fim da isenção ou dos incentivos em relação ao Imposto de Renda sobre lucros e dividendos e sobre juros de capital próprio.
-                            A medida vai contra o movimento mundial que é a simplificação de tributos. O Brasil é um dos países que mais taxam o lucro de empresas (34%). Para se ter uma ideia, nos países nórdicos, essa tributação gira em torno de 20%.
-                            Recentemente, o presidente Jair Bolsonaro abandonou a ideia de uma nova CPMF. A intenção do governo era pegar o valor angariado com o tributo a ser criado e promover a desoneração da folha de pagamentos.
-                            Um alento poderá vir com julgamento, pelo Superior Tribunal de Justiça (STJ), a respeito da limitação da base de cálculo das contribuições para terceiros (Incra, Sebrae, salário educação e o Sesi, Senai, Sesc, Senac e Senat) a 20 salários mínimos, que poderá ter efeito repetitivo. Em média, o peso dessas contribuições sobre a folha de pagamentos corresponde a 5,8% ao mês
-                            Com grande peso no PIB e um dos maiores responsáveis por contratações, o setor de serviços seria um dos mais afetados com algumas das medidas estudadas.
-                            Pela proposta do Executivo, por exemplo, o PIS/Cofins seria substituído pela CBS (Contribuição Social sobre Operações com Bens e Serviços), que tem percentual orçado em 12%. Em média, o setor paga 4,5%, abaixo, portanto, do que indica a CBS, o que na prática resultaria em maior carga tributária
-                            Já a PEC 45 prevê a cobrança de um Imposto Sobre Bens e Serviços (IBS) de 30% em alíquota única. Mais uma vez, o setor de serviços seria bastante prejudicado, já que o IBS foi calculado de forma a não ser cumulativo. Nos setores industriais, por exemplo, é possível descontar o imposto pago em fases anteriores da produção. Para os serviços, em que o maior insumo consiste nos recursos humanos, não é possível a tomada desses créditos, haja vista não haver incidência sobre a folha de salários.
-                            Vale destacar que a Frente Parlamentar do Serviços vem tendo papel importante nesta discussão, com a apresentação de emendas que corrijam as distorções na área.
-                            Espera-se que os congressistas cheguem a uma solução equilibrada, ouvindo todos os lados da sociedade, sem que um setor seja mais prejudicado ou beneficiado." />
+            <meta name="description" content="Passadas as eleições municipais, as atenções se voltam à pauta legislativa. São vários os temas relevantes que devem ser discutidos ainda neste ano." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="Passadas as eleições municipais, as atenções se voltam à pauta legislativa. São vários os temas relevantes que devem ser discutidos ainda neste ano.
-                            A economia dá sinais de recuperação, mas com a pandemia ainda em alta, medidas que visem a retomada das atividades mostram-se ainda mais necessárias.
-                            Apesar de resultados que demonstram algum grau de reação de empresas, importante lembrar que a taxa de desemprego, um dos principais termômetros da economia de um país ainda é alta: 14,4% no trimestre encerrado em agosto, segundo o IBGE.
-                            Em dezembro também está previsto a última parcela do auxílio-emergencial, o que deve impactar na queda do consumo e na situação das famílias, principalmente as de baixa renda.
-                            A Reforma Tributária tem papel importante neste processo de retomada. Em busca de um consenso, a discussão política em torno do assunto prossegue.
-                            Nos últimos dias, novas sugestões, como cobrança de IPVA sobre barcos e aeronaves, passaram a ser defendidas nos corredores do Congresso.
-                            Atualmente, a Constituição permite apenas a cobrança do imposto sobre veículos terrestres pelos estados. Com a mudança, a nova alíquota seria definida por cada unidade da Federação.
-                            
-                                	
-                                Marcello Casal Jr./Agência Brasil
-                            
-                            Outra proposta polêmica apresentada pela oposição é o fim da isenção ou dos incentivos em relação ao Imposto de Renda sobre lucros e dividendos e sobre juros de capital próprio.
-                            A medida vai contra o movimento mundial que é a simplificação de tributos. O Brasil é um dos países que mais taxam o lucro de empresas (34%). Para se ter uma ideia, nos países nórdicos, essa tributação gira em torno de 20%.
-                            Recentemente, o presidente Jair Bolsonaro abandonou a ideia de uma nova CPMF. A intenção do governo era pegar o valor angariado com o tributo a ser criado e promover a desoneração da folha de pagamentos.
-                            Um alento poderá vir com julgamento, pelo Superior Tribunal de Justiça (STJ), a respeito da limitação da base de cálculo das contribuições para terceiros (Incra, Sebrae, salário educação e o Sesi, Senai, Sesc, Senac e Senat) a 20 salários mínimos, que poderá ter efeito repetitivo. Em média, o peso dessas contribuições sobre a folha de pagamentos corresponde a 5,8% ao mês
-                            Com grande peso no PIB e um dos maiores responsáveis por contratações, o setor de serviços seria um dos mais afetados com algumas das medidas estudadas.
-                            Pela proposta do Executivo, por exemplo, o PIS/Cofins seria substituído pela CBS (Contribuição Social sobre Operações com Bens e Serviços), que tem percentual orçado em 12%. Em média, o setor paga 4,5%, abaixo, portanto, do que indica a CBS, o que na prática resultaria em maior carga tributária
-                            Já a PEC 45 prevê a cobrança de um Imposto Sobre Bens e Serviços (IBS) de 30% em alíquota única. Mais uma vez, o setor de serviços seria bastante prejudicado, já que o IBS foi calculado de forma a não ser cumulativo. Nos setores industriais, por exemplo, é possível descontar o imposto pago em fases anteriores da produção. Para os serviços, em que o maior insumo consiste nos recursos humanos, não é possível a tomada desses créditos, haja vista não haver incidência sobre a folha de salários.
-                            Vale destacar que a Frente Parlamentar do Serviços vem tendo papel importante nesta discussão, com a apresentação de emendas que corrijam as distorções na área.
-                            Espera-se que os congressistas cheguem a uma solução equilibrada, ouvindo todos os lados da sociedade, sem que um setor seja mais prejudicado ou beneficiado.">
+            <meta property="og:title" content="Reforma Tributária no setor de serviços">
+            <meta property="og:description" content="Passadas as eleições municipais, as atenções se voltam à pauta legislativa. São vários os temas relevantes que devem ser discutidos ainda neste ano.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/reforma-tributaria-no-setor-de-servicos">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/ministerio-economia-fachada.jpg">
-            
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/reforma-tributaria-no-setor-de-servicos/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/12/ministerio-economia-fachada.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2020/12/ministerio-economia-fachada.jpg">
             <meta property="article:published_time" content="2020-12-07">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

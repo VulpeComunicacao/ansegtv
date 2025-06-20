@@ -2,19 +2,19 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Fórum debate alternativas para melhorar segurança jurídica no país | ANSEGTV</title>
-            <meta name="description" content="O Instituto Unidos Brasil (IUB) realizou na quinta-feira (19), no Clube Atlético Monte Líbano, em São Paulo, o Fórum Segurança Jurídica no Brasil. A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) foi uma das apoiadoras do evento. Seu presidente, Gabriel Damasceno, foi um dos convidados e esteve presente na solenidade." />
+            <title>Fórum debate alternativas para melhorar segurança jurídica no país</title>
+            <meta name="description" content="O Instituto Unidos Brasil (IUB) realizou na quinta-feira (19), no Clube Atlético Monte Líbano, em São Paulo, o Fórum Segurança Jurídica no Brasil. A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) foi uma das apoiadoras do evento." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="O Instituto Unidos Brasil (IUB) realizou na quinta-feira (19), no Clube Atlético Monte Líbano, em São Paulo, o Fórum Segurança Jurídica no Brasil. A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) foi uma das apoiadoras do evento. Seu presidente, Gabriel Damasceno, foi um dos convidados e esteve presente na solenidade.">
+            <meta property="og:title" content="Fórum debate alternativas para melhorar segurança jurídica no país">
+            <meta property="og:description" content="O Instituto Unidos Brasil (IUB) realizou na quinta-feira (19), no Clube Atlético Monte Líbano, em São Paulo, o Fórum Segurança Jurídica no Brasil. A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) foi uma das apoiadoras do evento.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/forum-debate-alternativas-para-melhorar-seguranca-juridica-no-pais">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/forum-seguranca-share.jpg">
-            
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2022/05/forum-seguranca-share.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2022/05/forum-seguranca-share.jpg">
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

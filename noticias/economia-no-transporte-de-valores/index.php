@@ -3,30 +3,18 @@
         <!-- Head Section -->
         <head>
             <title>Economia no transporte de valores | ANSEGTV</title>
-            <meta name="description" content="O Confaz (Conselho Nacional de Política Fazendária) e a Secretaria da Receita Federal do Brasil definiram no dia 30 de julho que a nova GTV-e (Guia de Transporte de Valores Eletrônica) será obrigatória a partir de setembro de 2022. As empresas, no entanto, já podem optar pelo novo documento a partir de setembro deste ano.
-                            A GTV-e substitui a antiga GTV e o Extrato de Faturamento, que haviam sido instituídos em 22 de agosto de 1989. Nela, deverão constar dados que discriminam a carga, como a quantidade de volumes/malotes, espécie do valor (numerário, cheques, moeda, outros) e valor declarado de cada espécie.
-                            
-                                	
-                                 Foto: Marcelo Camargo/Agência Brasil.
-                            
-                            Segundo Andrey Ferreira, Assessor Tributário da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), os ganhos para o setor são vários. “Com a digitalização, economizaremos em impressão, manutenção, horas perdidas com preenchimentos manuais e no espaço necessário para estocagem dos documentos. O acesso à informação também será mais fácil. Sem contar a integração online com a Sefaz (Secretaria da Fazenda), além da maior sustentabilidade”." />
+            <meta name="description" content="O Confaz (Conselho Nacional de Política Fazendária) e a Secretaria da Receita Federal do Brasil definiram no dia 30 de julho que a nova GTV-e (Guia de Transporte de Valores Eletrônica) será obrigatória a partir de setembro de 2022." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="O Confaz (Conselho Nacional de Política Fazendária) e a Secretaria da Receita Federal do Brasil definiram no dia 30 de julho que a nova GTV-e (Guia de Transporte de Valores Eletrônica) será obrigatória a partir de setembro de 2022. As empresas, no entanto, já podem optar pelo novo documento a partir de setembro deste ano.
-                            A GTV-e substitui a antiga GTV e o Extrato de Faturamento, que haviam sido instituídos em 22 de agosto de 1989. Nela, deverão constar dados que discriminam a carga, como a quantidade de volumes/malotes, espécie do valor (numerário, cheques, moeda, outros) e valor declarado de cada espécie.
-                            
-                                	
-                                 Foto: Marcelo Camargo/Agência Brasil.
-                            
-                            Segundo Andrey Ferreira, Assessor Tributário da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), os ganhos para o setor são vários. “Com a digitalização, economizaremos em impressão, manutenção, horas perdidas com preenchimentos manuais e no espaço necessário para estocagem dos documentos. O acesso à informação também será mais fácil. Sem contar a integração online com a Sefaz (Secretaria da Fazenda), além da maior sustentabilidade”.">
+            <meta property="og:title" content="Economia no transporte de valores">
+            <meta property="og:description" content="O Confaz (Conselho Nacional de Política Fazendária) e a Secretaria da Receita Federal do Brasil definiram no dia 30 de julho que a nova GTV-e (Guia de Transporte de Valores Eletrônica) será obrigatória a partir de setembro de 2022.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/economia-no-transporte-de-valores">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/receita_federal_totem_12-08.png">
-            
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/economia-no-transporte-de-valores/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/08/receita_federal_totem_12-08.png">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2020/08/receita_federal_totem_12-08.png">
             <meta property="article:published_time" content="2020-08-12">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

@@ -3,20 +3,18 @@
         <!-- Head Section -->
         <head>
             <title>Reafirmação de princípios | ANSEGTV</title>
-            <meta name="description" content="Em tempos tão desafiadores e incertos, a ANSEGTV vem a público reforçar seus propósitos e objetivos. Já são dois anos contribuindo para o setor de segurança e transporte de valores, com iniciativas que fortalecem a livre concorrência, a gestão ética e as melhores práticas junto aos seus associados e à sociedade.
-                            Ainda que enfrentemos uma pandemia tão grave, a entidade segue promovendo ações que visam defender e fortalecer o livre mercado, ampliar a oferta e garantir serviços seguros e de boa qualidade em todo o território brasileiro." />
+            <meta name="description" content="Em tempos tão desafiadores e incertos, a ANSEGTV vem a público reforçar seus propósitos e objetivos." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="Em tempos tão desafiadores e incertos, a ANSEGTV vem a público reforçar seus propósitos e objetivos. Já são dois anos contribuindo para o setor de segurança e transporte de valores, com iniciativas que fortalecem a livre concorrência, a gestão ética e as melhores práticas junto aos seus associados e à sociedade.
-                            Ainda que enfrentemos uma pandemia tão grave, a entidade segue promovendo ações que visam defender e fortalecer o livre mercado, ampliar a oferta e garantir serviços seguros e de boa qualidade em todo o território brasileiro.">
+            <meta property="og:title" content="Reafirmação de princípios">
+            <meta property="og:description" content="Em tempos tão desafiadores e incertos, a ANSEGTV vem a público reforçar seus propósitos e objetivos.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/reafirmacao-de-principios">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/logo-ansegtv-propositos.jpg">
-            
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/04/logo-ansegtv-propositos.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/04/logo-ansegtv-propositos.jpg">
             <meta property="article:published_time" content="2021-04-22">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

@@ -2,27 +2,19 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Coordenador de LGPD de Frente Parlamentar se reúne com presidente da ANPD | ANSEGTV</title>
-            <meta name="description" content="O deputado federal Júlio Lopes (PP-RJ), coordenador do GT LGPD (Lei Geral de
-                        Proteção de Dados Pessoais) da FPS (Frente Parlamentar do Setor de
-                        Serviços), reuniu-se na terça-feira (31) com o presidente da ANPD
-                        (Autoridade Nacional de Proteção de Dados), Waldemar Gonçalves Ortunho
-                        Junior." />
+            <title>Coordenador de LGPD de Frente Parlamentar se reúne com presidente da ANPD</title>
+            <meta name="description" content="O deputado federal Júlio Lopes (PP-RJ), coordenador do GT LGPD (Lei Geral de Proteção de Dados Pessoais) da FPS (Frente Parlamentar do Setor de Serviços), reuniu-se na terça-feira (31) com o presidente da ANPD (Autoridade Nacional de Proteção de Dados), Waldemar Gonçalves Ortunho Junior." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="O deputado federal Júlio Lopes (PP-RJ), coordenador do GT LGPD (Lei Geral de
-                        Proteção de Dados Pessoais) da FPS (Frente Parlamentar do Setor de
-                        Serviços), reuniu-se na terça-feira (31) com o presidente da ANPD
-                        (Autoridade Nacional de Proteção de Dados), Waldemar Gonçalves Ortunho
-                        Junior.">
+            <meta property="og:title" content="Coordenador de LGPD de Frente Parlamentar se reúne com presidente da ANPD">
+            <meta property="og:description" content="O deputado federal Júlio Lopes (PP-RJ), coordenador do GT LGPD (Lei Geral de Proteção de Dados Pessoais) da FPS (Frente Parlamentar do Setor de Serviços), reuniu-se na terça-feira (31) com o presidente da ANPD (Autoridade Nacional de Proteção de Dados), Waldemar Gonçalves Ortunho Junior.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/coordenador-de-lgpd-de-frente-parlamentar-se-reune-com-presidente-da-anpd">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/reuniao-anpd-share.jpg">
-            
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/coordenador-de-lgpd-de-frente-parlamentar-se-reune-com-presidente-da-anpd/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/09/reuniao-anpd-share.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/09/reuniao-anpd-share.jpg">
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

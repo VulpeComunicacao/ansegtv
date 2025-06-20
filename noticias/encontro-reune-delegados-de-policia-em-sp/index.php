@@ -2,19 +2,19 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Encontro reúne delegados de polícia em SP | ANSEGTV</title>
-            <meta name="description" content="Os diretores da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) Max Tavares Madruga (Jurídico) e Robson Alexandre Barbara (Comunicação) acompanharam no último dia 23 o Encontro Estadual de Delegados de Polícia, em São Paulo. O evento ocorreu no Centro de Convenções do Edifício K1, em Santana, na zona norte da capital paulista." />
+            <title>Encontro reúne delegados de polícia em SP</title>
+            <meta name="description" content="Os diretores da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) Max Tavares Madruga (Jurídico) e Robson Alexandre Barbara (Comunicação) acompanharam no último dia 23 o Encontro Estadual de Delegados de Polícia, em São Paulo." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="Os diretores da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) Max Tavares Madruga (Jurídico) e Robson Alexandre Barbara (Comunicação) acompanharam no último dia 23 o Encontro Estadual de Delegados de Polícia, em São Paulo. O evento ocorreu no Centro de Convenções do Edifício K1, em Santana, na zona norte da capital paulista.">
+            <meta property="og:title" content="Encontro reúne delegados de polícia em SP">
+            <meta property="og:description" content="Os diretores da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) Max Tavares Madruga (Jurídico) e Robson Alexandre Barbara (Comunicação) acompanharam no último dia 23 o Encontro Estadual de Delegados de Polícia, em São Paulo.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/encontro-reune-delegados-de-policia-em-sp">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/encontro-delegados-share.png">
-            
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/11/encontro-delegados-share.png">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/11/encontro-delegados-share.png">
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

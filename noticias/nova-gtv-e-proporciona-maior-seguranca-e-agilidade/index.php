@@ -3,24 +3,16 @@
         <!-- Head Section -->
         <head>
             <title>Nova GTV-e proporciona maior segurança e agilidade | ANSEGTV</title>
-            <meta name="description" content="Em reunião no último dia 3 de abril, o CONFAZ (Conselho Nacional de Política Fazendária) e a Secretaria da Receita Federal decidiram por ajustar o artigo 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966. Tal artigo trata da fiscalização tributária pela União, estados, Distrito Federal e municípios.
-                            Ficou assim estabelecida a instituição da GTV-e (Guia de Transporte de Valores Eletrônica), modelo 64, que deverá ser emitida pelos contribuintes do ICMS que realizarem transporte de valores.A alteração foi publicada na edição de 7 de abril do Diário Oficial da União. O ajuste entrou em vigor nesta data e produz efeitos a partir de 1º de setembro de 2020.O documento substitui a antiga GTV (Guia de Transporte de Valores) e o Extrato de Faturamento, que haviam sido instituídos em 22 de agosto de 1989. Dentre outras normas, a GTV-e deverá conter os dados que discriminam a carga: quantidade de volumes/malotes, espécie do valor (numerário, cheques, moeda, outros) e valor declarado de cada espécie.
-                            
-                            Para a assinatura digital, deverá ser utilizado certificado digital emitido dentro da cadeia de certificação da Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, que contenha o CNPJ de qualquer dos estabelecimentos do contribuinte, a fim de garantir a autoria do documento digital. A concessão da Autorização de Uso da GTV-e será feita pela administração tributária competente, que analisará, dentre outros requisitos, a regularidade fiscal e o credenciamento do emitente.
-                             Com a implementação do dispositivo, vários departamentos das empresas de transporte deverão ser beneficiados, como os de Contabilidade, Operações, Risco e Segurança, Gestão de Recebimento, dentre outros. A nova ferramenta possibilitará ainda a padronização de informações, uma maior integração com a SEFAZ (Secretaria de Estado da Fazenda), a diminuição de custos, a redução do retrabalho, assertividade no processo de cobrança e a possibilidade de acesso de informações em tempo real.
-                             O presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Gabriel Damasceno, avalia como altamente positiva a instauração do novo documento.“Defendemos a modernização da legislação e dos processos fiscais gerando mais eficiência e produtividade para todos os envolvidos”, afirma.
-                            
-                            
-                            Íntegra do ajuste: http://www.confaz.fazenda.gov.br/legislacao/ajustes/2020/ajuste-sinief-03-20" />
+            <meta name="description" content="Em reunião no último dia 3 de abril, o CONFAZ (Conselho Nacional de Política Fazendária) e a Secretaria da Receita Federal decidiram por ajustar o artigo 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
+            <meta property="og:title" content="Nova GTV-e proporciona maior segurança e agilidade">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/nova-gtv-e-proporciona-maior-seguranca-e-agilidade">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/014.png">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/nova-gtv-e-proporciona-maior-seguranca-e-agilidade/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/redimensionadas/014.png">
             <meta property="article:published_time" content="2020-05-08">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

@@ -2,20 +2,20 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>ANSEGTV apoia fiscalização da PF contra empresas clandestinas de segurança | ANSEGTV</title>
+            <title>ANSEGTV apoia fiscalização da PF contra empresas clandestinas de segurança</title>
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="%%title%%">
-            <meta name="description" content="A Polícia Federal realizou, na semana passada, a Operação Segurança Legal VII com o objetivo de reprimir atividades de segurança privada não autorizadas em todo o país. Segundo o órgão, 446 policiais fiscalizaram 461 estabelecimentos, como bares, boates, condomínios, supermercados e estabelecimentos comerciais em geral. Foram fechadas 178 empresas que operavam de maneira clandestina." />
+            <meta property="og:title" content="ANSEGTV apoia fiscalização da PF contra empresas clandestinas de segurança">
+            <meta meta name="description" property="og:description" content="A Polícia Federal realizou, na semana passada, a Operação Segurança Legal VII com o objetivo de reprimir atividades de segurança privada não autorizadas em todo o país.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-apoia-fiscalizacao-da-pf-contra-empresas-clandestinas-de-seguranca">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/agente-policia-federal-share.jpg">
-            
-            <meta property="article:published_time" content="2023-08-23">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-apoia-fiscalizacao-da-pf-contra-empresas-clandestinas-de-seguranca/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2023/08/agente-policia-federal-share.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2023/08/agente-policia-federal-share.jpg">
+            <meta property="article:published_time" content="2023-08-23"/>
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

@@ -81,6 +81,13 @@
                 } elseif (isset($post['yoast_head_json']['og_image'][0]) && isset($post['yoast_head_json']['og_image'][0]['url'])) {
                     $seo_image_url = $post['yoast_head_json']['og_image'][0]['url'];
                 }
+                // Se a URL da imagem ainda estiver vazia, tente extrair do conteúdo HTML
+                if (empty($seo_image_url) && isset($post['content']['rendered'])) {
+                    preg_match('/<img[^>]+src="([^"]+)"/i', $post['content']['rendered'], $matches);
+                    if (isset($matches[1])) {
+                        $seo_image_url = $matches[1];
+                    }
+                }
                 // Padroniza o caminho da imagem para uploads/2025/06/
                 if (!empty($seo_image_url)) {
                     $filename = basename($seo_image_url);

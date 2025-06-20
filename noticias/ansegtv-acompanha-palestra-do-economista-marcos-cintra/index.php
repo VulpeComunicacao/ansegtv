@@ -3,18 +3,18 @@
         <!-- Head Section -->
         <head>
             <title>ANSEGTV acompanha palestra do economista Marcos Cintra | ANSEGTV</title>
-            <meta name="description" content="Convidada pelo Seac-MS (Sindicato das Empresas de Asseio e Conservação do Estado de Mato Grosso do Sul), a ANSEGTV acompanhou na última terça-feira (25) palestra do economista e professor Marcos Cintra. O evento também teve o apoio da Febrac (Federação Nacional das Empresas Prestadoras de Serviços de Limpeza e Conservação) e da Fecomércio-MS (Federação do Comércio de Bens, Serviços e Turismo do Mato Grosso do Sul)." />
+            <meta name="description" content="Convidada pela Seac-MS (Sindicato das Empresas de Asseio e Conservação do Estado de Mato Grosso do Sul), a ANSEGTV acompanhou na última terça-feira (25) palestra do economista e professor Marcos Cintra." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="Convidada pelo Seac-MS (Sindicato das Empresas de Asseio e Conservação do Estado de Mato Grosso do Sul), a ANSEGTV acompanhou na última terça-feira (25) palestra do economista e professor Marcos Cintra. O evento também teve o apoio da Febrac (Federação Nacional das Empresas Prestadoras de Serviços de Limpeza e Conservação) e da Fecomércio-MS (Federação do Comércio de Bens, Serviços e Turismo do Mato Grosso do Sul).">
+            <meta property="og:title" content="ANSEGTV acompanha palestra do economista Marcos Cintra">
+            <meta property="og:description" content="Convidada pela Seac-MS (Sindicato das Empresas de Asseio e Conservação do Estado de Mato Grosso do Sul), a ANSEGTV acompanhou na última terça-feira (25) palestra do economista e professor Marcos Cintra.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-acompanha-palestra-do-economista-marcos-cintra">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/evento-reforma-tributaria-2021.jpg">
-            
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/05/evento-reforma-tributaria-2021.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/05/evento-reforma-tributaria-2021.jpg">
             <meta property="article:published_time" content="2021-05-27">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

@@ -3,20 +3,18 @@
         <!-- Head Section -->
         <head>
             <title>Importante, LGPD ainda gera dúvidas | ANSEGTV</title>
-            <meta name="description" content="Após várias idas e vindas, a Lei Geral de Proteção de Dados Pessoais (LGPD) entrou em vigor no último dia 18 de setembro.
-                            Aprovada em 2018, ainda no governo Michel Temer, a legislação sofreu várias mudanças até passar a valer. O texto define direitos de indivíduos em relação as suas informações pessoais e regras para quem coleta e trata esses registros. O objetivo é proteger os direitos fundamentais de liberdade e privacidade e o livre desenvolvimento da personalidade dos cidadãos" />
+            <meta name="description" content="Após várias idas e vindas, a Lei Geral de Proteção de Dados Pessoais (LGPD) entrou em vigor no último dia 18 de setembro." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="Após várias idas e vindas, a Lei Geral de Proteção de Dados Pessoais (LGPD) entrou em vigor no último dia 18 de setembro.
-                            Aprovada em 2018, ainda no governo Michel Temer, a legislação sofreu várias mudanças até passar a valer. O texto define direitos de indivíduos em relação as suas informações pessoais e regras para quem coleta e trata esses registros. O objetivo é proteger os direitos fundamentais de liberdade e privacidade e o livre desenvolvimento da personalidade dos cidadãos">
+            <meta property="og:title" content="Importante, LGPD ainda gera dúvidas">
+            <meta property="og:description" content="Após várias idas e vindas, a Lei Geral de Proteção de Dados Pessoais (LGPD) entrou em vigor no último dia 18 de setembro.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/importante-lgpd-ainda-gera-duvidas">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/lgpd-ansegtv.png">
-            
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/importante-lgpd-ainda-gera-duvidas/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/09/lgpd-ansegtv.png">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2020/09/lgpd-ansegtv.png">
             <meta property="article:published_time" content="2020-09-24">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

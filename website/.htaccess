@@ -1,3 +1,14 @@
+# Custom Redirects for ANSEGTV
+RewriteEngine On
+# Redirect direct access to /website or /website/ to root
+RewriteRule ^website/?$ / [R=301,L]
+
+# Redirect 404s within website/ directory to root (if file/directory does not exist)
+RewriteCond %{REQUEST_URI} ^/website/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^website/(.*)$ / [R=301,L]
+
 # BEGIN LSCACHE
 ## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
 <IfModule LiteSpeed>

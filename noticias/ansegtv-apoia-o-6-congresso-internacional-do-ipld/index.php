@@ -2,22 +2,22 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>ANSEGTV apoia o 6º Congresso Internacional do IPLD | ANSEGTV</title>
+            <title>ANSEGTV apoia o 6º Congresso Internacional do IPLD</title>
             <meta charset="utf-8">
-            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld" />
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld/" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="%%title%%">
-            <meta name="description" content="Pelo segundo ano consecutivo, a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) será apoiadora do Congresso Internacional do IPLD (Instituto de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento ao Terrorismo). A 6ª edição do evento acontece nos dias 28 e 29 de maio, em formato on-line." />
+            <meta property="og:title" content="ANSEGTV apoia o 6º Congresso Internacional do IPLD">
+            <meta meta name="description" property="og:description" content="Pelo segundo ano consecutivo, a ANSEGTV será apoiadora do Congresso Internacional do IPLD (Instituto de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento ao Terrorismo). A 6ª edição do evento acontece nos dias 28 e 29 de maio, em formato on-line.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/evento-ipld-share.jpg">
-            
-            <meta property="article:published_time" content="2024-04-17">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2024/04/evento-ipld-share.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2024/04/evento-ipld-share.jpg">
+            <meta property="article:published_time" content="2023-04-17"/>
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

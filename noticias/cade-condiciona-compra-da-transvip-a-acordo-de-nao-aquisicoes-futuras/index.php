@@ -3,24 +3,16 @@
         <!-- Head Section -->
         <head>
             <title>Cade condiciona compra da Transvip a acordo de não aquisições futuras | ANSEGTV</title>
-            <meta name="description" content="O Tribunal do Conselho Administrativo de Defesa Econômica (Cade) condicionou a aprovação da compra da Transvip pela Prosegur – uma das maiores empresas do ramo de transporte e custódia de valores no Brasil – ao compromisso da empresa de não fazer novas aquisições pelo prazo de três anos. A decisão consta de um Acordo em Controle de Concentração (ACC).
-                            Os conselheiros referendaram, na quarta-feira (11/12), por unanimidade, o voto da relatora, Paula Farani de Azevedo Silveira, que acatou o posicionamento da Superintendência-Geral do órgão pela aprovação da aquisição da Transvip pela Prosegur, desde que firmado o acordo.
-                            Atualmente, a Prosegur detém entre 20% e 30% de participação no mercado no Rio de Janeiro e em São Paulo. Na avaliação do Cade, há um movimento de concentração no setor de transporte e custódia de valores, de forma que poderá ficar cada vez mais restrito nos próximos anos.  
-                            Apesar dessas considerações, a compra da Transvip pela Prosegur foi autorizada porque, na avaliação da relatora, a operação, por si só, não torna mais abrangente ou intensifica supostas estratégias de não-competição.
-                            
-                            Presente à sessão de julgamento, o advogado José Del Chiaro, representante da Tecban, uma das interessadas, explicou que o setor está concentrado nas três maiores empresas – Prosegur, Brink’s e Protege que detêm, juntas, mais de 80% do mercado em todo o país.  
-                            “Essa é uma situação que traz uma preocupação muito grande, principalmente porque aquelas empresas que poderiam oferecer uma mínima resistência a esse oligopólio estão sendo adquiridas ou desaparecendo”, declarou Del Chiaro. De acordo com ele, o crescimento das líderes do setor se dá por meio da aquisição sumária dos menores concorrentes.
-                            Na exposição, Del Chiaro referiu-se também a um “fato novo”: o comunicado, na terça-feira (10/12), de encerramento das atividades da Esquadra no transporte e custódia de valores no Brasil.
-                            O advogado mencionou, ainda, estudos que apontam que, nas licitações públicas em que estão presentes apenas Prosegur, Brink’s e Protege, os preços são, em geral, 20% maiores do que aqueles praticados quando há mais participantes no certame. Da mesma forma, a quantidade de lances dados é muito menor nas situações em que as três maiores não encontram concorrência." />
+            <meta name="description" content="O Tribunal do Conselho Administrativo de Defesa Econômica (Cade) condicionou a aprovação da compra da Transvip pela Prosegur ao compromisso da empresa de não fazer novas aquisições pelo prazo de três anos." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
+            <meta property="og:title" content="Cade condiciona compra da Transvip a acordo de não aquisições futuras">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/cade-condiciona-compra-da-transvip-a-acordo-de-nao-aquisicoes-futuras">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/logo-cade-grande.jpg">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/cade-condiciona-compra-da-transvip-a-acordo-de-nao-aquisicoes-futuras/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2019/12/logo-cade-grande.jpg">
             <meta property="article:published_time" content="2019-12-18">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

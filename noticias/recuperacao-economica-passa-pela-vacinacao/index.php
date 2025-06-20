@@ -3,42 +3,18 @@
         <!-- Head Section -->
         <head>
             <title>Recuperação econômica passa pela vacinação | ANSEGTV</title>
-            <meta name="description" content="Em meio a tantas incertezas e dificuldades, a liberação pela Anvisa (Agência Nacional de Vigilância Sanitária) do uso emergencial das primeiras vacinas contra a Covid-19 no Brasil trouxe esperança e otimismo.
-                            A ANSEGTV acompanha com atenção os desdobramentos da medida e defende a campanha de imunização. A ordem estipulada pelas autoridades deve ser respeitada. A população mais vulnerável, idosos e profissionais da linha de frente do combate à pandemia devem e precisam ser vacinados antes que os demais.
-                            
-                                	
-                                Tânia Rego/Agência Brasil
-                            
-                            É necessário também debater alternativas para agilizar e acelerar a proteção dos profissionais envolvidos em outras atividades essenciais.
-                            Profissionais do setor de transportes foram incluídos recentemente no grupo prioritário para receber a vacina. Segundo o governo, estão nesta lista caminhoneiros, portuários, funcionários de companhias aéreas, metroferroviários, entre outros. Não há ainda data definida para a imunização dessas categorias.
-                            Importante lembrar o papel das transportadoras de valores na pandemia. Principalmente com o auxílio emergencial, a circulação de dinheiro e o abastecimento de caixas eletrônicos foi essencial.
-                            Considerado serviço essencial, o setor nunca parou e pôde ajudar a população em um período tão conturbado.
-                            Empresas estão dispostas a colaborar com os governos na aquisição dos medicamentos. Sem uma vacinação em massa, célere, o processo de retomada das atividades e de criação de empregos tende a levar mais tempo.
-                            O setor de serviços, por exemplo, vem dando mostras de recuperação. Em novembro de 2020, mesmo em meio ainda a tantas dificuldades, o segmento cresceu 2,6% frente a outubro, segundo o IBGE.
-                            Uma ampla imunização, sem dúvidas, ajudaria a alavancar e acelerar ainda mais essa recuperação." />
+            <meta name="description" content="Em meio a tantas incertezas e dificuldades, a liberação pela Anvisa (Agência Nacional de Vigilância Sanitária) do uso emergencial das primeiras vacinas contra a Covid-19 no Brasil trouxe esperança e otimismo." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="Em meio a tantas incertezas e dificuldades, a liberação pela Anvisa (Agência Nacional de Vigilância Sanitária) do uso emergencial das primeiras vacinas contra a Covid-19 no Brasil trouxe esperança e otimismo.
-                            A ANSEGTV acompanha com atenção os desdobramentos da medida e defende a campanha de imunização. A ordem estipulada pelas autoridades deve ser respeitada. A população mais vulnerável, idosos e profissionais da linha de frente do combate à pandemia devem e precisam ser vacinados antes que os demais.
-                            
-                                	
-                                Tânia Rego/Agência Brasil
-                            
-                            É necessário também debater alternativas para agilizar e acelerar a proteção dos profissionais envolvidos em outras atividades essenciais.
-                            Profissionais do setor de transportes foram incluídos recentemente no grupo prioritário para receber a vacina. Segundo o governo, estão nesta lista caminhoneiros, portuários, funcionários de companhias aéreas, metroferroviários, entre outros. Não há ainda data definida para a imunização dessas categorias.
-                            Importante lembrar o papel das transportadoras de valores na pandemia. Principalmente com o auxílio emergencial, a circulação de dinheiro e o abastecimento de caixas eletrônicos foi essencial.
-                            Considerado serviço essencial, o setor nunca parou e pôde ajudar a população em um período tão conturbado.
-                            Empresas estão dispostas a colaborar com os governos na aquisição dos medicamentos. Sem uma vacinação em massa, célere, o processo de retomada das atividades e de criação de empregos tende a levar mais tempo.
-                            O setor de serviços, por exemplo, vem dando mostras de recuperação. Em novembro de 2020, mesmo em meio ainda a tantas dificuldades, o segmento cresceu 2,6% frente a outubro, segundo o IBGE.
-                            Uma ampla imunização, sem dúvidas, ajudaria a alavancar e acelerar ainda mais essa recuperação.">
+            <meta property="og:title" content="Recuperação econômica passa pela vacinação">
+            <meta property="og:description" content="Em meio a tantas incertezas e dificuldades, a liberação pela Anvisa (Agência Nacional de Vigilância Sanitária) do uso emergencial das primeiras vacinas contra a Covid-19 no Brasil trouxe esperança e otimismo.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/recuperacao-economica-passa-pela-vacinacao">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/vacina-covid.png">
-            
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/recuperacao-economica-passa-pela-vacinacao/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/01/vacina-covid.png">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/01/vacina-covid.png">
             <meta property="article:published_time" content="2021-01-26">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

@@ -2,17 +2,17 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Estatuto da Segurança Privada deve avançar no Senado neste ano | ANSEGTV</title>
-            <meta name="description" content="O substitutivo da Câmara precisa passar por quatro comissões. Por enquanto ele tem apenas o aval da Comissão de Assuntos Sociais (CAS), que aprovou a maior parte das mudanças em 2017. Depois disso, o projeto, do então senador Marcelo Crivella, ficou paralisado até o fim de 2019, quando enfim recebeu o relatório para votação na CTFC." />
+            <title>ANSEGTV - Estatuto da Segurança Privada deve avançar no Senado neste ano | ANSEGTV</title>
+            <meta name="description" content="Estatuto da Segurança Privada deve avançar no Senado neste ano" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
+            <meta property="og:title" content="Estatuto da Segurança Privada deve avançar no Senado neste ano">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/estatuto-da-seguranca-privada-deve-avancar-no-senado-neste-ano">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/estatuto-seguranca-privada.png">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/estatuto-da-seguranca-privada-deve-avancar-no-senado-neste-ano/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/01/estatuto-seguranca-privada.png">
             <meta property="article:published_time" content="2020-01-21">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

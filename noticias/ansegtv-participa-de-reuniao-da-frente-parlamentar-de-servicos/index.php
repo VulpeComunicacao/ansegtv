@@ -3,28 +3,18 @@
         <!-- Head Section -->
         <head>
             <title>ANSEGTV participa de reunião da Frente Parlamentar de Serviços | ANSEGTV</title>
-            <meta name="description" content="A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) participou no último dia 14 de setembro de reunião da Frente Parlamentar em Defesa do Setor de Serviços (FPS), cujo objetivo foi promover um balanço das atividades realizadas ao longo de 2020.
-                            
-                                	
-                                
-                            
-                            Criada em 2019, a Frente é apartidária e reúne atualmente 210 deputados. O setor de serviços representa 70% do PIB e foi responsável apenas no ano passado por quase sete milhões de contratações." />
+            <meta name="description" content="A ANSEGTV participou no último dia 14 de setembro de reunião da Frente Parlamentar em Defesa do Setor de Serviços (FPS), cujo objetivo foi promover um balanço das atividades realizadas ao longo de 2020." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) participou no último dia 14 de setembro de reunião da Frente Parlamentar em Defesa do Setor de Serviços (FPS), cujo objetivo foi promover um balanço das atividades realizadas ao longo de 2020.
-                            
-                                	
-                                
-                            
-                            Criada em 2019, a Frente é apartidária e reúne atualmente 210 deputados. O setor de serviços representa 70% do PIB e foi responsável apenas no ano passado por quase sete milhões de contratações.">
+            <meta property="og:title" content="ANSEGTV participa de reunião da Frente Parlamentar de Serviços">
+            <meta property="og:description" content="A ANSEGTV participou no último dia 14 de setembro de reunião da Frente Parlamentar em Defesa do Setor de Serviços (FPS), cujo objetivo foi promover um balanço das atividades realizadas ao longo de 2020.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-participa-de-reuniao-da-frente-parlamentar-de-servicos">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/frente-parlamentar.png">
-            
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-participa-de-reuniao-da-frente-parlamentar-de-servicos/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/09/frente-parlamentar.png">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2020/09/frente-parlamentar.png">
             <meta property="article:published_time" content="2020-09-16">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

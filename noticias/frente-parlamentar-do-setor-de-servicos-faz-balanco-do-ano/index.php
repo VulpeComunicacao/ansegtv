@@ -2,19 +2,19 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Frente Parlamentar do Setor de Serviços faz balanço do ano | ANSEGTV</title>
+            <title>Frente Parlamentar do Setor de Serviços faz balanço do ano</title>
             <meta name="description" content="A Frente Parlamentar do Setor de Serviços (FPS) realizou nesta quarta-feira (8) sua reunião de encerramento do ano onde apresentou seu relatório de atividades e perspectivas para 2022." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
+            <meta property="og:title" content="Frente Parlamentar do Setor de Serviços faz balanço do ano">
             <meta property="og:description" content="A Frente Parlamentar do Setor de Serviços (FPS) realizou nesta quarta-feira (8) sua reunião de encerramento do ano onde apresentou seu relatório de atividades e perspectivas para 2022.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/frente-parlamentar-do-setor-de-servicos-faz-balanco-do-ano">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/encontro-encerramento-share.jpg">
-            
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/12/encontro-encerramento-share.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/12/encontro-encerramento-share.jpg">
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

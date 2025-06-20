@@ -3,19 +3,16 @@
         <!-- Head Section -->
         <head>
             <title>Esquadra deixa mercado de transporte de valores | ANSEGTV</title>
-            <meta name="description" content="A Associação Nacional de Segurança e Transporte de Valores (Ansegtv) lamentou o encerramento das atividades de transporte de valores da Esquadra, membro do grupo que operava em quatro estados — além da sede mineira.
-                            
-                            Em comunicado divulgado nesta terça-feira (10), a empresa afirmou que apresentava dificuldades de concorrer no mercado com as gigantes Prosegur, Protege e Brink’s, que detêm aproximadamente 90% do serviço de transportes de valores.  
-                            A Esquadra tem mais de 7 mil funcionários em segurança patrimonial e serviços, e voltará seu foco a estes principais nichos de mercado." />
+            <meta name="description" content="ANSEGTV lamentou o encerramento das atividades de transporte de valores da Esquadra, membro do grupo que operava em quatro estados — além da sede mineira." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
+            <meta property="og:title" content="Esquadra deixa mercado de transporte de valores">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/esquadra-deixa-mercado-de-transporte-de-valores">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/imagem_nota_esquadra.jpeg">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/esquadra-deixa-mercado-de-transporte-de-valores/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2019/12/imagem_nota_esquadra.jpeg">
             <meta property="article:published_time" content="2019-12-12">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

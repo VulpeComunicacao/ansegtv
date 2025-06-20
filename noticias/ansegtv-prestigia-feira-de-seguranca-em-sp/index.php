@@ -2,35 +2,20 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>ANSEGTV prestigia feira de segurança em SP | ANSEGTV</title>
+            <title>ANSEGTV prestigia feira de segurança em SP</title>
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="%%title%%">
-            <meta name="description" content="A ISC Brasil, uma das principais feiras de soluções integradas de segurança do Brasil, reuniu, de 21 a 23 de setembro, no Expo Center Norte, em São Paulo, mais de 20 mil profissionais, entre gestores de segurança, usuários finais, consultores, integradores de tecnologia e autoridades. 
-
-                        O evento abrangeu todo o ecossistema de segurança integrada, desde câmeras de videomonitoramento, vigilância por vídeo, controle de acesso, biometria, portaria remota, drones, inteligência artificial, cibersegurança, dentre outros serviços.
-
-                        
-                                	
-                                
-                            
-
-                        A diretoria da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) esteve no evento. Representaram a entidade: Fábio Oliveira, Diretor Regional Norte e Nordeste; Fátima Dias, Diretora de Relações Institucionais; Max Madruga, Diretor Jurídico; Rafael Alcântara, Diretor de Tecnologia e Inovação; e Robson Barbara, Diretor Social e de Comunicação.
-
-                        A Comando G8, afiliada da ANSEGTV, contou com um grande estande na feira, onde apresentou seus veículos e serviços.
-
-                        Também durante o evento, a secretária de Segurança Urbana de São Paulo, Elza Paulina de Souza, explicou como funcionará a nova plataforma de videomonitoramento, Smart Sampa. Estão previstas as instalações de 20 mil câmeras na cidade até 2024, com um investimento estimado em R$ 70 milhões por ano.
-
-                        Para Robson Barbara, Diretor Social e de Comunicação da ANSEGTV, a feira, além de apresentar as últimas novidades em sistemas e equipamentos, foi importante pela troca de experiências. “A ISC Brasil é uma referência no calendário de eventos da área. Poder discutir questões do setor com especialistas é sempre engrandecedor”, considerou." />
+            <meta property="og:title" content="ANSEGTV prestigia feira de segurança em SP">
+            <meta meta name="description" property="og:description" content="A ISC Brasil, uma das principais feiras de soluções integradas de segurança do Brasil, reuniu, de 21 a 23 de setembro, no Expo Center Norte, em São Paulo, mais de 20 mil profissionais, entre gestores de segurança, usuários finais, consultores, integradores de tecnologia e autoridades. ">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-prestigia-feira-de-seguranca-em-sp">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/share-new-equipe-ansegtv.jpg">
-            
-            <meta property="article:published_time" content="2022-09-28">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-prestigia-feira-de-seguranca-em-sp/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2022/09/share-new-equipe-ansegtv.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2022/09/share-new-equipe-ansegtv.jpg">
+            <meta property="article:published_time" content="2022-09-28" />
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

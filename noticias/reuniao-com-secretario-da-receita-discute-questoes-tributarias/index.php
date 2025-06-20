@@ -3,26 +3,16 @@
         <!-- Head Section -->
         <head>
             <title>Reunião com secretário da Receita discute questões tributárias | ANSEGTV</title>
-            <meta name="description" content="A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) e demais representantes do setor de serviços seguem em contato direto com o governo federal, trocando sugestões e propostas que têm como objetivo o reaquecimento da atividade econômica e a criação de empregos.
-                            Nesta quarta-feira (17), a reunião virtual foi com o secretário especial da Receita Federal, José Barroso Tostes Neto. A reunião foi organizada pela Frente Parlamentar em Defesa do Setor de Serviços, que é liderada pelo deputado federal Laércio Oliveira (PP-SE), e contou com a participação de Gabriel Damasceno, presidente da ANSEGTV.
-                            Na videoconferência, alguns temas discutidos foram a desoneração dos tributos sobre a folha de pagamentos, a necessidade da Reforma Tributária, a prorrogação ou não de medidas relacionadas a diferimento de tributos e uma possível reformulação do Refis.
-                            
-                                	
-                                Fonte: Agência Senado
-                            
-                            Dentro da Reforma Tributária, representantes do setor manifestaram preocupação com possível substituição do PIS-COFINS e outros impostos pelo IVA (Imposto sobre Valor Agregado), que aumentaria consideravelmente a carga tributária do setor.
-
-                            Na reunião, a Secretaria demonstrou apoio à discussão sobre a redução da carga tributária sobre a folha de pagamentos e considerou importante a retomada do debate em torno da Reforma Tributária.
-                            Damasceno avaliou positivamente o encontro. “O governo está aberto a propostas e demonstra preocupação com o setor de serviços, que gera tantos empregos. Esse diálogo é fundamental”." />
+            <meta name="description" content="A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) e demais representantes do setor de serviços seguem em contato direto com o governo federal, trocando sugestões e propostas que têm como objetivo o reaquecimento da atividade econômica e a criação de empregos." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
+            <meta property="og:title" content="Reunião com secretário da Receita discute questões tributárias">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/reuniao-com-secretario-da-receita-discute-questoes-tributarias">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/receita_federal_ansegtv_jun2020.jpg">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/reuniao-com-secretario-da-receita-discute-questoes-tributarias/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/06/receita_federal_ansegtv_jun2020.jpg">
             <meta property="article:published_time" content="2020-06-18">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

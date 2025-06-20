@@ -3,34 +3,18 @@
         <!-- Head Section -->
         <head>
             <title>Comando G8 é o novo filiado da ANSEGTV | ANSEGTV</title>
-            <meta name="description" content="A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) tem um novo associado. É o Comando G8, com matriz em São Paulo e filiais em Campinas, Santos, Rio de Janeiro, Minas Gerais e Espírito Santo. O grupo atende clientes em todo o Brasil, com grande eficiência, através de profissionais treinados e equipamentos de última geração e localização estratégica.
-                            
-                                	
-                                
-                            
-                            Criado por Anderson Albuquerque em 2.004, o Comando G8 oferece serviços de Escolta Armada, Segurança Patrimonial, Transporte de Valores, Facilities, Consultoria em Segurança e Prevenção de Perdas e Parqueamento.
-                            No total, são mais de 250 veículos e 4.500 funcionários.
-                            Empresas de diversos setores, como alimentação, varejo, bancário e gráfico estão entre alguns de seus principais clientes. Um dos diferenciais da empresa é o acompanhamento de perto pela diretoria de todas as atividades. Além disso, a equipe de campo é acompanhada constantemente através do rastreamento via satélite e pelo monitoramento via câmeras.
-                            Com essa nova filiação, a ANSEGTV conta atualmente com 16 membros. A entidade, assim, reforça seu objetivo em contribuir com os interesses da segurança privada por meio de ações que visem defender e fortalecer o livre mercado, a gestão empresarial ética e as boas práticas de segurança." />
+            <meta name="description" content="A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) tem um novo associado. É o Comando G8, com matriz em São Paulo e filiais em Campinas, Santos, Rio de Janeiro, Minas Gerais e Espirito Santo." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) tem um novo associado. É o Comando G8, com matriz em São Paulo e filiais em Campinas, Santos, Rio de Janeiro, Minas Gerais e Espírito Santo. O grupo atende clientes em todo o Brasil, com grande eficiência, através de profissionais treinados e equipamentos de última geração e localização estratégica.
-                            
-                                	
-                                
-                            
-                            Criado por Anderson Albuquerque em 2.004, o Comando G8 oferece serviços de Escolta Armada, Segurança Patrimonial, Transporte de Valores, Facilities, Consultoria em Segurança e Prevenção de Perdas e Parqueamento.
-                            No total, são mais de 250 veículos e 4.500 funcionários.
-                            Empresas de diversos setores, como alimentação, varejo, bancário e gráfico estão entre alguns de seus principais clientes. Um dos diferenciais da empresa é o acompanhamento de perto pela diretoria de todas as atividades. Além disso, a equipe de campo é acompanhada constantemente através do rastreamento via satélite e pelo monitoramento via câmeras.
-                            Com essa nova filiação, a ANSEGTV conta atualmente com 16 membros. A entidade, assim, reforça seu objetivo em contribuir com os interesses da segurança privada por meio de ações que visem defender e fortalecer o livre mercado, a gestão empresarial ética e as boas práticas de segurança.">
+            <meta property="og:title" content="Comando G8 é o novo filiado da ANSEGTV">
+            <meta property="og:description" content="A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) tem um novo associado. É o Comando G8, com matriz em São Paulo e filiais em Campinas, Santos, Rio de Janeiro, Minas Gerais e Espirito Santo.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/comando-g8-e-o-novo-filiado-da-ansegtv">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/logo_grupo_g8-540.png">
-            
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/comando-g8-e-o-novo-filiado-da-ansegtv/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/10/logo_grupo_g8-540.png">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2020/10/logo_grupo_g8-540.png">
             <meta property="article:published_time" content="2020-10-07">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

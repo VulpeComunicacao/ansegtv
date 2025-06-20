@@ -3,24 +3,16 @@
         <!-- Head Section -->
         <head>
             <title>Polícia Federal realiza workshop na sede da ANSEGTV | ANSEGTV</title>
-            <meta name="description" content="A Polícia Federal realizou no dia 27 de julho de 2019 o workshop Prevenção à Lavagem de Dinheiro na sede da ANSEGTV em Brasília, com a finalidade de apresentar as diretrizes do órgão sobre a aplicação da Instrução Normativa N° 132, que deve ser seguida pelas empresas de transporte de valores. No evento, estavam presentes lideranças das 12 empresas associadas. A exposição foi conduzida pela Dra. Denise Vargas Tenório (Chefe da DICOF/CGCSP/DIREX/PF) e pelo Dr. Fábio Motta da Fonseca  (Chefe da UPLD/DICOF/CGCSP).  
-                            
-                            
-                                
-                            As associadas tiveram a oportunidade de esclarecer pontos importantes do novo regramento, especialmente sobre o registro das operações, as condições para as comunicações de atividades suspeitas e como ocorrerão os procedimentos de fiscalização nas empresas. A Instrução Normativa N° 132 foi emitida pela Coordenação-Geral de Controle de Serviços e Produtos, da Polícia Federal, em 14 de novembro de 2018.  
-                                
-                            A fiscalização por parte do órgão começa em setembro de 2019, concomitante com a vistoria das bases para o processo de renovação de autorização de funcionamento. As autoridades aproveitaram para conhecer as instalações da nova sede da ANSEGTV em Brasília. A ANSEGTV sai na frente na missão de apoiar com diálogo, transparência e ética as empresas do setor junto ao órgão regulador.
-
-                            Confira aqui a íntegra da Instrução Normativa Nº 132" />
+            <meta name="description" content="ANSEGTV é a Associação Nacional de Segurança e Transporte de Valores. Uma entidade sem fins lucrativos estrutura para representar os interesses das empresas do segmento." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
+            <meta property="og:title" content="Polícia Federal realiza workshop na sede da ANSEGTV">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/policia-federal-realiza-workshop-na-sede-da-ansegtv">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/workshop-pf-ansegtv.png">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/policia-federal-realiza-workshop-na-sede-da-ansegtv/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2019/09/workshop-pf-ansegtv.png">
             <meta property="article:published_time" content="2019-09-19">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

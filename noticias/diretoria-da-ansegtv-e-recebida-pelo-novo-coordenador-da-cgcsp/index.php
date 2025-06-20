@@ -2,27 +2,20 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Diretoria da ANSEGTV é recebida pelo novo coordenador da CGCSP | ANSEGTV</title>
+            <title>Diretoria da ANSEGTV é recebida pelo novo coordenador da CGCSP </title>
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="%%title%%">
-            <meta name="description" content="Como parte de seus esforços em melhorar a segurança no setor de transporte de valores, a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) esteve reunida no dia 21 de julho na CGCSP (Coordenação-Geral de Controle de Serviços e Produtos da Polícia Federal). 
-                            
-                                	
-                                
-                            
-                            Além de uma apresentação institucional, a associação apresentou ao novo Coordenador da Área, o delegado Rodrigo de Lucca Jardim, um panorama dos recentes ataques envolvendo a atividade do transporte de valores. Jardim agradeceu as informações e destacou a importância da interlocução da CGCSP com as empresas do segmento. Também estiveram presentes os chefes substitutos de processos autorizativos, Daniel Marques Cavalcante e Francisco Leite Serra Azul Neto. 
-                             Representaram a ANSEGTV na oportunidade o Diretor-Presidente, Gabriel Damasceno, o Diretor Financeiro, Guaraci Lemos, o Diretor Jurídico, Max Madruga, e o Diretor de Relações Governamentais, Lincoln Telhado. 
-                            Damasceno agradeceu a oportunidade, “A reunião foi muito importante e produtiva. A ANSEGTV estará sempre à disposição das autoridades para dialogar e colaborar com o que for preciso”, disse." />
+            <meta property="og:title" content="Diretoria da ANSEGTV é recebida pelo novo coordenador da CGCSP ">
+            <meta meta name="description" property="og:description" content="Como parte de seus esforços em melhorar a segurança no setor de transporte de valores, a ANSEGTV esteve reunida no dia 21 de julho na CGCSP">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/diretoria-da-ansegtv-e-recebida-pelo-novo-coordenador-da-cgcsp">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/new_diretoria-ansegtv-share.jpg">
-            
-            <meta property="article:published_time" content="2022-07-08">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/diretoria-da-ansegtv-e-recebida-pelo-novo-coordenador-da-cgcsp/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2022/07/new_diretoria-ansegtv-share.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2022/07/new_diretoria-ansegtv-share.jpg">
+            <meta property="article:published_time" content="2022-07-28" />
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

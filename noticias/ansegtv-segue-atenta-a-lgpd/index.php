@@ -3,42 +3,18 @@
         <!-- Head Section -->
         <head>
             <title>ANSEGTV segue atenta à LGPD | ANSEGTV</title>
-            <meta name="description" content="Tema de suma importância, a LGPD (Lei Geral de Proteção de Dados) vem sendo debatida constantemente pela ANSEGTV e seus associados.
-                            A entidade, com o apoio de consultorias jurídicas especialistas no tema, tem buscado prestar todos os esclarecimentos aos filiados.
-                            
-                                	
-                                
-                            
-                            No dia 28 de janeiro, uma cartilha com os principais pontos da legislação foi apresentada às empresas que integram a associação.
-                            O material traz as adequações indispensáveis para que, tanto ANSEGTV quanto seus membros, cumpram corretamente as determinações da lei.
-                            Sancionada em 14 de agosto de 2018, a LGPD entrou em vigor em 18 de setembro de 2020. A discussão no Congresso Nacional sobre o tema durou quase uma década (2010-2018).
-                            Os artigos que disciplinam as sanções administrativas da lei entrarão em vigor apenas em agosto de 2021, mas empresas e administração pública vêm se movimentando de maneira significativa para ficar em conformidade com a norma.
-                            No transporte de valores não é diferente. Todas as empresas que, de alguma forma, tratem dados pessoais, como por exemplo Recursos Humanos, Jurídico, Logística, Contábil, Marketing e Compliance devem se ajustar às novas diretrizes.
-                            Por isso, o suporte de uma consultoria especializada nesse momento é vital. Com ela, é possível avaliar dados, riscos e vantagens da implementação da lei.
-                            A ANSEGTV seguirá contribuindo e apoiando todos os associados na busca por uma eficaz e célere adaptação à LGPD." />
+            <meta name="description" content="Tema de suma importância, a LGPD (Lei Geral de Proteção de Dados) vem sendo debatida constantemente pela ANSEGTV e seus associados." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="Tema de suma importância, a LGPD (Lei Geral de Proteção de Dados) vem sendo debatida constantemente pela ANSEGTV e seus associados.
-                            A entidade, com o apoio de consultorias jurídicas especialistas no tema, tem buscado prestar todos os esclarecimentos aos filiados.
-                            
-                                	
-                                
-                            
-                            No dia 28 de janeiro, uma cartilha com os principais pontos da legislação foi apresentada às empresas que integram a associação.
-                            O material traz as adequações indispensáveis para que, tanto ANSEGTV quanto seus membros, cumpram corretamente as determinações da lei.
-                            Sancionada em 14 de agosto de 2018, a LGPD entrou em vigor em 18 de setembro de 2020. A discussão no Congresso Nacional sobre o tema durou quase uma década (2010-2018).
-                            Os artigos que disciplinam as sanções administrativas da lei entrarão em vigor apenas em agosto de 2021, mas empresas e administração pública vêm se movimentando de maneira significativa para ficar em conformidade com a norma.
-                            No transporte de valores não é diferente. Todas as empresas que, de alguma forma, tratem dados pessoais, como por exemplo Recursos Humanos, Jurídico, Logística, Contábil, Marketing e Compliance devem se ajustar às novas diretrizes.
-                            Por isso, o suporte de uma consultoria especializada nesse momento é vital. Com ela, é possível avaliar dados, riscos e vantagens da implementação da lei.
-                            A ANSEGTV seguirá contribuindo e apoiando todos os associados na busca por uma eficaz e célere adaptação à LGPD.">
+            <meta property="og:title" content="ANSEGTV segue atenta à LGPD">
+            <meta property="og:description" content="Tema de suma importância, a LGPD (Lei Geral de Proteção de Dados) vem sendo debatida constantemente pela ANSEGTV e seus associados.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-segue-atenta-a-lgpd">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/img-lgpd.png">
-            
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-segue-atenta-a-lgpd/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/02/img-lgpd.png">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/02/img-lgpd.png">
             <meta property="article:published_time" content="2021-02-12">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

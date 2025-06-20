@@ -2,22 +2,22 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>ANSEGTV faz visita institucional à CNT | ANSEGTV</title>
+            <title>ANSEGTV faz visita institucional à CNT</title>
             <meta charset="utf-8">
-            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-faz-visita-institucional-a-cnt" />
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-faz-visita-institucional-a-cnt/" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="%%title%%">
-            <meta name="description" content="Representantes da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) estiveram, na terça-feira (26), na sede da CNT (Confederação Nacional do Transporte), em Brasília (DF), para conhecer mais sobre o funcionamento e a organização do Sistema Transporte." />
+            <meta property="og:title" content="ANSEGTV faz visita institucional à CNT">
+            <meta meta name="description" property="og:description" content="Representantes da ANSEGTV estiveram, na terça-feira (26), na sede da CNT, em Brasília (DF), para conhecer mais sobre o funcionamento e a organização do Sistema Transporte.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-faz-visita-institucional-a-cnt">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/fachada-sest-senat-share.jpg">
-            
-            <meta property="article:published_time" content="2024-03-28">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-faz-visita-institucional-a-cnt/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2024/03/fachada-sest-senat-share.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2024/03/fachada-sest-senat-share.jpg">
+            <meta property="article:published_time" content="2023-03-28"/>
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

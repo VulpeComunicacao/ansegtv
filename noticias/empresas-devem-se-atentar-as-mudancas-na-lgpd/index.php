@@ -2,28 +2,30 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Empresas devem se atentar às mudanças na LGPD, mas multas e sanções aguardam
-regulamentação | ANSEGTV</title>
+            <title>Empresas devem se atentar às mudanças na LGPD, mas multas e sanções aguardam regulamentação</title>
             <meta name="description" content="A Lei Geral de Proteção de Dados Pessoais (LGPD), em vigor desde setembro de
-                        2020, passou a ter suas sanções administrativas aplicáveis a partir de 1º de
-                        agosto. No entanto, as sanções ainda dependem de regulamentação da
-                        Autoridade Nacional de Proteção de Dados (ANPD), órgão responsável pela
-                        fiscalização e autuação das empresas em desacordo com a legislação." />
+2020, passou a ter suas sanções administrativas aplicáveis a partir de 1º de
+agosto. No entanto, as sanções ainda dependem de regulamentação da
+Autoridade Nacional de Proteção de Dados (ANPD), órgão responsável pela
+fiscalização e autuação das empresas em desacordo com a legislação.
+" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
+            <meta property="og:title" content="Empresas devem se atentar às mudanças na LGPD, mas multas e sanções aguardam
+regulamentação">
             <meta property="og:description" content="A Lei Geral de Proteção de Dados Pessoais (LGPD), em vigor desde setembro de
-                        2020, passou a ter suas sanções administrativas aplicáveis a partir de 1º de
-                        agosto. No entanto, as sanções ainda dependem de regulamentação da
-                        Autoridade Nacional de Proteção de Dados (ANPD), órgão responsável pela
-                        fiscalização e autuação das empresas em desacordo com a legislação.">
+2020, passou a ter suas sanções administrativas aplicáveis a partir de 1º de
+agosto. No entanto, as sanções ainda dependem de regulamentação da
+Autoridade Nacional de Proteção de Dados (ANPD), órgão responsável pela
+fiscalização e autuação das empresas em desacordo com a legislação.
+">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/empresas-devem-se-atentar-as-mudancas-na-lgpd">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/lock-lgpd-share.jpg">
-            
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/empresas-devem-se-atentar-as-mudancas-na-lgpd/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/08/lock-lgpd-share.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/08/lock-lgpd-share.jpg">
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

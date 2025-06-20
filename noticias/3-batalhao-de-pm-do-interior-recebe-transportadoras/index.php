@@ -2,19 +2,19 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>3⁰ Batalhão de PM do Interior recebe transportadoras | ANSEGTV</title>
-            <meta name="description" content="O diretor de Comunicação da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Robson Alexandre Barbara, visitou no dia 19 de novembro o 3⁰ Batalhão de Polícia Militar do Interior, na cidade de Ribeirão Preto (SP). Na ocasião, foi recebido, ao lado de representantes de transportadoras de valores e do Seret (Setor de Retaguarda e Tesouraria) do Banco do Brasil, pelo tenente-coronel Rodrigo Quintino, comandante da corporação." />
+            <title>3⁰ Batalhão de PM do Interior recebe transportadoras</title>
+            <meta name="description" content="O diretor de Comunicação da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Robson Alexandre Barbara, visitou no dia 19 de novembro o 3⁰ Batalhão de Polícia Militar do Interior, na cidade de Ribeirão Preto (SP)." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="O diretor de Comunicação da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Robson Alexandre Barbara, visitou no dia 19 de novembro o 3⁰ Batalhão de Polícia Militar do Interior, na cidade de Ribeirão Preto (SP). Na ocasião, foi recebido, ao lado de representantes de transportadoras de valores e do Seret (Setor de Retaguarda e Tesouraria) do Banco do Brasil, pelo tenente-coronel Rodrigo Quintino, comandante da corporação.">
+            <meta property="og:title" content="3⁰ Batalhão de PM do Interior recebe transportadoras">
+            <meta property="og:description" content="O diretor de Comunicação da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Robson Alexandre Barbara, visitou no dia 19 de novembro o 3⁰ Batalhão de Polícia Militar do Interior, na cidade de Ribeirão Preto (SP).">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/3-batalhao-de-pm-do-interior-recebe-transportadoras">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/batalhao-pm-share.png">
-            
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/11/batalhao-pm-share.png">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/11/batalhao-pm-share.png">
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

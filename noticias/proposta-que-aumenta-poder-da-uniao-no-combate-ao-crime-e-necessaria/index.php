@@ -2,20 +2,20 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Proposta que aumenta poder da União no combate ao crime é necessária | ANSEGTV</title>
+            <title>Proposta que aumenta poder da União no combate ao crime é necessária</title>
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="%%title%%">
-            <meta name="description" content="O Ministério da Justiça prepara uma Proposta de Emenda de Constituição (PEC) que permitirá ao governo federal estabelecer diretrizes nacionais a serem seguidas por estados e municípios na segurança pública." />
+            <meta property="og:title" content="Proposta que aumenta poder da União no combate ao crime é necessária">
+            <meta meta name="description" property="og:description" content="O Ministério da Justiça prepara uma Proposta de Emenda de Constituição (PEC) que permitirá ao governo federal estabelecer diretrizes nacionais a serem seguidas por estados e municípios na segurança pública.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/palacio-justica-share.jpg">
-            
-            <meta property="article:published_time" content="2024-05-20">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2024/05/palacio-justica-share.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2024/05/palacio-justica-share.jpg">
+            <meta property="article:published_time" content="2024-05-20"/>
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

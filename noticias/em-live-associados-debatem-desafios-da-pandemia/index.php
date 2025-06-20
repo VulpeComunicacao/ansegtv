@@ -3,30 +3,16 @@
         <!-- Head Section -->
         <head>
             <title>Em live, associados debatem desafios da pandemia | ANSEGTV</title>
-            <meta name="description" content="Representantes das empresas filiadas à ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) participaram nesta quinta-feira (18) de uma live transmitida pelo YouTube no canal do CT Segurança.
-                            Os associados discutiram os principais desafios enfrentados diante da pandemia da COVID-19, compartilharam experiências e soluções que ajudaram a amenizar os efeitos da chegada do coronavírus ao país.
-                            Além do presidente da Associação e superintendente da TBForte, Gabriel Damasceno, estiveram presentes: Ana Rita Oliveira (ASO), Dyego Salaro (Blue Angels), Edson de Araujo Jr. (Federal Segurança), Eginaldo Oliveira (Corpvs), Elizeu Ivo da Costa (Valorsat), Fábio Weyhrother (Renaforte), Fábio Torquato (Kairós), Michele de Sousa (Kairós), Max Madruga (TBForte), Pedro Henrique da Silva (Fenixx), Roberto Cruz (Brasifort) e Victor Serrano (Global Service).
-                            
-                                	
-                                
-                            
-                            A advogada Lirian Cavalhero, que vem garantindo todo suporte jurídico ao grupo nesta fase, também participou, esclarecendo dúvidas e pontuando as principais mudanças na legislação.
-
-                            Durante a reunião, todos elogiaram a capacidade de reinvenção, de adaptação e resiliência dos colaboradores. Sem isso, não seria possível enfrentar os obstáculos surgidos.
-                            Para os associados, o pior momento foi entre o fim de março e o início de abril, quando as informações sobre o novo coronavírus ainda eram poucas. O desconhecimento deixou muitos funcionários temerosos.
-                            Após esse período, no entanto, a situação começou a se estabilizar. Medidas de prevenção, campanhas de conscientização e o suporte de especialistas em saúde ajudaram a controlar o número de casos. O trabalho em home office se mostrou uma grande ferramenta, até aumentando a produtividade.
-                            Protegidos, com máscaras e a correta higienização de veículos, trabalhadores da linha de frente puderam ir às ruas, já que as atividades de segurança e transporte de valores são essenciais para o país e não podem parar. Clientes também foram compreensivos com algumas mudanças, como remanejamentos de rotas e horários.
-                            As medidas emergenciais anunciadas pelo governo ajudaram a conservar empregos. Gabriel Damasceno ressaltou que o objetivo principal sempre foi passar tranquilidade a todos funcionários e manter a qualidade dos serviços prestados.
-                            Ao final da reunião, o presidente da ANSEGTV lembrou que a batalha ainda está em andamento, mas com a união entre todos os associados será possível atravessar este momento tão conturbado." />
+            <meta name="description" content="Representantes das empresas filiadas à ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) participaram nesta quinta-feira (18) de uma live transmitida pelo YouTube no canal do CT Segurança." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
+            <meta property="og:title" content="Em live, associados debatem desafios da pandemia">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/em-live-associados-debatem-desafios-da-pandemia">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/live_ansegtv_jun2020.jpg">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/em-live-associados-debatem-desafios-da-pandemia/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/06/live_ansegtv_jun2020.jpg">
             <meta property="article:published_time" content="2020-06-19">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

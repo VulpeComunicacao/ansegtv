@@ -2,21 +2,21 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Emenda que torna proteção de dados pessoais direito fundamental é promulgada | ANSEGTV</title>
+            <title>Emenda que torna proteção de dados pessoais direito fundamental é promulgada</title>
             <meta charset="utf-8">
-            <link rel="canonical" href="https://ansegtv.com.br/noticias/emenda-que-torna-protecao-de-dados-pessoais-direito-fundamental-e-promulgada" />
-            <meta name="description" content="O Congresso Nacional promulgou na quinta-feira (10) a Emenda Constitucional (EC 115), que altera a Constituição e inclui a proteção de dados pessoais entre os direitos e garantias fundamentais. O texto também fixa a competência privativa da União para legislar sobre proteção e tratamento de dados pessoais." />
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/emenda-que-torna-protecao-de-dados-pessoais-direito-fundamental-e-promulgada/" />
+            <meta name="description" content="O Congresso Nacional promulgou na quinta-feira (10) a Emenda Constitucional (EC 115), que altera a Constituição e inclui a proteção de dados pessoais entre os direitos e garantias fundamentais. " />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="O Congresso Nacional promulgou na quinta-feira (10) a Emenda Constitucional (EC 115), que altera a Constituição e inclui a proteção de dados pessoais entre os direitos e garantias fundamentais. O texto também fixa a competência privativa da União para legislar sobre proteção e tratamento de dados pessoais.">
+            <meta property="og:title" content="Emenda que torna proteção de dados pessoais direito fundamental é promulgada">
+            <meta property="og:description" content="O Congresso Nacional promulgou na quinta-feira (10) a Emenda Constitucional (EC 115), que altera a Constituição e inclui a proteção de dados pessoais entre os direitos e garantias fundamentais. ">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/emenda-que-torna-protecao-de-dados-pessoais-direito-fundamental-e-promulgada">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/plenario-votacao-share.jpg">
-            
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2022/02/plenario-votacao-share.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2022/02/plenario-votacao-share.jpg">
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

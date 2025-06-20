@@ -9,12 +9,12 @@
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
+            <meta property="og:title" content="Representantes do setor de serviços se reúnem com Arthur Lira">
             <meta property="og:description" content="O deputado Laércio Oliveira promoveu na última terça-feira (15) um encontro entre as entidades apoiadoras da Frente Parlamentar do Setor de Serviços (FPS), a qual comanda, com o presidente da Câmara dos Deputados, Arthur Lira, para tratar da Reforma Tributária.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/representantes-do-setor-de-servicos-se-reunem-com-arthur-lira">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/reuniao-fps-com-arthur-lira.jpg">
-            
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/06/reuniao-fps-com-arthur-lira.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/06/reuniao-fps-com-arthur-lira.jpg">
             <meta property="article:published_time" content="2021-06-17">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

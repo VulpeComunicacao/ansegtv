@@ -3,39 +3,19 @@
         <!-- Head Section -->
         <head>
             <title>Necessária, Reforma Tributária deve ser equilibrada | ANSEGTV</title>
-            <meta name="description" content="A Reforma Tributária segue no centro do debate econômico. O presidente da Câmara, Rodrigo Maia (DEM-RJ), e do Senado, Davi Alcolumbre (DEM-AP), já declararam que pretendem aprovar a medida até o fim deste ano.
-                            Atualmente, tramitam no Congresso duas PECs (110 e 45/2019) sobre o tema, além do Projeto de Lei 3.887/2020, entregue pelo governo federal em 21 de julho.
-                            
-                                	
-                                Foto: Jefferson Rudy/Agência Senado
-                            
-                            Resumidamente, a PEC 110 consiste na extinção de nove tributos e a criação de um IBS dual (IBS Federal e IBS Subnacional), sem grandes incentivos fiscais, isenções, redução de base de cálculo ou crédito presumido. A PEC 45 propõe a extinção de cinco tributos e a criação de um IVA (imposto sobre valor agregado), que seria denominado IBS (imposto sobre bens e serviços). Já a proposta do governo federal é de uma reforma tributária fatiada. Na primeira fase, seria criada a CBS (Contribuição sobre Bens e Serviços), com as mesmas características do IBS da proposta da PEC 45, porém com a aplicação de uma alíquota de 12% e extinção de apenas de dois tributos (PIS e Cofins).
-                            Os projetos são positivos ao extinguirem e unificarem impostos, além de trazerem maior segurança jurídica e transparência. Por outro lado, ainda sobrecarregam sobremaneira o setor de serviços (o que mais emprega no país), com incidência ampla de tributação sobre o consumo e poucas opções de créditos a compensar.
-                            A força motriz do setor sempre foi a mão de obra. Esta deveria ser a base da discussão, mas é pouco mencionada ou ignorada. Sem previsão de contrapartidas financeiras para a área, a desoneração da folha de pagamentos torna-se imprescindível.
-                            O processo de retomada econômica é lento e deve se estender pelos próximos anos.
-                            Em um momento de crise como agora, compreende-se a necessidade do governo em ampliar sua capacidade de obter recursos. É preciso, no entanto, encontrar um meio-termo para que determinados segmentos da economia não sejam mais prejudicados que outros." />
+            <meta name="description" content="A Reforma Tributária segue no centro do debate econômico. O presidente da Câmara, Rodrigo Maia (DEM-RJ), e do Senado, Davi Alcolumbre (DEM-AP), já declararam que pretendem aprovar a medida até o fim deste ano." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="A Reforma Tributária segue no centro do debate econômico. O presidente da Câmara, Rodrigo Maia (DEM-RJ), e do Senado, Davi Alcolumbre (DEM-AP), já declararam que pretendem aprovar a medida até o fim deste ano.
-                            Atualmente, tramitam no Congresso duas PECs (110 e 45/2019) sobre o tema, além do Projeto de Lei 3.887/2020, entregue pelo governo federal em 21 de julho.
-                            
-                                	
-                                Foto: Jefferson Rudy/Agência Senado
-                            
-                            Resumidamente, a PEC 110 consiste na extinção de nove tributos e a criação de um IBS dual (IBS Federal e IBS Subnacional), sem grandes incentivos fiscais, isenções, redução de base de cálculo ou crédito presumido. A PEC 45 propõe a extinção de cinco tributos e a criação de um IVA (imposto sobre valor agregado), que seria denominado IBS (imposto sobre bens e serviços). Já a proposta do governo federal é de uma reforma tributária fatiada. Na primeira fase, seria criada a CBS (Contribuição sobre Bens e Serviços), com as mesmas características do IBS da proposta da PEC 45, porém com a aplicação de uma alíquota de 12% e extinção de apenas de dois tributos (PIS e Cofins).
-                            Os projetos são positivos ao extinguirem e unificarem impostos, além de trazerem maior segurança jurídica e transparência. Por outro lado, ainda sobrecarregam sobremaneira o setor de serviços (o que mais emprega no país), com incidência ampla de tributação sobre o consumo e poucas opções de créditos a compensar.
-                            A força motriz do setor sempre foi a mão de obra. Esta deveria ser a base da discussão, mas é pouco mencionada ou ignorada. Sem previsão de contrapartidas financeiras para a área, a desoneração da folha de pagamentos torna-se imprescindível.
-                            O processo de retomada econômica é lento e deve se estender pelos próximos anos.
-                            Em um momento de crise como agora, compreende-se a necessidade do governo em ampliar sua capacidade de obter recursos. É preciso, no entanto, encontrar um meio-termo para que determinados segmentos da economia não sejam mais prejudicados que outros.">
+            <meta property="og:title" content="Necessária, Reforma Tributária deve ser equilibrada">
+            <meta property="og:description" content="A Reforma Tributária segue no centro do debate econômico. O presidente da Câmara, Rodrigo Maia (DEM-RJ), e do Senado, Davi Alcolumbre (DEM-AP), já declararam que pretendem aprovar a medida até o fim deste ano.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/necessaria-reforma-tributaria-deve-ser-equilibrada">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/congresso_ansegtv_agosto.jpg">
-            
-            <meta property="article:published_time" content="2020-08-21">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/necessaria-reforma-tributaria-deve-ser-equilibrada/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/08/congresso_ansegtv_agosto.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2020/08/congresso_ansegtv_agosto.jpg">
+            <meta property="article:published_time" content="2020-08-12">
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

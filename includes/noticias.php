@@ -79,8 +79,15 @@ if (!is_array($posts)) {
                                 } elseif (isset($post['yoast_head_json']['og_image'][0]['url'])) {
                                     $image_url = $post['yoast_head_json']['og_image'][0]['url'];
                                 }
+                                // Se a URL da imagem ainda estiver vazia, tente extrair do conteúdo HTML
+                                if (empty($image_url) && isset($post['content']['rendered'])) {
+                                    preg_match('/<img[^>]+src="([^"]+)"/i', $post['content']['rendered'], $matches);
+                                    if (isset($matches[1])) {
+                                        $image_url = $matches[1];
+                                    }
+                                }
                                 // Padroniza o caminho da imagem para uploads/2025/06/
-                                $image_url = preg_replace('/uploads\/\d{4}\/\d{2}\//', 'uploads/2025/06/', $image_url);
+                                $image_url = preg_replace('/uploads\/\\d{4}\\/\\d{2}\\//', 'uploads/2025/06/', $image_url);
                             ?>
                                 <div class="carousel-item <?php echo ($key === 0) ? 'active' : ''; ?>">
                                     <div class="news-block">
@@ -118,8 +125,15 @@ if (!is_array($posts)) {
                         } elseif (isset($post['yoast_head_json']['og_image'][0]['url'])) {
                             $image_url = $post['yoast_head_json']['og_image'][0]['url'];
                         }
+                        // Se a URL da imagem ainda estiver vazia, tente extrair do conteúdo HTML
+                        if (empty($image_url) && isset($post['content']['rendered'])) {
+                            preg_match('/<img[^>]+src="([^"]+)"/i', $post['content']['rendered'], $matches);
+                            if (isset($matches[1])) {
+                                $image_url = $matches[1];
+                            }
+                        }
                         // Padroniza o caminho da imagem para uploads/2025/06/
-                        $image_url = preg_replace('/uploads\/\d{4}\/\d{2}\//', 'uploads/2025/06/', $image_url);
+                        $image_url = preg_replace('/uploads\/\\d{4}\\/\\d{2}\\//', 'uploads/2025/06/', $image_url);
                     ?>
                         <div class="card">
                             <a href="<?php echo $link; ?>">
@@ -150,8 +164,15 @@ if (!is_array($posts)) {
                         } elseif (isset($post['yoast_head_json']['og_image'][0]['url'])) {
                             $image_url = $post['yoast_head_json']['og_image'][0]['url'];
                         }
+                        // Se a URL da imagem ainda estiver vazia, tente extrair do conteúdo HTML
+                        if (empty($image_url) && isset($post['content']['rendered'])) {
+                            preg_match('/<img[^>]+src="([^"]+)"/i', $post['content']['rendered'], $matches);
+                            if (isset($matches[1])) {
+                                $image_url = $matches[1];
+                            }
+                        }
                         // Padroniza o caminho da imagem para uploads/2025/06/
-                        $image_url = preg_replace('/uploads\/\d{4}\/\d{2}\//', 'uploads/2025/06/', $image_url);
+                        $image_url = preg_replace('/uploads\/\\d{4}\\/\\d{2}\\//', 'uploads/2025/06/', $image_url);
                     ?>
                         <div class="card">
                             <a href="<?php echo $link; ?>">

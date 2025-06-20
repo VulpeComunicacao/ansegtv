@@ -2,21 +2,21 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Diretoria da ANSEGTV se reúne com Ministro da Cidadania | ANSEGTV</title>
+            <title>Diretoria da ANSEGTV se reúne com Ministro da Cidadania</title>
             <meta charset="utf-8">
-            <link rel="canonical" href="https://ansegtv.com.br/noticias/diretoria-da-ansegtv-se-reune-com-ministro-da-cidadania" />
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/diretoria-da-ansegtv-se-reune-com-ministro-da-cidadania/" />
             <meta name="description" content="Diretores da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) participaram de reunião com o Ministro da Cidadania, Ronaldo Vieira Bento, na última quinta-feira (28), em Brasília." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
+            <meta property="og:title" content="Diretoria da ANSEGTV se reúne com Ministro da Cidadania">
             <meta property="og:description" content="Diretores da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) participaram de reunião com o Ministro da Cidadania, Ronaldo Vieira Bento, na última quinta-feira (28), em Brasília.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/diretoria-da-ansegtv-se-reune-com-ministro-da-cidadania">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/diretoria-ansegtv-share.jpg">
-            
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2022/04/diretoria-ansegtv-share.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2022/04/diretoria-ansegtv-share.jpg">
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

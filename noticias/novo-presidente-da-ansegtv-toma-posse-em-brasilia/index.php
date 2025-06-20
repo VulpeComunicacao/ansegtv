@@ -2,20 +2,20 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Novo presidente da ANSEGTV toma posse em Brasília | ANSEGTV</title>
+            <title>Novo presidente da ANSEGTV toma posse em Brasília</title>
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="%%title%%">
-            <meta name="description" content="O novo presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Vanderlei Reis, tomou posse no dia 18 de junho de 2024." />
+            <meta property="og:title" content="Novo presidente da ANSEGTV toma posse em Brasília">
+            <meta meta name="description" property="og:description" content="O novo presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Vanderlei Reis, tomou posse no dia 18 de junho de 2024.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/novo-presidente-da-ansegtv-toma-posse-em-brasilia">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/posse-novo-presidente-share.jpg">
-            
-            <meta property="article:published_time" content="2024-07-05">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/novo-presidente-da-ansegtv-toma-posse-em-brasilia/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2024/07/posse-novo-presidente-share.jpg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2024/07/posse-novo-presidente-share.jpg">
+            <meta property="article:published_time" content="2024-07-05"/>
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

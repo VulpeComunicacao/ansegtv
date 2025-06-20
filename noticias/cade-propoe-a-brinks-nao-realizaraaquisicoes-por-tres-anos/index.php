@@ -2,31 +2,17 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Cade propõe à Brink&#039;s não realizar aquisições por três anos | ANSEGTV</title>
-            <meta name="description" content="O Conselho Administrativo de Defesa Econômico (CADE) condicionou, em decisão tomada nesta quarta-feira (19/02), a compra da Tecnoguarda pela norte-americana Brink&#039;s à celebração de um Acordo de Controle em Concentrações (ACC) que proíbe, pelo prazo de três anos, novas aquisições de empresas que oferecem serviços de transporte de valores no Brasil.
-                            O ato de concentração foi aprovado por meio de voto de minerva do presidente, Alexandre Barreto de Souza – após empate entre os ministros favoráveis e contrários à matéria – apesar de parecer da Superintendência-Geral do Cade que recomendava o veto ao negócio.  
-                            As conselheiras Paula Farani de Azevedo Silveira e Lenisa Rodrigues Prado votaram pela reprovação da aquisição da Tecnoguarda pela Brink&#039;s, com o argumento de que, nesse caso – diferentemente daquele que envolveu, no final do ano passado, a Prosegur e a Transvip – o ACC não poderá para impedir a concentração no setor.
-                            “O remédio proposto se mostra inadequado para sanar a totalidade das preocupações nesse caso e não deve ser replicado por não se mostrar suficiente para preservar os mercados geográficos afetados, já que, na presente operação, não se constata eventuais rivais que possam se desenvolver”, explicou Paula Farani.
-                            
-                           
-                           O conselheiro Sergio Costa Ravagnani também se posicionou contra a aprovação irrestrita ao ato de concentração, sugerindo um posicionamento intermediário, que previa o desinvestimento em Mato Grosso.
-                            
-                            
-                            Já os conselheiros Luis Henrique Bertolino Braido e Alexandre Barreto de Souza –  apesar de reconhecerem os problemas gerados pela operação – acompanharam a posição do relator, Mauricio Oscar Bandeira Maia, o qual já havia negociado com as partes a celebração do ACC.
-                            
-                            
-                            &quot;Notamos alguma resistência do CADE em alterar a jurisprudência que vinha se consolidando&quot;, declarou o  advogado José Del Chiaro, representante da Tecban, uma das interessadas.
-                            
-                            O propósito do termo, a ser firmado pela Brink&#039;s como requisito para a efetivação da compra da Tecnoguarda, é impedir que a operação afete, negativamente, a concorrência do mercado de carros-fortes no Centro-Oeste. Após os três anos, a gigante do setor também terá de informar ao Cade, nos próximos dois anos, a realização de quaisquer novas aquisições." />
+            <title>Cade propõe à Brink's não realizar aquisições por três anos | ANSEGTV</title>
+            <meta name="description" content="O Conselho Administrativo de Defesa Econômico (CADE) condicionou, em decisão tomada nesta quarta-feira (19/02), a compra da Tecnoguarda pela norte-americana Brink's à celebração de um Acordo de Controle em Concentrações (ACC) que proíbe, pelo prazo de três anos, novas aquisições de empresas que oferecem serviços de transporte de valores no Brasil." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
+            <meta property="og:title" content="Cade propõe à Brink's não realizar aquisições por três anos">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/cade-propoe-a-brinks-nao-realizaraaquisicoes-por-tres-anos">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/010.png">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/cade-propoe-a-brinks-nao-realizaraaquisicoes-por-tres-anos/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/redimensionadas/010.png">
             <meta property="article:published_time" content="2020-02-20">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

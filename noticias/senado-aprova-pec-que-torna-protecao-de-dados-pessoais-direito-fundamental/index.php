@@ -2,23 +2,19 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Senado aprova PEC que torna proteção de dados pessoais direito fundamental | ANSEGTV</title>
-            <meta name="description" content="O Senado aprovou, no último dia 20, a PEC (Proposta de Emenda à Constituição) 17/2019, que torna a proteção de dados pessoais, inclusive nos meios digitais, um direito fundamental. O texto aguarda a promulgação pelo Congresso.
- 
-                        A PEC também estabelece que cabe à União organizar e fiscalizar a proteção e o tratamento de dados pessoais, tendo competência exclusiva para legislar sobre o tema." />
+            <title>Senado aprova PEC que torna proteção de dados pessoais direito fundamental</title>
+            <meta name="description" content="O Senado aprovou, no último dia 20, a PEC (Proposta de Emenda à Constituição) 17/2019, que torna a proteção de dados pessoais, inclusive nos meios digitais, um direito fundamental. O texto aguarda a promulgação pelo Congresso." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
-            <meta property="og:description" content="O Senado aprovou, no último dia 20, a PEC (Proposta de Emenda à Constituição) 17/2019, que torna a proteção de dados pessoais, inclusive nos meios digitais, um direito fundamental. O texto aguarda a promulgação pelo Congresso.
- 
-                        A PEC também estabelece que cabe à União organizar e fiscalizar a proteção e o tratamento de dados pessoais, tendo competência exclusiva para legislar sobre o tema.">
+            <meta property="og:title" content="Senado aprova PEC que torna proteção de dados pessoais direito fundamental">
+            <meta property="og:description" content="O Senado aprovou, no último dia 20, a PEC (Proposta de Emenda à Constituição) 17/2019, que torna a proteção de dados pessoais, inclusive nos meios digitais, um direito fundamental. O texto aguarda a promulgação pelo Congresso.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/senado-aprova-pec-que-torna-protecao-de-dados-pessoais-direito-fundamental">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/cadeado-lgpd-share.png">
-            
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/10/cadeado-lgpd-share.png">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/10/cadeado-lgpd-share.png">
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

@@ -3,29 +3,16 @@
         <!-- Head Section -->
         <head>
             <title>Associados adotam medidas de prevenção ao coronavírus | ANSEGTV</title>
-            <meta name="description" content="Diante da pandemia da COVID-19, as empresas associadas à ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) adotaram todas as medidas de proteção aos seus funcionários, prevenção contra a transmissão do vírus e manutenção dos serviços prestados à sociedade.
-                            A saúde e o bem-estar dos profissionais são as principais preocupações das empresas neste momento tão difícil em todo o mundo.
-                            Logo de início, nas funções em que foi possível, o home office foi implantado. Reuniões foram canceladas ou estão sendo realizadas virtualmente.
-                            
-                            Viagens, eventos e treinamentos nacionais e internacionais foram adiados. Trabalhadores que retornaram do exterior passaram a ser monitorados e foram isolados pelo período de tempo recomendado pela OMS (Organização Mundial de Saúde).
-                            Nos ambientes corporativos, mesas foram afastadas umas das outras, os horários de uso dos refeitórios, copas e vestiários passaram a ser alternados, tudo para que sejam evitadas aglomerações.
-                            Funcionários com idade superior a 60 anos, gestantes, lactantes, portadores de doenças graves, além de trabalhadores que apresentarem sintomas de gripe ou que tiveram contato com pessoas diagnosticadas com o coronavírus estão recebendo os cuidados especiais indicados pelo Ministério da Saúde.
-                            Campanhas internas de prevenção também são divulgadas intensamente. A orientação é para que funcionários não compartilhem objetos de trabalho e providenciem a lavagem do uniforme com maior frequência.
-                            O álcool em gel é item obrigatório, tanto nas bases operacionais como nos veículos de transportes. Carros-fortes e leves são constantemente higienizados. Rotas são revisadas com a finalidade de otimizar e reduzir o tempo de interação entre os times.
-                            Locais de contato comum, como leitor biométrico e maçanetas de portas, tiveram a limpeza reforçada. Levantamentos sobre o número de casos de coronavírus em cada região de atuação das empresas são emitidos diariamente. Funcionários têm a temperatura medida para o controle de acesso às instalações da empresa.
-                            A parte tecnológica também é de vital importância. Notebooks e smartphones foram adquiridos, e a capacidade de internet foi ampliada para o trabalho remoto.
-                            Todas as medidas foram adotadas seguindo as mais rígidas regras de segurança, com o apoio da Polícia Federal e das seguradoras.
-                            Nada disso seria possível sem a integração e parceria entre todos os associados. Importante lembrar que o serviço de segurança privada, incluindo o transporte de valores, é considerado essencial e não pode ser suspenso, a exemplo de supermercados, hospitais, bancos, entre outras atividades.
-                            A ANSEGTV seguirá dando todo o apoio necessário aos seus associados, fortalecendo a sua importância para o setor de segurança e transporte de valores." />
+            <meta name="description" content="Diante da pandemia da COVID-19, as empresas associados à ANSEGTV adotaram todas as medidas de proteção aos seus funcionários, prevenção contra a transmissão do vírus e manutenção dos serviços prestados à sociedade." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="%%title%%">
+            <meta property="og:title" content="Associados adotam medidas de prevenção ao coronavírus">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/associados-adotam-medidas-de-prevencao-ao-coronavirus">
-            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/013.png">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/associados-adotam-medidas-de-prevencao-ao-coronavirus/">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/redimensionadas/013.png">
             <meta property="article:published_time" content="2020-03-30">
             <meta property="article:author" content="https://ansegtv.com.br/">
 
