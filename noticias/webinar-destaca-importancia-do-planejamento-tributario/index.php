@@ -3,18 +3,32 @@
         <!-- Head Section -->
         <head>
             <title>Webinar destaca importância do planejamento tributário | ANSEGTV</title>
-            <meta name="description" content="O assessor tributário da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Andrey Ferreira, e Rubens Tavares, sócio da BMS Projetos & Consultoria, debateram em webinar nesta terça-feira (28) questões previdenciárias em tempos de pandemia." />
+            <meta name="description" content="O assessor tributário da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Andrey Ferreira, e Rubens Tavares, sócio da BMS Projetos &amp; Consultoria, debateram em webinar nesta terça-feira (28) questões previdenciárias em tempos de pandemia.
+                            O planejamento tributário foi um dos assuntos principais do evento. Andrey destacou que a medida é essencial para se atingir um fluxo de caixa mais rentável e, para isto, foram apresentadas algumas alternativas que podem ser estudadas pelas empresas para levantamento de créditos, retificações e compensações.
+                            Rubens explicou que, devido ao momento atual, cresceu o número de empresas em busca de serviços especializados em recuperação de créditos previdenciários.
+                            
+                                	
+                                
+                            
+                            Os especialistas esclareceram ainda como as empresas podem se beneficiar de oportunidades previdenciárias no cenário de crise, como a redução de riscos, incluindo passivos de contribuições para o INSS e os decorrentes de acidentes do trabalho." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Webinar destaca importância do planejamento tributário">
-            <meta property="og:description" content="O assessor tributário da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Andrey Ferreira, e Rubens Tavares, sócio da BMS Projetos & Consultoria, debateram em webinar nesta terça-feira (28) questões previdenciárias em tempos de pandemia">
+            <meta property="og:title" content="%%title%%">
+            <meta property="og:description" content="O assessor tributário da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Andrey Ferreira, e Rubens Tavares, sócio da BMS Projetos &amp; Consultoria, debateram em webinar nesta terça-feira (28) questões previdenciárias em tempos de pandemia.
+                            O planejamento tributário foi um dos assuntos principais do evento. Andrey destacou que a medida é essencial para se atingir um fluxo de caixa mais rentável e, para isto, foram apresentadas algumas alternativas que podem ser estudadas pelas empresas para levantamento de créditos, retificações e compensações.
+                            Rubens explicou que, devido ao momento atual, cresceu o número de empresas em busca de serviços especializados em recuperação de créditos previdenciários.
+                            
+                                	
+                                
+                            
+                            Os especialistas esclareceram ainda como as empresas podem se beneficiar de oportunidades previdenciárias no cenário de crise, como a redução de riscos, incluindo passivos de contribuições para o INSS e os decorrentes de acidentes do trabalho.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/webinar-destaca-importancia-do-planejamento-tributario/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/redimensionadas/017.png">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/redimensionadas/017.png">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/webinar-destaca-importancia-do-planejamento-tributario">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/017.png">
+            
             <meta property="article:published_time" content="2020-07-30">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

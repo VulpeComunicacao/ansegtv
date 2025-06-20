@@ -4,19 +4,19 @@
         <head>
             <title>6º Inova NFC-e reúne especialistas em transformação digital e transportes | ANSEGTV</title>
             <meta charset="utf-8">
-            <link rel="canonical" href="https://ansegtv.com.br/noticias/6-inova-nfc-e-reune-especialistas-em-transformacao-digital-e-transportes/" />
-            <meta name="description" content="Com o tema 'Inovações Fiscais para um mundo em transformação', acontece no próximo dia 28 de julho, das 14h às 18h, o 6º Inova NFC-e. O evento, em formato 100% digital, ocorrerá junto com o 1º Fórum DF-e Transportes." />
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/6-inova-nfc-e-reune-especialistas-em-transformacao-digital-e-transportes" />
+            <meta name="description" content="Com o tema &quot;Inovações Fiscais para um mundo em transformação&quot;, acontece no próximo dia 28 de julho, das 14h às 18h, o 6º Inova NFC-e. O evento, em formato 100% digital, ocorrerá junto com o 1º Fórum DF-e Transportes." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="6º Inova NFC-e reúne especialistas em transformação digital e transportes">
-            <meta property="og:description" content="Com o tema 'Inovações Fiscais para um mundo em transformação', acontece no próximo dia 28 de julho, das 14h às 18h, o 6º Inova NFC-e. O evento, em formato 100% digital, ocorrerá junto com o 1º Fórum DF-e Transportes.">
+            <meta property="og:title" content="%%title%%">
+            <meta property="og:description" content="Com o tema &quot;Inovações Fiscais para um mundo em transformação&quot;, acontece no próximo dia 28 de julho, das 14h às 18h, o 6º Inova NFC-e. O evento, em formato 100% digital, ocorrerá junto com o 1º Fórum DF-e Transportes.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/6-inova-nfc-e-reune-especialistas-em-transformacao-digital-e-transportes">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/07/evento-inovanfce.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/07/evento-inovanfce.jpg">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/evento-inovanfce.jpg">
+            
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

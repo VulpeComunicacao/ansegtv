@@ -3,18 +3,18 @@
         <!-- Head Section -->
         <head>
             <title>Novo Índice de Serviços medirá desempenho do setor | ANSEGTV</title>
-            <meta name="description" content="Idealizado pela Frente Parlamentar do Setor de Serviços (FPS), o Índice de Serviços (ISe) será lançado na próxima terça-feira, 8 de junho, às 10h." />
+            <meta name="description" content="Idealizado pela Frente Parlamentar do Setor de Serviços (FPS), o Índice de Serviços (ISe) será lançado na próxima terça-feira, 8 de junho, às 10h. O indicador avaliará mensalmente a capacidade de promoção de desenvolvimento sustentado no setor que responde por mais de 60% do PIB e por 57% dos empregos formais em todo país." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Novo Índice de Serviços medirá desempenho do setor">
-            <meta property="og:description" content="Idealizado pela Frente Parlamentar do Setor de Serviços (FPS), o Índice de Serviços (ISe) será lançado na próxima terça-feira, 8 de junho, às 10h.">
+            <meta property="og:title" content="%%title%%">
+            <meta property="og:description" content="Idealizado pela Frente Parlamentar do Setor de Serviços (FPS), o Índice de Serviços (ISe) será lançado na próxima terça-feira, 8 de junho, às 10h. O indicador avaliará mensalmente a capacidade de promoção de desenvolvimento sustentado no setor que responde por mais de 60% do PIB e por 57% dos empregos formais em todo país.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/novo-indice-de-servicos-medira-desempenho-do-setor">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/06/share-lancamento-ise-04-06.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/06/share-lancamento-ise-04-06.jpg">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/share-lancamento-ise-04-06.jpg">
+            
             <meta property="article:published_time" content="2021-06-04">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

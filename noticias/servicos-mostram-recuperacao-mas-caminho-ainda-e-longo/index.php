@@ -3,18 +3,18 @@
         <!-- Head Section -->
         <head>
             <title>Serviços mostram recuperação, mas caminho ainda é longo | ANSEGTV</title>
-            <meta name="description" content="De acordo com o IBGE (Instituto Brasileiro de Geografia e Estatística), o volume de serviços no país cresceu 0,7% em abril, na comparação com março." />
+            <meta name="description" content="De acordo com o IBGE (Instituto Brasileiro de Geografia e Estatística), o volume de serviços no país cresceu 0,7% em abril, na comparação com março. O número representa uma melhora em relação à queda de 3,1% em março." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Serviços mostram recuperação, mas caminho ainda é longo">
-            <meta property="og:description" content="De acordo com o IBGE (Instituto Brasileiro de Geografia e Estatística), o volume de serviços no país cresceu 0,7% em abril, na comparação com março.">
+            <meta property="og:title" content="%%title%%">
+            <meta property="og:description" content="De acordo com o IBGE (Instituto Brasileiro de Geografia e Estatística), o volume de serviços no país cresceu 0,7% em abril, na comparação com março. O número representa uma melhora em relação à queda de 3,1% em março.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/servicos-mostram-recuperacao-mas-caminho-ainda-e-longo">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/06/share-grafico-indices.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/06/share-grafico-indices.jpg">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/share-grafico-indices.jpg">
+            
             <meta property="article:published_time" content="2021-06-16">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

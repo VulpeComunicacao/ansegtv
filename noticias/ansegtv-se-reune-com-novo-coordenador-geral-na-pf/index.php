@@ -2,20 +2,20 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>ANSEGTV se reúne com novo coordenador-geral na PF</title>
+            <title>ANSEGTV se reúne com novo coordenador-geral na PF | ANSEGTV</title>
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="ANSEGTV se reúne com novo coordenador-geral na PF">
-            <meta meta name="description" property="og:description" content="Diretores da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) se reuniram no dia 21 de março com o delegado Dr. Cristiano Campidelli, que assumiu, neste mês, a Coordenação-Geral na Diretoria de Polícia Administrativa da Polícia Federal em Brasília.">
+            <meta property="og:title" content="%%title%%">
+            <meta name="description" content="Diretores da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) se reuniram no dia 21 de março com o delegado Dr. Cristiano Campidelli, que assumiu, neste mês, a Coordenação-Geral na Diretoria de Polícia Administrativa da Polícia Federal em Brasília." />
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-se-reune-com-novo-coordenador-geral-na-pf/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2023/03/reuniao-pf-share.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2023/03/reuniao-pf-share.jpg">
-            <meta property="article:published_time" content="2023-03-23" />
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-se-reune-com-novo-coordenador-geral-na-pf">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/reuniao-pf-share.jpg">
+            
+            <meta property="article:published_time" content="2023-03-29">
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

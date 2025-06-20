@@ -2,21 +2,20 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Secretário Nacional de Segurança Pública recebe diretoria da ANSEGTV</title>
+            <title>Secretário Nacional de Segurança Pública recebe diretoria da ANSEGTV | ANSEGTV</title>
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="Secretário Nacional de Segurança Pública recebe diretoria da ANSEGTV">
-            <meta meta name="description" property="og:description" content="Na última quarta-feira, 30 de agosto, a ANSEGTV esteve no Ministério da Justiça e Segurança Pública em Brasília. 
-">
+            <meta property="og:title" content="%%title%%">
+            <meta name="description" content="Na última quarta-feira, 30 de agosto, a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) esteve no Ministério da Justiça e Segurança Pública em Brasília." />
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2023/09/reuniao-secretario-share.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2023/09/reuniao-secretario-share.jpg">
-            <meta property="article:published_time" content="2023-09-01"/>
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/reuniao-secretario-share.jpg">
+            
+            <meta property="article:published_time" content="2023-09-01">
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

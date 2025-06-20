@@ -2,22 +2,22 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Congresso discute combate à lavagem de dinheiro</title>
+            <title>Congresso discute combate à lavagem de dinheiro | ANSEGTV</title>
             <meta charset="utf-8">
-            <link rel="canonical" href="https://ansegtv.com.br/noticias/congresso-discute-combate-a-lavagem-de-dinheiro/" />
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/congresso-discute-combate-a-lavagem-de-dinheiro" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="Congresso discute combate à lavagem de dinheiro">
-            <meta meta name="description" property="og:description" content="O IPLD (Instituto de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento ao Terrorismo) realiza nos dias 23 e 24 de maio a 5º edição de seu Congresso Internacional, o maior da América Latina na área">
+            <meta property="og:title" content="%%title%%">
+            <meta name="description" content="O IPLD (Instituto de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento ao Terrorismo) realiza nos dias 23 e 24 de maio a 5º edição de seu Congresso Internacional, o maior da América Latina na área. A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) é apoiadora do evento." />
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/congresso-discute-combate-a-lavagem-de-dinheiro/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2023/03/congresso-ipdl-share.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2023/03/congresso-ipdl-share.jpg">
-            <meta property="article:published_time" content="2023-03-23" />
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/congresso-discute-combate-a-lavagem-de-dinheiro">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/congresso-ipdl-share.jpg">
+            
+            <meta property="article:published_time" content="2023-03-23">
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

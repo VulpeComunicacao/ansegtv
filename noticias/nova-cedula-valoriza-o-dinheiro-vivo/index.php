@@ -4,19 +4,33 @@
         <head>
             <title>Nova cédula valoriza o dinheiro vivo | ANSEGTV</title>
             <meta charset="utf-8">
-            <link rel="canonical" href="https://ansegtv.com.br/noticias/nova-cedula-valoriza-o-dinheiro-vivo/" />
-            <meta name="description" content="Muito se discute atualmente a respeito do crescimento de pagamentos virtuais em detrimento da utilização do dinheiro em espécie." />
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/nova-cedula-valoriza-o-dinheiro-vivo" />
+            <meta name="description" content="Muito se discute atualmente a respeito do crescimento de pagamentos virtuais em detrimento da utilização do dinheiro em espécie.
+                            Impossível ignorar os benefícios trazidos pela tecnologia, mas o anúncio pelo Banco Central da nova cédula de R$ 200 mostra que o dinheiro vivo segue com vital importância.
+                            De março até julho, segundo a autarquia federal, a quantidade de cédulas em circulação subiu de R$ 216 bilhões para R$ 277 bilhões, um aumento de 29% e recorde da série histórica iniciada em dezembro de 2001.
+                            
+                                	
+                                
+                            
+                            Isso só foi possível graças aos esforços de governo e transportadoras de valores. A pandemia trouxe desafios, mas as empresas souberam se adaptar e mantiveram o serviço de qualidade." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Nova cédula valoriza o dinheiro vivo">
-            <meta property="og:description" content="Muito se discute atualmente a respeito do crescimento de pagamentos virtuais em detrimento da utilização do dinheiro em espécie.">
+            <meta property="og:title" content="%%title%%">
+            <meta property="og:description" content="Muito se discute atualmente a respeito do crescimento de pagamentos virtuais em detrimento da utilização do dinheiro em espécie.
+                            Impossível ignorar os benefícios trazidos pela tecnologia, mas o anúncio pelo Banco Central da nova cédula de R$ 200 mostra que o dinheiro vivo segue com vital importância.
+                            De março até julho, segundo a autarquia federal, a quantidade de cédulas em circulação subiu de R$ 216 bilhões para R$ 277 bilhões, um aumento de 29% e recorde da série histórica iniciada em dezembro de 2001.
+                            
+                                	
+                                
+                            
+                            Isso só foi possível graças aos esforços de governo e transportadoras de valores. A pandemia trouxe desafios, mas as empresas souberam se adaptar e mantiveram o serviço de qualidade.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/nova-cedula-valoriza-o-dinheiro-vivo/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/07/cedula_200_bancocentral.png">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2020/07/cedula_200_bancocentral.png">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/nova-cedula-valoriza-o-dinheiro-vivo">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/cedula_200_bancocentral.png">
+            
             <meta property="article:published_time" content="2020-07-31">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

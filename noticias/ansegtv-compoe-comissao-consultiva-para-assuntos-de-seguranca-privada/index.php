@@ -2,22 +2,22 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>ANSEGTV compõe Comissão Consultiva para Assuntos de Segurança Privada</title>
+            <title>ANSEGTV compõe Comissão Consultiva para Assuntos de Segurança Privada | ANSEGTV</title>
             <meta charset="utf-8">
-            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/" />
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="ANSEGTV compõe Comissão Consultiva para Assuntos de Segurança Privada">
-            <meta meta name="description" property="og:description" content="O Ministério da Justiça e Segurança Pública publicou no dia 27 de setembro a Portaria MJSP Nº 493 que recria a Comissão Consultiva para Assuntos de Segurança Privada (CCASP).">
+            <meta property="og:title" content="%%title%%">
+            <meta name="description" content="O Ministério da Justiça e Segurança Pública publicou no dia 27 de setembro a Portaria MJSP Nº 493 que recria a Comissão Consultiva para Assuntos de Segurança Privada (CCASP)." />
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2023/10/sede-pf-share.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2023/10/sede-pf-share.jpg">
-            <meta property="article:published_time" content="2023-10-06"/>
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/sede-pf-share.jpg">
+            
+            <meta property="article:published_time" content="2023-10-06">
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

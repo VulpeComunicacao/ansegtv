@@ -2,25 +2,19 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Índice de Serviços cresce 3,3% em julho</title>
-            <meta name="description" content="O Índice de Serviços (ISe) registrou crescimento de 3,3% em julho deste ano.
-A taxa foi criada em junho pela Frente Parlamentar do Setor de Serviços
-(FPS), que conta com o apoio de diversas entidades do setor, entre elas a
-ANSEGTV (Associação Nacional de Segurança e Transporte de Valores)." />
+            <title>Índice de Serviços cresce 3,3% em julho | ANSEGTV</title>
+            <meta name="description" content="O Índice de Serviços (ISe) registrou crescimento de 3,3% em julho deste ano. A taxa foi criada em junho pela Frente Parlamentar do Setor de Serviços (FPS), que conta com o apoio de diversas entidades do setor, entre elas a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores)." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Índice de Serviços cresce 3,3% em julho">
-            <meta property="og:description" content="O Índice de Serviços (ISe) registrou crescimento de 3,3% em julho deste ano.
-A taxa foi criada em junho pela Frente Parlamentar do Setor de Serviços
-(FPS), que conta com o apoio de diversas entidades do setor, entre elas a
-ANSEGTV (Associação Nacional de Segurança e Transporte de Valores).">
+            <meta property="og:title" content="%%title%%">
+            <meta property="og:description" content="O Índice de Serviços (ISe) registrou crescimento de 3,3% em julho deste ano. A taxa foi criada em junho pela Frente Parlamentar do Setor de Serviços (FPS), que conta com o apoio de diversas entidades do setor, entre elas a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores).">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/indice-de-serviços-cresce-3.3-porcento-em-julho/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/10/grafico-share.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/10/plenario-share.jpg">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/indice-de-servicos-cresce-3.3-porcento-em-julho">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/grafico-share.jpg">
+            
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

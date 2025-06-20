@@ -3,16 +3,24 @@
         <!-- Head Section -->
         <head>
             <title>ANSEGTV promove reunião com representantes de resseguradoras em Londres | ANSEGTV</title>
-            <meta name="description" content="A Associação Nacional de Segurança e Transporte de Valores (Ansegtv) realizou duas reuniões com representantes de resseguradoras em Londres na sexta-feira, dia 11 de outubro de 2019." />
+            <meta name="description" content="A Associação Nacional de Segurança e Transporte de Valores (Ansegtv) realizou duas reuniões com representantes de resseguradoras em Londres na sexta-feira, dia 11 de outubro de 2019. A comitiva foi formada pelo presidente da Ansegtv Gabriel Damasceno, diretores e membros das empresas associadas. A missão teve o objetivo de apresentar ao mercado de resseguros a ANSEGTV, seus objetivos, sua abrangência e as particularidades do momento atual do segmento de transporte de valores no Brasil.
+                                                            
+                            Os investimentos realizados pelas empresas associadas em medidas de defesa, buscando reduzir os riscos e aumentar a segurança de suas operações, foram um dos principais pontos destacados. Os resultados dessas medidas ficaram claramente demonstrados pelo baixo índice de sinistralidade nos últimos cinco anos das transportadoras que fazem parte da associação.  
+                                
+                            A ANSEGTV mostrou ainda como o crescimento significativo do valor cobrado na renovação do seguro onera as empresas pequenas e médias ao ponto de poder inviabilizá-las. No encontro foi exposto a necessidade de avaliar de forma individual o modelo de operação de cada empresa, bem como as respectivas regiões de atuação, visando uma cobrança compatível com o nível de risco de cada player deste setor.
+                            
+                             
+                                
+                            Continuaremos com a nossa missão de promover as melhores práticas de segurança e qualidade nos serviços oferecidos ao mercado, fomentar a ética e a livre concorrência nas relações comerciais e apoiar a modernização da legislação do setor de segurança no Brasil." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="ANSEGTV promove reunião com representantes de resseguradoras em Londres">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-promove-reuniao-com-representantes-de-resseguradoras-em-londres/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2019/11/marsh-jlt-office.png">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/_archive_ansegtv-promove-reuniao-com-representantes-de-resseguradoras-em-londres">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/marsh-jlt-office.png">
             <meta property="article:published_time" content="2019-11-04">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

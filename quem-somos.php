@@ -13,9 +13,6 @@
         <!-- Nossa Missão Section -->
         <?php include './includes/missao.php';?>
 
-        <!-- Estrutura Section -->
-        <?php include './includes/estrutura.php';?>
-
         <!-- Atuação Section -->
         <?php include './includes/atuacao.php';?>
 

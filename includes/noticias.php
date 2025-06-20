@@ -1,3 +1,51 @@
+<?php
+// Function to format date to Brazilian Portuguese
+function format_date_br($date_string) {
+    $date = new DateTime($date_string);
+    
+    // Usando IntlDateFormatter para PHP 8.1+ (recomendado)
+    if (class_exists('IntlDateFormatter')) {
+        $formatter = new IntlDateFormatter(
+            'pt_BR', // Locale
+            IntlDateFormatter::LONG, // Tipo de data (ex: "6 de junho de 2024")
+            IntlDateFormatter::NONE, // Tipo de hora (nenhuma hora)
+            'America/Sao_Paulo', // Fuso horário (opcional, mas boa prática)
+            IntlDateFormatter::GREGORIAN, // Calendário (opcional)
+            'dd \'de\' MMMM \'de\' yyyy' // Padrão personalizado
+        );
+        return $formatter->format($date);
+    } else {
+        // Fallback para versões mais antigas do PHP ou se a extensão intl não estiver disponível
+        setlocale(LC_TIME, 'pt_BR', 'pt_BR.utf-8', 'pt_BR.utf8', 'portuguese');
+        return strftime('%d de %B de %Y', $date->getTimestamp());
+    }
+}
+
+// Function to format date and time to Brazilian Portuguese (dd/mm/yyyy - HHhMM)
+function format_datetime_br($date_string) {
+    $date = new DateTime($date_string);
+    return $date->format('d/m/Y - H\hi');
+}
+
+// Function to strip HTML tags and limit characters
+function get_excerpt_clean($excerpt_html, $limit = 550) {
+    $text = strip_tags($excerpt_html);
+    if (strlen($text) > $limit) {
+        $text = substr($text, 0, $limit) . "...";
+    }
+    return $text;
+}
+
+$api_url = 'https://ansegtv.com.br/website/wp-json/wp/v2/posts?_embed&per_page=7'; // Busca 7 posts
+$response = file_get_contents($api_url);
+$posts = json_decode($response, true);
+
+// Garante que $posts é um array mesmo em caso de erro
+if (!is_array($posts)) {
+    $posts = [];
+}
+?>
+
 <section id="noticias" class="banner-sec">
     <div class="container">
         <div class="row">
@@ -8,175 +56,125 @@
         </div>
     
         <div class="row">
-            <div class="col-md-6 top-slider">
-                <div id="carousel-example-generic" class="carousel slide" data-ride="carousel"> 
-                    <!-- Indicators -->
+            <?php if (!empty($posts)): ?>
+                <div class="col-md-6 top-slider">
+                    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel"> 
+                        <!-- Indicators -->
                         <ol class="carousel-indicators">
-                            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-                            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-                            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                            <?php for ($i = 0; $i < min(3, count($posts)); $i++): ?>
+                                <li data-target="#carousel-example-generic" data-slide-to="<?php echo $i; ?>" class="<?php echo ($i === 0) ? 'active' : ''; ?>"></li>
+                            <?php endfor; ?>
                         </ol>
-                
-                    <!-- Wrapper for slides -->
+                    
+                        <!-- Wrapper for slides -->
                         <div class="carousel-inner" role="listbox">
-
-
-                            <div class="carousel-item active">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/novo-presidente-da-ansegtv-toma-posse-em-brasilia/">
-                                            <img class="img-fluid" src="./img/uploads/2024/07/posse-presidente.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>05/07/2024</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/novo-presidente-da-ansegtv-toma-posse-em-brasilia/">Novo presidente da ANSEGTV toma posse em Brasília</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    O novo presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Vanderlei Reis, tomou posse no dia 18 de junho de 2024.
-                                    <br>
-                                    <br>
-                                    Vanderlei assume o cargo no lugar de Gabriel Damasceno, que dirigiu a entidade por cinco anos.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/">
-                                            <img class="img-fluid" src="./img/uploads/2024/06/banner-ipld.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>06/06/2024</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/">Congresso Internacional do IPLD debate combate à lavagem de dinheiro</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    O IPLD - Instituto de Integridade, ESG, Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento do Terrorismo realizou, nos dias 28 e 29 de maio, a 6ª edição de seu Congresso Internacional, o maior do Brasil na área. A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) foi novamente uma das apoiadoras do evento. 
-                                    <br>
-                                    <br>
-                                    Dentre os temas abordados, estiveram os impactos da última avaliação do GAFI (Grupo de Ação Financeira) sobre o sistema de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento do Terrorismo do país...
+                            <?php foreach (array_slice($posts, 0, 3) as $key => $post): 
+                                $title = $post['title']['rendered'];
+                                $link = './noticias/' . $post['slug'] . '/';
+                                $date = format_date_br($post['date']);
+                                $excerpt = get_excerpt_clean($post['excerpt']['rendered']);
+                                $image_url = '';
+                                if (isset($post['_embedded']['wp:featuredmedia'][0]['source_url'])) {
+                                    $image_url = $post['_embedded']['wp:featuredmedia'][0]['source_url'];
+                                } elseif (isset($post['yoast_head_json']['og_image'][0]['url'])) {
+                                    $image_url = $post['yoast_head_json']['og_image'][0]['url'];
+                                }
+                                // Padroniza o caminho da imagem para uploads/2025/06/
+                                $image_url = preg_replace('/uploads\/\d{4}\/\d{2}\//', 'uploads/2025/06/', $image_url);
+                            ?>
+                                <div class="carousel-item <?php echo ($key === 0) ? 'active' : ''; ?>">
+                                    <div class="news-block">
+                                        <div class="news-media">
+                                            <a href="<?php echo $link; ?>">
+                                                <img class="img-fluid" src="<?php echo $image_url; ?>" alt="<?php echo $title; ?>">
+                                            </a>
+                                        </div>
+                                        <div class="time-text">
+                                            <strong><i class="fa fa-clock"></i><?php echo $date; ?></strong>
+                                        </div>
+                                        <div class="news-title">
+                                            <h3 class=" title-large">
+                                            <a href="<?php echo $link; ?>"><?php echo $title; ?></a>
+                                            </h3>
+                                        </div>
+                                        <div class="news-des">
+                                            <?php echo $excerpt; ?>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>     
-
-                            <div class="carousel-item">
-                                <div class="news-block">
-                                    <div class="news-media">
-                                        <a href="./noticias/proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">
-                                            <img class="img-fluid" src="./img/uploads/2024/05/palacio-justica.png"alt="">
-                                        </a>
-                                    </div>
-                                    <div class="time-text">
-                                        <strong><i class="fa fa-clock"></i>20/05/2024</strong>
-                                    </div>
-                                    <div class="news-title">
-                                        <h3 class=" title-large">
-                                        <a href="./noticias/proposta-que-aumenta-poder-da-uniao-no-combate-ao-crime-e-necessaria/">Proposta que aumenta poder da União no combate ao crime é necessária</a>
-                                        </h3>
-                                    </div>
-                                    <div class="news-des">
-                                    O Ministério da Justiça prepara uma Proposta de Emenda de Constituição (PEC) que permitirá ao governo federal estabelecer diretrizes nacionais a serem seguidas por estados e municípios na segurança pública.
-                                    <br>
-                                    <br>
-                                    Em entrevista à Globonews, o secretário Nacional de Segurança Pública, Mario Luiz Sarrubbo, disse que o objetivo é ampliar a capacidade de atuação da União nessa área...
-                                    </div>
-                                </div>
-                            </div>  
-
+                            <?php endforeach; ?>
                         </div>
                     </div>
                 </div>
             
                 <div class="col-md-3"> <!-- Primeiro Bloco -->
-
-                    <div class="card">
-                            <a href="./noticias/ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/">
-                                <img class="img-fluid" src="./img/uploads/2024/05/plenario.png" alt="">
+                    <?php foreach (array_slice($posts, 3, 2) as $post): 
+                        $title = $post['title']['rendered'];
+                        $link = './noticias/' . $post['slug'] . '/';
+                        $date = format_date_br($post['date']);
+                        $image_url = '';
+                        if (isset($post['_embedded']['wp:featuredmedia'][0]['source_url'])) {
+                            $image_url = $post['_embedded']['wp:featuredmedia'][0]['source_url'];
+                        } elseif (isset($post['yoast_head_json']['og_image'][0]['url'])) {
+                            $image_url = $post['yoast_head_json']['og_image'][0]['url'];
+                        }
+                        // Padroniza o caminho da imagem para uploads/2025/06/
+                        $image_url = preg_replace('/uploads\/\d{4}\/\d{2}\//', 'uploads/2025/06/', $image_url);
+                    ?>
+                        <div class="card">
+                            <a href="<?php echo $link; ?>">
+                                <img class="img-fluid" src="<?php echo $image_url; ?>" alt="<?php echo $title; ?>">
                             </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/">ANSEGTV apoia PL que tipifica o domínio de cidades</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>09/05/2024</strong>
+                            <div class="card-body">
+                                <div class="news-title">
+                                    <h3 class=" title-small">
+                                        <a href="<?php echo $link; ?>"><?php echo $title; ?></a>
+                                    </h3>
+                                </div>
+                                <div class="time-text">
+                                    <strong><?php echo $date; ?></strong>
+                                </div>
                             </div>
                         </div>
-                    </div>
-
-                    <div class="card">
-                            <a href="./noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld/">
-                                <img class="img-fluid" src="./img/uploads/2024/04/evento-ipld.png" alt="">
-                            </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/ansegtv-apoia-o-6-congresso-internacional-do-ipld/">ANSEGTV apoia o 6º Congresso Internacional do IPLD</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>17/04/2024</strong>
-                            </div>
-                        </div>
-                    </div>
-
-                    
-
+                    <?php endforeach; ?>
                 </div>
-
-
 
                 <div class="col-md-3"> <!-- Segundo Bloco -->
-
-                    <div class="card">
-                        <a href="./noticias/ansegtv-faz-visita-institucional-a-cnt/">
-                        <img class="img-fluid" src="./img/uploads/2024/03/fachada-sest-senat.png" alt="">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/ansegtv-faz-visita-institucional-a-cnt/">ANSEGTV faz visita institucional à CNT</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>28/03/2024</strong>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <a href="./noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/">
-                        <img class="img-fluid" src="./img/uploads/2023/10/sede-pf.png" alt="">
-                        </a>
-                        <div class="card-body">
-                            <div class="news-title">
-                                <h3 class=" title-small">
-                                    <a href="./noticias/ansegtv-compoe-comissao-consultiva-para-assuntos-de-seguranca-privada/">ANSEGTV compõe Comissão Consultiva para Assuntos de Segurança Privada</a>
-                                </h3>
-                            </div>
-                            <div class="time-text">
-                            <strong>06/10/2023</strong>
+                    <?php foreach (array_slice($posts, 5, 2) as $post): 
+                        $title = $post['title']['rendered'];
+                        $link = './noticias/' . $post['slug'] . '/';
+                        $date = format_date_br($post['date']);
+                        $image_url = '';
+                        if (isset($post['_embedded']['wp:featuredmedia'][0]['source_url'])) {
+                            $image_url = $post['_embedded']['wp:featuredmedia'][0]['source_url'];
+                        } elseif (isset($post['yoast_head_json']['og_image'][0]['url'])) {
+                            $image_url = $post['yoast_head_json']['og_image'][0]['url'];
+                        }
+                        // Padroniza o caminho da imagem para uploads/2025/06/
+                        $image_url = preg_replace('/uploads\/\d{4}\/\d{2}\//', 'uploads/2025/06/', $image_url);
+                    ?>
+                        <div class="card">
+                            <a href="<?php echo $link; ?>">
+                                <img class="img-fluid" src="<?php echo $image_url; ?>" alt="<?php echo $title; ?>">
+                            </a>
+                            <div class="card-body">
+                                <div class="news-title">
+                                    <h3 class=" title-small">
+                                        <a href="<?php echo $link; ?>"><?php echo $title; ?></a>
+                                    </h3>
+                                </div>
+                                <div class="time-text">
+                                    <strong><?php echo $date; ?></strong>
+                                </div>
                             </div>
                         </div>
-                    </div>
-
-
-
-
-
+                    <?php endforeach; ?>
                 </div>
-            </div>
+            <?php else: ?>
+                <div class="col-12 text-center mt-5">
+                    <p>Nenhuma notícia encontrada no momento.</p>
+                </div>
+            <?php endif; ?>
         </div>
     </div>
 </section>

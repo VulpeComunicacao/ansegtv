@@ -2,19 +2,19 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>ANSEGTV participa de evento da CGCSP sobre Prevenção à Lavagem de Dinheiro</title>
+            <title>ANSEGTV participa de evento da CGCSP sobre Prevenção à Lavagem de Dinheiro | ANSEGTV</title>
             <meta name="description" content="A CGCSP (Coordenação-Geral de Controle de Serviços e Produtos da Polícia Federal) promoveu no dia 17 de março o Seminário Nacional de PLD/FT (Prevenção à Lavagem de Dinheiro e Financiamento ao Terrorismo)." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="ANSEGTV participa de evento da CGCSP sobre Prevenção à Lavagem de Dinheiro">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:description" content="A CGCSP (Coordenação-Geral de Controle de Serviços e Produtos da Polícia Federal) promoveu no dia 17 de março o Seminário Nacional de PLD/FT (Prevenção à Lavagem de Dinheiro e Financiamento ao Terrorismo).">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-participa-de-evento-da-cgcsp-sobre-prevencao-a-lavagem-de-dinheiro">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2022/03/seminario-nacional-share.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2022/03/seminario-nacional-share.jpg">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/seminario-nacional-share.jpg">
+            
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

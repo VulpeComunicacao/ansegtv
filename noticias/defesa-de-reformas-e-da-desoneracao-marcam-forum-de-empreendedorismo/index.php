@@ -2,19 +2,19 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Defesa de reformas e da desoneração marcam fórum de empreendedorismo</title>
+            <title>Defesa de reformas e da desoneração marcam fórum de empreendedorismo | ANSEGTV</title>
             <meta name="description" content="O Instituto Unidos Brasil (IUB) realizou nesta terça-feira (9), em Brasília, o Fórum Desafios do Empreendedorismo e Geração de Empregos, que contou com a participação de vários empresários, dos mais variados setores, e políticos." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Defesa de reformas e da desoneração marcam fórum de empreendedorismo">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:description" content="O Instituto Unidos Brasil (IUB) realizou nesta terça-feira (9), em Brasília, o Fórum Desafios do Empreendedorismo e Geração de Empregos, que contou com a participação de vários empresários, dos mais variados setores, e políticos.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/defesa-de-reformas-e-da-desoneracao-marcam-forum-de-empreendedorismo">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/11/forum-defesa-share.png">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/11/forum-defesa-share.png">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/forum-defesa-share.png">
+            
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

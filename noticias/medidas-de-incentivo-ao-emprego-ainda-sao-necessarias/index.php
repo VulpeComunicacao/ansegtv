@@ -3,18 +3,18 @@
         <!-- Head Section -->
         <head>
             <title>Medidas de incentivo ao emprego ainda são necessárias | ANSEGTV</title>
-            <meta name="description" content="No início de 2020, no começo da pandemia, o governo federal anunciou uma série de medidas que permitiram a manutenção de milhões de empregos. À época, todos acreditavam que, um ano depois, a situação estaria estabilizada." />
+            <meta name="description" content="No início de 2020, no começo da pandemia, o governo federal anunciou uma série de medidas que permitiram a manutenção de milhões de empregos. À época, todos acreditavam que, um ano depois, a situação estaria estabilizada.Infelizmente, não foi o que ocorreu. Recordes de casos e de mortes pela Covid-19 são batidos diariamente. Com hospitais sobrecarregados, governos restringem atividades e a circulação de pessoas." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Medidas de incentivo ao emprego ainda são necessárias">
-            <meta property="og:description" content="No início de 2020, no começo da pandemia, o governo federal anunciou uma série de medidas que permitiram a manutenção de milhões de empregos. À época, todos acreditavam que, um ano depois, a situação estaria estabilizada.">
+            <meta property="og:title" content="%%title%%">
+            <meta property="og:description" content="No início de 2020, no começo da pandemia, o governo federal anunciou uma série de medidas que permitiram a manutenção de milhões de empregos. À época, todos acreditavam que, um ano depois, a situação estaria estabilizada.Infelizmente, não foi o que ocorreu. Recordes de casos e de mortes pela Covid-19 são batidos diariamente. Com hospitais sobrecarregados, governos restringem atividades e a circulação de pessoas.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/medidas-de-incentivo-ao-emprego-ainda-sao-necessarias">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/03/min-economia.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/03/min-economia.jpg">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/min-economia.jpg">
+            
             <meta property="article:published_time" content="2021-03-12">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

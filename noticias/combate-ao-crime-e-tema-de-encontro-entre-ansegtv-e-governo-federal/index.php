@@ -2,20 +2,20 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Combate ao crime é tema de encontro entre ANSEGTV e governo federal</title>
+            <title>Combate ao crime é tema de encontro entre ANSEGTV e governo federal | ANSEGTV</title>
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="Combate ao crime é tema de encontro entre ANSEGTV e governo federal">
-            <meta meta name="description" property="og:description" content="Membros da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) estiveram novamente em Brasília, no dia 5 de julho, para se reunir com integrantes do Ministério da Justiça.">
+            <meta property="og:title" content="%%title%%">
+            <meta name="description" content="Membros da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) estiveram novamente em Brasília, no dia 5 de julho, para se reunir com integrantes do Ministério da Justiça." />
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/combate-ao-crime-e-tema-de-encontro-entre-ansegtv-e-governo-federal/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2022/07/new_membros-ansegtv-share.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2022/07/new_membros-ansegtv-share.jpg">
-            <meta property="article:published_time" content="2022-07-08" />
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/combate-ao-crime-e-tema-de-encontro-entre-ansegtv-e-governo-federal">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/new_membros-ansegtv-share.jpg">
+            
+            <meta property="article:published_time" content="2022-07-08">
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

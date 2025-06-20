@@ -2,19 +2,31 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Conselho Gestor da Frente Parlamentar do Serviços discute conquistas e planos para 2021  | ANSEGTV</title>
-            <meta name="description" content="O Conselho Gestor das entidades apoiadoras da Frente Parlamentar do Serviços realizou sua última reunião do ano nesta segunda-feira (14)." />
+            <title>Conselho Gestor da Frente Parlamentar do Serviços discute conquistas e planos para 2021 | ANSEGTV</title>
+            <meta name="description" content="O Conselho Gestor das entidades apoiadoras da Frente Parlamentar do Serviços realizou sua última reunião do ano nesta segunda-feira (14). Em formato online, o encontro contou com a participação do presidente da ANSEGTV, Gabriel Damasceno, entre outros representantes de instituições.
+                            
+                                	
+                                
+                            
+                            No encontro, foi apresentado um balanço das atividades do ano e os principais desafios para 2021. Dentre estes, alguns prioritários, como a tramitação da Reforma Tributária, a desoneração da folha de pagamentos, o possível parcelamento de débitos tributários, a regulamentação do trabalho em home office, a discussão sobre o nexo causal e o maior engajamento institucional da Frente, com o preenchimento das coordenações micro e macrossetoriais, por deputados integrantes da Frente.
+                            Em sua fala, Gabriel agradeceu a todos os participantes, colocou a ANSEGTV à disposição dos demais apoiadores e destacou os avanços conquistados ao longo do ano, mesmo diante das dificuldades impostas pela pandemia. “Temas como redução proporcional da jornada e salário, suspensão do contrato de trabalho, acesso ao crédito, entre outros assuntos, foram essenciais para a continuidade, quiçá, a sobrevivência de muitas empresas desse país. O ano de 2021 vai nos exigir ainda mais empenho no tema da Reforma Tributária e em outros assuntos relevantes na agenda trabalhista, como débitos e execuções, Covid como doença ocupacional, teletrabalho, e outros assuntos que venham a surgir”, afirmou." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Conselho Gestor da Frente Parlamentar do Serviços discute conquistas e planos para 2021 ">
-            <meta property="og:description" content="O Conselho Gestor das entidades apoiadoras da Frente Parlamentar do Serviços realizou sua última reunião do ano nesta segunda-feira (14).">
+            <meta property="og:title" content="%%title%%">
+            <meta property="og:description" content="O Conselho Gestor das entidades apoiadoras da Frente Parlamentar do Serviços realizou sua última reunião do ano nesta segunda-feira (14). Em formato online, o encontro contou com a participação do presidente da ANSEGTV, Gabriel Damasceno, entre outros representantes de instituições.
+                            
+                                	
+                                
+                            
+                            No encontro, foi apresentado um balanço das atividades do ano e os principais desafios para 2021. Dentre estes, alguns prioritários, como a tramitação da Reforma Tributária, a desoneração da folha de pagamentos, o possível parcelamento de débitos tributários, a regulamentação do trabalho em home office, a discussão sobre o nexo causal e o maior engajamento institucional da Frente, com o preenchimento das coordenações micro e macrossetoriais, por deputados integrantes da Frente.
+                            Em sua fala, Gabriel agradeceu a todos os participantes, colocou a ANSEGTV à disposição dos demais apoiadores e destacou os avanços conquistados ao longo do ano, mesmo diante das dificuldades impostas pela pandemia. “Temas como redução proporcional da jornada e salário, suspensão do contrato de trabalho, acesso ao crédito, entre outros assuntos, foram essenciais para a continuidade, quiçá, a sobrevivência de muitas empresas desse país. O ano de 2021 vai nos exigir ainda mais empenho no tema da Reforma Tributária e em outros assuntos relevantes na agenda trabalhista, como débitos e execuções, Covid como doença ocupacional, teletrabalho, e outros assuntos que venham a surgir”, afirmou.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/conselho-gestor-da-frente-parlamentar-do-servicos-discute-conquistas-e-planos-para-2021/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/12/frente-parlamentar-logo.png">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2020/12/frente-parlamentar-logo.png">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/conselho-gestor-da-frente-parlamentar-do-servicos-discute-conquistas-e-planos-para-2021">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/frente-parlamentar-logo.png">
+            
             <meta property="article:published_time" content="2020-12-15">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

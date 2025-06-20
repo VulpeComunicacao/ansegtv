@@ -2,21 +2,20 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Estatuto do Aprendiz é necessário, mas mantém trechos preocupantes</title>
+            <title>Estatuto do Aprendiz é necessário, mas mantém trechos preocupantes | ANSEGTV</title>
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="Estatuto do Aprendiz é necessário, mas mantém trechos preocupantes">
-            <meta meta name="description" property="og:description" content="Após idas e vindas, a comissão especial que analisa a proposta que cria o Estatuto do Aprendiz (PL 6461/19) cancelou a votação do parecer do deputado Marco Bertaiolli (PSD-SP), prevista para ocorrer ainda em dezembro. Sem consenso, a discussão segue sem previsão de conclusão.
-">
+            <meta property="og:title" content="%%title%%">
+            <meta name="description" content="Após idas e vindas, a comissão especial que analisa a proposta que cria o Estatuto do Aprendiz (PL 6461/19) cancelou a votação do parecer do deputado Marco Bertaiolli (PSD-SP), prevista para ocorrer ainda em dezembro. Sem consenso, a discussão segue sem previsão de conclusão." />
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/estatuto-do-aprendiz-e-necessario-mas-mantem-trechos-preocupantes/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2022/12/carteira-trabalho-share.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2022/12/carteira-trabalho-share.jpg">
-            <meta property="article:published_time" content="2022-12-19" />
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/estatuto-do-aprendiz-e-necessario-mas-mantem-trechos-preocupantes">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/carteira-trabalho-share.jpg">
+            
+            <meta property="article:published_time" content="2022-12-19">
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

@@ -2,19 +2,23 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Filiados da ANSEGTV já têm acesso ao PERSE</title>
-            <meta name="description" content="O Diário Oficial da União publicou no dia 19 de outubro o extrato do Acordo de Cooperação Técnica firmado entre a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) e a PGFN (Procuradoria-Geral da Fazenda Nacional), que possibilita a todos os filiados da entidade o acesso facilitado ao refinanciamento de dívidas fiscais do PERSE (Programa Emergencial de Retomada do Setor de Eventos)." />
+            <title>Filiados da ANSEGTV já têm acesso ao PERSE | ANSEGTV</title>
+            <meta name="description" content="O Diário Oficial da União publicou no dia 19 de outubro o extrato do Acordo de Cooperação Técnica firmado entre a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) e a PGFN (Procuradoria-Geral da Fazenda Nacional), que possibilita a todos os filiados da entidade o acesso facilitado ao refinanciamento de dívidas fiscais do PERSE (Programa Emergencial de Retomada do Setor de Eventos).
+ 
+                        Os interessados deverão acessar o portal Regularize  (https://www.regularize.pgfn.gov.br/) e fazer a adesão eletrônica mediante uso de senha individual." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Filiados da ANSEGTV já têm acesso ao PERSE">
-            <meta property="og:description" content="O Diário Oficial da União publicou no dia 19 de outubro o extrato do Acordo de Cooperação Técnica firmado entre a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) e a PGFN (Procuradoria-Geral da Fazenda Nacional), que possibilita a todos os filiados da entidade o acesso facilitado ao refinanciamento de dívidas fiscais do PERSE (Programa Emergencial de Retomada do Setor de Eventos).">
+            <meta property="og:title" content="%%title%%">
+            <meta property="og:description" content="O Diário Oficial da União publicou no dia 19 de outubro o extrato do Acordo de Cooperação Técnica firmado entre a ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) e a PGFN (Procuradoria-Geral da Fazenda Nacional), que possibilita a todos os filiados da entidade o acesso facilitado ao refinanciamento de dívidas fiscais do PERSE (Programa Emergencial de Retomada do Setor de Eventos).
+ 
+                        Os interessados deverão acessar o portal Regularize  (https://www.regularize.pgfn.gov.br/) e fazer a adesão eletrônica mediante uso de senha individual.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/filiados-da-ansegtv-ja-tem-acesso-ao-perse/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/10/logo-pgfn-share.png">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/10/logo-pgfn-share.png">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/filiados-da-ansegtv-ja-tem-acesso-ao-perse">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/logo-pgfn-share.png">
+            
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

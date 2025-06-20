@@ -3,16 +3,27 @@
         <!-- Head Section -->
         <head>
             <title>Estatuto da Segurança Privada é discutido na Comissão de Transparência do Senado | ANSEGTV</title>
-            <meta name="description" content="O projeto que estabelece o Estatuto da Segurança Privada e da Segurança das Instituições Financeiras, foi tema de audiência pública na Comissão de Transparência, Fiscalização e Controle (CTFC) no dia 28 de novembro." />
+            <meta name="description" content="O projeto substitutivo da Câmara dos Deputados 6/2016, que estabelece o Estatuto da Segurança Privada e da Segurança das Instituições Financeiras, foi tema de audiência pública na Comissão de Transparência, Fiscalização e Controle (CTFC) do Senado, no dia 28 de novembro. Foram debatidos a inconstitucionalidade e os prejuízos à livre concorrência e ao consumidor do projeto que tenta restringir a participação de instituições financeiras no capital de empresas de segurança privada.
+                            O Estatuto da Segurança Privada inicialmente tratava do piso salarial nacional para os vigilantes, mas ao passar pela Câmara, recebeu 117 emendas. Hoje disciplina a atuação das empresas, sua fiscalização pela Polícia Federal, o funcionamento de escolas de formação, o uso de armas e produtos controlados e as condições trabalhistas.
+                            Durante a sessão, Marcia Homerich Aldigueri, superintendente da TecBan, afirmou que o dispositivo é uma ação de grandes empresas transportadoras de valores que dominam a atividade e querem eliminar concorrentes do mercado. Ela explicou que a TBForte foi criada como mais uma opção para a prestação desse tipo de serviço.
+                            
+                            “Investimos no mercado e usamos prestadores em alguns estados. Geramos emprego e promovemos eficiência na circulação do numerário chegando aonde o brasileiro vive. Somos a favor da aprovação do estatuto da segurança privada, com a retirada dos parágrafos 3º ao 5º do artigo 20”, disse.
+                            
+                            O advogado da TBForte, José Del Chiaro, explicou que as grandes transportadoras são alvos de denúncias no Conselho Administrativo de Defesa Econômica (Cade) por práticas anticoncorrenciais abusivas, como colusão. Expôs as reclamações feitas ao órgão antitruste por parte de contratantes de transporte de valores. Questionados pelo Cade, representantes de Magazine Luiza, McDonald’s, Grupo Petrópolis e Sicredi relataram as inúmeras dificuldades de achar empresas para atender as empresas além do trio Prosegur, Brinks e Protege, que tem 80% do mercado.  
+                            “O sistema de crédito popular Sicredi rescindiu o contrato com a Brinks por imposição de reajuste excessivo e, ao buscar novos fornecedores, encontrou um cenário de divisão de áreas com clientes pré-definidos e de ‘non compete’. À medida que uma empresa nova cresce, as gigantes do mercado tentam comprá-la, tirando mais uma opção do consumidor”, disse Del Chiaro.
+                            “As gigantes conseguiram repassar reajustes acima da tabela da ABTV [associação que reúne as empresas que dominam o setor] e isso impacta as redes menores de farmácia, varejistas. A Prosegur soltou documento para acionistas que mostra que o investimento em tecnologia em segurança é mínimo. O da Tecban é constante”, reforçou Del Chiaro, referência em Direito Concorrencial e ex-secretário de Direito Econômico.
+                            Já Elias Hennemann Jordão, da Confederação Nacional dos Trabalhadores do Ramo Financeiro, disse que pesquisas apontam o aumento de ataques a bancos e da criminalidade atingindo o sistema, tendo entre as vítimas policiais, seguranças e clientes transeuntes. “Precisamos sair com esse substitutivo aprovado”.
+                            Edson Ricardo de Araújo, da Federal Segurança e Transporte de Valores, fez um apelo: “Está difícil a sobrevivência das pequenas e médias no segmento de transporte de valores. O país sofre muito com assaltos que dilapidam patrimônio, facções mais fortes e prejuízos incalculáveis para empresas. Só podemos resolver com a ajuda do Congresso. Precisamos federalizar esses crimes. Hoje temos uma lei arcaica. Como empresários, somos obrigados a pagar seguro e outros custos altos.”
+                            Roberto Longo, vice-presidente da Associação Paulista de Supermercados, concordou que em relação ao mercado de carros-fortes há concentração nas três empresas que dominam o mercado e que há barreiras para novo entrantes. “Se a gente sair daqui com uma legislação impedindo a participação de instituição bancária em empresa de transporte de valores, vai diminuir o número de concorrentes no mercado. Somos totalmente favoráveis ao Estatuto da Segurança Privada, mas com a retirada dessa proibição”." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Estatuto da Segurança Privada é discutido na Comissão de Transparência do Senado">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/estatuto-da-seguranca-privada-e-discutido-na-comissao-de-transparencia-do-senado/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2019/12/bancada-comissao-transparencia-estatuto-seguranca-privada.png">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/estatuto-da-seguranca-privada-e-discutido-na-comissao-de-transparencia-do-senado">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/bancada-comissao-transparencia-estatuto-seguranca-privada.png">
             <meta property="article:published_time" content="2019-12-17">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

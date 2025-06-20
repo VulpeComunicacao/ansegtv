@@ -3,16 +3,26 @@
         <!-- Head Section -->
         <head>
             <title>Polícia Federal elabora manual de prevenção à lavagem de dinheiro | ANSEGTV</title>
-            <meta name="description" content="A Polícia Federal elaborou um Manual de Prevenção à Lavagem de Dinheiro e contou com o apoio da Associação Nacional de Segurança e Transporte de Valores (ANSEGTV) na produção do documento." />
+            <meta name="description" content="A Polícia Federal elaborou um Manual de Prevenção à Lavagem de Dinheiro e contou com o apoio da Associação Nacional de Segurança e Transporte de Valores (ANSEGTV) na produção do documento. A entrega da publicação aconteceu em Brasília, na sede da Coordenação-Geral de Controle de Serviços e Produtos (CGCSP/PF), no último dia 18 de fevereiro.
+                            Na ocasião, estiveram presentes o Delegado Federal Dr. Licínio Nunes de Moraes Netto, Coordenador-Geral da CGCSP/DIREX/PF, a Delegada Federal Dra. Denise Vargas Tenório, Chefe da DICOF/CGCSP/DIREX/PF, o presidente da ANSEGTV, Gabriel Damasceno, e o diretor jurídico da entidade, Max Madruga.  
+                            
+                           
+                           O documento tem como base a Instrução Normativa n° 132, emitida pela Coordenação-Geral de Controle de Serviços e Produtos, da Polícia Federal, em 14 de novembro de 2018. O manual lista as obrigações e medidas de prevenção a serem adotadas pelo mercado de transporte de valores, especialmente as comunicações a serem feitas pelas empresas ao COAF, e será enviado a todas as empresas do setor e aos órgãos reguladores e fiscalizadores do segmento.
+                            
+                            
+                            Criada em fevereiro do ano passado, a ANSEGTV representa os interesses das pequenas e médias empresas de transporte de valores, com 16 associadas em 25 estados e no Distrito Federal.
+                            
+                            
+                            Entre seus objetivos, a associação visa a constante troca de informações com autoridades para o desenvolvimento do segmento de Segurança Privada e a defesa da ética e da livre concorrência no mercado." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Polícia Federal elabora manual de prevenção à lavagem de dinheiro">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/policia-federal-elabora-manual-de-prevencao-a-lavagem-de-dinheiro/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/redimensionadas/011.png">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/policia-federal-elabora-manual-de-prevencao-a-lavagem-de-dinheiro">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/011.png">
             <meta property="article:published_time" content="2020-02-27">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

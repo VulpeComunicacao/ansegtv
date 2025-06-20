@@ -2,22 +2,22 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>ANSEGTV apoia PL que tipifica o domínio de cidades</title>
+            <title>ANSEGTV apoia PL que tipifica o domínio de cidades | ANSEGTV</title>
             <meta charset="utf-8">
-            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/" />
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="ANSEGTV apoia PL que tipifica o domínio de cidades">
-            <meta meta name="description" property="og:description" content="A Comissão de Defesa da Democracia (CDD) do Senado aprovou no início de março o Projeto de Lei (PL) 5.365/2020, que tipifica como crimes a intimidação violenta e o domínio de cidades, além de incluir este no rol de crimes hediondos.">
+            <meta property="og:title" content="%%title%%">
+            <meta name="description" content="A Comissão de Defesa da Democracia (CDD) do Senado aprovou no início de março o Projeto de Lei (PL) 5.365/2020, que tipifica como crimes a intimidação violenta e o domínio de cidades, além de incluir este no rol de crimes hediondos. O alvo do texto são grupos armados que se organizam para praticar atos criminosos de grandes proporções, geralmente violentos e com objetivos variados, como grandes roubos, libertação de presos, provocação de terror generalizado, entre outros." />
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2024/05/plenario-share.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2024/05/plenario-share.jpg">
-            <meta property="article:published_time" content="2023-05-09"/>
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-apoia-pl-que-tipifica-o-dominio-de-cidades">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/plenario-share.jpg">
+            
+            <meta property="article:published_time" content="2024-05-09">
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

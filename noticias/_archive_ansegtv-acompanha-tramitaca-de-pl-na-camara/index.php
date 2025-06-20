@@ -2,19 +2,19 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>ANSEGTV acompanha tramitação de PL na Câmara</title>
+            <title>ANSEGTV acompanha tramitação de PL na Câmara | ANSEGTV</title>
             <meta name="description" content="Lincoln Telhado e Raphael Cittadino, Consultores de Relações Governamentais e Institucionais da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), visitaram no dia 19 de novembro o gabinete do deputado Capitão Wagner (Pros-CE) para tratar da tramitação do Projeto de Lei 3242/2021, de autoria do deputado Luiz Philippe de Orleans e Bragança (PSL-SP) e uma sugestão da Associação." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="ANSEGTV acompanha tramitação de PL na Câmara">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:description" content="Lincoln Telhado e Raphael Cittadino, Consultores de Relações Governamentais e Institucionais da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), visitaram no dia 19 de novembro o gabinete do deputado Capitão Wagner (Pros-CE) para tratar da tramitação do Projeto de Lei 3242/2021, de autoria do deputado Luiz Philippe de Orleans e Bragança (PSL-SP) e uma sugestão da Associação.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-acompanha-tramitaca-de-pl-na-camara">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/12/camara-deputados-share.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/12/camara-deputados-share.jpg">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/_archive_ansegtv-acompanha-tramitaca-de-pl-na-camara">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/camara-deputados-share.jpg">
+            
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

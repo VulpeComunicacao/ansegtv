@@ -3,18 +3,54 @@
         <!-- Head Section -->
         <head>
             <title>MPs trabalhistas são importantes para manter empregos | ANSEGTV</title>
-            <meta name="description" content="O governo federal publicou no Diário Oficial no dia 28 de abril as MPs 1.045 e 1.046, que flexibilizam a legislação trabalhista e têm o objetivo de amenizar os efeitos econômicos do avanço da Covid-19 no país." />
+            <meta name="description" content="O governo federal publicou no Diário Oficial no dia 28 de abril as MPs 1.045 e 1.046, que flexibilizam a legislação trabalhista e têm o objetivo de amenizar os efeitos econômicos do avanço da Covid-19 no país.
+                            Sem dúvidas, as medidas representam um alívio para as empresas. Em 2020, as MPs 927 e 936 foram essenciais para a manutenção de empregos e, em muitos casos, representaram a sobrevivência de muitas companhias. À época, era difícil imaginar que, um ano depois, a crise sanitária estaria no atual patamar que se encontra.
+                            Resumidamente, a MP 1.045, com duração de até 120 dias, recria o Programa Emergencial de Benefício Emergencial para Manutenção do Emprego e da Renda (BEm), lançado originalmente pela MP 936, que permite que o governo contribua com o pagamento de parte dos salários para os empregadores que aderirem ao programa, mediante acordo, nas hipóteses de suspensão temporária do contrato de trabalho ou redução proporcional de jornada e de salário.
+                            O BEm será pago ao empregado independentemente do cumprimento do período aquisitivo, do tempo de vínculo empregatício ou do número de salários recebidos. Também não há interferência na concessão do seguro-desemprego, ao qual é direito do trabalhador que atende aos requisitos legais.
+                            Também como na MP 936, os salários e as jornadas poderão ser reduzidos em 25%, 50% e 70% celebrados em convenção coletiva, acordo coletivo ou acordo individual.
+                            
+                                	
+                                Tony Winston/Agência Brasília
+                            
+                            Já a MP 1.046 reedita a MP 927. A proposta visa flexibilizar a legislação trabalhista, permitindo que o empregador adote meios de garantir a sustentabilidade no mercado de trabalho. Dentre as medidas, estão: a adoção do teletrabalho; antecipação de férias individuais e concessão de férias coletivas; o aproveitamento e antecipação de feriados; o banco de horas; o diferimento do recolhimento do Fundo de Garantia do Tempo de Serviço (FGTS), entre outras.
+                            As medidas previstas pela proposta têm o prazo de 120 dias, a partir da data de sua publicação, e poderão ser prorrogadas por igual período, por ato do Poder Executivo.
+                            No caso do empregador adotar o trabalho a distância ou determinar o retorno ao trabalho presencial, o funcionário deverá ser comunicado com antecedência de no mínimo 48 horas.
+                            A antecipação de férias individuais poderá ser negociada por meio de acordo individual, não podendo ser gozada em períodos inferiores a cinco dias corridos e para os trabalhadores do grupo de risco serão prioridade na concessão.
+                            Já as férias coletivas poderão ser concedidas a todos os funcionários, desde que notificados com antecedência de pelo menos 48h. A mesma prática se aplica à antecipação de feriados.
+                            Nos serviços essenciais, no qual inclui-se o transporte de valores, o regime especial de banco de horas poderá ser adotado independente da interrupção de suas atividades, por acordo individual ou coletivo escrito, para compensação em até 18 meses contados da data de encerramento da MP.
+                            Sobre o FGTS, fica suspensa a exigibilidade do recolhimento pelos empregadores, referente às competências de abril, maio, junho e julho de 2021, com vencimento em maio, junho, julho e agosto de 2021, respectivamente. Os depósitos poderão ser parcelados em até quatro parcelas mensais com vencimento a partir de setembro de 2021 e, sem a incidência de multas ou encargos.
+                            Os empregadores poderão fazer uso desta permissão independentemente do número de empregados, regime de tributação, natureza jurídica, ramo de atividade ou adesão prévia.
+                            Dentro deste contexto, é importante destacar o trabalho desenvolvido pela Frente Parlamentar do Serviço. O grupo soube ouvir a sociedade, colher sugestões e teve papel fundamental na discussão das medidas que, certamente, ajudarão o setor neste momento tão delicado.
+                            A ANSEGTV apoia as ações anunciadas pelo governo, acredita que serão importantes na manutenção de empregos e contribuirão no difícil processo de retomada econômica." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="MPs trabalhistas são importantes para manter empregos">
-            <meta property="og:description" content="O governo federal publicou no Diário Oficial no dia 28 de abril as MPs 1.045 e 1.046, que flexibilizam a legislação trabalhista e têm o objetivo de amenizar os efeitos econômicos do avanço da Covid-19 no país.">
+            <meta property="og:title" content="%%title%%">
+            <meta property="og:description" content="O governo federal publicou no Diário Oficial no dia 28 de abril as MPs 1.045 e 1.046, que flexibilizam a legislação trabalhista e têm o objetivo de amenizar os efeitos econômicos do avanço da Covid-19 no país.
+                            Sem dúvidas, as medidas representam um alívio para as empresas. Em 2020, as MPs 927 e 936 foram essenciais para a manutenção de empregos e, em muitos casos, representaram a sobrevivência de muitas companhias. À época, era difícil imaginar que, um ano depois, a crise sanitária estaria no atual patamar que se encontra.
+                            Resumidamente, a MP 1.045, com duração de até 120 dias, recria o Programa Emergencial de Benefício Emergencial para Manutenção do Emprego e da Renda (BEm), lançado originalmente pela MP 936, que permite que o governo contribua com o pagamento de parte dos salários para os empregadores que aderirem ao programa, mediante acordo, nas hipóteses de suspensão temporária do contrato de trabalho ou redução proporcional de jornada e de salário.
+                            O BEm será pago ao empregado independentemente do cumprimento do período aquisitivo, do tempo de vínculo empregatício ou do número de salários recebidos. Também não há interferência na concessão do seguro-desemprego, ao qual é direito do trabalhador que atende aos requisitos legais.
+                            Também como na MP 936, os salários e as jornadas poderão ser reduzidos em 25%, 50% e 70% celebrados em convenção coletiva, acordo coletivo ou acordo individual.
+                            
+                                	
+                                Tony Winston/Agência Brasília
+                            
+                            Já a MP 1.046 reedita a MP 927. A proposta visa flexibilizar a legislação trabalhista, permitindo que o empregador adote meios de garantir a sustentabilidade no mercado de trabalho. Dentre as medidas, estão: a adoção do teletrabalho; antecipação de férias individuais e concessão de férias coletivas; o aproveitamento e antecipação de feriados; o banco de horas; o diferimento do recolhimento do Fundo de Garantia do Tempo de Serviço (FGTS), entre outras.
+                            As medidas previstas pela proposta têm o prazo de 120 dias, a partir da data de sua publicação, e poderão ser prorrogadas por igual período, por ato do Poder Executivo.
+                            No caso do empregador adotar o trabalho a distância ou determinar o retorno ao trabalho presencial, o funcionário deverá ser comunicado com antecedência de no mínimo 48 horas.
+                            A antecipação de férias individuais poderá ser negociada por meio de acordo individual, não podendo ser gozada em períodos inferiores a cinco dias corridos e para os trabalhadores do grupo de risco serão prioridade na concessão.
+                            Já as férias coletivas poderão ser concedidas a todos os funcionários, desde que notificados com antecedência de pelo menos 48h. A mesma prática se aplica à antecipação de feriados.
+                            Nos serviços essenciais, no qual inclui-se o transporte de valores, o regime especial de banco de horas poderá ser adotado independente da interrupção de suas atividades, por acordo individual ou coletivo escrito, para compensação em até 18 meses contados da data de encerramento da MP.
+                            Sobre o FGTS, fica suspensa a exigibilidade do recolhimento pelos empregadores, referente às competências de abril, maio, junho e julho de 2021, com vencimento em maio, junho, julho e agosto de 2021, respectivamente. Os depósitos poderão ser parcelados em até quatro parcelas mensais com vencimento a partir de setembro de 2021 e, sem a incidência de multas ou encargos.
+                            Os empregadores poderão fazer uso desta permissão independentemente do número de empregados, regime de tributação, natureza jurídica, ramo de atividade ou adesão prévia.
+                            Dentro deste contexto, é importante destacar o trabalho desenvolvido pela Frente Parlamentar do Serviço. O grupo soube ouvir a sociedade, colher sugestões e teve papel fundamental na discussão das medidas que, certamente, ajudarão o setor neste momento tão delicado.
+                            A ANSEGTV apoia as ações anunciadas pelo governo, acredita que serão importantes na manutenção de empregos e contribuirão no difícil processo de retomada econômica.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/mps-trabalhistas-sao-importantes-para-manter-empregos">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/05/carteira-trabalho.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/05/carteira-trabalho.jpg">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/carteira-trabalho.jpg">
+            
             <meta property="article:published_time" content="2021-05-05">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

@@ -3,18 +3,44 @@
         <!-- Head Section -->
         <head>
             <title>Reforma Tributária é tema de reuniões | ANSEGTV</title>
-            <meta name="description" content="Em sequência à série de reuniões para discutir propostas na área econômica, o presidente da ANSEGTV, Gabriel Damasceno, e outros representantes do setor de serviços participaram nesta quinta-feira (2) de mais duas videoconferências." />
+            <meta name="description" content="Em sequência à série de reuniões para discutir propostas na área econômica, o presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Gabriel Damasceno, e outros representantes do setor de serviços participaram nesta quinta-feira (2) de mais duas videoconferências.
+                            Mais uma vez, os encontros foram organizados pelo deputado federal Laércio Oliveira (PP-SE), líder da Frente Parlamentar em Defesa do Setor de Serviços. A Reforma Tributária esteve no centro dos debates.
+                            O primeiro, pela manhã, foi com o professor Marcos Cintra. Economista renomado, ele foi Secretário Especial da Receita Federal até o ano passado.
+                            
+                                	
+                                Fonte: Agência Senado
+                            
+                            Na avaliação de Cintra, o governo deveria estudar formas de desonerar a folha de pagamentos. Ele não vê espaço para redução da carga tributária diante da previsão de déficit primário causado pela pandemia do novo coronavírus.
+
+                            À tarde, foi a vez do deputado federal Aguinaldo Ribeiro (PP-PB) ouvir os representantes do setor de serviços.
+                            Ribeiro disse que a discussão sobre a Reforma Tributária deverá ser retomada no segundo semestre com a volta dos trabalhos da Comissão Mista da Reforma Tributária, na qual é relator.
+                            Ele informou que está conversando com os presidentes da Câmara, Rodrigo Maia (DEM-RJ), e do Senado, Davi Alcolumbre (DEM-AP), para que as reuniões da Comissão ocorram de forma on-line. A votação da PEC ocorreria de forma presencial após o retorno das atividades nas duas Casas legislativas. A previsão é de que o Senado volte no início de agosto, já a Câmara, ainda não se sabe.
+                            O parlamentar destacou que a intenção é produzir uma PEC sem aumento do peso tributário para nenhum setor.
+                            Ribeiro também se demonstrou ainda ser favorável à proposta de desoneração da folha de pagamentos." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Reforma Tributária é tema de reuniões">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:description" content="Em sequência à série de reuniões para discutir propostas na área econômica, o presidente da ANSEGTV, Gabriel Damasceno, e outros representantes do setor de serviços participaram nesta quinta-feira (2) de mais duas videoconferências.">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/reforma-tributaria-e-tema-de-reunioes/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/07/congresso_agencia-senado_ansegtv.jpg">
-            <meta property="article:published_time" content="2020-07-01">
+            <meta property="og:description" content="Em sequência à série de reuniões para discutir propostas na área econômica, o presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Gabriel Damasceno, e outros representantes do setor de serviços participaram nesta quinta-feira (2) de mais duas videoconferências.
+                            Mais uma vez, os encontros foram organizados pelo deputado federal Laércio Oliveira (PP-SE), líder da Frente Parlamentar em Defesa do Setor de Serviços. A Reforma Tributária esteve no centro dos debates.
+                            O primeiro, pela manhã, foi com o professor Marcos Cintra. Economista renomado, ele foi Secretário Especial da Receita Federal até o ano passado.
+                            
+                                	
+                                Fonte: Agência Senado
+                            
+                            Na avaliação de Cintra, o governo deveria estudar formas de desonerar a folha de pagamentos. Ele não vê espaço para redução da carga tributária diante da previsão de déficit primário causado pela pandemia do novo coronavírus.
+
+                            À tarde, foi a vez do deputado federal Aguinaldo Ribeiro (PP-PB) ouvir os representantes do setor de serviços.
+                            Ribeiro disse que a discussão sobre a Reforma Tributária deverá ser retomada no segundo semestre com a volta dos trabalhos da Comissão Mista da Reforma Tributária, na qual é relator.
+                            Ele informou que está conversando com os presidentes da Câmara, Rodrigo Maia (DEM-RJ), e do Senado, Davi Alcolumbre (DEM-AP), para que as reuniões da Comissão ocorram de forma on-line. A votação da PEC ocorreria de forma presencial após o retorno das atividades nas duas Casas legislativas. A previsão é de que o Senado volte no início de agosto, já a Câmara, ainda não se sabe.
+                            O parlamentar destacou que a intenção é produzir uma PEC sem aumento do peso tributário para nenhum setor.
+                            Ribeiro também se demonstrou ainda ser favorável à proposta de desoneração da folha de pagamentos.">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/reforma-tributaria-e-tema-de-reunioes">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/congresso_agencia-senado_ansegtv.jpg">
+            <meta property="article:published_time" content="2020-07-03">
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

@@ -9,12 +9,12 @@
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Diretor do COAF esclarece pontos de nova resolução">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:description" content="Em evento promovido pelo IPLD (Instituto de Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento do Terrorismo), nesta quinta-feira (24), o Diretor de Supervisão do COAF (Conselho de Controle de Atividades Financeiras), Rafael Bezerra Ximenes de Vasconcelos, esclareceu os principais pontos da Resolução 36 do órgão.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/diretor-do-coaf-esclarece-pontos-de-nova-resolucao">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/06/webinar-coaf.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/06/webinar-coaf.jpg">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/webinar-coaf.jpg">
+            
             <meta property="article:published_time" content="2021-06-25">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

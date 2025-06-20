@@ -9,12 +9,12 @@
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Frente envia contribuições à Norma de Fiscalização da ANPD">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:description" content="A Frente Parlamentar do Setor de Serviços (FPS), por meio do Observatório de Políticas Setoriais (OPS), enviou no dia 28 de junho suas contribuições à Norma de Fiscalização da ANPD (Autoridade Nacional de Proteção de Dados do Brasil), colocada em consulta pública.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/frente-envia-contribuicoes-a-norma-de-fiscalizacao-da-anpd">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/07/fiscalizacao-anpd-share_2.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/07/fiscalizacao-anpd-share_2.jpg">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/fiscalizacao-anpd-share_2.jpg">
+            
             <meta property="article:published_time" content="2021-07-09">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

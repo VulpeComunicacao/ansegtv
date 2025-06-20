@@ -2,21 +2,20 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>ANPD divulga regras para sanções por descumprimento à LGPD</title>
+            <title>ANPD divulga regras para sanções por descumprimento à LGPD | ANSEGTV</title>
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="ANPD divulga regras para sanções por descumprimento à LGPD">
-            <meta meta name="description" property="og:description" content="Bastante aguardado pela sociedade, o Regulamento de Dosimetria e Aplicação de Sanções Administrativas por descumprimento à LGPD foi publicado na segunda-feira (27) pela ANPD (Autoridade Nacional de Proteção de Dados).
-">
+            <meta property="og:title" content="%%title%%">
+            <meta name="description" content="Bastante aguardado pela sociedade, o Regulamento de Dosimetria e Aplicação de Sanções Administrativas por descumprimento à LGPD (Lei Geral de Proteção de Dados Pessoais) foi publicado na segunda-feira (27) pela ANPD (Autoridade Nacional de Proteção de Dados)." />
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/anpd-divulga-regras-para-sancoes-por-descumprimento-a-lgpd/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2023/03/regulamento-anpd-share.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2023/03/regulamento-anpd-share.jpg">
-            <meta property="article:published_time" content="2023-03-01" />
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/anpd-divulga-regras-para-sancoes-por-descumprimento-a-lgpd">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/regulamento-anpd-share.jpg">
+            
+            <meta property="article:published_time" content="2023-03-01">
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

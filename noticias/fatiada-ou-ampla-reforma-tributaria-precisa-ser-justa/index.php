@@ -4,20 +4,20 @@
         <head>
             <title>Fatiada ou ampla, Reforma Tributária precisa ser justa | ANSEGTV</title>
             <meta charset="utf-8">
-            <link rel="canonical" href="https://ansegtv.com.br/noticias/fatiada-ou-ampla-reforma-tributaria-precisa-ser-justa/" />
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/fatiada-ou-ampla-reforma-tributaria-precisa-ser-justa" />
             <meta name="description" content="O deputado Aguinaldo Ribeiro (PP-PB) apresentou no dia 12 seu relatório final à Comissão Mista da Reforma Tributária. O texto propõe mudanças significativas ao sistema tributário brasileiro. A principal alteração é a substituição de tributos como PIS, COFINS, IPI, ICMS e ISS pelo Imposto sobre Bens e Serviços (IBS)." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Fatiada ou ampla, Reforma Tributária precisa ser justa">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:description" content="O deputado Aguinaldo Ribeiro (PP-PB) apresentou no dia 12 seu relatório final à Comissão Mista da Reforma Tributária. O texto propõe mudanças significativas ao sistema tributário brasileiro. A principal alteração é a substituição de tributos como PIS, COFINS, IPI, ICMS e ISS pelo Imposto sobre Bens e Serviços (IBS).">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/fatiada-ou-ampla-reforma-tributaria-precisa-ser-justa">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/05/reforma-tributaria.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/05/reforma-tributaria.jpg">
-            <meta property="article:published_time" content="2021-05-19">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/reforma-tributaria.jpg">
+            
+            <meta property="article:published_time" content="2021-05-18">
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

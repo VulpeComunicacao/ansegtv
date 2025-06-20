@@ -3,16 +3,25 @@
         <!-- Head Section -->
         <head>
             <title>Governo ouve novas demandas do setor de serviços | ANSEGTV</title>
-            <meta name="description" content="Após reunião com o ministro da Economia, Paulo Guedes, representantes do setor de serviços voltaram a debater com o governo federal nesta terça (26) e quinta-feira (28) propostas para amenizar os efeitos da pandemia do coronavírus na economia." />
+            <meta name="description" content="Após reunião com o ministro da Economia, Paulo Guedes, representantes do setor de serviços voltaram a debater com o governo federal nesta terça (26) e quinta-feira (28) propostas para amenizar os efeitos da pandemia do coronavírus na economia. A primeira reunião foi com o secretário de Produtividade, Emprego e Competitividade, Carlos da Costa, enquanto a segunda com o secretário especial de Previdência e Trabalho, Bruno Bianco Leal. Ambas foram organizadas pela Frente Parlamentar em Defesa do Setor de Serviços, que é liderada pelo deputado federal Laércio Oliveira (PP-SE), e contaram com a participação do presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Gabriel Damasceno.
+                            Dentre as medidas defendidas pelas associações e empresas, estiveram a desoneração da folha de pagamentos, a reedição da MP do Contrato Verde e Amarelo, a menor incidência de impostos sobre o faturamento e o parcelamento de débitos em execuções trabalhistas.
+                            Carlos da Costa afirmou que o tema prioritário da sua pasta hoje tem sido o crédito para pequenas e médias empresas. “Temos medidas emergenciais e de recuperação da economia. No primeiro grupo estão as MPs, como a da desburocratização do crédito e a trabalhista. Mas já estamos trabalhando em medidas mais estruturantes para o momento seguinte para agilizar a volta do Brasil para o caminho da prosperidade. E dentro dessa pauta estará a desoneração da folha”, explicou.
+                            
+                                	
+                                Fonte: Agência Senado
+                            
+                            Já na videoconferência com Bruno Bianco, Gabriel Damasceno destacou que a suspensão do artigo 29 da MP 927/2020, pelo Supremo Tribunal Federal (STF), gerou dúvidas sobre a existência ou não do nexo causal nos casos de contaminação de empregados pelo coronavírus. Tal artigo determinava que “os casos de contaminação pelo coronavírus não serão considerados ocupacionais, exceto mediante comprovação do nexo causal&quot; e Bianco esclareceu que todos os esforços do governo são para garantir a segurança jurídica no tema de causalidade do coronavírus.
+
+                            Preocupado com os milhões de empregos que representa, o setor de serviços está sempre disposto a colaborar com os integrantes do governo federal para proteger empresas e empregos. Como bem ressaltou Bianco: preservar as empresas é o caminho para a retomada econômica no Brasil." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Governo ouve novas demandas do setor de serviços">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/governo-ouve-novas-demandas-do-setor-de-servicos/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/05/ministerio-economia2.jpg">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/governo-ouve-novas-demandas-do-setor-de-servicos">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/ministerio-economia2.jpg">
             <meta property="article:published_time" content="2020-05-29">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

@@ -2,19 +2,19 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>ANSEGTV é apresentada ao BAEP de Ribeirão Perto, interior de São Paulo</title>
+            <title>ANSEGTV é apresentada ao BAEP de Ribeirão Perto, interior de São Paulo | ANSEGTV</title>
             <meta name="description" content="O Diretor de Comunicação da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Robson Alexandre Barbara, esteve no BAEP (Batalhão de Ações Especiais de Polícia) de Ribeirão Preto, dia 23/7, para apresentar a Associação ao comando da corporação." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="ANSEGTV é apresentada ao BAEP de Ribeirão Perto, interior de São Paulo">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:description" content="O Diretor de Comunicação da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Robson Alexandre Barbara, esteve no BAEP (Batalhão de Ações Especiais de Polícia) de Ribeirão Preto, dia 23/7, para apresentar a Associação ao comando da corporação.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-e-apresentada-ao-baep-de-ribeirao-preto-interior-de-sao-paulo">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/07/equipe-baep.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/07/equipe-baep.jpg">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/equipe-baep.jpg">
+            
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

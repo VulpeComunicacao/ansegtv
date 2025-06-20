@@ -1,4 +1,5 @@
 <head>
+    <base href="/">
     <title>ANSEGTV - Associação Nacional de Segurança e Transporte de Valores</title>
     <meta charset="utf-8">
     <link rel="canonical" href="https://ansegtv.com.br<?php echo $_SERVER['REQUEST_URI']; ?>" />

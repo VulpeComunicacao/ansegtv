@@ -2,19 +2,19 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>PL busca tornar hediondo ataque com explosivos contra transportadoras</title>
+            <title>PL busca tornar hediondo ataque com explosivos contra transportadoras | ANSEGTV</title>
             <meta name="description" content="O deputado federal Luiz Philippe de Orleans e Bragança (PSL-SP) protocolou nesta terça (21), na Câmara, o Projeto de Lei 3242/2021, que tem como objetivo atualizar a legislação para tornar hediondo os crimes de furto qualificado e de roubo quando envolvam o uso de explosivos para ataques contra empresas de transporte de valores e carros-fortes." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="PL busca tornar hediondo ataque com explosivos contra transportadoras">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:description" content="O deputado federal Luiz Philippe de Orleans e Bragança (PSL-SP) protocolou nesta terça (21), na Câmara, o Projeto de Lei 3242/2021, que tem como objetivo atualizar a legislação para tornar hediondo os crimes de furto qualificado e de roubo quando envolvam o uso de explosivos para ataques contra empresas de transporte de valores e carros-fortes.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/pl-busca-tornar-hediondo-ataque-com-explosivos-contra-transportadoras/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/09/plenario-share.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/09/plenario-share.jpg">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/pl-busca-tornar-hediondo-ataque-com-explosivos-contra-transportadoras">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/plenario-share.jpg">
+            
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

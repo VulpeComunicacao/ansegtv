@@ -2,22 +2,22 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Avaliação de riscos e integridade é tema de encontro em SP</title>
+            <title>Avaliação de riscos e integridade é tema de encontro em SP | ANSEGTV</title>
             <meta charset="utf-8">
-            <link rel="canonical" href="https://ansegtv.com.br/noticias/avaliacao-de-riscos-e-integridade-e-tema-de-encontro-em-sp/" />
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/avaliacao-de-riscos-e-integridade-e-tema-de-encontro-em-sp" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="Avaliação de riscos e integridade é tema de encontro em SP">
-            <meta meta name="description" property="og:description" content="A ACAMS Brasil Chapter, que reúne especialistas em prevenção à lavagem de dinheiro, realizou nesta quarta-feira (23), em São Paulo, o "Summit 2022 – Integridade e Avaliação Nacional de Riscos". ">
+            <meta property="og:title" content="%%title%%">
+            <meta name="description" content="A ACAMS Brasil Chapter, que reúne especialistas em prevenção à lavagem de dinheiro, realizou nesta quarta-feira (23), em São Paulo, o &quot;Summit 2022 – Integridade e Avaliação Nacional de Riscos&quot;. O evento foi organizado por Marcio Luz, Diretor de Filiação da instituição." />
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/avaliacao-de-riscos-e-integridade-e-tema-de-encontro-em-sp/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2022/11/evento-avaliacao-share.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2022/11/evento-avaliacao-share.jpg">
-            <meta property="article:published_time" content="2022-11-24" />
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/avaliacao-de-riscos-e-integridade-e-tema-de-encontro-em-sp">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/evento-avaliacao-share.jpg">
+            
+            <meta property="article:published_time" content="2022-11-24">
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

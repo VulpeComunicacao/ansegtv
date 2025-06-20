@@ -4,19 +4,19 @@
         <head>
             <title>ANSEGTV apoia maior segurança no transporte aéreo de valores | ANSEGTV</title>
             <meta charset="utf-8">
-            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-apoia-maior-seguranca-no-transporte-aereo-de-valores/" />
-            <meta name="description" content="A ANAC (Agência Nacional de Aviação Civil) abriu recentemente Consulta Pública que propõe a revisão da Resolução nº 461/2018, que dispõe sobre os procedimentos de embarque e desembarque de passageiros armados, despacho de armas de fogo e de munição e transporte de passageiros sob custódia a bordo de aeronaves civis." />
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/ansegtv-apoia-maior-seguranca-no-transporte-aereo-de-valores" />
+            <meta name="description" content="A ANAC (Agência Nacional de Aviação Civil) abriu recentemente Consulta Pública que propõe a revisão da Resolução nº 461/2018, que dispõe sobre os procedimentos de embarque e desembarque de passageiros armados, despacho de armas de fogo e de munição e transporte de passageiros sob custódia a bordo de aeronaves civis. A revisão ocorre devido à necessidade da regulação do embarque do vigilante armado nas operações com aeronaves fretadas e aeronaves particulares das empresas de transporte de valores, como forma de se ter maior segurança nos momentos de taxiamento e próximo ao pouso ou decolagem, situações em que realmente se observa serem mais comuns os ataques de grupos criminosos." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="ANSEGTV apoia maior segurança no transporte aéreo de valores">
-            <meta property="og:description" content="A ANAC (Agência Nacional de Aviação Civil) abriu recentemente Consulta Pública que propõe a revisão da Resolução nº 461/2018, que dispõe sobre os procedimentos de embarque e desembarque de passageiros armados, despacho de armas de fogo e de munição e transporte de passageiros sob custódia a bordo de aeronaves civis.">
+            <meta property="og:title" content="%%title%%">
+            <meta property="og:description" content="A ANAC (Agência Nacional de Aviação Civil) abriu recentemente Consulta Pública que propõe a revisão da Resolução nº 461/2018, que dispõe sobre os procedimentos de embarque e desembarque de passageiros armados, despacho de armas de fogo e de munição e transporte de passageiros sob custódia a bordo de aeronaves civis. A revisão ocorre devido à necessidade da regulação do embarque do vigilante armado nas operações com aeronaves fretadas e aeronaves particulares das empresas de transporte de valores, como forma de se ter maior segurança nos momentos de taxiamento e próximo ao pouso ou decolagem, situações em que realmente se observa serem mais comuns os ataques de grupos criminosos.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-apoia-maior-seguranca-no-transporte-aereo-de-valores">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/03/fachada-anac.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/03/fachada-anac.jpg">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/fachada-anac.jpg">
+            
             <meta property="article:published_time" content="2021-03-19">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

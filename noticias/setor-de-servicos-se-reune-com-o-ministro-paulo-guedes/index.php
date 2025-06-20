@@ -3,16 +3,33 @@
         <!-- Head Section -->
         <head>
             <title>Setor de serviços se reúne com o ministro Paulo Guedes | ANSEGTV</title>
-            <meta name="description" content="Cerca de 30 representantes do setor de serviços participaram nesta terça-feira (19) de uma videoconferência com o ministro da Economia, Paulo Guedes" />
+            <meta name="description" content="Cerca de 30 representantes do setor de serviços participaram nesta terça-feira (19) de uma videoconferência com o ministro da Economia, Paulo Guedes. O encontro, organizado pela Frente Parlamentar em Defesa do Setor de Serviços, liderada pelo Deputado Laércio Oliveira (PP-SE), contou com a participação do presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Gabriel Damasceno.
+
+                            Na reunião, foram discutidas propostas para a recuperação da economia pós pandemia de COVID-19 e medidas que garantam a manutenção e criação de novas vagas de trabalho.
+                            Damasceno considerou o encontro bastante positivo. “Nos motivou bastante os planos do governo para a retomada econômica, quando a crise de saúde estiver sob controle”, avaliou.
+                            Guedes falou ao grupo sobre os planos em andamento do governo que envolvem projetos de desoneração da folha de pagamentos, o parcelamento de impostos e outras ações de fomento ao emprego formal, que em breve deverão ser divulgadas.
+                            
+                                	
+                                Fonte: Agência Senado
+                            
+                            Segundo o ministro, uma flexibilização da legislação pode garantir nos próximos três anos até 20 milhões de empregos. Desde o início do governo, Guedes sempre defendeu a modernização das regras trabalhistas, mais simples e com menos encargos.
+                            
+                            Uma das demandas do setor de serviços é a liberação de depósitos recursais feitos pelas empresas em ações trabalhistas, hoje engessados. Na reunião, empresas e associações também manifestaram preocupação com crédito e pediram mais prazo para o diferimento de tributos.
+                            O deputado federal Laércio Oliveira (PP-SE), presidente da Frente Parlamentar em Defesa do Setor de Serviços, defendeu a reedição da MP do Contrato Verde e Amarelo, que acabou perdendo sua validade. O ministro citou que o governo deverá apresentar em breve uma nova MP sobre o assunto, porém bem mais abrangente com o intuito de incentivar fortemente a criação de novos empregos formais.
+                            Em breve também deverá ser enviada ao Congresso a Reforma do PIS/Cofins, a qual o setor de serviços se colocou à disposição para ajudar na formulação do texto.
+                            Laércio concorda com a unificação dos dois tributos, mas defende faixas variadas de acordo com o setor.
+                            “Por exemplo, o setor com preponderância de mão de obra poderia compensar mais para que não houvesse aumento de impostos e que possamos proteger os empregos”, disse Laércio.
+                            A Reforma Tributária também foi tema da videoconferência. Laércio lembrou ao ministro que estava tratando do assunto com a assessora especial do Ministério da Economia, Vanessa Canado.
+                            “Apresentamos uma sugestão de emenda com alíquotas variadas”, afirmou Laércio, acrescentando que as negociações estavam avançadas, mas que a pandemia mudou toda agenda política e econômica." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Setor de serviços se reúne com o ministro Paulo Guedes">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/setor-de-servicos-se-reune-com-o-ministro-paulo-guedes/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/05/ministerio-economia.png">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/setor-de-servicos-se-reune-com-o-ministro-paulo-guedes">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/ministerio-economia.png">
             <meta property="article:published_time" content="2020-05-20">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

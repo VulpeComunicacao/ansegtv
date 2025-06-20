@@ -2,19 +2,19 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Diretores da ANSEGTV visitam novo Delegado-Chefe da DELESP-SP</title>
+            <title>Diretores da ANSEGTV visitam novo Delegado-Chefe da DELESP-SP | ANSEGTV</title>
             <meta name="description" content="Os diretores da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) Max Tavares Madruga (Jurídico) e Robson Alexandre Barbara (Comunicação) visitaram nesta quarta-feira (17) o novo Delegado-Chefe da DELESP-SP (Delegacia de Controle de Segurança Privada de São Paulo), Adriano Mendes Barbosa." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Diretores da ANSEGTV visitam novo Delegado-Chefe da DELESP-SP">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:description" content="Os diretores da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) Max Tavares Madruga (Jurídico) e Robson Alexandre Barbara (Comunicação) visitaram nesta quarta-feira (17) o novo Delegado-Chefe da DELESP-SP (Delegacia de Controle de Segurança Privada de São Paulo), Adriano Mendes Barbosa.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/diretores-da-ansegtv-visitam-novo-delegado-da-delesp-sp">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/11/visita-delegado-share.png">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/11/visita-delegado-share.png">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/visita-delegado-share.png">
+            
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

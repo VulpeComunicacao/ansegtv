@@ -3,18 +3,20 @@
         <!-- Head Section -->
         <head>
             <title>Considerações sobre a nova Lei de Licitações | ANSEGTV</title>
-            <meta name="description" content="O governo federal sancionou no dia 1º de abril a nova Lei de Licitações e Contratos Administrativos (Lei 14.133/21) que estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos municípios." />
+            <meta name="description" content="O governo federal sancionou no dia 1º de abril a nova Lei de Licitações e Contratos Administrativos (Lei 14.133/21) que estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos municípios.
+                            A nova lei tem impacto moderado para o setor de transporte de valores porque abrange parcialmente os bancos públicos. Estes respondem por expressiva parcela dos tomadores de serviços de segurança privada e transporte de valores em matéria de licitação, que continuarão a ser regidos pelo estatuto próprio (Lei nº 13.303/2016)." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Considerações sobre a nova Lei de Licitaçõe">
-            <meta property="og:description" content="O governo federal sancionou no dia 1º de abril a nova Lei de Licitações e Contratos Administrativos (Lei 14.133/21) que estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos municípios.">
+            <meta property="og:title" content="%%title%%">
+            <meta property="og:description" content="O governo federal sancionou no dia 1º de abril a nova Lei de Licitações e Contratos Administrativos (Lei 14.133/21) que estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos municípios.
+                            A nova lei tem impacto moderado para o setor de transporte de valores porque abrange parcialmente os bancos públicos. Estes respondem por expressiva parcela dos tomadores de serviços de segurança privada e transporte de valores em matéria de licitação, que continuarão a ser regidos pelo estatuto próprio (Lei nº 13.303/2016).">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/consideracoes-sobre-a-nova-lei-de-licitacoes">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/05/plenario-senado.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/05/plenario-senado.jpg">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/plenario-senado.jpg">
+            
             <meta property="article:published_time" content="2021-05-03">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

@@ -2,20 +2,33 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Câmara aprova projeto para combater “novo cangaço”</title>
+            <title>Câmara aprova projeto para combater “novo cangaço” | ANSEGTV</title>
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="Câmara aprova projeto para combater 'novo cangaço'">
-            <meta meta name="description" property="og:description" content="A Câmara dos Deputados aprovou no início de agosto um substitutivo do deputado Neucimar Fraga (PP-ES) ao Projeto de Lei 5365/20, do deputado Sanderson (PL-RS), que cria medidas para combater e punir o chamado 'novo cangaço', quando grupos criminosos fortemente armados exercem domínio sobre as cidades e impedem a reação das forças de segurança local.">
+            <meta property="og:title" content="%%title%%">
+            <meta name="description" content="A Câmara dos Deputados aprovou no início de agosto um substitutivo do deputado Neucimar Fraga (PP-ES) ao Projeto de Lei 5365/20, do deputado Sanderson (PL-RS), que cria medidas para combater e punir o chamado &quot;novo cangaço&quot;, quando grupos criminosos fortemente armados exercem domínio sobre as cidades e impedem a reação das forças de segurança local. A proposta, que tipifica e torna hediondo o crime de domínio de cidades e ainda cria o tipo penal de intimidação violenta, aguarda agora a análise do Senado.
+
+                        O projeto define como domínio de cidade &quot;realizar bloqueio total ou parcial de quaisquer vias de tráfego, terrestre ou aquaviário, bem como de estruturas físicas das forças de segurança pública, para evitar e/ou retardar a aproximação do poder público, com emprego de armas de fogo e/ou equipamentos de uso das forças de segurança pública, com finalidade de praticar crimes&quot;.
+
+                            
+                                	
+                                
+                            
+
+                        Já o crime de intimidação violenta consiste em realizar ou promover ato de incêndio, depredação, saque, destruição ou explosão, contra bens públicos ou privados, de acesso ou destinados aos serviços públicos, de forma a impedir ou embaraçar a atuação do poder público voltada para a prevenção ou repressão de crimes, a realização da execução penal ou a administração do sistema penitenciário.
+
+                        Segundo o texto, o crime de domínio de cidades será punido com reclusão de 15 a 30 anos, mas poderá ser de 20 a 30 anos e multa, se a violência resultar em lesão corporal grave; e 20 a 40 anos e multa, se houver morte. Ainda há agravantes previstos com acréscimo de 1/3 da pena se a ação, por exemplo, utilizar dispositivos explosivos e/ou captura de reféns. Já a pena para intimidação violenta será a de reclusão de 6 a 12 anos, também com aumento de 1/3 se a ação for decorrente, por exemplo,  de ordem, orientação ou tenha como motivação causa relacionada a preso, provisório ou condenado, ou a líder ou membro de facção criminosa.
+
+                        O presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Gabriel Damasceno, concorda com as propostas aprovadas. “As ações criminosas estão cada vez mais sofisticadas e violentas. Além do prejuízo financeiro, são inúmeras vidas colocadas em risco. É preciso atualizar a legislação como forma de inibir essas condutas”." />
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/camara-aprova-projeto-para-combater-novo-cangaco/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2022/09/share-novo-cangaco.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2022/09/share-novo-cangaco.jpg">
-            <meta property="article:published_time" content="2022-09-09" />
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/camara-aprova-projeto-para-combater-novo-cangaco">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/share-novo-cangaco.jpg">
+            
+            <meta property="article:published_time" content="2022-09-09">
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

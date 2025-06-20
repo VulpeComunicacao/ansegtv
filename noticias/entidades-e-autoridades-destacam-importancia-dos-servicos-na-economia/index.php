@@ -2,19 +2,19 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Entidades e autoridades destacam importância dos serviços na economia | ANSEGTV</title>
+            <title>Novo Índice de Serviços medirá desempenho do setor | ANSEGTV</title>
             <meta name="description" content="Em webinar nesta terça-feira (8), a Frente Parlamentar do Setor de Serviços (FPS) lançou o Índice de Serviços (ISe), que vai medir mensalmente o desempenho das atividades do setor e identificar sua capacidade de contribuir para a promoção do desenvolvimento econômico sustentado e inclusivo." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="Entidades e autoridades destacam importância dos serviços na economia">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:description" content="Em webinar nesta terça-feira (8), a Frente Parlamentar do Setor de Serviços (FPS) lançou o Índice de Serviços (ISe), que vai medir mensalmente o desempenho das atividades do setor e identificar sua capacidade de contribuir para a promoção do desenvolvimento econômico sustentado e inclusivo.">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/entidades-e-autoridades-destacam-importancia-dos-servicos-na-economia">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/06/meet-lancamento-ise-04-06.png">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/06/meet-lancamento-ise-04-06.png">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/meet-lancamento-ise-04-06.png">
+            
             <meta property="article:published_time" content="2021-06-09">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

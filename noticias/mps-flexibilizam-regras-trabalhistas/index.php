@@ -2,19 +2,19 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>MPs flexibilizam regras trabalhistas</title>
+            <title>MPs flexibilizam regras trabalhistas | ANSEGTV</title>
             <meta name="description" content="A Câmara dos Deputados aprovou no dia 12 de agosto a Medida Provisória 1045/2021, que renova o programa de redução ou suspensão de salários e jornada de trabalho com o pagamento de um benefício emergencial aos trabalhadores. A MP segue agora para análise do Senado." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="MPs flexibilizam regras trabalhistas">
+            <meta property="og:title" content="%%title%%">
             <meta property="og:description" content="A Câmara dos Deputados aprovou no dia 12 de agosto a Medida Provisória 1045/2021, que renova o programa de redução ou suspensão de salários e jornada de trabalho com o pagamento de um benefício emergencial aos trabalhadores. A MP segue agora para análise do Senado.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/mps-flexibilizam-regras-trabalhistas/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2021/08/carteira-trabalho.jfif">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2021/08/carteira-trabalho.jfif">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/mps-flexibilizam-regras-trabalhistas">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/carteira-trabalho.jfif">
+            
             <meta property="article:author" content="https://ansegtv.com.br/">
 
             <!-- Bootstrap CSS -->

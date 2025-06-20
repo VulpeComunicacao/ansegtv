@@ -3,18 +3,34 @@
         <!-- Head Section -->
         <head>
             <title>ANSEGTV faz balanço do ano em reunião | ANSEGTV</title>
-            <meta name="description" content="A ANSEGTV realizou no dia 18 de dezembro sua reunião de encerramento do ano. No encontro, foi feito um balanço de 2020, destacando os principais objetivos alcançados e desafios enfrentados. Também foram traçados planos para 2021, visando a maior expansão da entidade e o fortalecimento do setor de serviços." />
+            <meta name="description" content="A ANSEGTV realizou no dia 18 de dezembro sua reunião de encerramento do ano. No encontro, foi feito um balanço de 2020, destacando os principais objetivos alcançados e desafios enfrentados. Também foram traçados planos para 2021, visando a maior expansão da entidade e o fortalecimento do setor de serviços.
+                            Inicialmente, a advogada Lirian Cavalhero recordou alguns acontecimentos importantes que propiciaram um melhor enfrentamento dos efeitos econômicos gerados pela pandemia da Covid-19. Um destes foi a conversão da MP 936 na Lei 14.020, que instituiu o Programa Emergencial de Manutenção do Emprego e Renda. A medida evitou um desemprego ainda maior no país, dando um maior fôlego às empresas..
+                            
+                                	
+                                
+                            
+                            Lirian também destacou a Reforma Tributária como um dos temas que devem seguir no centro dos debates em 2021. Ela explicou que o setor de serviços vem cumprindo seu papel, ajudando a elaborar um texto mais justo para o segmento. Ainda segundo Lirian, a adequação à LGPD (Lei Geral de Proteção de Dados) também merece atenção especial, já que a legislação prevê sanções por violações a partir de agosto.
+                            Na segunda parte da reunião, o presidente da ANSEGTV, Gabriel Damasceno, apresentou uma retrospectiva do ano, ressaltando os fatos mais significativos. Entre estes, a entrada de novos associados (Aso Vigilância, Fenixx, Valorsat e Comando G8), o apoio à elaboração do Manual de Prevenção à Lavagem de Dinheiro pela Polícia Federal, reuniões do Comitê de Crise da associação, o ingresso da entidade no Grupo de Trabalho do ENCAT (Encontro Nacional dos Coordenadores e Administradores Tributários), a participação nos encontros organizados pela Frente Parlamentar do Serviços com autoridades do governo federal, entre outros.
+                            Gabriel agradeceu a parceria com as associadas, destacando que, graças a essa união, foi possível enfrentar a crise. Ele ressaltou que os desafios em 2021 serão tão duros quanto os deste ano, mas que as empresas estão mais preparadas para o que vem pela frente. Representantes das afiliadas também agradeceram o apoio recebido durante o ano." />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
-            <meta property="og:title" content="ANSEGTV faz balanço do ano em reunião">
-            <meta property="og:description" content="A ANSEGTV realizou no dia 18 de dezembro sua reunião de encerramento do ano. No encontro, foi feito um balanço de 2020, destacando os principais objetivos alcançados e desafios enfrentados. Também foram traçados planos para 2021, visando a maior expansão da entidade e o fortalecimento do setor de serviços.">
+            <meta property="og:title" content="%%title%%">
+            <meta property="og:description" content="A ANSEGTV realizou no dia 18 de dezembro sua reunião de encerramento do ano. No encontro, foi feito um balanço de 2020, destacando os principais objetivos alcançados e desafios enfrentados. Também foram traçados planos para 2021, visando a maior expansão da entidade e o fortalecimento do setor de serviços.
+                            Inicialmente, a advogada Lirian Cavalhero recordou alguns acontecimentos importantes que propiciaram um melhor enfrentamento dos efeitos econômicos gerados pela pandemia da Covid-19. Um destes foi a conversão da MP 936 na Lei 14.020, que instituiu o Programa Emergencial de Manutenção do Emprego e Renda. A medida evitou um desemprego ainda maior no país, dando um maior fôlego às empresas..
+                            
+                                	
+                                
+                            
+                            Lirian também destacou a Reforma Tributária como um dos temas que devem seguir no centro dos debates em 2021. Ela explicou que o setor de serviços vem cumprindo seu papel, ajudando a elaborar um texto mais justo para o segmento. Ainda segundo Lirian, a adequação à LGPD (Lei Geral de Proteção de Dados) também merece atenção especial, já que a legislação prevê sanções por violações a partir de agosto.
+                            Na segunda parte da reunião, o presidente da ANSEGTV, Gabriel Damasceno, apresentou uma retrospectiva do ano, ressaltando os fatos mais significativos. Entre estes, a entrada de novos associados (Aso Vigilância, Fenixx, Valorsat e Comando G8), o apoio à elaboração do Manual de Prevenção à Lavagem de Dinheiro pela Polícia Federal, reuniões do Comitê de Crise da associação, o ingresso da entidade no Grupo de Trabalho do ENCAT (Encontro Nacional dos Coordenadores e Administradores Tributários), a participação nos encontros organizados pela Frente Parlamentar do Serviços com autoridades do governo federal, entre outros.
+                            Gabriel agradeceu a parceria com as associadas, destacando que, graças a essa união, foi possível enfrentar a crise. Ele ressaltou que os desafios em 2021 serão tão duros quanto os deste ano, mas que as empresas estão mais preparadas para o que vem pela frente. Representantes das afiliadas também agradeceram o apoio recebido durante o ano.">
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-faz-balanco-do-ano-em-reuniao/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2020/12/balanco-2020.png">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2020/12/balanco-2020.png">
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/ansegtv-faz-balanco-do-ano-em-reuniao">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/balanco-2020.png">
+            
             <meta property="article:published_time" content="2020-12-21">
             <meta property="article:author" content="https://ansegtv.com.br/">
 

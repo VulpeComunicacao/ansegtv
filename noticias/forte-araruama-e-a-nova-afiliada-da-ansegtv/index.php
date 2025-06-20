@@ -2,20 +2,31 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Forte Araruama é a nova filiada da ANSEGTV</title>
+            <title>Forte Araruama é a nova filiada da ANSEGTV | ANSEGTV</title>
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="Forte Araruama é a nova filiada da ANSEGTV">
-            <meta meta name="description" property="og:description" content="A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) acaba de ganhar uma nova filiada. É a Forte Araruama, do Rio de Janeiro, que atua no mercado há 12 anos.">
+            <meta property="og:title" content="%%title%%">
+            <meta name="description" content="A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) acaba de ganhar uma nova filiada. É a Forte Araruama, do Rio de Janeiro, que atua no mercado há 12 anos, sendo especializada no serviço de segurança privada e hoje também no segmento de transporte de valores. 
+
+                        Com matriz na capital carioca, a empresa também tem filiais em Cabo Frio e em Campo dos Goytacazes. Em vigilância, a empresa oferece serviços como segurança, escolta armada e ronda de vigilância armada. No transporte de valores, as atividades incluem cofre inteligente, processamento de numerário e custódia de bens e numerários.
+
+                            
+                                	
+                                
+                            
+
+                        A filosofia da Forte Araruama é atender seus clientes de forma diferenciada, de acordo com suas particularidades e tendo como meta a perfeição no atendimento de forma acessível e segura.
+
+                        Com mais este membro, a ANSEGTV conta hoje com 13 associados. Além do novo integrante, fazem parte da entidade: Blue Angels, Brasifort, CEFOR, Comando G8, Corpvs, Federal Segurança, Fidelys, GlobalService, Kairós, Renaforte, Saga e TBForte." />
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/forte-araruama-e-a-nova-afiliada-da-ansegtv/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2022/09/share-forte-araruama.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2022/09/share-forte-araruama.jpg">
-            <meta property="article:published_time" content="2022-09-19" />
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/forte-araruama-e-a-nova-afiliada-da-ansegtv">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/share-forte-araruama.jpg">
+            
+            <meta property="article:published_time" content="2022-09-19">
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

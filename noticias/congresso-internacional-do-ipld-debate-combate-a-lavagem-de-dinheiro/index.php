@@ -2,22 +2,22 @@
 <html lang="pt-BR">
         <!-- Head Section -->
         <head>
-            <title>Congresso Internacional do IPLD debate combate à lavagem de dinheiro</title>
+            <title>Congresso Internacional do IPLD debate combate à lavagem de dinheiro | ANSEGTV</title>
             <meta charset="utf-8">
-            <link rel="canonical" href="https://ansegtv.com.br/noticias/congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/" />
+            <link rel="canonical" href="https://ansegtv.com.br/noticias/congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="robots" content="index, follow">
             <meta name="google-site-verification" content="fr91pley1eSdpCFMb-YbDS8l9GqIjBnP8ZsXShUXsRg" />
             <!-- OpenGraph TAGS -->
             <meta property="og:type" content="article">
             <meta name="author" content="ANSEGTV">
-            <meta property="og:title" content="Congresso Internacional do IPLD debate combate à lavagem de dinheiro">
-            <meta meta name="description" property="og:description" content="O IPLD - Instituto de Integridade, ESG, Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento do Terrorismo realizou, nos dias 28 e 29 de maio, a 6ª edição de seu Congresso Internacional, o maior do Brasil na área. A ANSEGTV foi novamente uma das apoiadoras do evento.">
+            <meta property="og:title" content="%%title%%">
+            <meta name="description" content="O IPLD - Instituto de Integridade, ESG, Prevenção e Combate à Lavagem de Dinheiro e ao Financiamento do Terrorismo realizou, nos dias 28 e 29 de maio, a 6ª edição de seu Congresso Internacional, o maior do Brasil na área. A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) foi novamente uma das apoiadoras do evento." />
             <meta property="og:site_name" content="ANSEGTV">
-            <meta property="og:url" content="https://ansegtv.com.br/noticias/congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2024/06/banner-ipld-share.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2024/06/banner-ipld-share.jpg">
-            <meta property="article:published_time" content="2024-06-06"/>
+            <meta property="og:url" content="https://ansegtv.com.br/noticias/congresso-internacional-do-ipld-debate-combate-a-lavagem-de-dinheiro">
+            <meta property="og:image" content="https://ansegtv.com.br/website/wp-content/uploads/2025/06/banner-ipld-share.jpg">
+            
+            <meta property="article:published_time" content="2024-06-06">
 
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
