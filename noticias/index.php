@@ -199,6 +199,32 @@
             <meta property="article:published_time" content="<?php echo $seo_post_date_iso; ?>">
             <meta property="article:author" content="https://ansegtv.com.br/">
 
+            <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "NewsArticle",
+              "headline": "<?php echo $seo_title; ?>",
+              "image": [
+                "<?php echo $seo_image_url; ?>"
+              ],
+              "datePublished": "<?php echo $seo_post_date_iso; ?>T00:00:00Z",
+              "dateModified": "<?php echo $seo_post_date_iso; ?>T00:00:00Z",
+              "author": {
+                "@type": "Person",
+                "name": "<?php echo $author_name; ?>"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "ANSEGTV",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://ansegtv.com.br/img/logo-header.png"
+                }
+              },
+              "description": "<?php echo $seo_first_paragraph; ?>"
+            }
+            </script>
+
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -312,7 +338,7 @@
                                <div class="single-blog">
                                    <div class="blog-img">
                                        <a href="<?php echo $local_link; ?>">
-                                           <img src="<?php echo $image_url; ?>" alt="<?php echo $title; ?>">
+                                           <img src="<?php echo $image_url; ?>" alt="<?php echo $title; ?>" loading="lazy">
                                        </a>
                                    </div>
                                    <div class="blog-content">
@@ -403,7 +429,7 @@
                                             <div class="single-blog">
                                                 <div class="blog-img">
                                                     <a href="${local_link}">
-                                                        <img src="${imageUrl}" alt="${title}">
+                                                        <img src="${imageUrl}" alt="${title}" loading="lazy">
                                                     </a>
                                                 </div>
                                                 <div class="blog-content">

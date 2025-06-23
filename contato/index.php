@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="pt-BR">
         <!-- Head Section -->
@@ -16,6 +15,33 @@
     <meta property="og:description" content="Entre em contato com a ANSEGTV">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://ansegtv.com.br/img/open-graph-ansegtv2.png">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "ANSEGTV - Associação Nacional de Segurança e Transporte de Valores",
+      "url": "https://ansegtv.com.br/contato/",
+      "logo": "https://ansegtv.com.br/img/logo-header.png",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SAUS, Quadra 1, Bloco M, Edifício Libertas, Sala 303",
+        "addressLocality": "Brasília",
+        "addressRegion": "DF",
+        "postalCode": "70.070-935",
+        "addressCountry": "BR"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "mailto:diretoria@ansegtv.com.br",
+        "contactType": "customer service"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/ansegtv/",
+        "https://www.instagram.com/ansegtvoficial/"
+      ]
+    }
+    </script>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -40,7 +66,7 @@
         <nav class="navbar navbar-expand-lg static-top navbar-light px-3">
             <div class="container">
                 <a class="navbar-brand" href="../">
-                <img src="../img/logo-header.png" height="140px" alt="Logo ANSEGTV">
+                <img src="../img/logo-header.png" height="140px" alt="Logo ANSEGTV" loading="lazy">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -92,7 +118,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 mb-3 contato-institucional">
-                        <p><strong>Endereço:</strong> Q 01 SAUS, Ed. Terra Brasilis, Salas 1102 e 1103 | CEP 70.070-941 Brasília - DF</p>
+                        <p><strong>Endereço:</strong> SAUS, Quadra 1, Bloco M, Edifício Libertas, Sala 303 | 70.070-935 | Brasília - DF</p>
                         <p><strong>E-mail:</strong> <a href="mailto:diretoria@ansegtv.com.br">diretoria@ansegtv.com.br</a></p>                 
                         
                     </div>
@@ -101,7 +127,7 @@
         <div id="mapa-ansegtv" class="container mb-3">
             <div class="row">
                 <div class="col-12">
-            <iframe class="map-ansegtv_google" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1919.5492995787981!2d-47.879229316407994!3d-15.798754173668712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3b21eb4c288d%3A0x65b978f591539ad6!2sEdif%C3%ADcio%20Terra%20Brasilis!5e0!3m2!1spt-BR!2sbr!4v1595862748878!5m2!1spt-BR!2sbr" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            <iframe class="map-ansegtv_google" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1919.5492995787981!2d-47.879229316407994!3d-15.798754173668712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3b21eb4c288d%3A0x65b978f591539ad6!2sEdif%C3%ADcio%20Terra%20Brasilis!5e0!3m2!1spt-BR!2sbr!4v1595862748878!5m2!1spt-BR!2sbr" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" title="Localização da ANSEGTV no Google Maps">
             </div>
             </div>
         </div>

@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="pt-BR">
         <!-- Head Section -->
@@ -16,6 +15,21 @@
     <meta property="og:description" content="ANSEGTV é a Associação Nacional de Segurança e Transporte de Valores. Uma entidade sem fins lucrativos estrutura para representar os interesses das empresas do segmento.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://ansegtv.com.br/img/open-graph-ansegtv2.png">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "Atuação da ANSEGTV - Mapa de Abrangência Nacional",
+      "description": "A ANSEGTV possui atuação nacional em 25 estados + DF. Clique no mapa para conhecer as empresas parceiras em cada região.",
+      "url": "https://ansegtv.com.br/mapa/",
+      "about": {
+        "@type": "Organization",
+        "name": "ANSEGTV",
+        "url": "https://ansegtv.com.br"
+      }
+    }
+    </script>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -41,7 +55,7 @@
         <nav class="navbar navbar-expand-lg static-top navbar-light px-3">
   <div class="container">
     <a class="navbar-brand" href="../">
-      <img src="../img/logo-header.png" height="140px" alt="Logo ANSEGTV">
+      <img src="../img/logo-header.png" height="140px" alt="Logo ANSEGTV" loading="lazy">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -79,7 +93,7 @@
     <div class="container">
         <div class="row">
             <div class="header-wrap">
-                <img src="../img/icon-quemsomos.png" alt="Quem Somos" class="icon" width="96" height="95">
+                <img src="../img/icon-quemsomos.png" alt="Quem Somos" class="icon" width="96" height="95" loading="lazy">
                 <h2 class="title">Quem Somos</h2>
             </div>
             <div class="content-wrap">
@@ -96,7 +110,7 @@
     <div class="container">
         <div class="row">
             <div class="header-wrap">
-                <img src="../img/icon_missao.png" alt="Missão" class="icon" width="144" height="134">
+                <img src="../img/icon_missao.png" alt="Missão" class="icon" width="144" height="134" loading="lazy">
                 <h2 class="title">Missão, Visão e Valores</h2>
             </div>
             <div class="content-wrap">
@@ -139,53 +153,53 @@
         <div class="row estrutura mb-5">
             
             <div class="col-md-4 my-3 offset-md-1">
-                <img src="../img/icon-building.png" alt="12 Empresas">
+                <img src="../img/icon-building.png" alt="12 Empresas" loading="lazy">
                 <p>FORMADA POR <strong>15 EMPRESAS</strong> DE SEGURANÇA E TRANSPORTE DE VALORES </p>
             </div>
             <div class="col-md-3 my-3">
-                <img src="../img/icon_map.png" alt="Presente em 24 Estados Brasileiros + DF">
+                <img src="../img/icon_map.png" alt="Presente em 24 Estados Brasileiros + DF" loading="lazy">
                 <p><strong>25 ESTADOS</strong><br> BRASILEIROS + DF</p>
             </div>
             <div class="col-md-3 my-3">
-                <img src="../img/icon-factory.png" alt="71 Bases operacionais">
+                <img src="../img/icon-factory.png" alt="71 Bases operacionais" loading="lazy">
                 <p><strong>75 BASES</strong><br> OPERACIONAIS</p>
             </div>
         </div>
         <div class="row servicos text-center mt-3">
             <div class="col-md-3 offset-md-1">
-                <img src="../img/icon-lock_2.png" alt="">
+                <img src="../img/icon-lock_2.png" alt="Cadeado" loading="lazy">
                 <p> Tipos de Serviços:</p>
             </div>
             <div class="col-md-8">
                 <ul class="servicos-list text-center">
                     <li>
-                        <img src="../img/icon-transporte_2.png" alt="">
+                        <img src="../img/icon-transporte_2.png" alt="Caminhão de transporte" loading="lazy">
                         <p>Transporte de Valores</p>
                     </li>
                     <li>
-                        <img src="../img/icon-lock_2.png" alt="">
+                        <img src="../img/icon-lock_2.png" alt="Cadeado" loading="lazy">
                         <p>Custódia</p>
                     </li>
                     <li>
-                        <img src="../img/icon-siren_2.png" alt="">
+                        <img src="../img/icon-siren_2.png" alt="Sirene" loading="lazy">
                         <p>Escolta</p>
                     </li>
                     <li>
-                        <img src="../img/icon-others_2.png" alt="">
+                        <img src="../img/icon-others_2.png" alt="Ícone de outros serviços" loading="lazy">
                         <p>Outros</p>
                     </li>
                 </ul>
                 <ul class="servicos-list text-center">
                     <li>
-                        <img src="../img/icon-shield_2.png" alt="">
+                        <img src="../img/icon-shield_2.png" alt="Escudo" loading="lazy">
                         <p>Vigilância<br> </p>
                     </li>
                     <li>
-                        <img src="../img/icon-moneybag_2.png" alt="">
+                        <img src="../img/icon-moneybag_2.png" alt="Saco de dinheiro" loading="lazy">
                         <p>Gestão de <br>Numerário</p>
                     </li >
                     <li class="mt-4">
-                        <img src="../img/icon-computer.png" alt="">
+                        <img src="../img/icon-computer.png" alt="Computador" loading="lazy">
                         <p>Segurança <br>Eletrônica</p> 
                     </li >
                 </ul>
@@ -198,7 +212,7 @@
             <div class="container">
                 <div class="row">
                     <div class="header-wrap">
-                        <img src="../img/icon_map.png" alt="Atuação da ANSEGTV" class="icon" width="92" height="92">
+                        <img src="../img/icon_map.png" alt="Mapa da Atuação da ANSEGTV" class="icon" width="92" height="92" loading="lazy">
                         <h2 class="title">Atuação da ANSEGTV</h2><br>
                         <h3 class="subtitle">A ANSEGTV possui atuação nacional em 25 estados + DF. Clique no mapa para conhecer as empresas.</h3>
                     </div>
@@ -664,7 +678,7 @@
 <section id="footer" class="container">
         <div class="row">
             <div class="col-12 mb-3 contato-institucional text-center">
-                <p><strong>Endereço:</strong> Q 01 SAUS, Ed. Terra Brasilis, Salas 1102 e 1103 | CEP 70.070-941 Brasília - DF</p>
+                <p><strong>Endereço:</strong> SAUS, Quadra 1, Bloco M, Edifício Libertas, Sala 303 | 70.070-935 | Brasília - DF</p>
                 <p><strong>E-mail:</strong> <a href="mailto:diretoria@ansegtv.com.br">diretoria@ansegtv.com.br</a></p>                
                 
             </div>

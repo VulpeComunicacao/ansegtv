@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="pt-BR">
         <!-- Head Section -->
@@ -16,6 +15,28 @@
     <meta property="og:description" content="Saiba mais sobre a ANSEGTV. Nossa estrutura, unidades, serviços e parcerias">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://ansegtv.com.br/img/open-graph-ansegtv2.png">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Parcerias | ANSEGTV - Associação Nacional de Segurança e Transporte de Valores",
+      "description": "Saiba mais sobre a ANSEGTV. Nossa estrutura, unidades, serviços e parcerias, incluindo a Frente Parlamentar em Defesa do Setor de Serviços.",
+      "url": "https://ansegtv.com.br/parcerias/",
+      "about": [
+        {
+          "@type": "Organization",
+          "name": "ANSEGTV - Associação Nacional de Segurança e Transporte de Valores",
+          "url": "https://ansegtv.com.br"
+        },
+        {
+          "@type": "Organization",
+          "name": "Frente Parlamentar em Defesa do Setor de Serviços",
+          "url": "https://frenteparlamentarservicos.com.br/"
+        }
+      ]
+    }
+    </script>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -40,7 +61,7 @@
         <nav class="navbar navbar-expand-lg static-top navbar-light px-3">
   <div class="container">
     <a class="navbar-brand" href="../">
-      <img src="../img/logo-header.png" height="140px" alt="Logo ANSEGTV">
+      <img src="../img/logo-header.png" height="140px" alt="Logo ANSEGTV" loading="lazy">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -91,7 +112,7 @@
         </div>
         <div class="row">
             <div class="col-12 text-center">
-                <img src="../img/uploads/2020/09/frente-parlamentar.png" width="480" height="auto" alt="Logo Frente Parlamentar" class="img-fluid mb-60">
+                <img src="../img/uploads/2020/09/frente-parlamentar.png" width="480" height="auto" alt="Logo Frente Parlamentar" class="img-fluid mb-60" loading="lazy">
                 <h3><strong>ANSEGTV e a Frente Parlamentar em Defesa do Setor de Serviços </strong></h3>
             </div>
             <div class="col-12 text-justify">
@@ -105,7 +126,7 @@
                 <p class="article">Neste contexto, importante ressaltar o peso do segmento para a economia. O setor de serviços representa cerca de 70% do PIB, segundo o IBGE (Instituto Brasileiro de Geografia e Estatística), e foi responsável apenas em 2019 por quase sete milhões de contratações, de acordo com números do CAGED (Cadastro Geral de Empregados e Desempregados).</p>
                 <p class="article">A ANSEGTV é favorável ao diálogo com as mais diferentes linhas de pensamento e seguirá apoiando e participando de iniciativas que contribuam para o crescimento do país.</p>
                 <p class="article">Conheça mais sobre a Frente Parlamentar em Defesa do Setor de Serviços acessando <a href="https://frenteparlamentarservicos.com.br/" target="_blank"> https://frenteparlamentarservicos.com.br/ </a> e assistindo ao vídeo institucional abaixo.</p><br>
-                <div class="frame-video text-center"><iframe width="480" height="300" src="https://www.youtube-nocookie.com/embed/u2r5wgWPfYo?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+                <div class="frame-video text-center"><iframe width="480" height="300" src="https://www.youtube-nocookie.com/embed/u2r5wgWPfYo?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Vídeo institucional da Frente Parlamentar em Defesa do Setor de Serviços"></iframe></div>
             </div>
         </div>
     </div>
@@ -116,7 +137,7 @@
 <section id="footer" class="container">
         <div class="row">
             <div class="col-12 mb-3 contato-institucional text-center">
-                <p><strong>Endereço:</strong> Q 01 SAUS, Ed. Terra Brasilis, Salas 1102 e 1103 | CEP 70.070-941 Brasília - DF</p>
+                <p><strong>Endereço:</strong> SAUS, Quadra 1, Bloco M, Edifício Libertas, Sala 303 | 70.070-935 | Brasília - DF</p>
                 <p><strong>E-mail:</strong> <a href="mailto:diretoria@ansegtv.com.br">diretoria@ansegtv.com.br</a></p>                
                 
             </div>

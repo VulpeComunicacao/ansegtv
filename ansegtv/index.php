@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="pt-BR">
         <!-- Head Section -->
@@ -16,6 +15,26 @@
     <meta property="og:description" content="Saiba mais sobre a ANSEGTV. Nossa estrutura, unidades, serviços">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://ansegtv.com.br/img/open-graph-ansegtv2.png">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "AboutPage",
+      "name": "ANSEGTV - Associação Nacional de Segurança e Transporte de Valores",
+      "description": "Saiba mais sobre a ANSEGTV. Nossa estrutura, unidades, serviços",
+      "url": "https://ansegtv.com.br/ansegtv/",
+      "mainEntity": {
+        "@type": "Organization",
+        "name": "ANSEGTV - Associação Nacional de Segurança e Transporte de Valores",
+        "url": "https://ansegtv.com.br",
+        "logo": "https://ansegtv.com.br/img/logo-header.png",
+        "sameAs": [
+          "https://www.linkedin.com/company/ansegtv/",
+          "https://www.instagram.com/ansegtvoficial/"
+        ]
+      }
+    }
+    </script>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -40,7 +59,7 @@
         <nav class="navbar navbar-expand-lg static-top navbar-light px-3">
   <div class="container">
     <a class="navbar-brand" href="../">
-      <img src="../img/logo-header.png" height="140px" alt="Logo ANSEGTV">
+      <img src="../img/logo-header.png" height="140px" alt="Logo ANSEGTV" loading="lazy">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -86,7 +105,7 @@
     <div class="container">
         <div class="row">
             <div class="header-wrap">
-                <img src="../img/icon-quemsomos.png" alt="Quem Somos" class="icon" width="96" height="95">
+                <img src="../img/icon-quemsomos.png" alt="Quem Somos" class="icon" width="96" height="95" loading="lazy">
                 <h2 class="title">Quem Somos</h2>
             </div>
             <div class="content-wrap">
@@ -103,7 +122,7 @@
     <div class="container">
         <div class="row">
             <div class="header-wrap">
-                <img src="../img/icon_missao.png" alt="Missão" class="icon" width="144" height="134">
+                <img src="../img/icon_missao.png" alt="Missão" class="icon" width="144" height="134" loading="lazy">
                 <h2 class="title">Missão, Visão e Valores</h2>
             </div>
             <div class="content-wrap">
@@ -143,7 +162,7 @@
 <section id="footer" class="container">
         <div class="row">
             <div class="col-12 mb-3 contato-institucional text-center">
-                <p><strong>Endereço:</strong> Q 01 SAUS, Ed. Terra Brasilis, Salas 1102 e 1103 | CEP 70.070-941 Brasília - DF</p>
+                <p><strong>Endereço:</strong> SAUS, Quadra 1, Bloco M, Edifício Libertas, Sala 303 | 70.070-935 | Brasília - DF</p>
                 <p><strong>E-mail:</strong> <a href="mailto:diretoria@ansegtv.com.br">diretoria@ansegtv.com.br</a></p>                
                 
             </div>

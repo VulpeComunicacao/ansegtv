@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="pt-BR">
         <!-- Head Section -->
@@ -16,6 +15,26 @@
     <meta property="og:description" content="Acompanhe o Índice de Inflação Setorial de acordo com as bases anuais para cada uma das 27 unidades da federação nos respectivos meses de dissídio da mão de obra.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://ansegtv.com.br/img/open-graph-ansegtv2.png">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Report",
+      "name": "Índice de Inflação Setorial - ANSEGTV",
+      "headline": "Índice de Inflação - ANSEGTV - Associação Nacional de Segurança e Transporte de Valores",
+      "description": "Acompanhe o Índice de Inflação Setorial de acordo com as bases anuais para cada uma das 27 unidades da federação nos respectivos meses de dissídio da mão de obra.",
+      "url": "https://ansegtv.com.br/indice-inflacao/",
+      "publisher": {
+        "@type": "Organization",
+        "name": "ANSEGTV",
+        "url": "https://ansegtv.com.br",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://ansegtv.com.br/img/logo-header.png"
+        }
+      }
+    }
+    </script>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -40,7 +59,7 @@
         <nav class="navbar navbar-expand-lg static-top navbar-light px-3">
   <div class="container">
     <a class="navbar-brand" href="../">
-      <img src="../img/logo-header.png" height="140px" alt="Logo ANSEGTV">
+      <img src="../img/logo-header.png" height="140px" alt="Logo ANSEGTV" loading="lazy">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -209,7 +228,7 @@
 <section id="footer" class="container">
         <div class="row">
             <div class="col-12 mb-3 contato-institucional text-center">
-                <p><strong>Endereço:</strong> Q 01 SAUS, Ed. Terra Brasilis, Salas 1102 e 1103 | CEP 70.070-941 Brasília - DF</p>
+                <p><strong>Endereço:</strong> SAUS, Quadra 1, Bloco M, Edifício Libertas, Sala 303 | 70.070-935 | Brasília - DF</p>
                 <p><strong>E-mail:</strong> <a href="mailto:diretoria@ansegtv.com.br">diretoria@ansegtv.com.br</a></p>                
                 
             </div>

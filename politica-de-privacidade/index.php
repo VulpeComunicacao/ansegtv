@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="pt-BR">
         <!-- Head Section -->
@@ -16,6 +15,21 @@
     <meta property="og:description" content="Saiba mais sobre a Política de Privacidade da ANSEGTV.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://ansegtv.com.br/img/open-graph-ansegtv2.png">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Política de Privacidade | ANSEGTV - Associação Nacional de Segurança e Transporte de Valores",
+      "description": "Saiba mais sobre a Política de Privacidade da ANSEGTV e o uso de cookies em nosso site.",
+      "url": "https://ansegtv.com.br/politica-de-privacidade/",
+      "about": {
+        "@type": "Organization",
+        "name": "ANSEGTV",
+        "url": "https://ansegtv.com.br"
+      }
+    }
+    </script>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -40,7 +54,7 @@
         <nav class="navbar navbar-expand-lg static-top navbar-light px-3">
   <div class="container">
     <a class="navbar-brand" href="../">
-      <img src="../img/logo-header.png" height="140px" alt="Logo ANSEGTV">
+      <img src="../img/logo-header.png" height="140px" alt="Logo ANSEGTV" loading="lazy">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -111,7 +125,7 @@
 
                     <h4>O QUE SÃO COOKIES?</h4>
 
-                    <p class="article">Como é prática comum em quase todos os sites profissionais, este site usa cookies, que são pequenos arquivos baixados no seu computador, para melhorar sua experiência. Esta página descreve quais informações eles coletam, como as usamos e por que às vezes precisamos armazenar esses cookies. Você pode impedir que esses cookies sejam armazenados, no entanto, isso pode fazer o downgrade ou ‘quebrar’ certos elementos da funcionalidade do site. Para alterar a política de cookies, clique aqui.</p>
+                    <p class="article">Como é prática comum em quase todos os sites profissionais, este site usa cookies, que são pequenos arquivos baixados no seu computador, para melhorar sua experiência. Esta página descreve quais informações eles coletam, como as usamos e por que às vezes precisamos armazenar esses cookies. Você pode impedir que esses cookies sejam armazenados, no entanto, isso pode fazer o downgrade ou 'quebrar' certos elementos da funcionalidade do site. Para alterar a política de cookies, clique aqui.</p>
                     
                     
                     
@@ -176,7 +190,7 @@
 <section id="footer" class="container">
         <div class="row">
             <div class="col-12 mb-3 contato-institucional text-center">
-                <p><strong>Endereço:</strong> Q 01 SAUS, Ed. Terra Brasilis, Salas 1102 e 1103 | CEP 70.070-941 Brasília - DF</p>
+                <p><strong>Endereço:</strong> SAUS, Quadra 1, Bloco M, Edifício Libertas, Sala 303 | 70.070-935 | Brasília - DF</p>
                 <p><strong>E-mail:</strong> <a href="mailto:diretoria@ansegtv.com.br">diretoria@ansegtv.com.br</a></p>                
                 
             </div>
