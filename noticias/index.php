@@ -467,6 +467,8 @@
                             
                             if (currentPage >= totalPages) {
                                 loadMoreBtn.text('Todas as notícias carregadas.').prop('disabled', true);
+                            } else {
+                                loadMoreBtn.text('Carregar Mais Notícias').prop('disabled', false);
                             }
                         },
                         error: function(xhr, status, error) {
