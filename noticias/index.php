@@ -377,10 +377,14 @@
          </div>
       </section>
 
-    <!-- Inclua jQuery se ainda não estiver incluído -->
+    <!-- Inclua jQuery -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Popper.js para Bootstrap (requer jQuery) -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS (requer Popper.js e jQuery) -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
-    <script type="text/javascript">
+    <script>
         jQuery(document).ready(function($) {
             let currentPage = 1;
             const postsPerPage = <?php echo $posts_per_page; ?>;
@@ -463,8 +467,6 @@
                             
                             if (currentPage >= totalPages) {
                                 loadMoreBtn.text('Todas as notícias carregadas.').prop('disabled', true);
-                            } else {
-                                loadMoreBtn.text('Carregar Mais Notícias').prop('disabled', false);
                             }
                         },
                         error: function(xhr, status, error) {
@@ -476,18 +478,19 @@
                     loadMoreBtn.text('Todas as notícias carregadas.').prop('disabled', true);
                 }
             });
-        });
 
-        $('.carousel').carousel({
-        interval: 5000
-        })
+            // Movido para dentro do document.ready
+            $('.carousel').carousel({
+                interval: 5000
+            });
 
-        $('ul.nav li.dropdown').hover(function() {
-        $(this).find('.dropdown-menu').stop(true, true).delay(100).fadeIn(300);
-        }, function() {
-        $(this).find('.dropdown-menu').stop(true, true).delay(100).fadeOut(300);
+            // Movido para dentro do document.ready
+            $('ul.nav li.dropdown').hover(function() {
+                $(this).find('.dropdown-menu').stop(true, true).delay(100).fadeIn(300);
+            }, function() {
+                $(this).find('.dropdown-menu').stop(true, true).delay(100).fadeOut(300);
+            });
         });
-        
     </script>
   <script src="//tag.goadopt.io/injector.js?website_code=98bfaecd-beda-4252-b173-f964b7a9a092" class="adopt-injector"></script>
  </body>

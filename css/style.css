@@ -1103,7 +1103,7 @@ html, body{
 /*
 // #Responsive Styles
 */
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 991px) {
 /*Navbar*/
 .navbar-collapse {height: 100%;}
 ul.navbar-nav {height: auto;}
