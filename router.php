@@ -1,11 +1,20 @@
 <?php
 
+// Incluir sistema de redirecionamentos
+require_once __DIR__ . '/noticias/redirects.php';
+
 $request_uri = $_SERVER['REQUEST_URI'];
 $path = parse_url($request_uri, PHP_URL_PATH);
 $query = parse_url($request_uri, PHP_URL_QUERY);
 
-// Debug: Log para verificar o que está chegando
-error_log("Router.php - URI: " . $request_uri . " | Path: " . $path);
+// Verificar se precisa de redirecionamento 301
+$redirects = getNewsRedirects();
+if ($redirects->needsRedirect($request_uri)) {
+    // Validar se o redirecionamento é válido antes de executar
+    if ($redirects->validateRedirect($request_uri)) {
+        $redirects->redirect($request_uri);
+    }
+}
 
 // Se a requisição for para /noticias/ ou /noticias/algum-slug/
 if (strpos($path, '/noticias/') === 0) {
@@ -18,12 +27,10 @@ if (strpos($path, '/noticias/') === 0) {
     
     // Verifica se é uma notícia individual (tem slug)
     $path_parts = explode('/', trim($path, '/'));
-    error_log("Router.php - Path parts: " . print_r($path_parts, true));
     
     if (count($path_parts) > 1 && $path_parts[1] !== '') {
         // É uma notícia individual - definir o slug
         $_GET['post_slug'] = $path_parts[1];
-        error_log("Router.php - Post slug detectado: " . $path_parts[1]);
     }
     
     require __DIR__ . '/noticias/index.php';

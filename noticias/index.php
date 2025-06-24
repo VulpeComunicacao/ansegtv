@@ -2,6 +2,12 @@
 <html lang="pt-BR">
 
         <?php
+        // Incluir sistema de cache
+        require_once __DIR__ . '/cache.php';
+        
+        // Incluir sistema de otimização de imagens
+        require_once __DIR__ . '/image-optimizer.php';
+        
         // Configurações do WordPress para padronização de imagens
         define('WP_UPLOADS_BASE_URL', 'https://ansegtv.com.br/website/wp-content/uploads/');
 
@@ -61,19 +67,18 @@
         if (isset($_GET['post_slug']) && !empty($_GET['post_slug'])) {
             $is_single_post = true;
             $post_slug = $_GET['post_slug'];
-            error_log("Noticias index.php - Slug recebido via GET: " . $post_slug);
         }
         // Fallback: Verifica se o último segmento da URL é um slug de notícia (e não 'noticias' em si)
         elseif (count($path_parts) > 1 && $path_parts[count($path_parts) - 1] !== 'noticias' && $path_parts[count($path_parts) - 1] !== '') {
             $is_single_post = true;
             $post_slug = $path_parts[count($path_parts) - 1];
-            error_log("Noticias index.php - Slug detectado via path: " . $post_slug);
         }
 
         if ($is_single_post) {
+            // Usar cache para notícias individuais (cache por 30 minutos)
+            $cache = getNewsCache(1800);
             $api_url = 'https://ansegtv.com.br/website/wp-json/wp/v2/posts?slug=' . $post_slug . '&_embed';
-            $response = @file_get_contents($api_url); // Use @ para suprimir avisos em caso de falha
-            $posts = json_decode($response, true);
+            $posts = $cache->getFromAPI($api_url, 'single_post', ['slug' => $post_slug]);
             $post = !empty($posts) ? $posts[0] : null; // Pega o primeiro (e único) post
 
             if ($post) {
@@ -109,35 +114,39 @@
             $posts_per_page = 24; // Número de posts por página na carga inicial e a cada 'load more'
             $current_page = 1; // Sempre começa na página 1 para o carregamento inicial
 
+            // Usar cache para lista de notícias (cache por 15 minutos)
+            $cache = getNewsCache(900);
             $api_url = 'https://ansegtv.com.br/website/wp-json/wp/v2/posts?_embed&per_page=' . $posts_per_page . '&page=' . $current_page;
+            $posts = $cache->getFromAPI($api_url, 'posts_list', ['per_page' => $posts_per_page, 'page' => $current_page]);
             
-            // Contexto para pegar os headers
-            $context = stream_context_create([
-                'http' => [
-                    'header' => 'Accept: application/json'
-                ]
-            ]);
-
-            $response = @file_get_contents($api_url, false, $context); // Use @ to suppress warnings from file_get_contents
-            if ($response === false) {
-                error_log("Erro ao acessar a API do WordPress: " . $api_url); // Log errors
-                $posts = [];
-            } else {
-                $posts = json_decode($response, true);
-            }
-
             $total_posts = 0;
             $total_pages = 0;
 
-            // Extrair X-WP-Total e X-WP-TotalPages dos cabeçalhos
-            if (isset($http_response_header)) { // $http_response_header é preenchido por file_get_contents
-                foreach ($http_response_header as $header) {
-                    if (preg_match('/X-WP-Total:\s*(\d+)/i', $header, $matches)) {
-                        $total_posts = (int)$matches[1];
+            // Para obter os headers de paginação, fazemos uma requisição sem cache
+            if ($posts === null) {
+                $context = stream_context_create([
+                    'http' => [
+                        'header' => 'Accept: application/json'
+                    ]
+                ]);
+                
+                $response = @file_get_contents($api_url, false, $context);
+                if ($response !== false) {
+                    $posts = json_decode($response, true);
+                    
+                    // Extrair X-WP-Total e X-WP-TotalPages dos cabeçalhos
+                    if (isset($http_response_header)) {
+                        foreach ($http_response_header as $header) {
+                            if (preg_match('/X-WP-Total:\s*(\d+)/i', $header, $matches)) {
+                                $total_posts = (int)$matches[1];
+                            }
+                            if (preg_match('/X-WP-TotalPages:\s*(\d+)/i', $header, $matches)) {
+                                $total_pages = (int)$matches[1];
+                            }
+                        }
                     }
-                    if (preg_match('/X-WP-TotalPages:\s*(\d+)/i', $header, $matches)) {
-                        $total_pages = (int)$matches[1];
-                    }
+                } else {
+                    $posts = [];
                 }
             }
         }
@@ -296,8 +305,28 @@
                </div>
             <?php
                $content_html = $post['content']['rendered'];
-               // Adiciona a classe img-fluid a todas as tags <img> dentro do conteúdo
-               $content_html = preg_replace('/<img (.*?)>/i', '<img class="img-fluid" $1>', $content_html);
+               // Adiciona a classe img-fluid e otimiza todas as tags <img> dentro do conteúdo
+               $content_html = preg_replace_callback('/<img([^>]+)>/i', function($matches) {
+                   $img_tag = $matches[0];
+                   $img_attrs = $matches[1];
+                   
+                   // Extrair src da imagem
+                   if (preg_match('/src=["\']([^"\']+)["\']/i', $img_attrs, $src_matches)) {
+                       $src = $src_matches[1];
+                       $alt = '';
+                       
+                       // Extrair alt se existir
+                       if (preg_match('/alt=["\']([^"\']+)["\']/i', $img_attrs, $alt_matches)) {
+                           $alt = $alt_matches[1];
+                       }
+                       
+                       // Gerar nova tag otimizada
+                       return generateOptimizedImg($src, $alt, 'img-fluid');
+                   }
+                   
+                   // Se não conseguir extrair src, apenas adicionar classe
+                   return str_replace('<img', '<img class="img-fluid"', $img_tag);
+               }, $content_html);
             ?>
             <div class="row justify-content-center">
                   <div class="col-12 col-md-10 offset-md-1 content-news">
@@ -344,7 +373,7 @@
                                <div class="single-blog">
                                    <div class="blog-img">
                                        <a href="<?php echo $local_link; ?>">
-                                           <img src="<?php echo $image_url; ?>" alt="<?php echo $title; ?>" loading="lazy">
+                                           <img src="<?php echo $image_url; ?>" alt="<?php echo $title; ?>" loading="lazy" class="img-fluid">
                                        </a>
                                    </div>
                                    <div class="blog-content">
@@ -398,10 +427,19 @@
             const newsContainer = $('#news-container');
             const loadMoreBtn = $('#load-more-btn');
 
+            // Cache local para evitar requisições duplicadas
+            const requestCache = {};
+
             loadMoreBtn.on('click', function() {
                 currentPage++;
                 if (currentPage <= totalPages) {
                     const apiUrl = `https://ansegtv.com.br/website/wp-json/wp/v2/posts?_embed&per_page=${postsPerPage}&page=${currentPage}`;
+                    
+                    // Verificar cache local primeiro
+                    if (requestCache[apiUrl]) {
+                        appendPosts(requestCache[apiUrl]);
+                        return;
+                    }
 
                     $.ajax({
                         url: apiUrl,
@@ -410,55 +448,11 @@
                             loadMoreBtn.text('Carregando...').prop('disabled', true);
                         },
                         success: function(data) {
+                            // Salvar no cache local
+                            requestCache[apiUrl] = data;
+                            
                             if (data.length > 0) {
-                                let newPostsHtml = '';
-                                data.forEach(function(post) {
-                                    let title = post.title.rendered;
-                                    let excerpt = post.excerpt.rendered.replace(/<[^>]*>/g, ''); // Strip HTML from excerpt
-                                    if (excerpt.length > 150) {
-                                        excerpt = excerpt.substring(0, 150) + '...';
-                                    }
-                                    let local_link = `/noticias/${post.slug}/`;
-                                    let imageUrl = '';
-                                    if (post._embedded && post._embedded['wp:featuredmedia'] && post._embedded['wp:featuredmedia'][0] && post._embedded['wp:featuredmedia'][0].source_url) {
-                                        imageUrl = post._embedded['wp:featuredmedia'][0].source_url;
-                                    } else if (post.yoast_head_json && post.yoast_head_json.og_image && post.yoast_head_json.og_image[0] && post.yoast_head_json.og_image[0].url) {
-                                        imageUrl = post.yoast_head_json.og_image[0].url;
-                                    }
-
-                                    // Padroniza a URL da imagem para uploads/2025/06/
-                                    if (imageUrl) {
-                                        const filename = imageUrl.substring(imageUrl.lastIndexOf('/') + 1);
-                                        imageUrl = `https://ansegtv.com.br/website/wp-content/uploads/2025/06/${filename}`;
-                                    }
-
-                                    let date = new Date(post.date).toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' });
-
-                                    newPostsHtml += `
-                                        <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
-                                            <div class="single-blog">
-                                                <div class="blog-img">
-                                                    <a href="${local_link}">
-                                                        <img src="${imageUrl}" alt="${title}" loading="lazy">
-                                                    </a>
-                                                </div>
-                                                <div class="blog-content">
-                                                    <div class="blog-title">
-                                                        <h2 class="title-large"><a href="${local_link}">${title}</a></h2>
-                                                        <div class="meta">
-                                                            <ul>
-                                                                <li>${date}</li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <p>${excerpt}</p>
-                                                    <a href="${local_link}" class="box_btn">leia mais</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    `;
-                                });
-                                newsContainer.append(newPostsHtml);
+                                appendPosts(data);
                             } else {
                                 loadMoreBtn.text('Todas as notícias carregadas.').prop('disabled', true);
                             }
@@ -486,6 +480,58 @@
                     loadMoreBtn.text('Todas as notícias carregadas.').prop('disabled', true);
                 }
             });
+
+            // Função para adicionar posts ao container
+            function appendPosts(data) {
+                let newPostsHtml = '';
+                data.forEach(function(post) {
+                    let title = post.title.rendered;
+                    let excerpt = post.excerpt.rendered.replace(/<[^>]*>/g, ''); // Strip HTML from excerpt
+                    if (excerpt.length > 150) {
+                        excerpt = excerpt.substring(0, 150) + '...';
+                    }
+                    let local_link = `/noticias/${post.slug}/`;
+                    let imageUrl = '';
+                    if (post._embedded && post._embedded['wp:featuredmedia'] && post._embedded['wp:featuredmedia'][0] && post._embedded['wp:featuredmedia'][0].source_url) {
+                        imageUrl = post._embedded['wp:featuredmedia'][0].source_url;
+                    } else if (post.yoast_head_json && post.yoast_head_json.og_image && post.yoast_head_json.og_image[0] && post.yoast_head_json.og_image[0].url) {
+                        imageUrl = post.yoast_head_json.og_image[0].url;
+                    }
+
+                    // Padroniza a URL da imagem para uploads/2025/06/
+                    if (imageUrl) {
+                        const filename = imageUrl.substring(imageUrl.lastIndexOf('/') + 1);
+                        imageUrl = `https://ansegtv.com.br/website/wp-content/uploads/2025/06/${filename}`;
+                    }
+
+                    let date = new Date(post.date).toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' });
+
+                    newPostsHtml += `
+                        <div class="col-xl-3 col-md-4 col-sm-6 mb-20">
+                            <div class="single-blog">
+                                <div class="blog-img">
+                                    <a href="${local_link}">
+                                        <img src="${imageUrl}" alt="${title}" loading="lazy" class="img-fluid">
+                                    </a>
+                                </div>
+                                <div class="blog-content">
+                                    <div class="blog-title">
+                                        <h2 class="title-large"><a href="${local_link}">${title}</a></h2>
+                                        <div class="meta">
+                                            <ul>
+                                                <li>${date}</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <p>${excerpt}</p>
+                                    <a href="${local_link}" class="box_btn">leia mais</a>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                });
+                newsContainer.append(newPostsHtml);
+            }
 
             // Movido para dentro do document.ready
             $('.carousel').carousel({
