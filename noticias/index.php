@@ -495,5 +495,6 @@
         });
     </script>
   <script src="//tag.goadopt.io/injector.js?website_code=98bfaecd-beda-4252-b173-f964b7a9a092" class="adopt-injector"></script>
+  <?php include_once dirname(__DIR__) . '/includes/footer.php'; ?>
  </body>
 </html> 
