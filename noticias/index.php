@@ -122,30 +122,33 @@
             $total_posts = 0;
             $total_pages = 0;
 
-            // Para obter os headers de paginação, fazemos uma requisição sem cache
-            if ($posts === null) {
-                $context = stream_context_create([
-                    'http' => [
-                        'header' => 'Accept: application/json'
-                    ]
-                ]);
-                
-                $response = @file_get_contents($api_url, false, $context);
-                if ($response !== false) {
+            // Sempre fazer uma requisição para obter os headers de paginação
+            $context = stream_context_create([
+                'http' => [
+                    'header' => 'Accept: application/json'
+                ]
+            ]);
+            
+            $response = @file_get_contents($api_url, false, $context);
+            if ($response !== false) {
+                // Se não temos posts do cache, usar a resposta da API
+                if ($posts === null) {
                     $posts = json_decode($response, true);
-                    
-                    // Extrair X-WP-Total e X-WP-TotalPages dos cabeçalhos
-                    if (isset($http_response_header)) {
-                        foreach ($http_response_header as $header) {
-                            if (preg_match('/X-WP-Total:\s*(\d+)/i', $header, $matches)) {
-                                $total_posts = (int)$matches[1];
-                            }
-                            if (preg_match('/X-WP-TotalPages:\s*(\d+)/i', $header, $matches)) {
-                                $total_pages = (int)$matches[1];
-                            }
+                }
+                
+                // Extrair X-WP-Total e X-WP-TotalPages dos cabeçalhos
+                if (isset($http_response_header)) {
+                    foreach ($http_response_header as $header) {
+                        if (preg_match('/X-WP-Total:\s*(\d+)/i', $header, $matches)) {
+                            $total_posts = (int)$matches[1];
+                        }
+                        if (preg_match('/X-WP-TotalPages:\s*(\d+)/i', $header, $matches)) {
+                            $total_pages = (int)$matches[1];
                         }
                     }
-                } else {
+                }
+            } else {
+                if ($posts === null) {
                     $posts = [];
                 }
             }
@@ -407,6 +410,16 @@
                         <button id="load-more-btn" class="btn-warning btn-all-news">Carregar Mais Notícias</button>
                     </div>
                 </div>
+            <?php else: ?>
+                <!-- Debug temporário -->
+                <div class="row">
+                    <div class="col-12 text-center mt-4">
+                        <small class="text-muted">
+                            Debug: total_pages = <?php echo isset($total_pages) ? $total_pages : 'não definido'; ?>, 
+                            total_posts = <?php echo isset($total_posts) ? $total_posts : 'não definido'; ?>
+                        </small>
+                    </div>
+                </div>
             <?php endif; ?>
 
          </div>
@@ -422,10 +435,15 @@
     <script>
         jQuery(document).ready(function($) {
             let currentPage = 1;
-            const postsPerPage = <?php echo $posts_per_page; ?>;
+            const postsPerPage = <?php echo isset($posts_per_page) ? $posts_per_page : 24; ?>;
             let totalPages = <?php echo isset($total_pages) ? $total_pages : 1; ?>;
             const newsContainer = $('#news-container');
             const loadMoreBtn = $('#load-more-btn');
+
+            // Debug temporário
+            console.log('Posts per page:', postsPerPage);
+            console.log('Total pages:', totalPages);
+            console.log('Load more button exists:', loadMoreBtn.length > 0);
 
             // Cache local para evitar requisições duplicadas
             const requestCache = {};
