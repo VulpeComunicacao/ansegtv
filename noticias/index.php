@@ -100,7 +100,7 @@
                 $seo_permalink = 'https://ansegtv.com.br/noticias/' . htmlspecialchars($post_slug, ENT_QUOTES, 'UTF-8') . '/';
             }
         } else {
-            $posts_per_page = 12; // Número de posts por página na carga inicial e a cada 'load more'
+            $posts_per_page = 24; // Número de posts por página na carga inicial e a cada 'load more'
             $current_page = 1; // Sempre começa na página 1 para o carregamento inicial
 
             $api_url = 'https://ansegtv.com.br/website/wp-json/wp/v2/posts?_embed&per_page=' . $posts_per_page . '&page=' . $current_page;
