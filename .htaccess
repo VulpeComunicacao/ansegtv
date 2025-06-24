@@ -1,1 +1,14 @@
-# Habilita o motor de reescrita de URLs\nRewriteEngine On\n\n# Define a base para as regras de reescrita (a raiz do seu site)\nRewriteBase /\n\n# Regra para as URLs das notícias dinâmicas (ex: /noticias/minha-noticia)\n# Se a requisição NÃO for para um arquivo existente no sistema de arquivos\nRewriteCond %{REQUEST_FILENAME} !-f\n# E se a requisição NÃO for para um diretório existente no sistema de arquivos\nRewriteCond %{REQUEST_FILENAME} !-d\n# E a URL começar com \'/noticias/\' seguido por qualquer coisa\nRewriteRule ^noticias/(.*)$ noticias/index.php [L,QSA]\n\n# Opcional: Se você tiver outras páginas \"limpas\" na raiz (ex: /quem-somos, /contato),\n# e elas não forem arquivos PHP diretos ou diretórios.\n# Exemplo para /quem-somos, /contato etc., se forem subpastas que index.php processa\n# RewriteCond %{REQUEST_FILENAME} !-f\n# RewriteCond %{REQUEST_FILENAME} !-d\n# RewriteRule ^([^\.]+)$ $1/index.php [NC,L,QSA]\n\n# Regra para reescrever index.php para a raiz (se aplicável)\n# RewriteCond %{THE_REQUEST} /index\\.php [NC]\n# RewriteRule ^(.*?)index\\.php$ /$1 [L,R=301,NC] 
+RewriteEngine On
+
+# Redirecionar URLs de notícias individuais para o WordPress
+RewriteRule ^noticias/([^/]+)/?$ website/index.php?pagename=noticias&post_slug=$1 [L,QSA]
+
+# Redirecionar a página principal de notícias
+RewriteRule ^noticias/?$ website/index.php?pagename=noticias [L,QSA]
+
+# Permitir acesso direto a arquivos existentes
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Redirecionar outras páginas para o router.php
+RewriteRule ^(.*)$ router.php [L,QSA] 
