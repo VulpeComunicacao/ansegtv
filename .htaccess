@@ -1,14 +1,8 @@
 RewriteEngine On
 
-# Redirecionar URLs de notícias individuais para o WordPress
-RewriteRule ^noticias/([^/]+)/?$ website/index.php?pagename=noticias&post_slug=$1 [L,QSA]
-
-# Redirecionar a página principal de notícias
-RewriteRule ^noticias/?$ website/index.php?pagename=noticias [L,QSA]
-
 # Permitir acesso direto a arquivos existentes
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
-# Redirecionar outras páginas para o router.php
+# Redirecionar tudo para o router.php
 RewriteRule ^(.*)$ router.php [L,QSA] 

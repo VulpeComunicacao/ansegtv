@@ -57,11 +57,17 @@
         $seo_permalink = 'https://ansegtv.com.br' . htmlspecialchars($request_uri, ENT_QUOTES, 'UTF-8');
         $post = null; // Inicializa $post como null
 
-        // Verifica se o último segmento da URL é um slug de notícia (e não 'noticias' em si)
-        // Assumindo que a URL base para notícias é /noticias/
-        if (count($path_parts) > 1 && $path_parts[count($path_parts) - 1] !== 'noticias' && $path_parts[count($path_parts) - 1] !== '') {
+        // Verifica se o slug foi passado pelo router.php
+        if (isset($_GET['post_slug']) && !empty($_GET['post_slug'])) {
+            $is_single_post = true;
+            $post_slug = $_GET['post_slug'];
+            error_log("Noticias index.php - Slug recebido via GET: " . $post_slug);
+        }
+        // Fallback: Verifica se o último segmento da URL é um slug de notícia (e não 'noticias' em si)
+        elseif (count($path_parts) > 1 && $path_parts[count($path_parts) - 1] !== 'noticias' && $path_parts[count($path_parts) - 1] !== '') {
             $is_single_post = true;
             $post_slug = $path_parts[count($path_parts) - 1];
+            error_log("Noticias index.php - Slug detectado via path: " . $post_slug);
         }
 
         if ($is_single_post) {

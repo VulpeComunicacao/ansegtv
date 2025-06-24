@@ -4,6 +4,9 @@ $request_uri = $_SERVER['REQUEST_URI'];
 $path = parse_url($request_uri, PHP_URL_PATH);
 $query = parse_url($request_uri, PHP_URL_QUERY);
 
+// Debug: Log para verificar o que está chegando
+error_log("Router.php - URI: " . $request_uri . " | Path: " . $path);
+
 // Se a requisição for para /noticias/ ou /noticias/algum-slug/
 if (strpos($path, '/noticias/') === 0) {
     // Analisa a string de consulta e preenche $_GET
@@ -12,6 +15,17 @@ if (strpos($path, '/noticias/') === 0) {
     } else {
         $_GET = []; // Garante que esteja vazio se não houver consulta
     }
+    
+    // Verifica se é uma notícia individual (tem slug)
+    $path_parts = explode('/', trim($path, '/'));
+    error_log("Router.php - Path parts: " . print_r($path_parts, true));
+    
+    if (count($path_parts) > 1 && $path_parts[1] !== '') {
+        // É uma notícia individual - definir o slug
+        $_GET['post_slug'] = $path_parts[1];
+        error_log("Router.php - Post slug detectado: " . $path_parts[1]);
+    }
+    
     require __DIR__ . '/noticias/index.php';
     exit;
 }
