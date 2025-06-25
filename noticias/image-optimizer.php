@@ -125,14 +125,12 @@ class ImageOptimizer {
      * Gera URL WebP se disponível
      */
     private function getWebPUrl($image_url) {
-        $path_parts = pathinfo($image_url);
+        // Incluir sistema de conversão se não estiver incluído
+        if (!function_exists('getWebPUrl')) {
+            require_once __DIR__ . '/image-converter.php';
+        }
         
-        // Verificar se WebP existe
-        $webp_url = $path_parts['dirname'] . '/' . $path_parts['filename'] . '.webp';
-        
-        // Em produção, você pode verificar se o arquivo existe
-        // Por enquanto, retornamos a URL WebP
-        return $webp_url;
+        return getWebPUrl($image_url);
     }
     
     /**
@@ -205,6 +203,49 @@ class ImageOptimizer {
         $this->default_width = $width;
         $this->default_height = $height;
     }
+    
+    /**
+     * Gera tag de imagem otimizada com WebP
+     */
+    public function generateOptimizedImg($src, $alt = '', $class = '') {
+        // Verificar se existe versão WebP
+        $webp_url = $this->getWebPUrl($src);
+        
+        if ($webp_url) {
+            // Gerar tag com picture para suporte a WebP
+            $picture_tag = '<picture>';
+            $picture_tag .= '<source srcset="' . htmlspecialchars($webp_url, ENT_QUOTES, 'UTF-8') . '" type="image/webp">';
+            $picture_tag .= '<img src="' . htmlspecialchars($src, ENT_QUOTES, 'UTF-8') . '"';
+            
+            if (!empty($alt)) {
+                $picture_tag .= ' alt="' . htmlspecialchars($alt, ENT_QUOTES, 'UTF-8') . '"';
+            }
+            
+            if (!empty($class)) {
+                $picture_tag .= ' class="' . htmlspecialchars($class, ENT_QUOTES, 'UTF-8') . '"';
+            }
+            
+            $picture_tag .= ' loading="lazy" decoding="async">';
+            $picture_tag .= '</picture>';
+            
+            return $picture_tag;
+        } else {
+            // Fallback para imagem original
+            $img_tag = '<img src="' . htmlspecialchars($src, ENT_QUOTES, 'UTF-8') . '"';
+            
+            if (!empty($alt)) {
+                $img_tag .= ' alt="' . htmlspecialchars($alt, ENT_QUOTES, 'UTF-8') . '"';
+            }
+            
+            if (!empty($class)) {
+                $img_tag .= ' class="' . htmlspecialchars($class, ENT_QUOTES, 'UTF-8') . '"';
+            }
+            
+            $img_tag .= ' loading="lazy" decoding="async">';
+            
+            return $img_tag;
+        }
+    }
 }
 
 // Função helper para obter instância do otimizador
@@ -225,7 +266,7 @@ function optimizeImageUrl($image_url, $width = null, $height = null) {
 // Função helper para gerar tag img otimizada
 function generateOptimizedImg($image_url, $alt = '', $class = 'img-fluid') {
     $optimizer = getImageOptimizer();
-    return $optimizer->generateImgTag($image_url, $alt, $class);
+    return $optimizer->generateOptimizedImg($image_url, $alt, $class);
 }
 
 // Função helper para gerar imagem responsiva

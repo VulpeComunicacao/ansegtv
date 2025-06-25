@@ -8,6 +8,9 @@
         // Incluir sistema de otimização de imagens
         require_once __DIR__ . '/image-optimizer.php';
         
+        // Incluir sistema de conversão de imagens
+        require_once __DIR__ . '/image-converter.php';
+        
         // Configurações do WordPress para padronização de imagens
         define('WP_UPLOADS_BASE_URL', 'https://ansegtv.com.br/website/wp-content/uploads/');
 
