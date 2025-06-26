@@ -211,6 +211,8 @@
                             <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_MT.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MT</a></li>
                             <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_PB.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PB</a></li>
                             <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_PI.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PI</a></li>
+                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_RN.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - RN</a></li>
+                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_RO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - RO</a></li>
                             <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_RR.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - RR</a></li>
                             <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_SE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - SE</a></li>
                         </ul>
