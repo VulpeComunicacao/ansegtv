@@ -21,7 +21,7 @@
       "@context": "https://schema.org",
       "@type": "CollectionPage",
       "name": "Estrutura | ANSEGTV - Associação Nacional de Segurança e Transporte de Valores",
-      "description": "Saiba mais sobre a estrutura da ANSEGTV, incluindo 7 empresas de segurança e transporte de valores, presença em 22 estados brasileiros + DF e 49 bases operacionais, e tipos de serviços oferecidos como custódia, escolta, vigilância, transporte de valores, gestão de numerário e segurança eletrônica.",
+      "description": "Saiba mais sobre a estrutura da ANSEGTV, incluindo 7 empresas de segurança e transporte de valores, presença em 22 estados brasileiros + DF e 46 bases operacionais, e tipos de serviços oferecidos como custódia, escolta, vigilância, transporte de valores, gestão de numerário e segurança eletrônica.",
       "url": "https://ansegtv.com.br/estrutura/",
       "about": {
         "@type": "Organization",
@@ -114,8 +114,8 @@
                 <p><strong>22 ESTADOS</strong><br> BRASILEIROS + DF</p>
             </div>
             <div class="col-md-3 my-3 bases-operacionais">
-                <img src="../img/icon-factory.png" alt="49 Bases operacionais" loading="lazy">
-                <p><strong>49 BASES</strong><br> OPERACIONAIS</p>
+                <img src="../img/icon-factory.png" alt="46 Bases operacionais" loading="lazy">
+                <p><strong>46 BASES</strong><br> OPERACIONAIS</p>
             </div>
         </div>
         <div class="row servicos text-center">
