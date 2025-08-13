@@ -13,3 +13,13 @@ img/uploads/redimensionadas/.DS_Store
 website/
 homologacao/
 
+# Logs e artefatos de execução
+*.log
+noticias/logs/
+error_log
+.vscode/
+.idea/
+
+# Arquivos de ambiente (caso venham a ser usados)
+.env
+
