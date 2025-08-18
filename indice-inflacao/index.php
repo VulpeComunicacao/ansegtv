@@ -140,7 +140,7 @@
 
                     <div class="tab-content">
                     <div class="tab-pane fade" id="content-2023" role="tabpanel" aria-labelledby="tab-2023">
-                          <ul class="lista-arquivos pt-3">
+                        <ul class="lista-arquivos pt-3">
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AC</a></li>
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AL</a></li>
                             <li><a href="../arquivos/2023/indice-de-inflacao-setorial_2023_AM.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2023 - AM</a></li>
@@ -171,7 +171,7 @@
                         </ul>
                       </div>
 
-                      <div class="tab-pane fade" id="content-2024" role="tabpanel" aria-labelledby="tab-2024">
+                    <div class="tab-pane fade" id="content-2024" role="tabpanel" aria-labelledby="tab-2024">
                         <ul class="lista-arquivos pt-3">
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_AC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - AC</a></li>
                             <li><a href="../arquivos/2024/indice-de-inflacao-setorial_2024_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2024 - AL</a></li>
@@ -202,19 +202,25 @@
                         </ul>
                       </div>
 
-                      <div class="tab-pane fade show active" id="content-2025" role="tabpanel" aria-labelledby="tab-2025">
-                        <ul class="lista-arquivos pt-3">
-                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - AL</a></li>
-                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - BA</a></li>
-                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_CE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - CE</a></li>
-                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_MS.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MS</a></li>
-                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_MT.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MT</a></li>
-                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_PB.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PB</a></li>
-                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_PI.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PI</a></li>
-                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_RN.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - RN</a></li>
-                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_RO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - RO</a></li>
-                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_RR.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - RR</a></li>
-                            <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_SE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - SE</a></li>
+                    <div class="tab-pane fade show active" id="content-2025" role="tabpanel" aria-labelledby="tab-2025">
+                      <ul class="lista-arquivos pt-3">
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_AC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - AC</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - AL</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_AM.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - AM</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - BA</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_CE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - CE</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_MS.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MS</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_MT.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MT</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_PB.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PB</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_PI.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PI</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_PR.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PR</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_RN.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - RN</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_RO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - RO</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_RR.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - RR</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_RS.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - RS</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_SC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - SC</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_SE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - SE</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_TO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - TO</a></li>
                         </ul>
                       </div>
                     </div>
