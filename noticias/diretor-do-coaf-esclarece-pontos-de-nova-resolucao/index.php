@@ -129,15 +129,14 @@
             </section>
         <!-- Footer Section -->
 
-<section id="footer" class="container">
-            <div class="row">
-                <div class="col-12 mb-3 contato-institucional text-center">
-                    <p><strong>Endereço:</strong> Q 01 SAUS, Ed. Terra Brasilis, Salas 1102 e 1103 | CEP 70070-941 Brasília - DF</p>
-                    <p><strong>E-mail:</strong> <a href="mailto:diretoria@ansegtv.com.br">diretoria@ansegtv.com.br</a></p>                
-                    
-                </div>
-            </div>
-        </section>
+    <!-- Footer Section -->
+    <?php
+    // Incluir sistema centralizado de informações de contato
+    require_once '../../includes/contact-info.php';
+    
+    // Renderizar footer de contato
+    render_contact_footer();
+    ?>
     
         <?php include_once '../../includes/copyright.php'; ?>
     

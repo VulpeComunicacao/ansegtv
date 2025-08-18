@@ -1,13 +1,11 @@
 
-  <section id="footer" class="container">
-            <div class="row">
-                <div class="col-12 mb-3 contato-institucional text-center">
-                    <p><strong>Endereço:</strong> SAUS, Quadra 1, Bloco M, Edifício Libertas, Sala 303 | 70.070-935 | Brasília - DF</p>
-                    <p><strong>E-mail:</strong> <a href="mailto:diretoria@ansegtv.com.br">diretoria@ansegtv.com.br</a></p>                
-                    
-                </div>
-            </div>
-    </section>
+<?php
+// Incluir sistema centralizado de informações de contato
+require_once __DIR__ . '/contact-info.php';
+
+// Renderizar footer de contato
+render_contact_footer();
+?>
     
     <?php include_once 'copyright.php'; ?>
     
