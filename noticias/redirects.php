@@ -11,6 +11,22 @@ class NewsRedirects {
         // Mapeamento de URLs antigas para novas
         // Formato: 'url_antiga' => 'slug_novo'
         $this->redirects_map = [
+            // Notícias removidas - redirecionamento para home
+            'noticias/secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv' => 'home',
+            'noticias/ansegtv-se-reune-com-novo-coordenador-geral-na-pf' => 'home',
+            'noticias/diretoria-da-ansegtv-e-recebida-pelo-novo-coordenador-da-cgcsp' => 'home',
+            'noticias/combate-ao-crime-e-tema-de-encontro-entre-ansegtv-e-governo-federal' => 'home',
+            'noticias/ansegtv-faz-visita-institucional-a-cnt' => 'home',
+            'noticias/encontro-reune-delegados-de-policia-em-sp' => 'home',
+            'noticias/diretores-da-ansegtv-visitam-novo-delegado-da-delesp-sp' => 'home',
+            'noticias/ansegtv-faz-balanco-do-ano-em-reuniao' => 'home',
+            'noticias/ansegtv-se-reune-com-ministerio-da-justica-em-brasilia' => 'home',
+            'noticias/em-live-associados-debatem-desafios-da-pandemia' => 'home',
+            'noticias/reuniao-com-secretario-da-receita-discute-questoes-tributarias' => 'home',
+            'noticias/policia-federal-elabora-manual-de-prevencao-a-lavagem-de-dinheiro' => 'home',
+            'noticias/ansegtv-participa-de-audiencia-publica-no-senado-sobre-seguranca-publica' => 'home',
+            'noticias/ansegtv-e-criada-para-incentivar-livre-concorrencia-no-setor' => 'home',
+            
             // Exemplos de URLs antigas (substitua pelos seus casos reais)
             'noticias/2019/materia-antiga.html' => 'materia-antiga',
             'noticias/2020/outra-materia-antiga.php' => 'outra-materia-antiga',
@@ -40,6 +56,12 @@ class NewsRedirects {
         
         if (isset($this->redirects_map[$path])) {
             $new_slug = $this->redirects_map[$path];
+            
+            // Se for 'home', redirecionar para a raiz do site
+            if ($new_slug === 'home') {
+                return '/';
+            }
+            
             return '/noticias/' . $new_slug . '/';
         }
         

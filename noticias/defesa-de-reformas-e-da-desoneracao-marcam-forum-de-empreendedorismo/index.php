@@ -101,12 +101,6 @@
 
                         <p class="article">O Instituto Unidos Brasil (IUB) realizou nesta terça-feira (9), em Brasília, o Fórum Desafios do Empreendedorismo e Geração de Empregos, que contou com a participação de vários empresários, dos mais variados setores, e políticos.</p>
 
- 
-
-                        <p class="article">O evento foi acompanhado, de forma remota, pelo presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Gabriel Damasceno.</p>
-
-                        
-
                         <p class="article">O seminário foi marcado pela defesa das reformas Tributária, Administrativa, além da desoneração da folha de pagamentos.</p>
 
                         <figure class="pull-left m-2 text-left">

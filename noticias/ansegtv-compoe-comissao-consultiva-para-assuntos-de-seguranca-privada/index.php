@@ -112,8 +112,6 @@
 
                         <p class="article">As reuniões da CCASP deverão ser trimestrais. Dentre suas funções, estão: estudar e propor soluções para o aprimoramento das atividades de autorização, controle e fiscalização do segmento de segurança privada e de controle e fiscalização dos planos de segurança bancários, de competência da Polícia Federal; requerer relatórios estatísticos relacionados às atividades de autorização, controle e fiscalização de segurança privada e segurança bancária, de atribuição da Polícia Federal; propor medidas para aperfeiçoamento da gestão eletrônica de processos em matéria de segurança privada e segurança bancária; e apreciar e opinar sobre outras questões relacionadas com os serviços privados de segurança e planos de segurança bancários, suscitadas por qualquer dos seus membros.</p>
 
-                        <p class="article">A ANSEGTV apoia e incentiva o retorno da CCASP. "Debater e apresentar sugestões para a melhoria do setor de segurança e transporte de valores sempre será um dos objetivos da associação", disse Max Madruga, Diretor Jurídico da ANSEGTV.</p>
-
                         <p class="article">Link para a Portaria MJSP Nº 493: <a href="https://dspace.mj.gov.br/bitstream/1/11327/1/PRT_GM_2023_493.pdf" target="_blank" rel="noopener noreferrer"> https://dspace.mj.gov.br/bitstream/1/11327/1/PRT_GM_2023_493.pdf</a></p>
 
 

@@ -109,8 +109,6 @@
 
                         <p class="article">O evento, em formato virtual, foi conduzido pelo DPF Dr. Licínio Nunes de Moraes Netto, Coordenador-Geral da CGCSP, e pela DPF Dra. Denise Tenório, Coordenadora da DICOF (Divisão de Controle e Fiscalização de Segurança Privada) da PF.</p>
 
-                        <p class="article">Na ocasião, Max Madruga, Diretor Jurídico da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) e Gerente Executivo da TBForte, foi um dos palestrantes. Em sua participação, ele apresentou as boas práticas implantadas na empresa em relação ao cumprimento das normas legais sobre o tema. </p>
-
                         <p class="article">No encontro, a PF recomendou maior qualidade nas comunicações encaminhadas ao órgão. Também defendeu o aculturamento dos trabalhadores do setor, ou seja, a conscientização sobre a importância em relação à identificação, prevenção e combate ao crime de lavagem de dinheiro. Além disso, sugeriu a implantação de sistemas que auxiliem as transportadoras a analisarem as atividades operacionais praticadas.</p>
 
                     </div>

@@ -98,7 +98,7 @@
                     <div class="row">
                         <div class="col-12 col-md-10 offset-md-1 content-news">
 
-                        <p class="article">O Instituto Unidos Brasil (IUB) realizou na quinta-feira (19), no Clube Atlético Monte Líbano, em São Paulo, o Fórum Segurança Jurídica no Brasil. A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) foi uma das apoiadoras do evento. Seu presidente, Gabriel Damasceno, foi um dos convidados e esteve presente na solenidade.</p>
+                        <p class="article">O Instituto Unidos Brasil (IUB) realizou na quinta-feira (19), no Clube Atlético Monte Líbano, em São Paulo, o Fórum Segurança Jurídica no Brasil. A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) foi uma das apoiadoras do evento.</p>
 
                         <p class="article">Logo na abertura, Nabil Sahyoun, presidente do IUB, defendeu medidas de incentivo aos negócios, como a desoneração da folha de pagamentos e a simplificação tributária.</p>
 
@@ -114,8 +114,6 @@
                         <p class="article"> Marco Aurélio Mello afirmou que o ativismo judicial enfraquece o Judiciário e defendeu a harmonia e a independência entre os Poderes Legislativo, Executivo e Judiciário</p>
 
                         <p class="article"> Ives Gandra enfatizou que é preciso respeitar a Lei, mesmo quando ela não nos agrada. Na mesma linha que Marco Aurélio, também defendeu uma menor influência do Judiciário no Legislativo.</p>
-
-                        <p class="article"> Presidente da ANSEGTV, Gabriel Damasceno considerou o evento bastante produtivo e enriquecedor. “É sempre importante ouvir a opinião de personalidades relevantes de nossa sociedade. Todos apoiamos um Brasil mais forte e estável, seja economicamente, politicamente ou juridicamente”, comentou.</p>
 
 
 

@@ -103,8 +103,6 @@
 
                         <p class="article">Em formato híbrido, o encontro contou com a participação de representantes de entidades apoiadoras, deputados, dentre outras autoridades.</p>
 
-                        <p class="article">Em sua fala, o presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Gabriel Damasceno, destacou o trabalho desenvolvido pela FPS ao longo do ano. “Tivemos reuniões com o Ministério da Economia, com autoridades de diversas Secretarias do Governo e com parlamentares, inclusive com o presidente da Câmara, deputado Arthur Lira. Todas foram primordiais para avançarmos com temas relevantes para as empresas aqui representadas”, afirmou.</p>
-
                         <figure class="pull-left m-2 text-left">
                             <img src="../../img/uploads/2021/12/encontro-encerramento.jpg" width="450" height="auto" alt="Reunião de Encerramento - ANSEGTV" class=" img-fluid">	
                             <figcaption></figcaption>

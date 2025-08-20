@@ -112,8 +112,6 @@
 
                         <p class="article">Dentre os temas que serão discutidos, estão os impactos da avaliação do Brasil pelo GAFI (Grupo de Ação Financeira) para o mercado nacional; as melhores práticas de gestão integrada em PLD-FTP, compliance e integridade, com foco especial na terceirização e sua influência nas operações das empresas; análises sobre as implicações das sanções internacionais nos mercados globais e sobre os desafios e oportunidades para as empresas diante desse cenário complexo, dentre outros. </p>
 
-                        <p class="article">O Diretor Jurídico da ANSEGTV, Max Tavares Madruga, representará a entidade no evento. "A cada ano, o Congresso Internacional do IPLD se fortalece como um dos principais do país na área. É um orgulho para nós da ANSEGTV apoiarmos o evento. São debates enriquecedores, do mais alto nível, que sempre valem a pena participar e prestigiar", diz Max.</p>
-
                         <p class="article">Mais informações: <a href="https://lp.ipld.com.br/congresso6-ipld-apoiador-ansegtv" target="_blank" rel="noopener noreferrer">https://lp.ipld.com.br/congresso6-ipld-apoiador-ansegtv</a> </p>
 
 

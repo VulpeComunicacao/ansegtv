@@ -110,11 +110,7 @@
 
                         <p class="article">Importante lembrar que, de acordo com a Lei nº 7.102/83 e o Decreto nº 89.056/83, somente empresas de segurança privada devidamente autorizadas pela Polícia Federal podem oferecer esses serviços. </p>
 
-                        <p class="article">A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) apoia iniciativas como essa e reforça seu compromisso com a legalidade e a transparência em todas as atividades relacionadas à segurança privada. </p>
-
-                        <p class="article"><em>“Acreditamos que ações de fiscalização são essenciais para promover a integridade do setor, proteger os direitos dos trabalhadores e assegurar a confiança dos clientes e da sociedade em geral”</em>, diz Max Tavares Madruga, diretor jurídico da associação.</p>
-
-                        
+                        <p class="article">A ANSEGTV (Associação Nacional de Segurança e Transporte de Valores) apoia iniciativas como essa e reforça seu compromisso com a legalidade e a transparência em todas as atividades relacionadas à segurança privada. </p>                        
 
                        
                             

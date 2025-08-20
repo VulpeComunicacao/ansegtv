@@ -115,8 +115,6 @@
                         <p class="article">Já o crime de intimidação violenta consiste em realizar ou promover ato de incêndio, depredação, saque, destruição ou explosão, contra bens públicos ou privados, de acesso ou destinados aos serviços públicos, de forma a impedir ou embaraçar a atuação do poder público voltada para a prevenção ou repressão de crimes, a realização da execução penal ou a administração do sistema penitenciário.</p>
 
                         <p class="article">Segundo o texto, o crime de domínio de cidades será punido com reclusão de 15 a 30 anos, mas poderá ser de 20 a 30 anos e multa, se a violência resultar em lesão corporal grave; e 20 a 40 anos e multa, se houver morte. Ainda há agravantes previstos com acréscimo de 1/3 da pena se a ação, por exemplo, utilizar dispositivos explosivos e/ou captura de reféns. Já a pena para intimidação violenta será a de reclusão de 6 a 12 anos, também com aumento de 1/3 se a ação for decorrente, por exemplo,  de ordem, orientação ou tenha como motivação causa relacionada a preso, provisório ou condenado, ou a líder ou membro de facção criminosa.</p>
-
-                        <p class="article">O presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Gabriel Damasceno, concorda com as propostas aprovadas. “As ações criminosas estão cada vez mais sofisticadas e violentas. Além do prejuízo financeiro, são inúmeras vidas colocadas em risco. É preciso atualizar a legislação como forma de inibir essas condutas”.</p>
                             
                         </div>
                     </div>

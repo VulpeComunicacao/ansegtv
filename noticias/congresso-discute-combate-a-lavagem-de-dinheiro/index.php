@@ -117,8 +117,6 @@
                         <p class="article">Para disfarçar os lucros ilícitos sem comprometer os envolvidos, a lavagem de dinheiro consiste em três processos: primeiro, o distanciamento dos fundos de sua origem, evitando uma associação direta deles com o crime; segundo, o disfarce de suas várias movimentações para dificultar o rastreamento desses recursos; e terceiro, a disponibilização do dinheiro novamente para os criminosos depois de ter sido suficientemente movimentado no ciclo de lavagem e poder ser considerado "limpo".</p>
 
                         <p class="article">Já a luta contra o financiamento do terrorismo está intimamente ligada ao combate à lavagem de dinheiro. Grandes atentados levaram os países a intensificar a cooperação mútua na área.</p>
-
-                        <p class="article">O presidente da ANSEGTV, Gabriel Damasceno, considera o Congresso do IPLD de vital relevância. "São pautas extremamente relevantes para o nosso setor. A lista de debatedores dispensa apresentações. Sem dúvidas, será uma grande oportunidade de aprendizado e crescimento profissional".</p>
                         
                         <p class="article">As inscrições para o evento podem ser feitas pelo site: <a href=" https://congresso5.ipld.com.br/#Inscreva" target="_blank"> https://congresso5.ipld.com.br/#Inscreva</a></p>
                             
