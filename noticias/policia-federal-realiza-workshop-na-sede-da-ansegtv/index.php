@@ -98,8 +98,6 @@
                     <div class="row">
                         <div class="col-12 col-md-10 offset-md-1 content-news">
                             <p class="article">A Polícia Federal realizou no dia 27 de julho de 2019 o workshop Prevenção à Lavagem de Dinheiro na sede da ANSEGTV em Brasília, com a finalidade de apresentar as diretrizes do órgão sobre a aplicação da Instrução Normativa N° 132, que deve ser seguida pelas empresas de transporte de valores. No evento, estavam presentes lideranças das 12 empresas associadas. A exposição foi conduzida pela Dra. Denise Vargas Tenório (Chefe da DICOF/CGCSP/DIREX/PF) e pelo Dr. Fábio Motta da Fonseca  (Chefe da UPLD/DICOF/CGCSP).  </p>
-                            
-                            <img src="../../img/uploads/2019/09/workshop-pf-ansegtv.png" width="490" height="auto" alt="Workshop da PF na Sede da ANSEGTV" class="pull-right m-2 img-fluid">
                                 
                             <p class="article">As associadas tiveram a oportunidade de esclarecer pontos importantes do novo regramento, especialmente sobre o registro das operações, as condições para as comunicações de atividades suspeitas e como ocorrerão os procedimentos de fiscalização nas empresas. A Instrução Normativa N° 132 foi emitida pela Coordenação-Geral de Controle de Serviços e Produtos, da Polícia Federal, em 14 de novembro de 2018.</p>  
                                 
