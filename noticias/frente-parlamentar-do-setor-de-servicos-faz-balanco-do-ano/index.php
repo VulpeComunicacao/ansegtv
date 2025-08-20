@@ -107,8 +107,6 @@
                             <img src="../../img/uploads/2021/12/encontro-encerramento.jpg" width="450" height="auto" alt="Reunião de Encerramento - ANSEGTV" class=" img-fluid">	
                             <figcaption></figcaption>
                         </figure>
-
-                        <p class="article">Damasceno também ressaltou a importância do lançamento do Índice de Serviços (ISe). “Sem dúvida que o índice já se constitui hoje como um relevante indicador da nossa economia”, complementou.</p>
     
                         <p class="article">O presidente da FPS, o deputado Laércio Oliveira, lembrou que a pandemia continua trazendo problemas e limitando as ações, mas não impediu avanços significativos na Frente, como a criação dos Grupos de Trabalho (GT Tributário, GT Trabalhista e Previdenciário e GT Proteção de Dados e Tecnologia) e do ISe.</p>
 
