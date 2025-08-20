@@ -126,6 +126,10 @@
                         exit;
                     }
                 }
+                // Fallback: qualquer slug inexistente redireciona para a home
+                header("HTTP/1.1 301 Moved Permanently");
+                header("Location: /");
+                exit;
             }
         } else {
             $posts_per_page = 24; // Número de posts por página na carga inicial e a cada 'load more'
