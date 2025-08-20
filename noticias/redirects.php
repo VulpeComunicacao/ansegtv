@@ -90,10 +90,15 @@ class NewsRedirects {
      */
     public function validateRedirect($request_uri) {
         $new_url = $this->getNewUrl($request_uri);
-        
+
+        // Se o destino for a home ("/"), considerar sempre válido
+        if ($new_url === '/') {
+            return true;
+        }
+
         if ($new_url) {
             $slug = $this->redirects_map[trim(parse_url($request_uri, PHP_URL_PATH), '/')];
-            
+
             // Verificar se o slug existe na API do WordPress
             $api_url = 'https://ansegtv.com.br/website/wp-json/wp/v2/posts?slug=' . $slug . '&_embed';
             $context = stream_context_create([
@@ -102,15 +107,15 @@ class NewsRedirects {
                     'timeout' => 10
                 ]
             ]);
-            
+
             $response = @file_get_contents($api_url, false, $context);
-            
+
             if ($response !== false) {
                 $posts = json_decode($response, true);
                 return !empty($posts); // Retorna true se o post existe
             }
         }
-        
+
         return false;
     }
     

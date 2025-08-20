@@ -113,6 +113,20 @@
                 $seo_post_date_iso = substr($seo_post_date, 0, 10); // Formato YYYY-MM-DD
                 $seo_permalink = 'https://ansegtv.com.br/noticias/' . htmlspecialchars($post_slug, ENT_QUOTES, 'UTF-8') . '/';
             }
+            
+            // Se é um slug de notícia, mas não há post encontrado, verificar regra de redirect (ex.: para home)
+            if (!$post) {
+                require_once __DIR__ . '/redirects.php';
+                $redirects = getNewsRedirects();
+                if ($redirects->needsRedirect($request_uri)) {
+                    $new_url = $redirects->getNewUrl($request_uri);
+                    if (!empty($new_url)) {
+                        header("HTTP/1.1 301 Moved Permanently");
+                        header("Location: " . $new_url);
+                        exit;
+                    }
+                }
+            }
         } else {
             $posts_per_page = 24; // Número de posts por página na carga inicial e a cada 'load more'
             $current_page = 1; // Sempre começa na página 1 para o carregamento inicial
