@@ -765,7 +765,7 @@ ul.timeline > li:before {
         -ms-transition: all 0.3s ease-in-out;
         -o-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out;
-        border: 1px solid #ddd;
+        border: none;
         position: absolute;
         opacity: 0;
         border-radius: 5px;
@@ -778,16 +778,16 @@ ul.timeline > li:before {
         z-index: 999;
         display: table;
         text-align: left;
-        background-color: white;
+        background-color: transparent;
       }
     }
 
-      @media (max-width: 414px) {
+      @media (max-width: 430px) {
         #map {
-            transform: scale(0.8);
-            margin-left: -50px;
-            margin-top: -55px;
-            margin-bottom: 160px;
+            transform: scale(0.85);
+            margin-left: -25px;
+            margin-top: -59px;
+            margin-bottom: 190px;
         }
   
         .empresas .estado {
@@ -796,7 +796,7 @@ ul.timeline > li:before {
           -ms-transition: all 0.3s ease-in-out;
           -o-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out;
-          border: 1px solid #ddd;
+          border: none;
           position: absolute;
           opacity: 0;
           border-radius: 5px;
@@ -809,15 +809,15 @@ ul.timeline > li:before {
           z-index: 999;
           display: table;
           text-align: left;
-          background-color: white;
+          background-color: transparent;
         }
       }
       @media (max-width: 411px) {
       #map {
-          transform: scale(0.75);
-          margin-left: -66px;
-          margin-top: -55px;
-          margin-bottom: 160px;
+          transform: scale(0.8);
+          margin-left: -35px;
+          margin-top: -59px;
+          margin-bottom: 190px;
       }
       
       .empresas .estado {
@@ -826,7 +826,7 @@ ul.timeline > li:before {
         -ms-transition: all 0.3s ease-in-out;
         -o-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out;
-        border: 1px solid #ddd;
+        border: none;
         position: absolute;
         opacity: 0;
         border-radius: 5px;
@@ -839,16 +839,16 @@ ul.timeline > li:before {
         z-index: 999;
         display: table;
         text-align: left;
-        background-color: white;
+        background-color: transparent;
       }
     }
 
-      @media (max-width: 320px) {
+      @media (max-width: 390px) {
         #map {
-          transform: scale(0.7);
+          transform: scale(0.75);
           margin-left: -60px;
           margin-top: -59px;
-          margin-bottom: 140px;
+          margin-bottom: 180px;
       }
 
       .empresas .estado {
@@ -857,7 +857,7 @@ ul.timeline > li:before {
         -ms-transition: all 0.3s ease-in-out;
         -o-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out;
-        border: 1px solid #ddd;
+        border: none;
         position: absolute;
         opacity: 0;
         border-radius: 5px;
@@ -870,7 +870,7 @@ ul.timeline > li:before {
         z-index: 999;
         display: table;
         text-align: left;
-        background-color: white;
+        background-color: transparent;
       }
     }
 

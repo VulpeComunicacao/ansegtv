@@ -24,7 +24,7 @@
 			    $('.empresas .estado').css({'opacity': 0 , 'visibitity':'hidden', 'z-index':'-1'});
 
 			    $(box_estado).removeClass('some');
-			    $(box_estado).css({'opacity': 1 , 'visibitity':'visible', 'z-index':'9999', 'border':'solid 1px #ccc'});
+			    $(box_estado).css({'opacity': 1 , 'visibitity':'visible', 'z-index':'9999', 'border':'solid 1px #ccc', 'background-color':'#ffffff'});
 		    }
 	    });
 
@@ -32,10 +32,10 @@
 	    	e.preventDefault();
 	    });
 
-	    //Change select responsive
-		//$('#seletory').change(function () {
-		//	$('.empresas .estado').css({'opacity': 0 , 'visibitity':'hidden'});
-		//		$('#box_'+$(this).val()).css({'opacity': 1 , 'visibitity':'visible'});
-		//	});
+	    // Altera o select de forma responsiva
+	    $('#seletory').change(function () {
+	    	$('.empresas .estado').css({'opacity': 0 , 'visibility':'hidden'});
+	    	$('#box_' + $(this).val()).css({'opacity': 1 , 'visibility':'visible'});
+	    });
 	});
 })(jQuery);
