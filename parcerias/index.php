@@ -137,7 +137,7 @@
     <!-- Footer Section -->
     <?php
     // Incluir sistema centralizado de informações de contato
-    require_once 'includes/contact-info.php';
+    require_once '../includes/contact-info.php';
     
     // Renderizar footer de contato
     render_contact_footer();
