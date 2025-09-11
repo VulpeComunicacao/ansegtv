@@ -167,7 +167,7 @@
                     <div class="header-wrap">
                         <img src="../img/icon_map.png" alt="Atuação da ANSEGTV - Mapa do Brasil" class="icon" width="92" height="92" loading="lazy">
                         <h2 class="title">Atuação da ANSEGTV</h2><br>
-                        <h3 class="subtitle">A ANSEGTV possui atuação nacional em 22 estados + DF. Clique no mapa para conhecer as empresas.</h3>
+                        <h3 class="subtitle">A ANSEGTV possui atuação nacional em 21 estados + DF. Clique no mapa para conhecer as empresas.</h3>
                     </div>
                 </div>
             </div>
