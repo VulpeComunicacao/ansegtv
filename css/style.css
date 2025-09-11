@@ -595,19 +595,19 @@ ul.timeline > li:before {
       }
       
       #map .model-orange .state:hover .label_state {
-        display: block;
+        display: none;
         fill: #fff !important;
       }
 
       /* Ajuste ocultar estado */
-        text#label_icon_state_mt, text#label_icon_state_sc, text#label_icon_state_rr, text#label_icon_state_mg {
+        text#label_icon_state_mt, text#label_icon_state_sc, text#label_icon_state_rr, text#label_icon_state_mg, text#label_icon_state_ac, text#label_icon_state_am {
           fill: #666;
           font-size: 0.8rem;
       }
-        path#shape_mt, path#shape_sc, path#shape_rr, path#shape_mg {
+        path#shape_mt, path#shape_sc, path#shape_rr, path#shape_mg, path#shape_ac, path#shape_am {
           fill: #dddddd;
       }
-        text#label_state_mt, text#label_state_sc, text#label_state_rr, text#label_state_mg {
+        text#label_state_mt, text#label_state_sc, text#label_state_rr, text#label_state_mg, text#label_state_ac, text#label_state_am {
           display: none;
       }
     

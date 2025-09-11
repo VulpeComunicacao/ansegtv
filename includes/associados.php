@@ -26,17 +26,17 @@
                     <img src="./img/logo-cefor.png" alt="" class="img-fluid">
                 </a>
             </li> -->
-            <li class="col-4 col-md-2">
+            <li class="col-4 col-md-3">
                 <a href="https://comandog8.com.br/" target="_blank" title="">
                     <img src="./img/logo_comandog8.jpg" alt="" class="img-fluid">
                 </a>
             </li>
-            <li class="col-4 col-md-2">
+            <li class="col-4 col-md-3">
                 <a href="https://www.corpvs.com.br/" target="_blank" title="">
                     <img src="./img/logo-corpvs.png" alt="" class="img-fluid">
                 </a>
             </li>
-            <li class="col-4 col-md-2">
+            <li class="col-4 col-md-3">
                 <a href="https://federalseguranca.com.br/" target="_blank" title="">
                     <img src="./img/logo-federal-seguranca.png" alt="" class="img-fluid">
                 </a>
@@ -51,11 +51,11 @@
                     <img src="./img/logo-forte-araruama-novo.png" alt="" class="img-fluid" style="width: 70%;">
                 </a>
             </li >-->
-            <li class="col-4 col-md-2">
+            <!-- <li class="col-4 col-md-2">
                 <a href="http://www.globalservice-am.com.br/" target="_blank" title="">
                     <img src="./img/logo-global-service.png" alt="" class="img-fluid">
                 </a>
-            </li>
+            </li> -->
             <!-- <li class="col-4 col-md-2">
                 <a href="http://www.iblvalores.com.br/" target="_blank" title="">
                     <img src="./img/logo-ibl-valores.png" alt="" class="img-fluid">
@@ -66,17 +66,17 @@
                     <img src="./img/logo-kaikos.png" alt="" class="img-fluid">
                 </a>
             </li> -->
-            <li class="col-4 col-md-2">
+            <li class="col-4 col-md-3">
                 <a href="http://www.renaforte.com.br/" target="_blank" title="">
                     <img src="./img/logo-renaforte.png" alt="" class="img-fluid">
                 </a>
                 </li>
-            <li class="col-4 col-md-2">
+            <li class="col-4 col-md-3">
                 <a href="https://sagavigilancia.com.br/" target="_blank" title="">
                     <img src="./img/logo-saga.png" alt="" class="img-fluid">
                 </a>
                 </li>
-            <li class="col-4 col-md-2">
+            <li class="col-4 col-md-3">
                 <a href="http://www.tbforte.com.br" target="_blank" title="">
                     <img src="./img/logo-tb-forte.png" alt="" class="img-fluid">
                 </a>
