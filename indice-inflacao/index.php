@@ -209,9 +209,12 @@
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_AM.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - AM</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - BA</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_CE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - CE</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_GO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - GO</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_MS.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MS</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_MT.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MT</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_PA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PA</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_PB.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PB</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_PE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PE</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_PI.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PI</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_PR.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PR</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_RN.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - RN</a></li>
