@@ -207,9 +207,11 @@
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_AC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - AC</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_AL.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - AL</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_AM.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - AM</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_AP.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - AP</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - BA</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_CE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - CE</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_GO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - GO</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_MA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MA</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_MS.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MS</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_MT.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MT</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_PA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - PA</a></li>
