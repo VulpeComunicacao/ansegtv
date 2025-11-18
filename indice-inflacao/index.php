@@ -210,6 +210,7 @@
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_AP.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - AP</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_BA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - BA</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_CE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - CE</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_DF.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - DF</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_GO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - GO</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_MA.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MA</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_MS.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - MS</a></li>
@@ -225,6 +226,7 @@
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_RS.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - RS</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_SC.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - SC</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_SE.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - SE</a></li>
+                          <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_SP.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - SP</a></li>
                           <li><a href="../arquivos/2025/indice-de-inflacao-setorial_2025_TO.pdf" target="_blank" rel="noopener noreferrer">Índice de Inflação Setorial - 2025 - TO</a></li>
                         </ul>
                       </div>
