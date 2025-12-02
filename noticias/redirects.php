@@ -12,6 +12,7 @@ class NewsRedirects {
         // Formato: 'url_antiga' => 'slug_novo'
         $this->redirects_map = [
             // Notícias removidas - redirecionamento para home
+            '/noticias/esquadra-deixa-mercado-de-transporte-de-valores/' => 'home',
             'noticias/secretario-nacional-de-seguranca-publica-recebe-diretoria-da-ansegtv' => 'home',
             'noticias/ansegtv-se-reune-com-novo-coordenador-geral-na-pf' => 'home',
             'noticias/diretoria-da-ansegtv-e-recebida-pelo-novo-coordenador-da-cgcsp' => 'home',
