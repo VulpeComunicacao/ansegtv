@@ -1,3 +1,8 @@
+<?php
+// Redirecionar para a home
+header("Location: /");
+exit;
+?>
 <!doctype html>
 <html lang="pt-BR">
         <!-- Head Section -->
