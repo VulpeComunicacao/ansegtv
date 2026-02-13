@@ -15,8 +15,8 @@
             <meta meta name="description" property="og:description" content="O novo presidente da ANSEGTV (Associação Nacional de Segurança e Transporte de Valores), Joiandro Carvalho, tomou posse no dia 26 de novembro de 2025">
             <meta property="og:site_name" content="ANSEGTV">
             <meta property="og:url" content="https://ansegtv.com.br/noticias/novo-presidente-da-ansegtv-toma-posse-em-brasilia/">
-            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2026/02/joiandro-carvalho-share.jpg">
-            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2026/02/joiandro-carvalho-share.jpg">
+            <meta property="og:image" content="https://ansegtv.com.br/img/uploads/2026/02/joiandro-carvalho-share.jpeg">
+            <meta name="image" property="og:image" content="https://ansegtv.com.br/img/uploads/2026/02/joiandro-carvalho-share.jpeg">
             <meta property="article:published_time" content="2026-02-13"/>
 
             <!-- Bootstrap CSS -->
