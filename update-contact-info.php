@@ -59,7 +59,6 @@ $files_to_update = [
     'ansegtv/index.php', 
     'mapa/index.php',
     'indice-inflacao/index.php',
-    'parcerias/index.php',
     'politica-de-privacidade/index.php',
     'contato/index.php'
 ];

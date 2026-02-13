@@ -74,9 +74,6 @@
             <a class="nav-link" href="../indice-inflacao/">Índice de Inflação</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="../parcerias/">Parcerias</a>
-        </li>
-        <li class="nav-item">
             <a class="nav-link" href="../noticias/">Notícias</a>
         </li>
         <li class="nav-item">
