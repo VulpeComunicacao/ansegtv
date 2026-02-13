@@ -171,8 +171,18 @@ if (!is_array($posts)) {
                                 $image_url = $matches[1];
                             }
                         }
-                        // Padroniza o caminho da imagem para uploads/2025/06/
-                        $image_url = preg_replace('/uploads\/\\d{4}\\/\\d{2}\\//', 'uploads/2025/06/', $image_url);
+                       // Ajusta dinamicamente o caminho da imagem conforme a data de publicação
+                        if (isset($post['date'])) {
+                            $timestamp = strtotime($post['date']);
+                            $year  = date('Y', $timestamp);
+                            $month = date('m', $timestamp);
+
+                            $image_url = preg_replace(
+                                '/uploads\/\d{4}\/\d{2}\//',
+                                "uploads/{$year}/{$month}/",
+                                $image_url
+                            );
+                        }
                     ?>
                         <div class="card">
                             <a href="<?php echo $link; ?>">
