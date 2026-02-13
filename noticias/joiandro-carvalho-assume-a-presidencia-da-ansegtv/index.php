@@ -102,7 +102,7 @@
                         </p>
 
                         <figure class="pull-right m-2 text-left">
-                                <img src="../../img/uploads/2026/02/joiandro-ansegtv-1.png" width="450" height="auto" alt="Joiandro Carvalho, novo presidente da ANSEGTV" class=" img-fluid">	
+                                <img src="../../img/uploads/2026/02/joiandro-carvalho.png" width="450" height="auto" alt="Joiandro Carvalho, novo presidente da ANSEGTV" class=" img-fluid">	
                                 <figcaption</figcaption>
                         </figure>
 
