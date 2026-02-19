@@ -495,7 +495,7 @@
                                 <a href="https://blueangels.com.br/">https://blueangels.com.br/</a>
                                 <br>
                                 <strong>TBForte</strong><br>
-                                <a href="https://www.tbforte.com.br">https://www.tbforte.com.br</a>
+                                <a href="https://www.tecban.com.br/">https://www.tecban.com.br/</a>
                         </div>
                         <div id="box_rj" data-info="rj" class="estado">
                             <h3>Rio de Janeiro</h3>
@@ -507,19 +507,19 @@
                             <a href="https://www.fenixx.com.br/" target="_blank">https://www.fenixx.com.br/</a>
                             <br>
                             <strong>TBForte</strong><br>
-                            <a href="https://www.tbforte.com.br/" target="_blank">https://www.tbforte.com.br/</a>
+                            <a href="https://www.tecban.com.br//" target="_blank">https://www.tecban.com.br//</a>
                         </div>
                         <div id="box_al" data-info="al" class="estado">
                             <h3>Alagoas</h3>
                             
                             <strong>TBForte</strong><br>
-                            <a href="https://www.tbforte.com.br">https://www.tbforte.com.br</a>
+                            <a href="https://www.tecban.com.br/">https://www.tecban.com.br/</a>
                         </div>
                         <div id="box_ap" data-info="ap" class="estado">
                             <h3>Amapá</h3>
                             
                             <strong>TBForte</strong><br>
-                            <a href="https://www.tbforte.com.br/">https://www.tbforte.com.br</a>
+                            <a href="https://www.tecban.com.br//">https://www.tecban.com.br/</a>
                         </div>
                         <div id="box_am" data-info="am" class="estado">
                             <h3>Amazonas</h3>
@@ -537,7 +537,7 @@
                             <a href="http://www.renaforte.com.br/">http://www.renaforte.com.br/</a>
                             <br>
                             <strong>TBForte</strong><br>
-                            <a href="https://www.tbforte.com.br/">https://www.tbforte.com.br</a>
+                            <a href="https://www.tecban.com.br//">https://www.tecban.com.br/</a>
                         </div>
                         <div id="box_ce" data-info="ce" class="estado">
                             <h3>Ceará</h3>
@@ -555,7 +555,7 @@
                             <h3>Espírito Santo</h3>
                             
                             <strong>TBForte</strong><br>
-                            <a href="https://www.tbforte.com.br/">https://www.tbforte.com.br</a>
+                            <a href="https://www.tecban.com.br//">https://www.tecban.com.br/</a>
                         </div>
                         <div id="box_go" data-info="go" class="estado">
                             <h3>Goiás</h3>
@@ -574,7 +574,7 @@
                             <h3>Mato Grosso do Sul</h3>
                             
                             <strong>TBForte</strong><br>
-                            <a href="https://www.tbforte.com.br/">https://www.tbforte.com.br</a>
+                            <a href="https://www.tecban.com.br//">https://www.tecban.com.br/</a>
                         </div>
                         <div id="box_pa" data-info="pa" class="estado">
                             <h3>Pará</h3>
@@ -592,13 +592,13 @@
                             <a href="http://www.nsfgrupo.com.br/">http://www.nsfgrupo.com.br/</a>
                             <br>
                             <strong>TBForte</strong><br>
-                            <a href="https://www.tbforte.com.br/">https://www.tbforte.com.br/</a>
+                            <a href="https://www.tecban.com.br//">https://www.tecban.com.br//</a>
                         </div>
                         <div id="box_pr" data-info="pr" class="estado">
                             <h3>Paraná</h3>
                             
                             <strong>TBForte</strong><br>
-                            <a href="https://www.tbforte.com.br/">https://www.tbforte.com.br</a>
+                            <a href="https://www.tecban.com.br//">https://www.tecban.com.br/</a>
                         </div>
                         <div id="box_pe" data-info="pe" class="estado">
                             <h3>Pernambuco</h3>
@@ -607,13 +607,13 @@
                             <a href="https://www.corpvs.com.br/">https://www.corpvs.com.br/</a>
                             <br>
                             <strong>TBForte</strong><br>
-                            <a href="https://www.tbforte.com.br">https://www.tbforte.com.br</a>
+                            <a href="https://www.tecban.com.br/">https://www.tecban.com.br/</a>
                         </div>
                         <div id="box_pi" data-info="pi" class="estado">
                             <h3>Piauí</h3>
                             
                             <strong>TBForte</strong><br>
-                            <a href="https://www.tbforte.com.br/">https://www.tbforte.com.br</a>
+                            <a href="https://www.tecban.com.br//">https://www.tecban.com.br/</a>
                         </div>
                         <div id="box_rn" data-info="rn" class="estado">
                             <h3>Rio Grande do Norte</h3>
@@ -622,19 +622,19 @@
                             <a href="https://www.brasifort.com.br/">https://www.brasifort.com.br/</a>
                             <br>
                             <strong>TBForte</strong><br>
-                            <a href="https://www.tbforte.com.br/">https://www.tbforte.com.br/</a>
+                            <a href="https://www.tecban.com.br//">https://www.tecban.com.br//</a>
                         </div>
                         <div id="box_rs" data-info="rs" class="estado">
                             <h3>Rio Grande do Sul</h3>
                            
                             <strong>TBForte</strong><br>
-                            <a href="https://www.tbforte.com.br/">https://www.tbforte.com.br</a>
+                            <a href="https://www.tecban.com.br//">https://www.tecban.com.br/</a>
                         </div>
                         <div id="box_ro" data-info="ro" class="estado">
                             <h3>Rondônia</h3>
                             
                             <strong>TBForte</strong><br>
-                            <a href="https://www.tbforte.com.br/">https://www.tbforte.com.br</a>
+                            <a href="https://www.tecban.com.br//">https://www.tecban.com.br/</a>
                         </div>
                         <div id="box_rr" data-info="rr" class="estado">
                             <h3>Roraima</h3>
@@ -655,7 +655,7 @@
                             <a href="http://www.nsfgrupo.com.br/">http://www.nsfgrupo.com.br/</a>
                             <br>
                             <strong>TBForte</strong><br>
-                            <a href="https://www.tbforte.com.br">https://www.tbforte.com.br</a>
+                            <a href="https://www.tecban.com.br/">https://www.tecban.com.br/</a>
                         </div>
                         <div id="box_to" data-info="to" class="estado">
                             <h3>Tocantins</h3>
