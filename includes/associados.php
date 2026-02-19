@@ -77,7 +77,7 @@
                 </a>
                 </li>
             <li class="col-4 col-md-3">
-                <a href="http://www.tbforte.com.br" target="_blank" title="">
+                <a href="https://www.tecban.com.br/" target="_blank" title="">
                     <img src="./img/logo-tb-forte.png" alt="" class="img-fluid">
                 </a>
                 </li>
